@@ -1,4 +1,5 @@
 These datasets can be used in case that UniProt ID mapping online tool is unavailable. 
-The file 'idmapping_acc.csv' contains all the human reviewed proteins with their UniProt accession (e.g. P01308)
-The file 'idmapping_id.csv' contains all the human reviewed proteins with their UniProt id (e.g. INS_HUMAN)
-The code that implements manually the ID Mapper is provided
+Just a note: These datasets can only be used in cases of conversion from a protein to the equivalent gene name, and vice versa.
+The file 'idmapping_acc.csv' contains all the human reviewed proteins with their UniProt accession (e.g. P01308), accompanied with the equivalent primary gene name.
+The file 'idmapping_id.csv' contains all the human reviewed proteins with their UniProt id (e.g. INS_HUMAN), accompanied with the equivalent primary gene name
+The code is also provided.
