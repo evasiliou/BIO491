@@ -1,6 +1,6 @@
 import pandas as pd
 import csv
-from UniProtMapper 
+from UniProtMapper import ProtMapper
 
 def uniprot_id_mapping (query_list, uniprot_acc): #in case that the uniprot id mapper does not work
   '''
