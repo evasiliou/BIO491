@@ -1,0 +1,1466 @@
+,Gene,Alphafold IDR Content,Length,Localization,MultiUniReD Protein Counts,HIPPIE Protein Counts
+A1A4Y4,IRGM,0.0,181,"['Golgi apparatus membrane', 'Cell membrane', 'Cytoplasmic vesicle, phagosome membrane', 'Cytoplasmic vesicle, autophagosome membrane', 'Lysosome membrane', 'Late endosome membrane', 'Mitochondrion membrane', 'Cell projection, phagocytic cup']",259,17
+A4D1S5,RAB19,17.1,217,['Cell membrane; Lipid-anchor; Cytoplasmic side'],0,12
+A5D8V6,VPS37C,61.7,355,['Late endosome membrane; Peripheral membrane protein'],24,125
+A6NC51,TMEM150B,10.3,233,"['Cell membrane; Multi-pass membrane protein', 'Endosome membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle, autophagosome membrane; Multi-pass membrane protein']",44,0
+A6NCE7,MAP1LC3B2,0.0,125,"['Cytoplasmic vesicle, autophagosome membrane; Lipid-anchor', 'Endomembrane system; Lipid-anchor', 'Cytoplasm, cytoskeleton']",0,16
+A6NDU8,RIMOC1,6.1,294,"['Cytoplasm, cytosol']",0,0
+A8MW95,BECN2,24.1,431,['Cytoplasm'],139,6
+O00189,AP4M1,6.8,453,"['Golgi apparatus, trans-Golgi network membrane; Peripheral membrane protein', 'Early endosome']",167,46
+O00204,SULT2B1,19.5,365,"['Cytoplasm, cytosol', 'Microsome', 'Nucleus']",28,49
+O00214,LGALS8,2.8,317,"['Cytoplasmic vesicle', 'Cytoplasm, cytosol']",315,160
+O00273,DFFA,29.3,331,['Cytoplasm'],20,57
+O00488,ZNF593,38.8,134,"['Nucleus, nucleolus', 'Cytoplasm']",1,50
+O00750,PIK3C2B,19.3,1634,"['Microsome', 'Cell membrane', 'Cytoplasm, cytosol', 'Nucleus', 'Endoplasmic reticulum']",133,38
+O14681,EI24,8.8,340,"['Nucleus membrane; Multi-pass membrane protein', 'Cytoplasm', 'Endoplasmic reticulum membrane; Multi-pass membrane protein']",54,64
+O14832,PHYH,12.7,338,['Peroxisome'],1,23
+O14925,TIMM23,43.5,209,['Mitochondrion inner membrane; Multi-pass membrane protein'],114,61
+O14964,HGS,53.7,777,"['Cytoplasm', 'Early endosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Endosome, multivesicular body membrane; Peripheral membrane protein']",225,448
+O15040,TECPR2,32.7,1411,None,14,13
+O15118,NPC1,4.2,1278,"['Late endosome membrane; Multi-pass membrane protein', 'Lysosome membrane; Multi-pass membrane protein']",291,323
+O15294,OGT,4.0,1046,"['Nucleus', 'Cytoplasm']",183,192
+O15321,TM9SF1,5.1,606,"['Lysosome membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle, autophagosome membrane; Multi- pass membrane protein']",123,37
+O15350,TP73,56.3,636,"['Nucleus', 'Cytoplasm']",114,147
+O43236,SEPTIN4,40.0,478,"['Cytoplasm', 'Cell projection, cilium, flagellum', 'Cytoplasmic vesicle, secretory vesicle', 'Cell projection, axon', 'Cell projection, dendrite', 'Perikaryon', 'Synapse']",32,32
+O43299,AP5Z1,7.4,807,"['Cytoplasm', 'Nucleus']",48,25
+O43353,RIPK2,27.0,540,"['Cytoplasm', 'Cell membrane; Peripheral membrane protein', 'Endoplasmic reticulum']",320,94
+O43464,HTRA2,31.4,458,"['Mitochondrion intermembrane space', 'Mitochondrion membrane; Single-pass membrane protein']",91,220
+O43633,CHMP2A,53.2,222,"['Late endosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Nucleus envelope']",81,67
+O60260,PRKN,13.8,465,"['Cytoplasm, cytosol', 'Nucleus', 'Endoplasmic reticulum', 'Mitochondrion', 'Mitochondrion outer membrane', 'Cell projection, neuron projection', 'Postsynaptic density', 'Presynapse']",835,0
+O60356,NUPR1,97.6,82,"['Nucleus', 'Cytoplasm', 'Cytoplasm, perinuclear region']",83,656
+O60478,GPR137B,27.6,399,['Lysosome membrane; Multi-pass membrane protein'],119,9
+O60784,TOM1,46.3,492,"['Cytoplasm', 'Endosome membrane; Peripheral membrane protein', 'Early endosome membrane; Peripheral membrane protein']",93,64
+O60927,PPP1R11,100.0,126,None,28,16
+O75143,ATG13,62.3,517,"['Cytoplasm, cytosol', 'Preautophagosomal structure']",172,38
+O75323,NIPSNAP2,21.0,286,"['Cytoplasm', 'Mitochondrion outer membrane']",206,146
+O75324,SNN,93.2,88,['Mitochondrion outer membrane; Single-pass membrane protein'],6,6
+O75351,VPS4B,8.1,444,['Late endosome membrane; Peripheral membrane protein'],217,64
+O75385,ULK1,54.2,1050,"['Cytoplasm, cytosol', 'Preautophagosomal structure']",545,105
+O75469,NR1I2,17.5,434,['Nucleus'],88,42
+O75629,CREG1,20.0,220,['Secreted'],88,22
+O75886,STAM2,52.8,525,"['Cytoplasm', 'Early endosome membrane; Peripheral membrane protein; Cytoplasmic side']",103,96
+O76070,SNCG,65.4,127,"['Cytoplasm, perinuclear region', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, spindle']",80,35
+O94817,ATG12,37.9,140,"['Cytoplasm', 'Preautophagosomal structure membrane; Peripheral membrane protein']",268,103
+O94874,UFL1,17.4,794,"['Endoplasmic reticulum membrane', 'Cytoplasm, cytosol', 'Nucleus', 'Chromosome']",99,963
+O94967,WDR47,30.6,919,"['Cytoplasm, cytoskeleton']",0,31
+O95140,MFN2,12.0,757,['Mitochondrion outer membrane; Multi-pass membrane protein'],454,125
+O95166,GABARAP,0.0,117,"['Cytoplasmic vesicle, autophagosome membrane', 'Endomembrane system', 'Cytoplasm, cytoskeleton', 'Golgi apparatus membrane', 'Cytoplasmic vesicle']",226,484
+O95210,STBD1,72.3,358,"['Preautophagosomal structure membrane; Single-pass type III membrane protein', 'Endoplasmic reticulum membrane; Single-pass type III membrane protein', 'Cell membrane, sarcolemma, T-tubule']",37,105
+O95278,EPM2A,0.0,331,['Cytoplasm'],22,48
+O95295,SNAPIN,77.9,136,"['Membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasm, cytosol', 'Cytoplasm, perinuclear region', 'Golgi apparatus membrane', 'Lysosome membrane', 'Cytoplasmic vesicle, secretory vesicle, synaptic vesicle membrane']",144,151
+O95352,ATG7,6.0,703,"['Cytoplasm', 'Preautophagosomal structure']",498,157
+O95405,ZFYVE9,55.4,1425,"['Cytoplasm', 'Early endosome membrane']",14,81
+O95721,SNAP29,38.4,258,"['Cytoplasm', 'Golgi apparatus membrane; Peripheral membrane protein', 'Cytoplasmic vesicle, autophagosome membrane; Peripheral membrane protein', 'Cell projection, cilium membrane; Peripheral membrane protein']",68,205
+O95997,PTTG1,100.0,202,"['Cytoplasm', 'Nucleus']",113,40
+P00441,SOD1,0.0,154,"['Cytoplasm', 'Nucleus']",122,384
+P00519,ABL1,49.9,1130,"['Cytoplasm, cytoskeleton', 'Nucleus', 'Mitochondrion']",754,331
+P00533,EGFR,22.2,1210,"['Cell membrane; Single-pass type I membrane protein', 'Endoplasmic reticulum membrane; Single-pass type I membrane protein', 'Golgi apparatus membrane; Single-pass type I membrane protein', 'Nucleus membrane; Single-pass type I membrane protein', 'Endosome', 'Endosome membrane', 'Nucleus']",260,1369
+P00736,C1R,3.5,705,['Secreted'],23,14
+P01100,FOS,93.4,380,"['Nucleus', 'Endoplasmic reticulum', 'Cytoplasm, cytosol']",156,235
+P01106,MYC,84.3,454,"['Nucleus, nucleoplasm', 'Nucleus, nucleolus', 'Nucleus', 'Cytoplasm']",223,2101
+P01112,HRAS,9.5,189,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Golgi apparatus', 'Golgi apparatus membrane; Lipid-anchor']",156,591
+P01160,NPPA,100.0,151,"['[Long-acting natriuretic peptide]: Secreted', '[Vessel dilator]: Secreted', '[Kaliuretic peptide]: Secreted', '[Urodilatin]: Secreted', '[Atrial natriuretic peptide]: Secreted', 'Perikaryon', 'Cell projection', '[Atriopeptin-3]: Secreted']",52,53
+P01730,CD4,21.4,458,['Cell membrane; Single-pass type I membrane protein'],53,93
+P02511,CRYAB,34.9,175,"['Cytoplasm', 'Nucleus', 'Secreted', 'Lysosome']",132,142
+P02545,LMNA,40.2,664,"['Nucleus lamina', 'Nucleus envelope', 'Nucleus, nucleoplasm', 'Nucleus matrix']",109,967
+P02686,MBP,100.0,304,['Myelin membrane; Peripheral membrane protein; Cytoplasmic side'],34,52
+P02788,LTF,2.5,710,None,63,115
+P03372,ESR1,47.1,595,"['Nucleus', 'Golgi apparatus', 'Cell membrane']",207,2332
+P04049,RAF1,36.9,648,"['Cytoplasm', 'Cell membrane', 'Mitochondrion', 'Nucleus']",135,296
+P04062,GBA1,7.6,536,['Lysosome membrane; Peripheral membrane protein; Lumenal side'],61,0
+P04150,NR3C1,59.5,777,None,129,899
+P04156,PRNP,54.5,253,"['Cell membrane; Lipid-anchor, GPI-anchor', 'Golgi apparatus']",157,0
+P04234,CD3D,51.5,171,['Cell membrane; Single-pass type I membrane protein'],22,77
+P04637,TP53,48.3,393,"['Cytoplasm', 'Nucleus', 'Nucleus, PML body', 'Endoplasmic reticulum', 'Mitochondrion matrix', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",1299,1772
+P04818,TYMS,8.3,313,"['Nucleus', 'Cytoplasm', 'Mitochondrion', 'Mitochondrion matrix', 'Mitochondrion inner membrane']",91,72
+P05109,S100A8,3.2,93,"['Secreted', 'Cytoplasm', 'Cytoplasm, cytoskeleton', 'Cell membrane; Peripheral membrane protein']",535,167
+P05121,SERPINE1,5.7,402,['Secreted'],49,34
+P05198,EIF2S1,7.9,315,"['Cytoplasm, Stress granule', 'Cytoplasm, cytosol']",430,164
+P05455,SSB,22.8,408,['Nucleus'],87,218
+P06132,UROD,1.1,367,['Cytoplasm'],0,23
+P06702,S100A9,17.5,114,"['Secreted', 'Cytoplasm', 'Cytoplasm, cytoskeleton', 'Cell membrane; Peripheral membrane protein']",643,266
+P07339,CTSD,7.8,412,"['Lysosome', 'Melanosome', 'Secreted, extracellular space']",529,103
+P07766,CD3E,47.3,207,['Cell membrane; Single-pass type I membrane protein'],37,57
+P07900,HSP90AA1,14.3,732,"['Nucleus', 'Cytoplasm', 'Melanosome', 'Cell membrane', 'Mitochondrion']",766,983
+P07911,UMOD,10.2,640,"['Apical cell membrane; Lipid-anchor, GPI-anchor', 'Basolateral cell membrane; Lipid-anchor, GPI-anchor', 'Cell projection, cilium membrane', '[Uromodulin, secreted form]: Secreted']",152,8
+P07948,LYN,12.5,512,"['Cell membrane', 'Nucleus', 'Cytoplasm', 'Cytoplasm, perinuclear region', 'Golgi apparatus', 'Membrane; Lipid- anchor']",575,631
+P08047,SP1,80.0,785,"['Nucleus', 'Cytoplasm']",187,292
+P08476,INHBA,22.3,426,['Secreted'],602,17
+P09132,SRP19,21.5,144,"['Cytoplasm', 'Nucleus, nucleolus', 'Nucleus, nucleoplasm']",1,49
+P09429,HMGB1,33.0,215,"['Nucleus', 'Chromosome', 'Cytoplasm', 'Secreted', 'Cell membrane; Peripheral membrane protein; Extracellular side', 'Endosome', 'Endoplasmic reticulum-Golgi intermediate compartment', 'Endoplasmic reticulum']",949,357
+P09601,HMOX1,24.7,288,['Endoplasmic reticulum membrane; Single-pass type IV membrane protein; Cytoplasmic side'],727,100
+P09651,HNRNPA1,51.1,372,"['Nucleus', 'Cytoplasm', 'Cytoplasm', 'Nucleus']",123,715
+P09693,CD3G,59.3,182,['Cell membrane; Single-pass type I membrane protein'],40,18
+P0DMM9,SULT1A3,3.1,295,['Cytoplasm'],12,0
+P0DN86,CGB3,44.2,165,['Secreted'],37,0
+P0DP23,CALM1,0.0,149,"['Cytoplasm, cytoskeleton, spindle', 'Cytoplasm, cytoskeleton, spindle pole', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cell projection, cilium, flagellum']",634,0
+P10163,PRB4,100.0,310,['Secreted'],11,3
+P10253,GAA,8.4,952,"['Lysosome', 'Lysosome membrane']",71,107
+P10275,AR,62.0,920,"['Nucleus', 'Cytoplasm']",185,822
+P10415,BCL2,27.6,239,"['Mitochondrion outer membrane; Single-pass membrane protein', 'Nucleus membrane; Single-pass membrane protein', 'Endoplasmic reticulum membrane; Single-pass membrane protein', 'Cytoplasm']",1078,135
+P10451,SPP1,100.0,314,['Secreted'],162,99
+P10909,CLU,14.5,449,"['Nucleus', 'Cytoplasm', 'Mitochondrion membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasm, cytosol', 'Microsome', 'Endoplasmic reticulum', 'Mitochondrion', 'Mitochondrion membrane', 'Cytoplasm, perinuclear region', 'Cytoplasmic vesicle, secretory vesicle, chromaffin granule']",683,249
+P10912,GHR,67.4,638,"['Cell membrane; Single-pass type I membrane protein', '[Growth hormone-binding protein]: Secreted']",19,44
+P11142,HSPA8,5.4,646,"['Cytoplasm', 'Melanosome', 'Nucleus, nucleolus', 'Cell membrane', 'Lysosome membrane; Peripheral membrane protein; Cytoplasmic side']",455,1229
+P11171,EPB41,54.5,864,"['Cytoplasm, cytoskeleton', 'Cytoplasm, cell cortex', 'Nucleus']",59,0
+P11233,RALA,12.6,206,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Cleavage furrow', 'Midbody, Midbody ring', 'Mitochondrion']",81,101
+P11309,PIM1,10.9,313,None,107,56
+P11387,TOP1,26.9,765,"['Nucleus, nucleolus', 'Nucleus, nucleoplasm']",85,284
+P11473,VDR,18.7,427,"['Nucleus', 'Cytoplasm']",142,123
+P12109,COL6A1,36.3,1028,"['Secreted, extracellular space, extracellular matrix']",295,88
+P12272,PTHLH,90.4,177,"['Cytoplasm', 'Nucleus', 'Secreted']",74,5
+P12931,SRC,14.9,536,"['Cell membrane; Lipid-anchor', 'Mitochondrion inner membrane', 'Nucleus', 'Cytoplasm, cytoskeleton', 'Cytoplasm, perinuclear region', 'Cell junction, focal adhesion']",997,576
+P13473,LAMP2,21.5,410,"['Lysosome membrane; Single-pass type I membrane protein', 'Endosome membrane; Single-pass type I membrane protein', 'Cell membrane; Single-pass type I membrane protein', 'Cytoplasmic vesicle, autophagosome membrane']",409,534
+P13569,CFTR,17.1,1480,"['Apical cell membrane; Multi-pass membrane protein', 'Early endosome membrane; Multi-pass membrane protein', 'Cell membrane; Multi-pass membrane protein', 'Recycling endosome membrane; Multi-pass membrane protein', 'Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Nucleus']",105,987
+P14061,HSD17B1,13.4,328,['Cytoplasm'],46,17
+P14416,DRD2,38.8,443,"['Cell membrane; Multi-pass membrane protein', 'Golgi apparatus membrane; Multi-pass membrane protein']",499,98
+P14635,CCNB1,35.1,433,"['Cytoplasm', 'Nucleus', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",129,165
+P14859,POU2F1,83.0,743,['Nucleus'],100,139
+P15309,ACP3,9.8,386,None,29,133
+P15848,ARSB,8.8,533,"['Lysosome', 'Cell surface']",84,33
+P16144,ITGB4,21.5,1822,"['Cell membrane; Single-pass type I membrane protein', 'Cell membrane; Lipid-anchor', 'Cell junction, hemidesmosome']",518,97
+P16442,ABO,22.0,354,"['Golgi apparatus, Golgi stack membrane; Single- pass type II membrane protein', 'Secreted']",34,2
+P16615,ATP2A2,2.2,1042,"['Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Sarcoplasmic reticulum membrane; Multi-pass membrane protein']",67,270
+P16860,NPPB,100.0,134,"['[NT-proBNP]: Secreted', '[proBNP(3-108)]: Secreted', '[Brain natriuretic peptide 32]: Secreted', '[BNP(3-32)]: Secreted']",52,24
+P17096,HMGA1,100.0,107,"['Nucleus', 'Chromosome']",17,216
+P17861,XBP1,83.9,261,"['Endoplasmic reticulum', '[X-box-binding protein 1, cytoplasmic form]: Cytoplasm', 'Nucleus']",552,43
+P19429,TNNI3,72.4,210,None,19,22
+P19484,TFEB,81.3,476,"['Nucleus', 'Cytoplasm, cytosol', 'Lysosome membrane', 'Nucleus']",293,34
+P19793,RXRA,33.1,462,"['Nucleus', 'Cytoplasm', 'Mitochondrion']",115,138
+P20073,ANXA7,36.3,488,None,365,152
+P20810,CAST,100.0,708,None,5,66
+P20963,CD247,100.0,164,['Cell membrane; Single-pass type I membrane protein'],60,40
+P21815,IBSP,100.0,317,['Secreted'],27,11
+P22531,SPRR2E,100.0,72,['Cytoplasm'],0,20
+P23025,XPA,48.4,273,['Nucleus'],44,72
+P24071,FCAR,26.8,287,None,8,10
+P24522,GADD45A,6.1,165,['Nucleus'],115,94
+P25963,NFKBIA,33.1,317,"['Cytoplasm', 'Nucleus']",118,191
+P27361,MAPK3,8.4,379,"['Cytoplasm', 'Nucleus', 'Membrane, caveola', 'Cell junction, focal adhesion']",1023,279
+P27694,RPA1,13.3,616,"['Nucleus', 'Nucleus, PML body']",51,567
+P27695,APEX1,15.1,318,"['Nucleus', 'Nucleus, nucleolus', 'Nucleus speckle', 'Endoplasmic reticulum', 'Cytoplasm', '[DNA repair nuclease/redox regulator APEX1, mitochondrial]: Mitochondrion']",91,1173
+P27797,CALR,15.8,417,"['Endoplasmic reticulum lumen', 'Cytoplasm, cytosol', 'Secreted, extracellular space, extracellular matrix', 'Cell surface', 'Sarcoplasmic reticulum lumen', 'Cytoplasmic vesicle, secretory vesicle, Cortical granule', 'Cytolytic granule']",155,305
+P28328,PEX2,22.0,305,['Peroxisome membrane; Multi-pass membrane protein'],95,14
+P30273,FCER1G,77.9,86,['Cell membrane; Single-pass type I membrane protein'],58,79
+P30291,WEE1,52.8,646,['Nucleus'],89,63
+P31751,AKT2,10.4,481,"['Cytoplasm', 'Nucleus', 'Cell membrane; Peripheral membrane protein', 'Early endosome']",127,133
+P32004,L1CAM,13.7,1257,"['Cell membrane; Single-pass type I membrane protein', 'Cell projection, growth cone', 'Cell projection, axon', 'Cell projection, dendrite']",100,43
+P35611,ADD1,58.3,737,"['Cytoplasm, cytoskeleton', 'Cell membrane; Peripheral membrane protein; Cytoplasmic side']",43,109
+P35612,ADD2,57.0,726,"['Cytoplasm, cytoskeleton', 'Cell membrane; Peripheral membrane protein; Cytoplasmic side']",2,59
+P35638,DDIT3,83.4,169,"['Cytoplasm', 'Nucleus']",127,116
+P35869,AHR,61.0,848,"['Cytoplasm', 'Nucleus']",81,110
+P37231,PPARG,26.7,505,"['Nucleus', 'Cytoplasm']",179,260
+P37840,SNCA,86.4,140,"['Cytoplasm', 'Membrane', 'Nucleus', 'Synapse', 'Secreted', 'Cell projection, axon']",154,220
+P38398,BRCA1,82.3,1863,"['Nucleus', 'Chromosome', 'Cytoplasm']",73,1072
+P38936,CDKN1A,84.1,164,"['Cytoplasm', 'Nucleus']",183,310
+P40337,VHL,28.6,213,None,85,520
+P42338,PIK3CB,4.6,1070,"['Cytoplasm', 'Nucleus']",570,73
+P42345,MTOR,8.3,2549,"['Lysosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Endoplasmic reticulum membrane; Peripheral membrane protein; Cytoplasmic side', 'Golgi apparatus membrane; Peripheral membrane protein; Cytoplasmic side', 'Mitochondrion outer membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasm', 'Nucleus', 'Nucleus, PML body', 'Microsome membrane', 'Cytoplasmic vesicle, phagosome']",1180,245
+P42704,LRPPRC,8.2,1394,"['Mitochondrion', 'Nucleus', 'Nucleus, nucleoplasm', 'Nucleus inner membrane', 'Nucleus outer membrane']",245,563
+P43235,CTSK,6.7,329,"['Lysosome', 'Secreted', 'Apical cell membrane; Peripheral membrane protein; Extracellular side']",323,11
+P43351,RAD52,65.1,418,['Nucleus'],4,61
+P46527,CDKN1B,87.4,198,"['Nucleus', 'Cytoplasm', 'Endosome']",150,100
+P46937,YAP1,85.7,504,"['Cytoplasm', 'Nucleus', 'Cell junction']",186,683
+P48426,PIP4K2A,15.5,406,"['Cell membrane', 'Nucleus', 'Lysosome', 'Cytoplasm', 'Photoreceptor inner segment', 'Cell projection, cilium, photoreceptor outer segment']",239,169
+P48539,PCP4,96.8,62,None,9,45
+P49354,FNTA,17.2,379,None,3,60
+P49754,VPS41,8.8,854,"['Endosome membrane; Peripheral membrane protein', 'Late endosome membrane; Peripheral membrane protein', 'Early endosome membrane; Peripheral membrane protein', 'Lysosome membrane; Peripheral membrane protein', 'Golgi apparatus, trans- Golgi network', 'Cytoplasmic vesicle, clathrin-coated vesicle', 'Cytoplasm, cytosol']",52,42
+P49768,PSEN1,29.3,467,"['Endoplasmic reticulum', 'Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Golgi apparatus membrane; Multi-pass membrane protein', 'Cytoplasmic granule', 'Cell membrane; Multi-pass membrane protein', 'Cell projection, growth cone', 'Early endosome', 'Early endosome membrane; Multi-pass membrane protein', 'Cell projection, neuron projection', 'Cell projection, axon', 'Synapse']",341,212
+P49795,RGS19,27.6,217,['Membrane; Lipid-anchor'],23,29
+P49841,GSK3B,14.8,420,"['Cytoplasm', 'Nucleus', 'Cell membrane']",232,625
+P49913,CAMP,41.8,170,"['Secreted', 'Vesicle']",76,3
+P49918,CDKN1C,83.9,316,['Nucleus'],94,33
+P50440,GATM,13.9,423,None,1,11
+P50542,PEX5,40.5,639,"['Cytoplasm, cytosol', 'Peroxisome matrix']",132,142
+P50570,DNM2,17.4,870,"['Cytoplasm, cytoskeleton', 'Cytoplasmic vesicle, clathrin-coated vesicle', 'Cell projection, uropodium', 'Endosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriole', 'Recycling endosome', 'Cell projection, phagocytic cup', 'Cytoplasmic vesicle, phagosome membrane; Peripheral membrane protein', 'Cell projection, podosome', 'Cytoplasm', 'Cell junction', 'Postsynaptic density', 'Synapse, synaptosome', 'Midbody', 'Membrane, clathrin-coated pit']",556,224
+P51149,RAB7A,11.1,207,"['Cytoplasmic vesicle, phagosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Late endosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Lysosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Melanosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasmic vesicle, autophagosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Lipid droplet', 'Endosome membrane; Peripheral membrane protein', 'Cytoplasmic vesicle', 'Mitochondrion membrane; Peripheral membrane protein']",336,349
+P51397,DAP,100.0,102,None,30,7
+P51608,MECP2,85.4,486,['Nucleus'],113,223
+P51671,CCL11,35.1,97,['Secreted'],64,8
+P51946,CCNH,10.5,323,['Nucleus'],41,80
+P52179,MYOM1,25.0,1685,"['Cytoplasm, myofibril, sarcomere, M line']",8,20
+P52298,NCBP2,9.0,156,"['Nucleus', 'Cytoplasm']",12,87
+P53350,PLK1,12.8,603,"['Nucleus', 'Chromosome, centromere, kinetochore', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, spindle', 'Midbody']",146,393
+P53365,ARFIP2,29.6,341,"['Golgi apparatus', 'Golgi apparatus, trans-Golgi network membrane']",70,89
+P54252,ATXN3,42.7,361,"['Nucleus matrix', 'Nucleus', 'Lysosome membrane; Peripheral membrane protein']",32,402
+P54257,HAP1,72.6,671,"['Cytoplasm', 'Cell projection, axon', 'Presynapse', 'Cytoplasm, cytoskeleton', 'Cell projection, dendritic spine', 'Cell projection, dendrite', 'Lysosome', 'Endoplasmic reticulum', 'Mitochondrion', 'Nucleus', 'Cytoplasmic vesicle, autophagosome', 'Early endosome', 'Cell projection, growth cone', 'Cell projection, neuron projection', 'Cytoplasmic vesicle, secretory vesicle, synaptic vesicle']",156,109
+P54646,PRKAA2,25.5,552,"['Cytoplasm', 'Nucleus']",422,180
+P54725,RAD23A,44.9,363,['Nucleus'],39,197
+P54802,NAGLU,2.4,743,['Lysosome'],237,62
+P55061,TMBIM6,5.5,237,['Endoplasmic reticulum membrane; Multi-pass membrane protein'],293,110
+P55072,VCP,9.6,806,"['Cytoplasm, cytosol', 'Endoplasmic reticulum', 'Nucleus', 'Cytoplasm, Stress granule']",671,1003
+P56962,STX17,48.3,302,"['Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Smooth endoplasmic reticulum membrane; Multi-pass membrane protein', 'Endoplasmic reticulum-Golgi intermediate compartment membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle, autophagosome membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle, COPII-coated vesicle membrane; Multi-pass membrane protein', 'Cytoplasm, cytosol', 'Mitochondrion membrane; Multi-pass membrane protein']",171,248
+P59074,CHMP4BP1,61.4,171,None,0,0
+P60520,GABARAPL2,0.0,117,"['Cytoplasmic vesicle, autophagosome', 'Endoplasmic reticulum membrane', 'Golgi apparatus']",254,560
+P60896,SEM1,100.0,70,['Nucleus'],5,0
+P61006,RAB8A,14.5,207,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Golgi apparatus', 'Endosome membrane', 'Recycling endosome membrane', 'Cell projection, cilium', 'Cytoplasmic vesicle, phagosome', 'Cytoplasmic vesicle, phagosome membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriole', 'Cytoplasm, cytoskeleton, cilium basal body', 'Midbody', 'Cytoplasm, cytoskeleton, cilium axoneme', 'Cytoplasm']",361,179
+P61019,RAB2A,9.4,212,"['Endoplasmic reticulum-Golgi intermediate compartment membrane; Lipid-anchor; Cytoplasmic side', 'Melanosome', 'Endoplasmic reticulum membrane; Lipid-anchor; Cytoplasmic side', 'Golgi apparatus membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasmic vesicle, secretory vesicle, acrosome', 'Cytoplasmic vesicle, autophagosome membrane; Lipid-anchor; Cytoplasmic side']",270,469
+P61244,MAX,55.0,160,"['Nucleus', 'Cell projection, dendrite']",10,191
+P61960,UFM1,0.0,85,"['Nucleus', 'Cytoplasm']",148,91
+P62328,TMSB4X,100.0,44,"['Cytoplasm, cytoskeleton']",63,49
+P62495,ETF1,5.9,437,['Cytoplasm'],3,100
+P62820,RAB1A,12.2,205,"['Golgi apparatus', 'Endoplasmic reticulum', 'Early endosome', 'Cytoplasm, cytosol', 'Membrane', 'Melanosome']",534,267
+P63027,VAMP2,88.8,116,"['Cytoplasmic vesicle, secretory vesicle, synaptic vesicle membrane; Single-pass type IV membrane protein', 'Cell membrane']",65,160
+P63098,PPP3R1,5.9,170,"['Cytoplasm, cytosol', 'Cell membrane', 'Cell membrane, sarcolemma', 'Cell membrane; Lipid-anchor']",46,59
+P68543,UBXN2A,43.6,259,"['Golgi apparatus', 'Endoplasmic reticulum', 'Perikaryon', 'Cell projection, dendrite', 'Nucleus', 'Cytoplasm']",20,21
+P78356,PIP4K2B,16.8,416,"['Endoplasmic reticulum membrane; Peripheral membrane protein', 'Cell membrane; Peripheral membrane protein', 'Nucleus', 'Cytoplasm']",81,67
+P78504,JAG1,15.7,1218,"['Membrane; Single-pass type I membrane protein', 'Cell membrane']",101,32
+P78539,SRPX,12.5,464,['Cell surface'],41,8
+Q00610,CLTC,3.7,1675,"['Cytoplasmic vesicle membrane; Peripheral membrane protein; Cytoplasmic side', 'Membrane, coated pit; Peripheral membrane protein; Cytoplasmic side', 'Melanosome', 'Cytoplasm, cytoskeleton, spindle']",357,492
+Q00987,MDM2,65.4,491,"['Nucleus, nucleoplasm', 'Cytoplasm', 'Nucleus, nucleolus', 'Nucleus']",83,856
+Q02556,IRF8,28.2,426,"['Nucleus', 'Cytoplasm']",425,52
+Q04206,RELA,48.1,551,"['Nucleus', 'Cytoplasm']",194,418
+Q04656,ATP7A,16.0,1500,"['Golgi apparatus, trans-Golgi network membrane; Multi-pass membrane protein', 'Cell membrane; Multi-pass membrane protein', 'Melanosome membrane; Multi-pass membrane protein', 'Early endosome membrane; Multi-pass membrane protein', 'Cell projection, axon', 'Cell projection, dendrite', 'Postsynaptic density']",52,82
+Q06787,FMR1,42.6,632,"['Cytoplasm, Cytoplasmic ribonucleoprotein granule', 'Cytoplasm, Stress granule', 'Cytoplasm', 'Perikaryon', 'Cytoplasm, perinuclear region', 'Cell projection, neuron projection', 'Cell projection, axon', 'Cell projection, dendrite', 'Cell projection, dendritic spine', 'Synapse, synaptosome', 'Cell projection, growth cone', 'Cell projection, filopodium tip', 'Synapse', 'Postsynaptic cell membrane', 'Presynaptic cell membrane', 'Nucleus', 'Nucleus, nucleolus', 'Chromosome, centromere', 'Chromosome', 'Cell membrane']",76,457
+Q07108,CD69,39.7,199,['Membrane; Single-pass type II membrane protein'],0,20
+Q07817,BCL2L1,27.5,233,None,182,182
+Q08209,PPP3CA,13.4,521,"['Cytoplasm', 'Cell membrane; Peripheral membrane protein', 'Cell membrane, sarcolemma', 'Cytoplasm, myofibril, sarcomere, Z line', 'Cell projection, dendritic spine']",91,104
+Q09161,NCBP1,2.9,790,"['Nucleus', 'Cytoplasm']",17,217
+Q09472,EP300,60.0,2414,"['Cytoplasm', 'Nucleus', 'Chromosome']",158,1195
+Q0ZLH3,PJVK,24.4,352,"['Peroxisome membrane', 'Cell projection, cilium']",13,1
+Q12778,FOXO1,87.5,655,"['Cytoplasm', 'Nucleus']",142,78
+Q12983,BNIP3,100.0,194,"['Mitochondrion', 'Mitochondrion outer membrane; Single-pass membrane protein']",530,91
+Q13049,TRIM32,14.7,653,"['Cytoplasm', 'Mitochondrion', 'Endoplasmic reticulum']",350,154
+Q13131,PRKAA1,26.1,559,"['Cytoplasm', 'Nucleus']",669,335
+Q13137,CALCOCO2,35.7,446,"['Cytoplasm, perinuclear region', 'Cytoplasm, cytoskeleton', 'Cytoplasmic vesicle, autophagosome membrane; Peripheral membrane protein']",311,448
+Q13286,CLN3,17.8,438,"['Lysosome membrane; Multi-pass membrane protein', 'Late endosome', 'Lysosome', 'Golgi apparatus', 'Golgi apparatus membrane', 'Golgi apparatus, Golgi stack', 'Golgi apparatus, trans-Golgi network', 'Cell membrane', 'Recycling endosome', 'Membrane raft', 'Membrane, caveola', 'Early endosome membrane', 'Synapse, synaptosome', 'Late endosome membrane', 'Cytoplasmic vesicle, autophagosome']",245,109
+Q13426,XRCC4,41.7,336,"['Nucleus', 'Chromosome', '[Protein XRCC4, C-terminus]: Cytoplasm']",49,72
+Q13485,SMAD4,37.3,552,"['Cytoplasm', 'Nucleus']",146,418
+Q13488,TCIRG1,9.0,830,['Membrane; Multi-pass membrane protein'],285,68
+Q13496,MTM1,10.6,603,"['Cytoplasm', 'Cell membrane; Peripheral membrane protein', 'Cell projection, filopodium', 'Cell projection, ruffle', 'Late endosome', 'Cytoplasm, myofibril, sarcomere']",65,60
+Q13501,SQSTM1,51.1,440,"['Cytoplasmic vesicle, autophagosome', 'Preautophagosomal structure', 'Cytoplasm, cytosol', 'Nucleus, PML body', 'Late endosome', 'Lysosome', 'Nucleus', 'Endoplasmic reticulum', 'Cytoplasm, myofibril, sarcomere']",883,890
+Q13541,EIF4EBP1,70.3,118,"['Cytoplasm', 'Nucleus']",114,68
+Q13569,TDG,46.6,410,['Nucleus'],5,53
+Q13573,SNW1,87.3,536,['Nucleus'],55,774
+Q13615,MTMR3,47.4,1198,"['Cytoplasm', 'Membrane; Peripheral membrane protein']",12,58
+Q14061,COX17,38.1,63,"['Mitochondrion intermembrane space', 'Cytoplasm']",24,59
+Q14088,RAB33A,23.6,237,['Cell membrane; Lipid-anchor; Cytoplasmic side'],22,37
+Q14191,WRN,32.5,1432,"['Nucleus, nucleolus', 'Nucleus', 'Nucleus, nucleoplasm', 'Chromosome']",50,81
+Q14449,GRB14,30.4,540,"['Cytoplasm', 'Endosome membrane; Peripheral membrane protein']",16,25
+Q14457,BECN1,26.2,450,"['Cytoplasm', 'Golgi apparatus, trans-Golgi network membrane; Peripheral membrane protein', 'Endosome membrane; Peripheral membrane protein', 'Endoplasmic reticulum membrane; Peripheral membrane protein', 'Mitochondrion membrane; Peripheral membrane protein', 'Endosome', 'Cytoplasmic vesicle, autophagosome', '[Beclin-1-C 35 kDa]: Mitochondrion', 'Nucleus', 'Cytoplasm', '[Beclin-1-C 37 kDa]: Mitochondrion']",942,211
+Q14596,NBR1,66.1,966,"['Cytoplasm', 'Cytoplasmic vesicle, autophagosome', 'Lysosome', 'Cytoplasm, myofibril, sarcomere, M line']",131,332
+Q14694,USP10,53.1,798,"['Cytoplasm', 'Nucleus', 'Early endosome']",478,209
+Q14722,KCNAB1,19.8,419,"['Cytoplasm', 'Membrane; Peripheral membrane protein; Cytoplasmic side', 'Cell membrane; Peripheral membrane protein; Cytoplasmic side']",4,12
+Q14964,RAB39A,10.1,217,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasmic vesicle, phagosome', 'Cytoplasmic vesicle, phagosome membrane; Lipid-anchor; Cytoplasmic side', 'Lysosome']",135,27
+Q14CS0,UBXN2B,47.7,331,"['Nucleus', 'Cytoplasm, cytosol', 'Endoplasmic reticulum', 'Golgi apparatus', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",3,35
+Q15185,PTGES3,28.7,160,['Cytoplasm'],90,325
+Q15382,RHEB,4.3,184,"['Endomembrane system; Lipid-anchor; Cytoplasmic side', 'Lysosome membrane; Lipid- anchor; Cytoplasmic side', 'Golgi apparatus membrane; Lipid-anchor; Cytoplasmic side', 'Endoplasmic reticulum membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasm, cytosol']",68,74
+Q15517,CDSN,97.7,529,['Secreted'],6,100
+Q15831,STK11,29.1,433,"['Nucleus', 'Cytoplasm', 'Membrane', 'Mitochondrion']",662,229
+Q16143,SNCB,100.0,134,['Cytoplasm'],44,15
+Q16222,UAP1,4.2,522,"['Cytoplasm, cytosol']",10,31
+Q16595,FXN,41.9,210,"['[Frataxin mature form]: Mitochondrion', '[Extramitochondrial frataxin]: Cytoplasm, cytosol']",4,55
+Q16635,TAFAZZIN,7.2,262,"['Mitochondrion outer membrane; Peripheral membrane protein; Intermembrane side', 'Mitochondrion inner membrane; Peripheral membrane protein; Intermembrane side']",4,166
+Q16665,HIF1A,58.0,826,"['Cytoplasm', 'Nucleus', 'Nucleus speckle']",231,375
+Q16666,IFI16,39.9,785,"['Nucleus', 'Cytoplasm']",434,666
+Q29983,MICA,27.4,383,"['Cell membrane; Single-pass type I membrane protein', 'Cytoplasm']",85,28
+Q2KHT3,CLEC16A,32.9,1053,"['Endosome membrane; Peripheral membrane protein', 'Lysosome membrane; Peripheral membrane protein']",216,13
+Q2TAZ0,ATG2A,26.9,1938,"['Preautophagosomal structure membrane; Peripheral membrane protein', 'Lipid droplet', 'Endoplasmic reticulum membrane; Peripheral membrane protein']",131,107
+Q3MII6,TBC1D25,39.7,688,"['Cytoplasm', 'Cytoplasmic vesicle, autophagosome']",19,54
+Q49AN0,CRY2,17.0,593,"['Cytoplasm', 'Nucleus']",43,183
+Q562E7,WDR81,26.4,1941,"['Early endosome membrane; Peripheral membrane protein', 'Late endosome membrane', 'Lysosome membrane', 'Cytoplasmic vesicle, autophagosome membrane', 'Mitochondrion', 'Cytoplasm, cytosol']",51,30
+Q5BJD5,TMEM41B,24.1,291,"['Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Endomembrane system', 'Cytoplasm']",74,141
+Q5MNZ6,WDR45B,0.0,344,"['Preautophagosomal structure', 'Lysosome']",34,54
+Q5MNZ9,WIPI1,28.5,446,"['Golgi apparatus, trans-Golgi network', 'Endosome', 'Cytoplasmic vesicle, clathrin-coated vesicle', 'Preautophagosomal structure membrane; Peripheral membrane protein', 'Cytoplasm, cytoskeleton']",170,45
+Q5S007,LRRK2,6.1,2527,"['Cytoplasmic vesicle', 'Perikaryon', 'Golgi apparatus membrane; Peripheral membrane protein', 'Cell projection, axon', 'Cell projection, dendrite', 'Endoplasmic reticulum membrane; Peripheral membrane protein', 'Cytoplasmic vesicle, secretory vesicle, synaptic vesicle membrane', 'Endosome', 'Lysosome', 'Mitochondrion outer membrane; Peripheral membrane protein', 'Cytoplasm, cytoskeleton']",34,1463
+Q5T0N5,FNBP1L,33.2,605,"['Cytoplasm', 'Cytoplasm, cytoskeleton', 'Cytoplasm, cell cortex', 'Cytoplasmic vesicle', 'Cell membrane; Peripheral membrane protein; Cytoplasmic side']",94,42
+Q5T8D3,ACBD5,78.7,534,['Peroxisome membrane; Single-pass membrane protein'],59,182
+Q5VVQ6,YOD1,20.1,348,['Cytoplasm'],102,60
+Q5VWJ9,SNX30,26.3,437,['Early endosome membrane; Peripheral membrane protein; Cytoplasmic side'],0,12
+Q5W041,ARMC3,15.1,872,None,50,4
+Q66K74,MAP1S,45.7,1059,"['Nucleus', 'Cytoplasm, cytosol', 'Cytoplasm, cytoskeleton', 'Cytoplasm, cytoskeleton, spindle']",226,79
+Q674R7,ATG9B,31.8,924,['Preautophagosomal structure membrane; Multi-pass membrane protein'],207,13
+Q676U5,ATG16L1,29.8,607,"['Cytoplasm', 'Preautophagosomal structure membrane; Peripheral membrane protein', 'Endosome membrane; Peripheral membrane protein', 'Lysosome membrane; Peripheral membrane protein']",529,735
+Q68DK2,ZFYVE26,20.7,2539,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Midbody']",93,45
+Q6IQ22,RAB12,25.4,244,"['Recycling endosome membrane; Lipid-anchor; Cytoplasmic side', 'Lysosome membrane; Lipid-anchor; Cytoplasmic side', 'Golgi apparatus membrane', 'Cytoplasmic vesicle, autophagosome']",134,22
+Q6PHR2,ULK3,6.8,472,['Cytoplasm'],39,21
+Q6UWE0,LRSAM1,25.9,723,['Cytoplasm'],131,82
+Q6UX65,DRAM2,9.0,266,"['Lysosome membrane; Multi-pass membrane protein', 'Photoreceptor inner segment', 'Apical cell membrane']",21,1
+Q6UXG2,ELAPOR1,16.8,1013,"['Cell membrane; Single-pass type I membrane protein', 'Late endosome membrane; Single-pass type I membrane protein', 'Golgi apparatus, trans-Golgi network membrane; Single-pass type I membrane protein', 'Lysosome membrane; Single-pass membrane protein', 'Endoplasmic reticulum membrane; Single-pass type I membrane protein']",23,0
+Q6VVB1,NHLRC1,8.4,395,"['Endoplasmic reticulum', 'Nucleus']",30,19
+Q6ZNE5,ATG14,36.4,492,"['Cytoplasm', 'Endoplasmic reticulum membrane; Peripheral membrane protein', 'Preautophagosomal structure membrane; Peripheral membrane protein', 'Cytoplasmic vesicle, autophagosome membrane; Peripheral membrane protein']",146,57
+Q6ZNE9,RUFY4,40.6,571,"['Cytoplasmic vesicle, autophagosome']",6,14
+Q70CQ3,USP30,31.7,517,['Mitochondrion outer membrane'],80,91
+Q7KZI7,MARK2,45.8,788,"['Cell membrane; Peripheral membrane protein', 'Cytoplasm', 'Lateral cell membrane', 'Cytoplasm, cytoskeleton', 'Cell projection, dendrite', 'Cytoplasm']",248,189
+Q7LBR1,CHMP1B,35.7,199,"['Cytoplasm, cytosol', 'Endosome', 'Late endosome membrane; Peripheral membrane protein']",117,40
+Q7Z3C6,ATG9A,25.5,839,"['Preautophagosomal structure membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle, autophagosome membrane; Multi- pass membrane protein', 'Golgi apparatus, trans-Golgi network membrane; Multi-pass membrane protein', 'Late endosome membrane; Multi-pass membrane protein', 'Recycling endosome membrane; Multi-pass membrane protein', 'Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Mitochondrion membrane; Multi-pass membrane protein']",469,147
+Q7Z6L1,TECPR1,18.5,1165,"['Cytoplasmic vesicle, autophagosome membrane', 'Lysosome membrane']",14,15
+Q86TL0,ATG4D,26.6,474,"['[Cysteine protease ATG4D]: Cytoplasm', '[Cysteine protease ATG4D, mitochondrial]: Cytoplasm', 'Mitochondrion matrix']",151,6
+Q86VN1,VPS36,12.2,386,"['Cytoplasm', 'Endosome', 'Late endosome', 'Membrane', 'Nucleus']",118,46
+Q86VP1,TAX1BP1,50.8,789,"['Cytoplasm', 'Mitochondrion', 'Preautophagosomal structure', 'Cytoplasmic vesicle, autophagosome']",124,300
+Q86VP3,PACS2,46.0,889,"['Endoplasmic reticulum', 'Mitochondrion']",159,16
+Q86VR2,RETREG3,64.8,466,['Endoplasmic reticulum membrane; Multi-pass membrane protein'],12,0
+Q86WG5,SBF2,18.3,1849,"['Cytoplasm', 'Cytoplasm, perinuclear region', 'Membrane; Peripheral membrane protein', 'Endosome membrane; Peripheral membrane protein', 'Cell projection, axon']",89,35
+Q86WV6,STING1,20.6,379,"['Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Cytoplasm, perinuclear region', 'Endoplasmic reticulum-Golgi intermediate compartment membrane; Multi-pass membrane protein', 'Golgi apparatus membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle, autophagosome membrane; Multi-pass membrane protein', 'Mitochondrion outer membrane; Multi-pass membrane protein', 'Cell membrane; Multi-pass membrane protein']",551,121
+Q86XT2,VPS37D,49.4,251,['Late endosome membrane; Peripheral membrane protein'],19,18
+Q86Y82,STX12,31.9,276,"['Endosome membrane; Single-pass type IV membrane protein', 'Golgi apparatus membrane; Single-pass type IV membrane protein', 'Endomembrane system; Single-pass type IV membrane protein; Cytoplasmic side', 'Early endosome membrane; Single-pass type IV membrane protein', 'Recycling endosome membrane; Single-pass type IV membrane protein']",93,184
+Q86YS6,RAB43,16.0,212,"['Cytoplasmic vesicle, phagosome', 'Cytoplasmic vesicle, phagosome membrane; Lipid-anchor; Cytoplasmic side', 'Golgi apparatus', 'Golgi apparatus, trans-Golgi network membrane; Lipid-anchor', 'Golgi apparatus, trans-Golgi network']",216,37
+Q8IVB5,LIX1L,18.7,337,None,15,11
+Q8IVP5,FUNDC1,53.5,155,['Mitochondrion outer membrane; Multi-pass membrane protein'],134,28
+Q8IXH6,TP53INP2,100.0,220,"['Cytoplasm, cytosol', 'Nucleus', 'Nucleus, PML body', 'Cytoplasmic vesicle, autophagosome']",106,2
+Q8IXJ6,SIRT2,21.3,389,"['Nucleus', 'Cytoplasm, perinuclear region', 'Cytoplasm', 'Cytoplasm, cytoskeleton', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriole', 'Cytoplasm, cytoskeleton, spindle', 'Midbody', 'Chromosome', 'Perikaryon', 'Cell projection', 'Cell projection, growth cone', 'Myelin membrane']",599,115
+Q8IYT8,ULK2,51.6,1036,['Cytoplasmic vesicle membrane; Peripheral membrane protein'],263,57
+Q8N0X7,SPART,37.4,666,"['Cytoplasm', 'Midbody']",128,0
+Q8N485,LIX1,6.7,282,None,37,4
+Q8N488,RYBP,89.9,228,"['Nucleus', 'Cytoplasm', 'Nucleus, nucleoplasm']",64,607
+Q8N5K1,CISD2,37.8,135,"['Endoplasmic reticulum membrane; Single-pass membrane protein', 'Mitochondrion outer membrane; Single-pass membrane protein']",466,177
+Q8N682,DRAM1,4.2,238,['Lysosome membrane; Multi-pass membrane protein'],199,9
+Q8N726,CDKN2A,100.0,132,"['Nucleus, nucleolus', 'Nucleus, nucleoplasm']",206,0
+Q8NAA4,ATG16L2,40.7,619,"['Cytoplasm, cytosol']",77,10
+Q8NC44,RETREG2,63.4,543,['Endoplasmic reticulum membrane; Multi-pass membrane protein'],13,0
+Q8NCE2,MTMR14,40.0,650,['Cytoplasm'],81,97
+Q8NEB9,PIK3C3,10.9,887,"['Midbody', 'Late endosome', 'Cytoplasmic vesicle, autophagosome']",582,82
+Q8NEM7,SUPT20H,62.9,779,['Nucleus'],92,68
+Q8NEZ2,VPS37A,34.5,397,"['Late endosome membrane; Peripheral membrane protein', 'Nucleus']",212,25
+Q8NHS3,MFSD8,12.4,518,"['Endosome membrane; Multi-pass membrane protein', 'Lysosome membrane; Multi-pass membrane protein']",21,53
+Q8TC71,SPATA18,38.5,538,"['Cytoplasm', 'Mitochondrion outer membrane']",43,21
+Q8TDY2,RB1CC1,34.2,1594,"['Nucleus', 'Cytoplasm', 'Cytoplasm, cytosol', 'Preautophagosomal structure', 'Lysosome']",500,315
+Q8TEV9,SMCR8,44.2,937,"['Cytoplasm', 'Nucleus', 'Presynapse', 'Postsynapse']",125,118
+Q8TF45,ZNF418,30.2,676,['Nucleus'],135,22
+Q8WUD1,RAB2B,12.0,216,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Endoplasmic reticulum membrane; Lipid-anchor; Cytoplasmic side', 'Golgi apparatus membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasmic vesicle, secretory vesicle, acrosome', 'Cytoplasmic vesicle, autophagosome membrane; Lipid-anchor; Cytoplasmic side']",45,58
+Q8WUH2,TGFBRAP1,4.4,860,"['Cytoplasm', 'Early endosome']",94,43
+Q8WUM4,PDCD6IP,18.2,868,"['Cytoplasm, cytosol', 'Melanosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Secreted, extracellular exosome', 'Cell junction, tight junction', 'Midbody, Midbody ring']",78,182
+Q8WUX9,CHMP7,21.4,453,"['Cytoplasm', 'Nucleus envelope', 'Nucleus envelope']",24,71
+Q8WYN0,ATG4A,19.8,398,['Cytoplasm'],101,29
+Q92609,TBC1D5,42.3,795,"['Endosome membrane', 'Cytoplasmic vesicle, autophagosome']",53,52
+Q92622,RUBCN,48.0,972,"['Late endosome', 'Lysosome', 'Early endosome']",168,38
+Q92731,ESR2,41.1,530,['Nucleus'],55,2353
+Q92783,STAM,53.7,540,"['Cytoplasm', 'Early endosome membrane; Peripheral membrane protein; Cytoplasmic side']",134,106
+Q92886,NEUROG1,76.8,237,['Nucleus'],18,15
+Q92928,RAB1C,13.4,201,"['Membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasm']",8,10
+Q92995,USP13,16.2,863,['Cytoplasm'],319,88
+Q969F2,NKD2,95.3,451,"['Cell membrane', 'Cytoplasm', 'Cytoplasmic vesicle']",52,27
+Q969Q5,RAB24,10.8,203,"['Cytoplasm, cytosol', 'Membrane; Lipid-anchor']",43,31
+Q969S8,HDAC10,5.2,669,"['Cytoplasm', 'Nucleus']",240,42
+Q96A37,RNF166,25.7,237,['Cytoplasm'],49,100
+Q96A56,TP53INP1,100.0,240,"['Cytoplasm, cytosol', 'Nucleus', 'Nucleus, PML body', 'Cytoplasmic vesicle, autophagosome']",426,20
+Q96AG3,SLC25A46,22.2,418,['Mitochondrion outer membrane; Multi-pass membrane protein'],55,255
+Q96AJ9,VTI1A,33.2,217,"['Cytoplasmic vesicle', 'Golgi apparatus membrane; Single-pass type IV membrane protein']",8,47
+Q96AX1,VPS33A,2.2,596,"['Cytoplasmic vesicle', 'Late endosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Lysosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Early endosome', 'Cytoplasmic vesicle, autophagosome', 'Cytoplasmic vesicle, clathrin-coated vesicle']",93,209
+Q96BY2,MOAP1,9.7,351,"['Cytoplasm, cytosol', 'Mitochondrion outer membrane', 'Extracellular vesicle membrane']",267,38
+Q96BY7,ATG2B,29.9,2078,"['Preautophagosomal structure membrane; Peripheral membrane protein', 'Lipid droplet', 'Endoplasmic reticulum membrane; Peripheral membrane protein']",278,60
+Q96CF2,CHMP4C,51.5,233,"['Cytoplasm, cytosol', 'Late endosome membrane; Peripheral membrane protein', 'Midbody, Midbody ring']",242,663
+Q96CP6,GRAMD1A,49.3,724,"['Endoplasmic reticulum membrane; Single-pass membrane protein', 'Cell membrane; Single-pass membrane protein', 'Cytoplasmic vesicle, autophagosome']",60,0
+Q96CV9,OPTN,65.7,577,"['Cytoplasm, perinuclear region', 'Golgi apparatus', 'Golgi apparatus, trans-Golgi network', 'Cytoplasmic vesicle, autophagosome', 'Cytoplasmic vesicle', 'Recycling endosome']",404,386
+Q96DA2,RAB39B,10.3,213,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasmic vesicle membrane; Lipid-anchor; Cytoplasmic side', 'Golgi apparatus']",165,49
+Q96DM3,RMC1,0.0,657,"['Lysosome membrane', 'Late endosome membrane']",19,0
+Q96DT6,ATG4C,17.7,458,['Cytoplasm'],243,36
+Q96EY5,MVB12A,44.7,273,"['Cytoplasm', 'Nucleus', 'Endosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Late endosome membrane; Peripheral membrane protein']",44,39
+Q96F24,NRBF2,60.6,287,"['Nucleus', 'Cytoplasm', 'Cytoplasmic vesicle', 'Cytoplasmic vesicle, autophagosome']",83,52
+Q96FZ7,CHMP6,41.8,201,"['Endomembrane system', 'Endosome membrane; Lipid- anchor', 'Late endosome membrane', 'Membrane; Lipid-anchor']",54,25
+Q96GC9,VMP1,10.1,406,"['Endoplasmic reticulum-Golgi intermediate compartment membrane; Multi-pass membrane protein', 'Cell membrane; Multi-pass membrane protein', 'Vacuole membrane; Multi- pass membrane protein', 'Endoplasmic reticulum membrane; Multi-pass membrane protein']",342,163
+Q96GF1,RNF185,69.3,192,"['Mitochondrion outer membrane; Multi-pass membrane protein', 'Endoplasmic reticulum membrane; Multi-pass membrane protein']",95,153
+Q96H20,SNF8,16.7,258,"['Cytoplasm', 'Endosome membrane', 'Nucleus', 'Late endosome membrane']",158,54
+Q96HS1,PGAM5,21.1,289,"['Mitochondrion outer membrane; Single-pass membrane protein', 'Mitochondrion inner membrane; Single-pass membrane protein']",189,213
+Q96HY6,DDRGK1,60.8,314,"['Endoplasmic reticulum', 'Endoplasmic reticulum membrane']",207,1163
+Q96JC1,VPS39,0.9,886,"['Cytoplasm', 'Lysosome membrane; Peripheral membrane protein', 'Late endosome membrane; Peripheral membrane protein']",87,42
+Q96JI7,SPG11,12.0,2443,"['Cytoplasm, cytosol', 'Nucleus', 'Cell projection, axon', 'Cell projection, dendrite']",21,46
+Q96LT7,C9orf72,2.7,481,"['Nucleus', 'Cytoplasm', 'Cytoplasm, P-body', 'Cytoplasm, Stress granule', 'Endosome', 'Lysosome', 'Cytoplasmic vesicle, autophagosome', 'Secreted', 'Cell projection, axon', 'Cell projection, growth cone', 'Perikaryon']",203,105
+Q96N06,SPATA33,100.0,139,"['Cytoplasm, cytosol', 'Nucleus', 'Cytoplasm', 'Mitochondrion']",25,0
+Q96N19,GPR137,31.9,417,['Lysosome membrane; Multi-pass membrane protein'],136,4
+Q96NL1,TMEM74,79.7,305,"['Lysosome membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle, autophagosome membrane; Multi- pass membrane protein']",195,117
+Q96S15,WDR24,27.1,790,['Lysosome membrane'],85,30
+Q96T21,SECISBP2,78.1,854,None,20,71
+Q99497,PARK7,0.0,189,"['Cell membrane; Lipid-anchor', 'Cytoplasm', 'Nucleus', 'Membrane raft', 'Mitochondrion', 'Endoplasmic reticulum']",591,293
+Q99570,PIK3R4,14.7,1358,"['Late endosome', 'Cytoplasmic vesicle, autophagosome', 'Membrane; Lipid-anchor']",111,66
+Q99623,PHB2,14.0,299,"['Mitochondrion inner membrane', 'Cytoplasm', 'Nucleus', 'Cell membrane']",479,459
+Q99801,NKX3-1,78.6,234,['Nucleus'],36,49
+Q99816,TSG101,41.5,390,"['Cytoplasm', 'Early endosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Late endosome membrane; Peripheral membrane protein', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Midbody, Midbody ring', 'Nucleus']",387,263
+Q99967,CITED2,100.0,270,['Nucleus'],20,16
+Q9BPW8,NIPSNAP1,20.8,284,None,121,212
+Q9BRG1,VPS25,0.6,176,"['Cytoplasm', 'Endosome membrane', 'Nucleus, nucleoplasm']",76,53
+Q9BRR0,ZKSCAN3,48.0,538,"['Nucleus', 'Cytoplasm']",157,26
+Q9BS92,NIPSNAP3B,10.1,247,None,18,19
+Q9BSB4,ATG101,6.0,218,"['Cytoplasm', 'Preautophagosomal structure']",80,71
+Q9BT88,SYT11,34.1,431,"['Cytoplasmic vesicle membrane; Single-pass membrane protein', 'Perikaryon', 'Golgi apparatus, trans-Golgi network membrane; Single-pass membrane protein', 'Recycling endosome membrane; Single-pass membrane protein', 'Lysosome membrane; Single-pass membrane protein', 'Cytoplasmic vesicle, phagosome', 'Cell projection, axon', 'Cell projection, dendrite', 'Postsynaptic density', 'Recycling endosome membrane; Single-pass membrane protein', 'Cytoplasmic vesicle, clathrin-coated vesicle membrane; Single-pass membrane protein', 'Perikaryon']",94,25
+Q9BTX3,TMEM208,24.9,173,['Endoplasmic reticulum membrane; Multi-pass membrane protein'],77,47
+Q9BUL5,PHF23,89.1,403,"['Nucleus', 'Cytoplasm']",10,20
+Q9BV40,VAMP8,67.0,100,"['Lysosome membrane; Single-pass type IV membrane protein', 'Early endosome membrane; Single-pass type IV membrane protein', 'Late endosome membrane; Single-pass type IV membrane protein', 'Cell membrane; Single-pass type IV membrane protein', 'Zymogen granule membrane; Single-pass type IV membrane protein']",156,81
+Q9BV81,EMC6,15.5,110,['Endoplasmic reticulum membrane; Multi-pass membrane protein'],110,43
+Q9BWH2,FUNDC2,65.1,189,"['Mitochondrion outer membrane; Multi-pass membrane protein', 'Nucleus']",72,93
+Q9BXK5,BCL2L13,59.2,485,None,164,96
+Q9BXM7,PINK1,16.5,581,"['Mitochondrion outer membrane; Single-pass membrane protein', 'Mitochondrion inner membrane; Single-pass membrane protein', 'Cytoplasm, cytosol']",556,650
+Q9BXS4,TMEM59,66.9,323,"['Late endosome membrane; Single-pass type I membrane protein', 'Lysosome membrane; Single-pass type I membrane protein', 'Cell membrane; Single-pass type I membrane protein', 'Golgi apparatus membrane; Single-pass type I membrane protein']",109,169
+Q9BXW4,MAP1LC3C,21.1,147,"['Cytoplasmic vesicle, autophagosome membrane; Lipid-anchor', 'Endomembrane system; Lipid-anchor', 'Cytoplasm, cytoskeleton']",202,52
+Q9BY43,CHMP4A,52.3,222,"['Cytoplasmic vesicle membrane', 'Late endosome membrane; Peripheral membrane protein']",35,61
+Q9BY60,GABARAPL3,0.0,117,"['Cytoplasm, cytoskeleton', 'Cytoplasmic vesicle, autophagosome membrane; Lipid-anchor']",81,1
+Q9BZV1,UBXN6,31.7,441,"['Cytoplasm', 'Cytoplasm, cytosol', 'Membrane; Peripheral membrane protein', 'Nucleus', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Early endosome membrane; Peripheral membrane protein', 'Late endosome membrane; Peripheral membrane protein', 'Lysosome membrane; Peripheral membrane protein']",122,291
+Q9C000,NLRP1,21.7,1473,"['Cytoplasm, cytosol', 'Cytoplasm', 'Nucleus', '[NACHT, LRR and PYD domains-containing protein 1, C-terminus]: Inflammasome', '[NACHT, LRR and PYD domains-containing protein 1, N-terminus]: Nucleus']",68,30
+Q9C035,TRIM5,4.1,493,"['Cytoplasm', 'Nucleus']",216,62
+Q9C0C7,AMBRA1,68.0,1298,"['Endoplasmic reticulum', 'Cytoplasm, cytoskeleton', 'Cytoplasmic vesicle, autophagosome', 'Mitochondrion', 'Cytoplasm, cytosol', 'Nucleus', 'Cell junction, focal adhesion']",381,221
+Q9GZQ8,MAP1LC3B,0.0,125,"['Cytoplasmic vesicle, autophagosome membrane; Lipid-anchor', 'Endomembrane system; Lipid-anchor', 'Mitochondrion membrane; Lipid-anchor', 'Cytoplasm, cytoskeleton', 'Cytoplasmic vesicle']",602,664
+Q9GZU1,MCOLN1,14.5,580,"['Late endosome membrane; Multi-pass membrane protein', 'Lysosome membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle membrane; Multi-pass membrane protein', 'Cell projection, phagocytic cup', 'Cytoplasmic vesicle, phagosome membrane; Multi-pass membrane protein', 'Cell membrane; Multi-pass membrane protein']",45,15
+Q9GZZ9,UBA5,31.9,404,"['Cytoplasm', 'Nucleus', 'Endoplasmic reticulum membrane', 'Golgi apparatus']",100,99
+Q9H082,RAB33B,22.3,229,"['Golgi apparatus membrane; Lipid-anchor', 'Golgi apparatus, cis-Golgi network']",53,31
+Q9H0E2,TOLLIP,29.2,274,"['Cytoplasm', 'Endosome', 'Early endosome']",294,317
+Q9H0R8,GABARAPL1,0.0,117,"['Cytoplasmic vesicle, autophagosome', 'Cytoplasmic vesicle membrane; Lipid-anchor', 'Cytoplasm, cytoskeleton', 'Endoplasmic reticulum', 'Golgi apparatus']",288,533
+Q9H0U4,RAB1B,12.4,201,"['Cytoplasm', 'Membrane; Lipid-anchor; Cytoplasmic side', 'Preautophagosomal structure membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasm, perinuclear region']",253,140
+Q9H0Y0,ATG10,18.6,220,['Cytoplasm'],164,17
+Q9H1Y0,ATG5,0.0,275,"['Cytoplasm', 'Preautophagosomal structure membrane; Peripheral membrane protein']",586,169
+Q9H269,VPS16,0.0,839,"['Late endosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Lysosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Early endosome', 'Cytoplasmic vesicle, clathrin-coated vesicle', 'Cytoplasmic vesicle, autophagosome']",155,91
+Q9H270,VPS11,8.8,941,"['Endosome', 'Late endosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Lysosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Early endosome', 'Cytoplasmic vesicle', 'Cytoplasmic vesicle, autophagosome', 'Cytoplasmic vesicle, clathrin-coated vesicle']",114,72
+Q9H2M9,RAB3GAP2,10.8,1393,"['Cytoplasm', 'Endoplasmic reticulum']",54,81
+Q9H444,CHMP4B,54.9,224,"['Cytoplasm, cytosol', 'Late endosome membrane; Peripheral membrane protein', 'Midbody', 'Nucleus envelope']",226,649
+Q9H492,MAP1LC3A,0.0,121,"['Cytoplasmic vesicle, autophagosome membrane; Lipid-anchor', 'Endomembrane system; Lipid-anchor', 'Cytoplasm, cytoskeleton']",547,475
+Q9H4P4,RNF41,0.0,317,None,317,136
+Q9H6K1,ILRUN,41.9,298,"['Cytoplasm', 'Nucleus']",72,0
+Q9H6L5,RETREG1,70.4,497,"['Golgi apparatus, cis-Golgi network membrane; Multi-pass membrane protein', 'Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Endoplasmic reticulum membrane; Multi-pass membrane protein']",270,0
+Q9H6U6,BCAS3,41.2,928,"['Nucleus', 'Cytoplasm', 'Cytoplasm, cytoskeleton', 'Preautophagosomal structure']",89,59
+Q9H714,RUBCNL,52.3,662,"['Cytoplasmic vesicle, autophagosome membrane; Peripheral membrane protein']",90,0
+Q9H8M9,EVA1A,78.3,152,"['Endoplasmic reticulum membrane; Single-pass membrane protein', 'Lysosome membrane; Single-pass membrane protein']",324,10
+Q9H9H4,VPS37B,53.3,285,['Late endosome membrane; Peripheral membrane protein'],33,46
+Q9HA65,TBC1D17,22.7,648,"['Cytoplasmic vesicle, autophagosome', 'Cytoplasm', 'Recycling endosome']",37,45
+Q9HAD4,WDR41,19.0,459,['Cytoplasm'],148,114
+Q9HBF4,ZFYVE1,9.1,777,"['Golgi apparatus, Golgi stack', 'Golgi apparatus', 'Endoplasmic reticulum', 'Lipid droplet', 'Preautophagosomal structure', 'Mitochondrion']",103,53
+Q9HC29,NOD2,4.5,1040,"['Cell membrane; Lipid-anchor', 'Basolateral cell membrane', 'Cytoplasm', 'Mitochondrion']",389,92
+Q9HCE0,EPG5,14.3,2579,"['Cytoplasm, perinuclear region', 'Lysosome']",281,9
+Q9HCE7,SMURF1,25.1,757,"['Cytoplasm', 'Cell membrane; Peripheral membrane protein; Cytoplasmic side']",404,272
+Q9HD42,CHMP1A,18.9,196,"['Cytoplasm', 'Endosome membrane; Peripheral membrane protein', 'Nucleus matrix']",321,85
+Q9NP79,VTA1,33.2,307,"['Cytoplasm', 'Endosome membrane; Peripheral membrane protein']",48,69
+Q9NQ11,ATP13A2,8.4,1180,"['Lysosome membrane; Multi-pass membrane protein', 'Late endosome membrane; Multi-pass membrane protein', 'Endosome, multivesicular body membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle, autophagosome membrane; Multi-pass membrane protein']",45,90
+Q9NQ88,TIGAR,0.0,270,"['Cytoplasm', 'Nucleus', 'Mitochondrion']",347,40
+Q9NQB0,TCF7L2,85.9,619,"['Nucleus, PML body', 'Nucleus']",113,232
+Q9NR00,TCIM,54.7,106,"['Cytoplasm', 'Nucleus, nucleolus', 'Nucleus speckle', 'Nucleus']",62,0
+Q9NRR5,UBQLN4,49.4,601,"['Nucleus', 'Cytoplasm', 'Chromosome', 'Endoplasmic reticulum', 'Cytoplasm, perinuclear region', 'Cytoplasmic vesicle, autophagosome']",167,222
+Q9NSK7,C19orf12,73.0,141,"['Mitochondrion', 'Mitochondrion membrane; Single-pass membrane protein', 'Endoplasmic reticulum', 'Cytoplasm, cytosol']",34,1
+Q9NSV4,DIAPH3,30.5,1193,"['Cytoplasm', 'Nucleus']",199,94
+Q9NT62,ATG3,24.8,314,['Cytoplasm'],384,63
+Q9NTK1,DEPP1,100.0,212,"['Cytoplasm', 'Peroxisome', 'Mitochondrion']",135,0
+Q9NV64,TMEM39A,19.5,488,['Endoplasmic reticulum membrane; Multi-pass membrane protein'],106,47
+Q9NVJ2,ARL8B,5.4,186,"['Late endosome membrane', 'Lysosome membrane', 'Cytoplasm, cytoskeleton, spindle', 'Cell projection, axon', 'Synapse', 'Cytolytic granule membrane', 'Early endosome membrane']",38,89
+Q9NVS9,PNPO,14.9,261,None,28,33
+Q9NX55,HYPK,55.8,121,"['Nucleus', 'Cytoplasm']",23,93
+Q9NYB9,ABI2,66.5,513,"['Cytoplasm', 'Nucleus']",121,256
+Q9NZ94,NLGN3,33.0,848,"['Cell membrane; Single-pass type I membrane protein', 'Synapse']",22,84
+Q9NZZ3,CHMP5,58.4,219,"['Cytoplasm, cytosol', 'Endosome membrane; Peripheral membrane protein', 'Midbody']",73,67
+Q9P1W9,PIM2,13.8,311,None,281,24
+Q9P253,VPS18,10.4,973,"['Late endosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Lysosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Early endosome', 'Cytoplasmic vesicle, autophagosome', 'Cytoplasmic vesicle, clathrin-coated vesicle']",194,92
+Q9P2M4,TBC1D14,51.1,693,"['Golgi apparatus, cis-Golgi network', 'Golgi apparatus, trans-Golgi network']",36,37
+Q9P2Y5,UVRAG,49.6,699,"['Late endosome', 'Lysosome', 'Cytoplasmic vesicle, autophagosome', 'Early endosome', 'Endoplasmic reticulum', 'Midbody', 'Chromosome, centromere']",320,75
+Q9UBE0,SAE1,11.0,346,['Nucleus'],14,91
+Q9UBN7,HDAC6,30.5,1215,"['Cytoplasm', 'Cytoplasm, cytoskeleton', 'Nucleus', 'Perikaryon', 'Cell projection, dendrite', 'Cell projection, axon', 'Cell projection, cilium', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, cilium basal body']",539,402
+Q9UBT2,UBA2,17.3,640,"['Cytoplasm', 'Nucleus']",59,109
+Q9UER7,DAXX,62.2,740,"['Cytoplasm', 'Nucleus, nucleoplasm', 'Nucleus, PML body', 'Nucleus, nucleolus', 'Chromosome, centromere']",88,306
+Q9UEU0,VTI1B,39.2,232,"['Early endosome membrane; Single-pass type IV membrane protein', 'Late endosome membrane; Single-pass type IV membrane protein', 'Lysosome membrane', 'Cytoplasmic granule', 'Recycling endosome membrane; Single-pass type IV membrane protein']",29,161
+Q9UFN0,NIPSNAP3A,10.9,247,"['Cytoplasm, cytosol']",9,82
+Q9UGL1,KDM5B,23.6,1544,['Nucleus'],114,78
+Q9UH77,KLHL3,6.3,587,"['Cytoplasm, cytosol', 'Cytoplasm, cytoskeleton']",98,29
+Q9UHD2,TBK1,9.3,729,['Cytoplasm'],475,279
+Q9UHD9,UBQLN2,53.4,624,"['Cytoplasm', 'Nucleus', 'Membrane', 'Cytoplasmic vesicle, autophagosome']",289,716
+Q9UIB8,CD84,41.4,345,['Cell membrane; Single-pass type I membrane protein'],174,5
+Q9UID3,VPS51,18.5,782,"['Golgi apparatus, trans-Golgi network', 'Recycling endosome']",61,110
+Q9UJY5,GGA1,35.5,639,"['Golgi apparatus, trans-Golgi network membrane; Peripheral membrane protein', 'Endosome membrane; Peripheral membrane protein', 'Early endosome membrane; Peripheral membrane protein']",60,87
+Q9UK41,VPS28,13.1,221,"['Cell membrane', 'Late endosome membrane; Peripheral membrane protein']",113,97
+Q9UKA2,FBXL4,14.2,621,"['Cytoplasm', 'Nucleus', 'Mitochondrion']",65,55
+Q9UKV8,AGO2,4.7,859,"['Cytoplasm, P-body', 'Nucleus']",141,426
+Q9ULC3,RAB23,24.1,237,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasm', 'Cytoplasmic vesicle, autophagosome', 'Endosome membrane', 'Cytoplasmic vesicle, phagosome', 'Cytoplasmic vesicle, phagosome membrane; Lipid-anchor; Cytoplasmic side']",379,43
+Q9UM07,PADI4,0.0,663,"['Cytoplasm', 'Nucleus', 'Cytoplasmic granule']",91,28
+Q9UMX0,UBQLN1,50.3,589,"['Cytoplasm', 'Nucleus', 'Endoplasmic reticulum', 'Cytoplasmic vesicle, autophagosome', 'Cell membrane']",414,359
+Q9UN37,VPS4A,6.9,437,"['Late endosome membrane; Peripheral membrane protein', 'Midbody', 'Cytoplasm, cytoskeleton, spindle']",232,62
+Q9UNA1,ARHGAP26,24.7,814,"['Cytoplasm', 'Cell junction, focal adhesion', 'Cytoplasm, cytoskeleton']",133,53
+Q9UNH6,SNX7,10.6,387,['Early endosome membrane; Peripheral membrane protein; Cytoplasmic side'],49,23
+Q9UNZ2,NSFL1C,35.4,370,"['Nucleus', 'Golgi apparatus, Golgi stack', 'Chromosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",49,128
+Q9UQN3,CHMP2B,56.3,213,"['Cytoplasm, cytosol', 'Late endosome membrane; Peripheral membrane protein']",90,52
+Q9Y239,NOD1,4.8,953,"['Cell membrane; Lipid-anchor', 'Apical cell membrane', 'Basolateral cell membrane', 'Cytoplasm']",333,29
+Q9Y258,CCL26,38.3,94,['Secreted'],0,14
+Q9Y263,PLAA,10.1,795,"['Nucleus', 'Cytoplasm', 'Synapse']",74,71
+Q9Y296,TRAPPC4,1.8,219,"['Postsynaptic cell membrane', 'Golgi apparatus membrane', 'Endoplasmic reticulum', 'Vesicle']",225,62
+Q9Y2G8,DNAJC16,18.9,782,['Endoplasmic reticulum membrane; Single-pass type IV membrane protein'],0,199
+Q9Y2R2,PTPN22,62.6,807,['Cytoplasm'],411,56
+Q9Y371,SH3GLB1,19.2,365,"['Cytoplasm', 'Golgi apparatus membrane; Peripheral membrane protein', 'Mitochondrion outer membrane; Peripheral membrane protein', 'Cytoplasmic vesicle, autophagosome membrane', 'Midbody']",292,129
+Q9Y3C8,UFC1,0.6,167,None,99,52
+Q9Y3D6,FIS1,19.1,152,"['Mitochondrion outer membrane; Single-pass membrane protein', 'Peroxisome membrane; Single-pass membrane protein']",91,196
+Q9Y3E7,CHMP3,30.2,222,"['Cytoplasm, cytosol', 'Membrane; Lipid-anchor', 'Endosome', 'Late endosome membrane']",156,54
+Q9Y3I1,FBXO7,39.7,522,"['Cytoplasm', 'Nucleus', 'Mitochondrion', 'Cytoplasm, cytosol']",237,227
+Q9Y3M2,CBY1,48.4,126,"['Nucleus speckle', 'Cytoplasm, cytoskeleton, cilium basal body', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriole', 'Golgi apparatus', 'Golgi apparatus, trans- Golgi network']",46,166
+Q9Y484,WDR45,0.0,360,"['Preautophagosomal structure', 'Cytoplasm']",24,41
+Q9Y4G2,PLEKHM1,37.2,1056,"['Autolysosome membrane', 'Endosome membrane', 'Late endosome membrane', 'Lysosome membrane']",110,28
+Q9Y4K3,TRAF6,17.8,522,"['Cytoplasm', 'Cytoplasm, cell cortex', 'Nucleus', 'Lipid droplet']",698,605
+Q9Y4P1,ATG4B,11.2,393,"['Cytoplasm', 'Cytoplasm, cytosol', 'Cytoplasmic vesicle, autophagosome', 'Endoplasmic reticulum', 'Mitochondrion']",326,45
+Q9Y4P8,WIPI2,22.5,454,['Preautophagosomal structure membrane; Peripheral membrane protein; Cytoplasmic side'],300,80
+Q9Y577,TRIM17,5.7,477,"['Cytoplasm', 'Lysosome']",81,28
+Q9Y5B0,CTDP1,51.6,961,"['Nucleus', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, spindle pole', 'Midbody']",13,147
+Q9Y5W7,SNX14,22.0,946,"['Lysosome membrane; Multi-pass membrane protein', 'Late endosome membrane; Multi-pass membrane protein', 'Cell projection, dendrite']",54,51
+Q9Y613,FHOD1,35.0,1164,"['Cytoplasm', 'Cytoplasm, cytoskeleton', 'Cell projection, bleb']",24,61
+Q9Y679,AUP1,19.8,410,"['Endoplasmic reticulum membrane; Peripheral membrane protein', 'Lipid droplet', 'Cytoplasmic vesicle, autophagosome']",121,200
+Q9Y6I9,TEX264,39.6,313,"['Endoplasmic reticulum membrane; Single-pass type III membrane protein', 'Cytoplasmic vesicle, autophagosome', 'Cytoplasm, cytosol', 'Nucleus', 'Chromosome']",17,159
+Q9Y6Q9,NCOA3,79.1,1424,"['Cytoplasm', 'Nucleus']",111,150
+A5YKK6,CNOT1,13.9,2376,"['Cytoplasm, P-body', 'Nucleus']",17,203
+A6NF83,NUPR2,90.7,97,['Nucleus'],1,0
+O00268,TAF4,77.7,1085,['Nucleus'],13,107
+O00522,KRIT1,11.4,736,"['Cytoplasm, cytoskeleton', 'Cell membrane; Peripheral membrane protein', 'Cell junction']",6,35
+O00571,DDX3X,33.7,662,"['Cell membrane', 'Nucleus', 'Cytoplasm', 'Cytoplasm, Stress granule', 'Inflammasome', 'Cell projection, lamellipodium', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",60,473
+O00585,CCL21,56.0,134,['Secreted'],74,19
+O14519,CDK2AP1,62.6,115,"['Nucleus', 'Chromosome']",50,111
+O14558,HSPB6,43.1,160,"['Cytoplasm', 'Nucleus', 'Secreted']",35,11
+O14672,ADAM10,13.2,748,"['Cell membrane; Single-pass type I membrane protein', 'Golgi apparatus membrane; Single-pass type I membrane protein', 'Cytoplasmic vesicle, clathrin-coated vesicle', 'Cell projection, axon', 'Cell projection, dendrite', 'Cell junction, adherens junction', 'Cytoplasm']",102,140
+O14713,ITGB1BP1,29.5,200,"['Nucleus', 'Cytoplasm', 'Cytoplasm, cytoskeleton', 'Cell membrane', 'Cell projection, lamellipodium', 'Cell projection, ruffle']",14,24
+O14733,MAP2K7,21.5,419,"['Nucleus', 'Cytoplasm']",68,95
+O14745,NHERF1,45.0,358,"['Cytoplasm', 'Apical cell membrane', 'Endomembrane system; Peripheral membrane protein', 'Cell projection, filopodium', 'Cell projection, ruffle', 'Cell projection, microvillus']",119,155
+O14776,TCERG1,44.9,1098,['Nucleus'],25,132
+O14810,CPLX1,70.9,134,"['Cytoplasm, cytosol', 'Perikaryon', 'Presynapse']",39,39
+O14936,CASK,13.5,926,"['Nucleus', 'Cytoplasm', 'Cell membrane; Peripheral membrane protein']",44,168
+O14958,CASQ2,14.0,399,['Sarcoplasmic reticulum lumen'],5,60
+O14974,PPP1R12A,71.8,1030,"['Cytoplasm', 'Cytoplasm, cytoskeleton, stress fiber']",59,200
+O15169,AXIN1,73.9,862,"['Cytoplasm', 'Nucleus', 'Membrane', 'Cell membrane']",100,155
+O15234,CASC3,97.3,703,"['Cytoplasm', 'Cytoplasm, perinuclear region', 'Nucleus', 'Nucleus speckle', 'Cytoplasm, Stress granule', 'Cytoplasm, Cytoplasmic ribonucleoprotein granule', 'Cell projection, dendrite']",35,110
+O15273,TCAP,61.1,167,"['Cytoplasm, myofibril, sarcomere']",37,52
+O43172,PRPF4,19.7,522,"['Nucleus', 'Nucleus speckle']",15,193
+O43312,MTSS1,68.5,755,"['Cytoplasm, cytoskeleton']",105,17
+O43313,ATMIN,83.8,823,['Nucleus'],30,12
+O43474,KLF4,82.5,513,"['Nucleus', 'Cytoplasm']",157,144
+O43516,WIPF1,100.0,503,"['Cytoplasmic vesicle', 'Cytoplasm, cytoskeleton', 'Cell projection, ruffle']",39,38
+O43663,PRC1,28.4,620,"['Nucleus', 'Cytoplasm', 'Cytoplasm, cytoskeleton, spindle pole', 'Midbody', 'Chromosome']",29,908
+O43715,TRIAP1,28.9,76,"['Mitochondrion', 'Mitochondrion intermembrane space']",25,47
+O60502,OGA,25.4,916,None,45,64
+O60566,BUB1B,42.9,1050,"['Cytoplasm', 'Nucleus', 'Chromosome, centromere, kinetochore', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",73,124
+O60701,UGDH,4.7,494,None,13,65
+O60741,HCN1,39.1,890,['Cell membrane; Multi-pass membrane protein'],18,59
+O60828,PQBP1,80.0,265,"['Nucleus', 'Nucleus speckle', 'Cytoplasmic granule']",25,72
+O60829,PAGE4,100.0,102,"['Cytoplasm', 'Nucleus', 'Mitochondrion']",14,246
+O60885,BRD4,78.4,1362,"['Nucleus', 'Chromosome']",138,1452
+O60888,CUTA,38.5,179,None,19,41
+O75496,GMNN,73.2,209,"['Cytoplasm', 'Nucleus']",40,97
+O75506,HSBP1,60.5,76,['Nucleus'],35,48
+O75533,SF3B1,33.3,1304,"['Nucleus', 'Nucleus speckle']",14,338
+O75554,WBP4,71.8,376,"['Nucleus', 'Nucleus speckle']",6,94
+O75683,SURF6,69.8,361,"['Nucleus, nucleoplasm', 'Nucleus, nucleolus']",55,351
+O75807,PPP1R15A,95.4,674,"['Endoplasmic reticulum membrane; Peripheral membrane protein; Cytoplasmic side', 'Mitochondrion outer membrane; Peripheral membrane protein; Cytoplasmic side']",49,128
+O75817,POP7,17.1,140,"['Nucleus, nucleolus', 'Cytoplasm', 'Cytoplasmic granule']",4,53
+O75928,PIAS2,43.8,621,"['Nucleus speckle', 'Nucleus, PML body', 'Nucleus']",47,155
+O76074,PDE5A,13.3,875,None,31,14
+O94907,DKK1,50.4,266,['Secreted'],111,19
+O94986,CEP152,59.9,1710,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriole']",19,155
+O95149,SNUPN,16.7,360,"['Nucleus', 'Cytoplasm']",11,37
+O95292,VAPB,46.1,243,['Endoplasmic reticulum membrane; Single-pass type IV membrane protein'],69,349
+O95400,CD2BP2,52.8,341,"['Cytoplasm', 'Nucleus']",8,183
+O95429,BAG4,82.3,457,['Cytoplasm'],50,199
+O95630,STAMBP,19.3,424,"['Nucleus', 'Membrane; Peripheral membrane protein', 'Cytoplasm', 'Early endosome']",84,77
+O95644,NFATC1,70.0,943,"['Cytoplasm', 'Nucleus']",97,151
+O95718,ESRRB,30.9,433,"['Nucleus', 'Cytoplasm', 'Chromosome']",61,96
+O96013,PAK4,46.7,591,['Cytoplasm'],12,317
+O96017,CHEK2,23.9,543,"['Nucleus, PML body', 'Nucleus, nucleoplasm']",127,165
+P01042,KNG1,47.8,644,"['Secreted, extracellular space']",61,47
+P01130,LDLR,20.8,860,"['Cell membrane; Single-pass type I membrane protein', 'Membrane, clathrin-coated pit', 'Golgi apparatus', 'Early endosome', 'Late endosome', 'Lysosome']",45,86
+P01137,TGFB1,10.8,390,"['[Latency-associated peptide]: Secreted, extracellular space, extracellular matrix', '[Transforming growth factor beta-1]: Secreted']",215,297
+P02533,KRT14,57.0,472,"['Cytoplasm', 'Nucleus']",36,132
+P02549,SPTA1,2.4,2419,"['Cytoplasm, cytoskeleton', 'Cytoplasm, cell cortex']",11,84
+P02655,APOC2,92.1,101,['Secreted'],15,35
+P02671,FGA,51.6,866,['Secreted'],54,81
+P02730,SLC4A1,7.5,911,"['Cell membrane; Multi-pass membrane protein', 'Basolateral cell membrane; Multi-pass membrane protein']",44,46
+P02808,STATH,100.0,62,['Secreted'],12,44
+P04083,ANXA1,0.0,346,"['Nucleus', 'Cytoplasm', 'Cell projection, cilium', 'Cell membrane', 'Membrane; Peripheral membrane protein', 'Endosome membrane; Peripheral membrane protein', 'Basolateral cell membrane', 'Apical cell membrane', 'Lateral cell membrane', 'Secreted', 'Secreted, extracellular space', 'Cell membrane; Peripheral membrane protein; Extracellular side', 'Secreted, extracellular exosome', 'Cytoplasmic vesicle, secretory vesicle lumen', 'Cell projection, phagocytic cup', 'Early endosome', 'Cytoplasmic vesicle membrane; Peripheral membrane protein']",121,199
+P04183,TK1,22.2,234,['Cytoplasm'],59,198
+P04198,MYCN,86.0,464,['Nucleus'],75,52
+P04271,S100B,0.0,92,"['Cytoplasm', 'Nucleus', 'Secreted']",77,159
+P04626,ERBB2,23.2,1255,"['Cell membrane; Single-pass type I membrane protein', 'Cell projection, ruffle membrane; Single-pass type I membrane protein']",204,475
+P04908,H2AC4,37.7,130,"['Nucleus', 'Chromosome']",21,507
+P05067,APP,44.3,770,"['Cell membrane; Single-pass type I membrane protein', 'Membrane; Single-pass type I membrane protein', 'Perikaryon', 'Cell projection, growth cone', 'Membrane, clathrin-coated pit', 'Early endosome', 'Cytoplasmic vesicle', '[C83]: Endoplasmic reticulum', 'Golgi apparatus', 'Early endosome', '[C99]: Early endosome', '[Soluble APP-beta]: Secreted', '[Amyloid-beta protein 40]: Cell surface', '[Amyloid-beta protein 42]: Cell surface', '[Gamma-secretase C-terminal fragment 59]: Nucleus', 'Cytoplasm']",188,885
+P05106,ITGB3,11.8,788,"['Cell membrane; Single-pass type I membrane protein', 'Cell projection, lamellipodium membrane', 'Cell junction, focal adhesion', 'Postsynaptic cell membrane; Single-pass type I membrane protein', 'Synapse']",140,53
+P05107,ITGB2,12.0,769,"['Cell membrane; Single-pass type I membrane protein', 'Membrane raft; Single-pass type I membrane protein']",80,52
+P05386,RPLP1,49.1,114,None,24,239
+P05387,RPLP2,53.0,115,None,6,310
+P05556,ITGB1,11.5,798,"['Cell membrane; Single-pass type I membrane protein', 'Cell projection, invadopodium membrane; Single-pass type I membrane protein', 'Cell projection, ruffle membrane; Single-pass type I membrane protein', 'Recycling endosome', 'Melanosome', 'Cleavage furrow', 'Cell projection, lamellipodium', 'Cell junction, focal adhesion']",28,275
+P06239,LCK,11.6,509,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasm, cytosol']",92,389
+P06400,RB1,26.0,928,['Nucleus'],188,268
+P06401,PGR,65.4,933,"['Nucleus', 'Cytoplasm']",76,131
+P06454,PTMA,100.0,111,['Nucleus'],40,148
+P06730,EIF4E,15.7,217,"['Cytoplasm, P-body', 'Cytoplasm', 'Cytoplasm, Stress granule', 'Nucleus', 'Nucleus speckle', 'Nucleus, nuclear body']",112,115
+P06748,NPM1,46.3,294,"['Nucleus, nucleolus', 'Nucleus, nucleoplasm', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",135,887
+P06899,H2BC11,43.7,126,"['Nucleus', 'Chromosome']",28,94
+P07199,CENPB,34.2,599,"['Nucleus', 'Chromosome, centromere']",9,100
+P07237,P4HB,9.8,508,"['Endoplasmic reticulum', 'Endoplasmic reticulum lumen', 'Melanosome', 'Cell membrane; Peripheral membrane protein']",109,334
+P07305,H1-0,63.9,194,"['Nucleus', 'Chromosome']",10,135
+P08235,NR3C2,66.9,984,"['Cytoplasm', 'Nucleus', 'Endoplasmic reticulum membrane; Peripheral membrane protein']",75,36
+P08240,SRPRA,30.7,638,['Endoplasmic reticulum membrane; Peripheral membrane protein; Cytoplasmic side'],6,0
+P08263,GSTA1,0.0,222,['Cytoplasm'],36,20
+P08514,ITGA2B,11.6,1039,['Membrane; Single-pass type I membrane protein'],34,15
+P08621,SNRNP70,64.8,437,"['Nucleus speckle', 'Nucleus, nucleoplasm']",36,884
+P08631,HCK,15.2,526,"['Cytoplasmic vesicle, secretory vesicle', 'Cytoplasm, cytosol']",75,149
+P09012,SNRPA,36.5,282,['Nucleus'],18,207
+P09038,FGF2,51.7,288,"['Secreted', 'Nucleus']",138,40
+P09327,VIL1,5.7,827,"['Cytoplasm, cytoskeleton', 'Cell projection, lamellipodium', 'Cell projection, ruffle', 'Cell projection, microvillus', 'Cell projection, filopodium tip', 'Cell projection, filopodium']",57,18
+P0CF51,TRGC1,22.0,173,['Cell membrane'],1,0
+P0DMV9,HSPA1B,5.0,641,"['Cytoplasm', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",140,785
+P10071,GLI3,88.7,1580,"['Nucleus', 'Cytoplasm', 'Cell projection, cilium']",77,61
+P10721,KIT,18.5,976,None,130,100
+P11021,HSPA5,6.4,654,"['Endoplasmic reticulum lumen', 'Melanosome', 'Cytoplasm', 'Cell surface']",188,0
+P11912,CD79A,50.4,226,['Cell membrane; Single-pass type I membrane protein'],15,219
+P12081,HARS1,2.8,509,['Cytoplasm'],22,0
+P12956,XRCC6,18.2,609,"['Nucleus', 'Chromosome']",69,700
+P13010,XRCC5,20.2,732,"['Nucleus', 'Nucleus, nucleolus', 'Chromosome']",82,396
+P13647,KRT5,63.4,590,['Cytoplasm'],45,120
+P13693,TPT1,12.8,172,['Cytoplasm'],143,292
+P13861,PRKAR2A,22.8,404,"['Cytoplasm', 'Cell membrane']",22,126
+P14598,NCF1,17.2,390,"['Cytoplasm, cytosol', 'Membrane; Peripheral membrane protein; Cytoplasmic side']",52,86
+P14653,HOXB1,82.7,301,['Nucleus'],22,33
+P14921,ETS1,48.1,441,"['Nucleus', 'Cytoplasm']",121,100
+P15311,EZR,7.0,586,"['Apical cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Cell projection', 'Cell projection, microvillus membrane; Peripheral membrane protein; Cytoplasmic side', 'Cell projection, ruffle membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasm, cell cortex', 'Cytoplasm, cytoskeleton', 'Cell projection, microvillus']",129,458
+P15382,KCNE1,97.7,129,"['Cell membrane; Single-pass type I membrane protein', 'Apical cell membrane', 'Membrane raft']",20,19
+P15391,CD19,54.1,556,"['Cell membrane; Single-pass type I membrane protein', 'Membrane raft; Single-pass type I membrane protein']",34,25
+P15516,HTN3,100.0,51,"['Secreted', '[His3-(20-43)-peptide]: Secreted', 'Mitochondrion']",17,27
+P15927,RPA2,26.3,270,"['Nucleus', 'Nucleus, PML body']",52,546
+P15941,MUC1,27.1,1255,"['Apical cell membrane; Single-pass type I membrane protein', '[Mucin-1 subunit beta]: Cell membrane', 'Cytoplasm', 'Nucleus']",50,145
+P16050,ALOX15,0.0,662,"['Cytoplasm, cytosol', 'Cell membrane; Peripheral membrane protein', 'Lipid droplet']",68,8
+P16070,CD44,78.8,742,"['Cell membrane; Single-pass type I membrane protein', 'Cell projection, microvillus', 'Secreted']",188,203
+P16220,CREB1,80.7,327,['Nucleus'],159,190
+P16333,NCK1,25.7,377,"['Cytoplasm', 'Endoplasmic reticulum', 'Nucleus']",55,306
+P16471,PRLR,63.3,622,['Membrane; Single-pass type I membrane protein'],82,23
+P17181,IFNAR1,26.2,557,None,75,51
+P17405,SMPD1,10.1,631,"['Lysosome', 'Lipid droplet', 'Secreted', '[Sphingomyelin phosphodiesterase, processed form]: Secreted, extracellular space']",60,30
+P17480,UBTF,26.3,764,"['Nucleus, nucleolus']",47,169
+P17677,GAP43,97.5,238,"['Cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Cell projection, growth cone membrane; Peripheral membrane protein; Cytoplasmic side', 'Synapse', 'Cell projection, filopodium membrane; Peripheral membrane protein', 'Perikaryon', 'Cell projection, dendrite', 'Cell projection, axon', 'Cytoplasm']",59,38
+P17931,LGALS3,46.0,250,"['Cytoplasm', 'Nucleus', 'Secreted']",53,308
+P18564,ITGB6,11.8,788,"['Cell membrane; Single-pass type I membrane protein', 'Cell junction, focal adhesion']",72,10
+P19634,SLC9A1,38.8,815,"['Cell membrane; Multi-pass membrane protein', 'Basolateral cell membrane; Multi-pass membrane protein']",94,103
+P20591,MX1,8.6,662,"['Cytoplasm', 'Endoplasmic reticulum membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasm, perinuclear region']",57,52
+P20823,HNF1A,71.8,631,['Nucleus'],97,62
+P21246,PTN,50.6,168,['Secreted'],80,99
+P21333,FLNA,4.0,2647,"['Cytoplasm, cell cortex', 'Cytoplasm, cytoskeleton', 'Perikaryon', 'Cell projection, growth cone']",110,459
+P21583,KITLG,49.1,273,['[Soluble KIT ligand]: Secreted'],96,15
+P22059,OSBP,27.9,807,"['Cytoplasm, cytosol', 'Cytoplasm, perinuclear region', 'Golgi apparatus membrane; Peripheral membrane protein', 'Endoplasmic reticulum membrane; Peripheral membrane protein', 'Golgi apparatus, trans-Golgi network']",48,74
+P22626,HNRNPA2B1,48.4,353,"['Nucleus', 'Nucleus, nucleoplasm', 'Cytoplasm', 'Cytoplasmic granule', 'Secreted, extracellular exosome']",90,394
+P23443,RPS6KB1,34.3,525,"['Synapse, synaptosome', 'Mitochondrion outer membrane', 'Mitochondrion']",129,77
+P24385,CCND1,14.2,295,"['Nucleus', 'Cytoplasm', 'Nucleus membrane']",173,232
+P24864,CCNE1,28.0,410,['Nucleus'],33,90
+P24928,POLR2A,23.4,1970,"['Nucleus', 'Cytoplasm', 'Chromosome']",89,391
+P25490,YY1,71.5,414,['Nucleus matrix'],150,393
+P26599,PTBP1,24.3,557,['Nucleus'],13,271
+P27708,CAD,4.7,2225,"['Cytoplasm', 'Nucleus']",5,309
+P27986,PIK3R1,9.5,724,None,149,415
+P28300,LOX,40.0,417,"['Secreted', 'Secreted, extracellular space']",109,48
+P28324,ELK4,77.7,431,['Nucleus'],9,81
+P28698,MZF1,41.1,734,['Nucleus'],50,29
+P28827,PTPRM,11.4,1452,['Cell membrane; Single-pass type I membrane protein'],44,59
+P29083,GTF2E1,41.0,439,['Nucleus'],9,76
+P29274,ADORA2A,25.7,412,['Cell membrane; Multi-pass membrane protein'],94,30
+P29375,KDM5A,28.5,1690,"['Nucleus, nucleolus', 'Nucleus']",7,46
+P29536,LMOD1,71.7,600,"['Cytoplasm, myofibril, sarcomere', 'Cytoplasm, cytoskeleton']",37,5
+P30260,CDC27,39.1,824,"['Nucleus', 'Cytoplasm, cytoskeleton, spindle']",59,191
+P30281,CCND3,18.2,292,"['Nucleus', 'Cytoplasm']",60,75
+P30307,CDC25C,60.0,473,['Nucleus'],74,131
+P31321,PRKAR1B,17.3,381,['Cell membrane'],25,149
+P31431,SDC4,92.9,198,None,61,70
+P33763,S100A5,5.4,92,None,11,9
+P35222,CTNNB1,23.3,781,"['Cytoplasm', 'Nucleus', 'Cytoplasm, cytoskeleton', 'Cell junction, adherens junction', 'Cell junction', 'Cell membrane', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, spindle pole', 'Synapse', 'Cytoplasm, cytoskeleton, cilium basal body']",235,838
+P35236,PTPN7,19.2,360,"['Cytoplasm', 'Cytoplasm, cytoskeleton']",3,61
+P35520,CBS,9.3,551,"['Cytoplasm', 'Nucleus']",66,103
+P35568,IRS1,82.4,1242,None,152,95
+P35637,FUS,78.5,526,['Nucleus'],41,578
+P35916,FLT4,23.8,1363,"['Cell membrane; Single-pass type I membrane protein', 'Cytoplasm', 'Nucleus']",87,33
+P36578,RPL4,27.2,427,['Cytoplasm'],22,579
+P36894,BMPR1A,17.5,532,"['Cell membrane; Single-pass type I membrane protein', 'Cell surface']",32,183
+P37173,TGFBR2,23.5,567,"['Cell membrane; Single-pass type I membrane protein', 'Membrane raft']",110,177
+P38919,EIF4A3,6.6,411,"['Nucleus', 'Nucleus speckle', 'Cytoplasm']",51,427
+P39748,FEN1,10.8,380,None,74,133
+P39905,GDNF,55.5,211,['Secreted'],14,25
+P40259,CD79B,44.1,229,['Cell membrane; Single-pass type I membrane protein'],22,105
+P40855,PEX19,45.5,299,"['Cytoplasm', 'Peroxisome membrane; Lipid-anchor; Cytoplasmic side']",25,175
+P41208,CETN2,15.7,172,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriole', 'Nucleus envelope', 'Nucleus, nuclear pore complex', 'Nucleus']",42,84
+P41236,PPP1R2,94.6,205,None,37,49
+P41567,EIF1,27.4,113,['Cytoplasm'],31,21
+P42224,STAT1,10.8,750,"['Cytoplasm', 'Nucleus']",177,258
+P42226,STAT6,25.7,847,"['Cytoplasm', 'Nucleus']",104,72
+P42568,MLLT3,63.6,568,"['Nucleus', 'Chromosome']",32,83
+P42768,WAS,59.6,502,"['Cytoplasm, cytoskeleton', 'Nucleus']",36,86
+P43403,ZAP70,7.4,619,"['Cytoplasm', 'Cell membrane; Peripheral membrane protein']",53,59
+P43629,KIR3DL1,34.5,444,['Cell membrane; Single-pass type I membrane protein'],24,11
+P45985,MAP2K4,22.6,399,"['Cytoplasm', 'Nucleus']",97,47
+P46108,CRK,25.0,304,"['Cytoplasm', 'Cell membrane']",69,405
+P46531,NOTCH1,24.7,2555,"['Cell membrane; Single-pass type I membrane protein', '[Notch 1 intracellular domain]: Nucleus']",203,311
+P47710,CSN1S1,99.5,185,['Secreted'],4,28
+P47813,EIF1AX,36.1,144,['Cytoplasm'],16,78
+P48788,TNNI2,62.6,182,None,23,24
+P49005,POLD2,9.8,469,['Nucleus'],30,52
+P49427,CDC34,21.6,236,"['Cytoplasm', 'Nucleus']",45,282
+P49736,MCM2,21.6,904,"['Nucleus', 'Chromosome']",85,927
+P49757,NUMB,74.0,651,"['Cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Endosome membrane; Peripheral membrane protein; Cytoplasmic side']",137,162
+P49765,VEGFB,58.5,207,['Secreted'],47,29
+P49790,NUP153,94.2,1475,"['Nucleus', 'Nucleus membrane', 'Nucleus, nuclear pore complex']",39,156
+P49848,TAF6,52.4,677,['Nucleus'],21,104
+P50402,EMD,81.9,254,"['Nucleus inner membrane; Single-pass membrane protein; Nucleoplasmic side', 'Nucleus outer membrane']",21,668
+P50553,ASCL1,76.7,236,['Nucleus'],40,34
+P50616,TOB1,65.5,345,"['Cytoplasm', 'Nucleus']",62,49
+P50750,CDK9,12.6,372,"['Nucleus', 'Cytoplasm', 'Nucleus, PML body']",76,629
+P51449,RORC,32.4,518,['Nucleus'],51,45
+P51617,IRAK1,40.3,712,"['Cytoplasm', 'Nucleus', 'Lipid droplet']",98,183
+P51825,AFF1,84.1,1210,['Nucleus'],25,48
+P51965,UBE2E1,21.8,193,['Nucleus'],32,125
+P52272,HNRNPM,63.0,730,"['Nucleus, nucleolus']",43,483
+P52564,MAP2K6,10.5,334,"['Nucleus', 'Cytoplasm', 'Cytoplasm, cytoskeleton']",37,45
+P52597,HNRNPF,34.0,415,"['Nucleus, nucleoplasm']",16,371
+P52630,STAT2,22.2,851,"['Cytoplasm', 'Nucleus']",104,61
+P52799,EFNB2,51.4,333,"['Cell membrane; Single-pass type I membrane protein', 'Cell junction, adherens junction']",53,119
+P52926,HMGA2,100.0,109,['Nucleus'],6,57
+P52945,PDX1,82.0,283,"['Nucleus', 'Cytoplasm, cytosol']",4,11
+P52948,NUP98,53.7,1817,"['Nucleus membrane; Peripheral membrane protein; Nucleoplasmic side', 'Nucleus, nuclear pore complex', 'Nucleus, nucleoplasm', 'Nucleus membrane']",37,265
+P53779,MAPK10,20.5,464,"['Cytoplasm', 'Membrane; Lipid-anchor', 'Nucleus', 'Mitochondrion']",44,44
+P53999,SUB1,50.4,127,['Nucleus'],35,136
+P54274,TERF1,43.7,439,"['Nucleus', 'Cytoplasm, cytoskeleton, spindle', 'Chromosome, telomere']",52,325
+P55036,PSMD4,39.3,377,None,25,257
+P55042,RRAD,42.2,308,['Cell membrane'],48,13
+P55735,SEC13,5.9,322,"['Cytoplasmic vesicle, COPII-coated vesicle membrane; Peripheral membrane protein; Cytoplasmic side', 'Endoplasmic reticulum membrane; Peripheral membrane protein; Cytoplasmic side', 'Nucleus, nuclear pore complex', 'Lysosome membrane']",52,146
+P55957,BID,20.5,195,"['Cytoplasm', 'Mitochondrion membrane', 'Mitochondrion outer membrane', '[BH3-interacting domain death agonist p15]: Mitochondrion membrane', '[BH3-interacting domain death agonist p13]: Mitochondrion membrane']",57,75
+P56696,KCNQ4,46.2,695,['Basal cell membrane; Multi-pass membrane protein'],9,6
+P58753,TIRAP,34.8,221,"['Cytoplasm', 'Cell membrane', 'Membrane']",16,47
+P60006,ANAPC15,100.0,121,None,13,37
+P60604,UBE2G2,0.0,165,"['Endoplasmic reticulum', 'Lipid droplet']",17,66
+P60880,SNAP25,31.6,206,"['Cytoplasm, perinuclear region', 'Cell membrane; Lipid-anchor', 'Synapse, synaptosome', 'Photoreceptor inner segment']",73,73
+P61073,CXCR4,17.6,352,"['Cell membrane; Multi-pass membrane protein', 'Cell junction', 'Early endosome', 'Late endosome', 'Lysosome']",206,235
+P61925,PKIA,100.0,76,None,10,10
+P62318,SNRPD3,34.9,126,"['Cytoplasm, cytosol', 'Nucleus']",8,242
+P62805,H4C1,35.0,103,"['Nucleus', 'Chromosome']",76,1665
+P62826,RAN,18.5,216,"['Nucleus', 'Nucleus envelope', 'Cytoplasm, cytosol', 'Cytoplasm', 'Melanosome']",111,250
+P62877,RBX1,35.2,108,"['Cytoplasm', 'Nucleus']",131,456
+P63165,SUMO1,28.7,101,"['Nucleus membrane', 'Nucleus speckle', 'Cytoplasm', 'Nucleus, PML body', 'Cell membrane', 'Nucleus']",168,1035
+P63241,EIF5A,10.4,154,"['Cytoplasm', 'Nucleus', 'Endoplasmic reticulum membrane; Peripheral membrane protein; Cytoplasmic side']",88,148
+P68363,TUBA1B,2.9,451,"['Cytoplasm, cytoskeleton']",48,315
+P78330,PSPH,0.0,225,"['Cytoplasm, cytosol']",32,25
+P78362,SRPK2,39.8,688,"['Cytoplasm', 'Nucleus, nucleoplasm', 'Nucleus speckle', 'Chromosome']",68,385
+P78560,CRADD,0.0,199,"['Cytoplasm', 'Nucleus']",10,24
+P80192,MAP3K9,64.3,1104,None,50,9
+P80723,BASP1,100.0,227,"['Cell membrane; Lipid-anchor', 'Cell projection, growth cone']",19,195
+P83731,RPL24,54.8,157,['Cytoplasm'],5,302
+P84022,SMAD3,23.5,425,"['Cytoplasm', 'Nucleus']",164,355
+P98170,XIAP,22.7,497,"['Cytoplasm', 'Nucleus']",164,189
+P98177,FOXO4,84.2,505,"['Cytoplasm', 'Nucleus']",102,27
+Q00169,PITPNA,0.0,270,"['Cytoplasm', 'Nucleus']",7,23
+Q01081,U2AF1,24.6,240,"['Nucleus', 'Nucleus speckle']",26,190
+Q01094,E2F1,64.3,437,['Nucleus'],166,145
+Q01101,INSM1,77.8,510,['Nucleus'],16,9
+Q01831,XPC,49.3,940,"['Nucleus', 'Chromosome', 'Cytoplasm']",22,121
+Q01970,PLCB3,21.0,1234,"['Cytoplasm', 'Membrane', 'Nucleus']",42,60
+Q02078,MEF2A,89.3,507,['Nucleus'],43,71
+Q02413,DSG1,46.1,1049,"['Cell membrane; Single-pass type I membrane protein', 'Cell junction, desmosome', 'Cytoplasm', 'Nucleus']",25,131
+Q02548,PAX5,71.6,391,['Nucleus'],59,57
+Q03518,TAP1,14.0,748,['Endoplasmic reticulum membrane; Multi-pass membrane protein'],68,112
+Q03519,TAP2,0.0,686,['Endoplasmic reticulum membrane; Multi-pass membrane protein'],30,66
+Q04637,EIF4G1,60.7,1599,"['Cytoplasm', 'Nucleus', 'Cytoplasm, Stress granule']",69,229
+Q06609,RAD51,5.9,339,"['Nucleus', 'Cytoplasm', 'Cytoplasm, perinuclear region', 'Mitochondrion matrix', 'Chromosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",88,173
+Q06710,PAX8,74.9,450,['Nucleus'],19,100
+Q07666,KHDRBS1,64.6,443,"['Nucleus', 'Cytoplasm', 'Membrane']",91,259
+Q07812,BAX,6.2,192,None,77,112
+Q07866,KLC1,27.7,573,"['Cell projection, growth cone', 'Cytoplasmic vesicle', 'Cytoplasm, cytoskeleton']",50,115
+Q07889,SOS1,24.0,1333,None,44,73
+Q07912,TNK2,49.6,1038,"['Cell membrane', 'Nucleus', 'Endosome', 'Cell junction, adherens junction', 'Cytoplasmic vesicle membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasmic vesicle, clathrin-coated vesicle', 'Membrane, clathrin-coated pit', 'Cytoplasm, perinuclear region', 'Cytoplasm, cytosol']",104,98
+Q07955,SRSF1,38.3,248,"['Cytoplasm', 'Nucleus speckle']",80,438
+Q08050,FOXM1,82.4,763,['Nucleus'],134,93
+Q0JRZ9,FCHO2,35.3,810,"['Membrane, clathrin-coated pit; Peripheral membrane protein; Cytoplasmic side']",2,63
+Q12834,CDC20,36.7,499,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Chromosome, centromere, kinetochore', 'Cytoplasm, cytoskeleton, spindle pole']",117,187
+Q12905,ILF2,18.7,390,"['Nucleus, nucleolus', 'Cytoplasm', 'Nucleus']",89,467
+Q12972,PPP1R8,61.3,351,"['Nucleus', 'Nucleus speckle']",7,65
+Q13029,PRDM2,80.0,1718,['Nucleus'],45,26
+Q13042,CDC16,15.2,620,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, spindle']",13,186
+Q13148,TARDBP,43.0,414,"['Nucleus', 'Cytoplasm', 'Cytoplasm, Stress granule', 'Mitochondrion']",108,434
+Q13188,STK3,28.1,491,"['Cytoplasm', 'Nucleus', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",63,186
+Q13351,KLF1,75.4,362,['Nucleus'],27,33
+Q13415,ORC1,38.4,861,['Nucleus'],19,81
+Q13451,FKBP5,12.3,457,"['Cytoplasm', 'Nucleus']",109,177
+Q13464,ROCK1,43.0,1354,"['Cytoplasm', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriole', 'Golgi apparatus membrane; Peripheral membrane protein', 'Cell projection, bleb', 'Cytoplasm, cytoskeleton', 'Cell membrane', 'Cell projection, lamellipodium', 'Cell projection, ruffle']",179,107
+Q13469,NFATC2,69.3,925,"['Cytoplasm', 'Nucleus']",90,190
+Q13542,EIF4EBP2,65.8,120,"['Cytoplasm', 'Nucleus']",38,33
+Q13547,HDAC1,18.3,482,['Nucleus'],157,696
+Q13568,IRF5,38.2,498,"['Cytoplasm', 'Nucleus']",81,49
+Q13625,TP53BP2,71.9,1128,"['Cytoplasm, perinuclear region', 'Nucleus']",124,210
+Q13698,CACNA1S,25.1,1873,"['Cell membrane, sarcolemma, T-tubule; Multi-pass membrane protein']",6,11
+Q13740,ALCAM,17.2,583,"['Cell membrane; Single-pass type I membrane protein', 'Cell projection, axon', 'Cell projection, dendrite']",76,60
+Q14194,CRMP1,17.3,572,"['Cytoplasm', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, spindle', 'Cell projection, growth cone', 'Cytoplasm, cytoskeleton', 'Perikaryon']",65,123
+Q14493,SLBP,65.9,270,"['Cytoplasm', 'Nucleus']",17,55
+Q14653,IRF3,17.6,427,"['Cytoplasm', 'Nucleus', 'Mitochondrion']",142,122
+Q14978,NOLC1,87.8,699,"['Nucleus, nucleolus', 'Cytoplasm']",27,225
+Q15004,PCLAF,100.0,111,"['Nucleus', 'Cytoplasm, perinuclear region']",124,813
+Q15046,KARS1,15.7,597,None,36,201
+Q15109,AGER,28.0,404,None,139,34
+Q15113,PCOLCE,21.8,449,['Secreted'],4,12
+Q15418,RPS6KA1,12.5,735,"['Nucleus', 'Cytoplasm']",84,275
+Q15583,TGIF1,84.0,401,['Nucleus'],65,29
+Q15596,NCOA2,79.4,1464,['Nucleus'],65,105
+Q15637,SF1,67.6,639,['Nucleus'],31,315
+Q15642,TRIP10,31.8,601,"['Cytoplasm, cytoskeleton', 'Cytoplasm, cell cortex', 'Lysosome', 'Golgi apparatus', 'Cell membrane', 'Cell projection, phagocytic cup']",75,91
+Q15691,MAPRE1,35.1,268,"['Cytoplasm, cytoskeleton', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Golgi apparatus', 'Cytoplasm, cytoskeleton, spindle', 'Cytoplasm, cytoskeleton, spindle pole']",80,283
+Q15717,ELAVL1,23.0,326,"['Cytoplasm', 'Nucleus', 'Cytoplasm, Stress granule', 'Cytoplasm, P-body']",146,1828
+Q15726,KISS1,100.0,138,['Secreted'],86,9
+Q15796,SMAD2,33.2,467,"['Cytoplasm', 'Nucleus']",125,286
+Q15797,SMAD1,24.5,465,"['Cytoplasm', 'Nucleus']",77,186
+Q15843,NEDD8,16.0,81,['Nucleus'],102,780
+Q15910,EZH2,29.6,746,['Nucleus'],158,705
+Q16186,ADRM1,54.3,407,"['Cytoplasm', 'Nucleus']",56,115
+Q16236,NFE2L2,72.1,605,"['Cytoplasm, cytosol', 'Nucleus']",192,131
+Q16543,CDC37,20.6,378,['Cytoplasm'],69,490
+Q16576,RBBP7,5.6,425,['Nucleus'],37,267
+Q16611,BAK1,4.3,211,['Mitochondrion outer membrane; Single-pass membrane protein'],148,40
+Q16647,PTGIS,3.0,500,['Endoplasmic reticulum membrane; Single-pass membrane protein'],26,4
+Q16790,CA9,44.2,459,"['Nucleus', 'Nucleus, nucleolus', 'Cell membrane; Single-pass type I membrane protein', 'Cell projection, microvillus membrane; Single-pass type I membrane protein']",79,199
+Q3MIT2,PUS10,9.3,529,"['Nucleus', 'Cytoplasm', 'Mitochondrion']",2,5
+Q53GG5,PDLIM3,51.6,364,"['Cytoplasm, myofibril, sarcomere, Z line']",10,22
+Q5SQI0,ATAT1,53.4,421,"['Cytoplasm', 'Membrane, clathrin-coated pit', 'Cell junction, focal adhesion', 'Cell projection, axon', 'Cytoplasm, cytoskeleton', 'Cytoplasm, cytoskeleton, spindle']",15,7
+Q5T4W7,ARTN,56.4,220,['Secreted'],3,2
+Q5VZK9,CARMIL1,35.7,1371,"['Cytoplasm', 'Cytoplasm, cytoskeleton', 'Cell membrane', 'Cell projection, lamellipodium']",5,0
+Q68DK7,MSL1,89.4,614,"['Nucleus', 'Nucleus, nucleoplasm', 'Nucleus speckle']",6,48
+Q6FI81,CIAPIN1,41.7,312,"['Cytoplasm', 'Nucleus', 'Mitochondrion intermembrane space']",41,59
+Q6NUK1,SLC25A24,4.0,477,['Mitochondrion inner membrane; Multi-pass membrane protein'],3,115
+Q6P3W2,DNAJC24,7.4,149,"['Cytoplasm, cytoskeleton']",6,4
+Q6P5W5,SLC39A4,19.6,647,"['Cell membrane; Multi-pass membrane protein', 'Recycling endosome membrane; Multi-pass membrane protein', 'Apical cell membrane; Multi-pass membrane protein']",78,158
+Q6PHW0,IYD,34.3,289,"['Cell membrane; Single-pass membrane protein', 'Cytoplasmic vesicle membrane']",0,9
+Q6VMQ6,ATF7IP,88.3,1270,['Nucleus'],23,117
+Q71UI9,H2AZ2,35.9,128,"['Nucleus', 'Chromosome']",1,93
+Q7RTP6,MICAL3,56.1,2002,"['Cytoplasm', 'Cytoplasm, cell cortex', 'Cytoplasm, cytoskeleton', 'Nucleus', 'Midbody', 'Cytoplasm, cytoskeleton, spindle', 'Cytoplasm, cytoskeleton, cilium basal body']",24,55
+Q86UE8,TLK2,39.1,772,"['Nucleus', 'Nucleus, nucleoplasm', 'Cytoplasm, perinuclear region', 'Cytoplasm, cytoskeleton']",22,62
+Q86UX7,FERMT3,10.2,667,"['Cell projection, podosome']",74,49
+Q86YV5,PRAG1,71.2,1406,"['Cytoplasm', 'Cell junction, focal adhesion', 'Nucleus']",42,0
+Q8IU57,IFNLR1,59.6,520,['Membrane; Single-pass type I membrane protein'],27,33
+Q8IUQ4,SIAH1,11.7,282,"['Cytoplasm', 'Nucleus']",101,186
+Q8IV16,GPIHBP1,57.6,184,"['Apical cell membrane; Lipid-anchor, GPI-anchor', 'Basolateral cell membrane; Lipid-anchor, GPI-anchor', 'Cell membrane; Lipid-anchor, GPI-anchor']",0,126
+Q8IVG9,MT-RNR2,100.0,24,"['Secreted', 'Cytoplasm', 'Cell projection, cilium, flagellum', 'Nucleus', 'Mitochondrion']",3,9
+Q8IW19,APLF,72.2,511,"['Nucleus', 'Chromosome', 'Cytoplasm, cytosol']",17,33
+Q8IYB3,SRRM1,87.3,904,"['Nucleus matrix', 'Nucleus speckle']",15,262
+Q8IYW5,RNF168,72.0,571,['Nucleus'],66,75
+Q8IZD2,KMT2E,85.5,1858,"['Chromosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Nucleus speckle']",22,46
+Q8N1G2,CMTR1,13.1,835,['Nucleus'],9,183
+Q8N4Q1,CHCHD4,54.2,142,['Mitochondrion intermembrane space'],13,136
+Q8N5F7,NKAP,77.8,415,['Nucleus'],29,103
+Q8N5Y2,MSL3,42.8,521,['Nucleus'],2,21
+Q8NBP7,PCSK9,9.5,692,"['Cytoplasm', 'Secreted', 'Endosome', 'Lysosome', 'Cell surface', 'Endoplasmic reticulum', 'Golgi apparatus']",54,72
+Q8NG31,KNL1,81.6,2342,"['Nucleus', 'Chromosome, centromere, kinetochore']",59,0
+Q8NHZ8,CDC26,94.1,85,['Nucleus'],0,39
+Q8NI22,MCFD2,26.0,146,"['Endoplasmic reticulum-Golgi intermediate compartment', 'Endoplasmic reticulum', 'Golgi apparatus']",23,68
+Q8TEA8,DTD1,23.9,209,"['Nucleus', 'Cytoplasm']",21,20
+Q8TEK3,DOT1L,68.1,1537,['Nucleus'],37,61
+Q8TEP8,CEP192,57.8,2537,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriole']",13,145
+Q8WUG5,SLC22A17,12.6,649,"['Cell membrane; Multi-pass membrane protein', 'Vacuole membrane; Multi-pass membrane protein']",61,3
+Q8WUM0,NUP133,10.5,1156,"['Nucleus, nuclear pore complex', 'Chromosome, centromere, kinetochore']",1,124
+Q8WUP2,FBLIM1,45.8,373,"['Cell junction, focal adhesion', 'Cytoplasm, cytoskeleton, stress fiber']",46,39
+Q8WV28,BLNK,73.0,456,"['Cytoplasm', 'Cell membrane']",27,41
+Q8WXE9,STON2,49.4,905,"['Cytoplasm', 'Membrane', 'Synapse, synaptosome']",1,74
+Q8WYP5,AHCTF1,54.8,2266,"['Cytoplasm', 'Nucleus', 'Nucleus envelope', 'Nucleus matrix', 'Chromosome, centromere, kinetochore', 'Nucleus, nucleoplasm', 'Nucleus, nuclear pore complex']",11,107
+Q92540,SMG7,55.3,1137,"['Cytoplasm', 'Nucleus']",1,278
+Q92558,WASF1,75.8,559,"['Cytoplasm, cytoskeleton', 'Synapse', 'Cell junction, focal adhesion']",50,65
+Q92793,CREBBP,61.5,2442,"['Cytoplasm', 'Nucleus']",122,443
+Q92804,TAF15,80.7,592,"['Nucleus', 'Cytoplasm']",16,268
+Q92837,FRAT1,95.3,279,['Cytoplasm'],16,19
+Q92900,UPF1,26.4,1129,"['Cytoplasm', 'Cytoplasm, P-body', 'Nucleus', 'Cytoplasm, perinuclear region']",74,396
+Q92905,COPS5,12.3,334,"['Cytoplasm, cytosol', 'Nucleus', 'Cytoplasm, perinuclear region', 'Cytoplasmic vesicle, secretory vesicle, synaptic vesicle']",109,981
+Q92913,FGF13,40.4,245,"['Cell projection, filopodium', 'Cell projection, growth cone', 'Cell projection, dendrite', 'Cell membrane, sarcolemma', 'Cytoplasm']",3,110
+Q92945,KHSRP,57.8,711,"['Nucleus', 'Cytoplasm']",63,195
+Q92973,TNPO1,3.0,898,"['Cytoplasm', 'Nucleus']",40,159
+Q93009,USP7,6.7,1102,"['Nucleus', 'Cytoplasm', 'Nucleus, PML body', 'Chromosome']",112,470
+Q969R2,OSBP2,33.2,916,['Membrane; Peripheral membrane protein'],19,16
+Q96AC1,FERMT2,13.4,680,"['Cytoplasm', 'Cytoplasm, cell cortex', 'Cytoplasm, cytoskeleton', 'Cytoplasm, cytoskeleton, stress fiber', 'Cell junction, focal adhesion', 'Membrane; Peripheral membrane protein; Cytoplasmic side', 'Cell projection, lamellipodium membrane; Peripheral membrane protein; Cytoplasmic side', 'Nucleus', 'Cytoplasm, myofibril, sarcomere, I band', 'Cell surface']",121,147
+Q96AY2,EME1,47.4,570,"['Nucleus, nucleolus']",6,42
+Q96B02,UBE2W,6.6,151,['Nucleus'],28,87
+Q96DE5,ANAPC16,78.2,110,"['Cytoplasm', 'Nucleus', 'Chromosome, centromere, kinetochore']",13,55
+Q96F86,EDC3,38.4,508,"['Cytoplasm, P-body']",4,125
+Q96FI4,NEIL1,25.4,390,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Nucleus', 'Chromosome']",28,267
+Q96G97,BSCL2,42.5,398,"['Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Lipid droplet']",13,171
+Q96GC6,ZNF274,55.0,653,"['Cytoplasm', 'Nucleus, nucleolus']",7,15
+Q96GD4,AURKB,21.2,344,"['Nucleus', 'Chromosome', 'Chromosome, centromere', 'Chromosome, centromere, kinetochore', 'Cytoplasm, cytoskeleton, spindle', 'Midbody']",156,601
+Q96GU1,PAGE5,100.0,130,None,2,12
+Q96IZ0,PAWR,84.4,340,"['Cytoplasm', 'Nucleus']",121,77
+Q96N21,TEPSIN,52.8,525,"['Golgi apparatus, trans-Golgi network membrane; Peripheral membrane protein', 'Cytoplasmic vesicle', 'Cytoplasm, cytosol']",10,134
+Q96NW4,ANKRD27,25.0,1050,"['Early endosome', 'Late endosome', 'Cytoplasmic vesicle membrane', 'Lysosome', 'Cell membrane', 'Melanosome']",43,29
+Q96PM5,RCHY1,7.3,261,"['Nucleus', 'Nucleus speckle', 'Cytoplasm']",31,309
+Q96PU5,NEDD4L,34.1,975,"['Cytoplasm', 'Golgi apparatus', 'Endosome, multivesicular body']",125,170
+Q96PY5,FMNL2,33.4,1086,['Cytoplasm'],30,57
+Q96RF0,SNX18,33.8,628,"['Endomembrane system; Peripheral membrane protein; Cytoplasmic side', 'Endosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Recycling endosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasmic vesicle membrane; Peripheral membrane protein; Cytoplasmic side']",44,73
+Q96RI1,NR1H4,36.4,486,['Nucleus'],94,25
+Q96RS0,TGS1,56.4,853,"['Cytoplasm', 'Nucleus, Cajal body', 'Nucleus, nucleolus']",7,63
+Q96SD1,DCLRE1C,47.7,692,['Nucleus'],28,38
+Q96T88,UHRF1,17.3,793,['Nucleus'],85,132
+Q99075,HBEGF,51.0,208,"['[Heparin-binding EGF-like growth factor]: Secreted, extracellular space', '[Proheparin-binding EGF-like growth factor]: Cell membrane; Single-pass type I membrane protein']",60,18
+Q99523,SORT1,21.4,831,"['Golgi apparatus, Golgi stack membrane; Single-pass type I membrane protein', 'Endosome membrane; Single-pass type I membrane protein', 'Endoplasmic reticulum membrane; Single- pass type I membrane protein', 'Nucleus membrane; Single-pass type I membrane protein', 'Cell membrane; Single-pass type I membrane protein; Extracellular side', 'Lysosome membrane; Single-pass type I membrane protein']",87,187
+Q99958,FOXC2,80.6,501,['Nucleus'],91,42
+Q9BQ15,NABP2,54.5,211,['Nucleus'],4,59
+Q9BQB4,SOST,65.3,213,"['Secreted, extracellular space, extracellular matrix']",42,33
+Q9BS26,ERP44,9.4,406,['Endoplasmic reticulum lumen'],19,143
+Q9BSY4,CHCHD5,14.5,110,['Mitochondrion intermembrane space'],3,10
+Q9BTL3,RAMAC,100.0,118,['Nucleus'],0,0
+Q9BTT0,ANP32E,42.5,268,"['Cytoplasm', 'Nucleus']",33,102
+Q9BUH6,PAXX,33.3,204,"['Nucleus', 'Chromosome', 'Cytoplasm']",2,0
+Q9BUL9,RPP25,38.7,199,"['Nucleus, nucleolus']",18,50
+Q9BUQ8,DDX23,37.0,820,"['Nucleus', 'Chromosome']",23,364
+Q9BVI0,PHF20,67.6,1012,['Nucleus'],29,39
+Q9H1D0,TRPV6,18.8,765,['Cell membrane; Multi-pass membrane protein'],2,15
+Q9H211,CDT1,43.2,546,"['Nucleus', 'Chromosome, centromere, kinetochore']",35,70
+Q9H2Y7,ZNF106,76.7,1883,"['Nucleus, nucleolus', 'Nucleus speckle']",1,0
+Q9H816,DCLRE1B,36.1,532,"['Chromosome, telomere', 'Nucleus', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",14,29
+Q9H832,UBE2Z,29.7,354,"['Cytoplasm', 'Nucleus']",28,56
+Q9H8Y8,GORASP2,56.2,452,"['Golgi apparatus membrane; Lipid-anchor', 'Endoplasmic reticulum membrane', 'Golgi apparatus']",87,274
+Q9H900,ZWILCH,11.3,591,"['Chromosome, centromere, kinetochore']",16,21
+Q9H981,ACTR8,16.2,624,"['Nucleus', 'Chromosome']",2,42
+Q9HAN9,NMNAT1,11.8,279,['Nucleus'],31,108
+Q9HAU5,UPF2,32.0,1272,"['Cytoplasm, perinuclear region', 'Cytoplasm']",2,118
+Q9HCJ0,TNRC6C,86.9,1936,None,73,124
+Q9HD26,GOPC,31.2,462,"['Cytoplasm', 'Golgi apparatus membrane; Peripheral membrane protein', 'Golgi apparatus, trans-Golgi network membrane; Peripheral membrane protein', 'Synapse', 'Postsynaptic density', 'Cell projection, dendrite']",14,227
+Q9NP70,AMBN,100.0,447,"['Secreted, extracellular space, extracellular matrix']",55,6
+Q9NQA5,TRPV5,15.8,729,['Apical cell membrane; Multi-pass membrane protein'],22,28
+Q9NQI0,DDX4,40.7,724,"['Cytoplasm', 'Cytoplasm, perinuclear region']",25,19
+Q9NQS7,INCENP,85.5,918,"['Nucleus', 'Chromosome, centromere', 'Cytoplasm, cytoskeleton, spindle', 'Midbody', 'Chromosome, centromere, kinetochore']",37,57
+Q9NR28,DIABLO,31.0,239,"['Mitochondrion', 'Cytoplasm, cytosol']",48,215
+Q9NR61,DLL4,27.0,685,['Cell membrane; Single-pass type I membrane protein'],76,2
+Q9NRJ3,CCL28,54.3,127,['Secreted'],0,5
+Q9NRR4,DROSHA,32.1,1374,"['Nucleus', 'Nucleus, nucleolus']",84,72
+Q9NRY2,INIP,73.1,104,['Nucleus'],2,19
+Q9NUM4,TMEM106B,42.7,274,"['Late endosome membrane; Single-pass type II membrane protein', 'Lysosome membrane; Single-pass type II membrane protein', 'Cell membrane; Single-pass type II membrane protein']",30,276
+Q9UBB5,MBD2,60.8,411,"['Nucleus', 'Chromosome']",63,101
+Q9UBK2,PPARGC1A,85.6,798,None,130,64
+Q9UBU9,NXF1,25.5,619,"['Nucleus', 'Nucleus, nucleoplasm', 'Nucleus speckle', 'Nucleus, nuclear pore complex', 'Nucleus envelope', 'Cytoplasm', 'Cytoplasm, Stress granule']",45,1248
+Q9UBV7,B4GALT7,25.4,327,"['Golgi apparatus, Golgi stack membrane; Single- pass type II membrane protein']",0,56
+Q9UHB7,AFF4,82.0,1163,['Nucleus'],26,91
+Q9UJX2,CDC23,8.7,597,None,15,199
+Q9UJX3,ANAPC7,15.0,565,"['Cytoplasm, cytoskeleton', 'Nucleus', 'Cytoplasm, cytoskeleton, spindle']",14,113
+Q9UJX4,ANAPC5,3.7,755,"['Nucleus', 'Cytoplasm, cytoskeleton, spindle']",33,101
+Q9UJX5,ANAPC4,8.4,808,['Nucleus'],14,94
+Q9UJX6,ANAPC2,4.9,822,None,25,208
+Q9UKL0,RCOR1,61.6,485,['Nucleus'],35,166
+Q9UKT4,FBXO5,61.7,447,"['Nucleus', 'Cytoplasm', 'Cytoplasm, cytoskeleton, spindle']",30,39
+Q9UKT5,FBXO4,12.4,387,['Cytoplasm'],31,27
+Q9UKX7,NUP50,66.0,468,"['Nucleus, nuclear pore complex', 'Nucleus membrane; Peripheral membrane protein; Nucleoplasmic side']",15,260
+Q9UM11,FZR1,23.8,496,None,62,0
+Q9UMR2,DDX19B,10.2,479,"['Cytoplasm', 'Nucleus, nucleoplasm']",1,230
+Q9UMS4,PRPF19,13.3,504,"['Nucleus', 'Nucleus, nucleoplasm', 'Cytoplasm, cytoskeleton, spindle', 'Cytoplasm', 'Lipid droplet']",48,310
+Q9UMX1,SUFU,16.9,484,"['Cytoplasm', 'Nucleus']",69,90
+Q9UNA0,ADAMTS5,18.5,930,"['Secreted, extracellular space, extracellular matrix']",42,2
+Q9UNL4,ING4,30.1,249,['Nucleus'],8,74
+Q9UPR3,SMG5,24.1,1016,"['Cytoplasm', 'Nucleus']",4,68
+Q9UQC2,GAB2,82.2,676,"['Cytoplasm', 'Cell membrane', 'Membrane raft']",95,117
+Q9Y261,FOXA2,78.1,457,"['Nucleus', 'Cytoplasm']",84,22
+Q9Y3B4,SF3B6,8.0,125,['Nucleus'],0,141
+Q9Y6C2,EMILIN1,72.1,1016,"['Secreted, extracellular space, extracellular matrix']",26,98
+Q9Y6D6,ARFGEF1,20.6,1849,"['Cytoplasm', 'Cytoplasm, perinuclear region', 'Golgi apparatus', 'Golgi apparatus, trans-Golgi network membrane', 'Nucleus', 'Nucleus, nucleolus', 'Nucleus matrix']",36,91
+Q9Y6G9,DYNC1LI1,49.5,523,"['Cytoplasm', 'Chromosome, centromere, kinetochore', 'Cytoplasm, cytoskeleton, spindle pole', 'Recycling endosome membrane']",55,134
+Q9Y6H6,KCNE3,99.0,103,"['Cell membrane; Single-pass type I membrane protein', 'Cytoplasm', 'Perikaryon', 'Cell projection, dendrite', 'Membrane raft']",5,280
+Q9Y6K9,IKBKG,42.0,419,"['Cytoplasm', 'Nucleus']",113,483
+A0A1B0GTR3,CXorf51A,100.0,108,None,0,0
+A4D126,CRPPA,9.1,451,"['Cytoplasm, cytosol']",17,1
+A6ND01,IZUMO1R,15.2,250,"['Cell membrane; Lipid-anchor, GPI-anchor', 'Cell projection, microvillus membrane; Lipid- anchor, GPI-anchor']",0,1
+A6NI73,LILRA5,33.1,299,['Cell membrane; Single-pass type I membrane protein'],2,26
+A8K2U0,A2ML1,5.8,1454,['Secreted'],1,108
+O00299,CLIC1,0.0,241,"['Nucleus', 'Nucleus membrane; Single-pass membrane protein', 'Cytoplasm', 'Cell membrane; Single-pass membrane protein', 'Endoplasmic reticulum']",49,133
+O00308,WWP2,20.1,870,['Nucleus'],54,748
+O00410,IPO5,0.0,1097,"['Cytoplasm', 'Nucleus', 'Nucleus, nucleolus']",71,231
+O00411,POLRMT,13.5,1230,['Mitochondrion'],26,174
+O00548,DLL1,30.4,723,"['Apical cell membrane; Single-pass type I membrane protein', 'Cell junction, adherens junction', 'Membrane raft']",49,23
+O14678,ABCD4,5.1,606,"['Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Lysosome membrane; Multi-pass membrane protein']",1,37
+O14727,APAF1,0.8,1248,['Cytoplasm'],88,71
+O14965,AURKA,32.5,403,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, spindle pole', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriole', 'Cell projection, neuron projection', 'Cell projection, cilium', 'Cytoplasm, cytoskeleton, cilium basal body', 'Basolateral cell membrane']",137,379
+O14977,AZIN1,4.0,448,['Nucleus'],30,19
+O15054,KDM6B,64.5,1643,['Nucleus'],78,91
+O15151,MDM4,64.1,490,['Nucleus'],101,95
+O15247,CLIC2,3.6,247,"['Cytoplasm', 'Membrane; Single-pass membrane protein']",11,12
+O15344,MID1,8.5,667,"['Cytoplasm', 'Cytoplasm, cytoskeleton', 'Cytoplasm, cytoskeleton, spindle']",1,101
+O15391,YY2,67.5,372,['Nucleus'],13,8
+O15392,BIRC5,12.0,142,"['Cytoplasm', 'Nucleus', 'Chromosome', 'Chromosome, centromere', 'Cytoplasm, cytoskeleton, spindle', 'Chromosome, centromere, kinetochore', 'Midbody']",194,76
+O15550,KDM6A,36.8,1401,['Nucleus'],79,131
+O43318,MAP3K7,43.9,606,"['Cytoplasm', 'Cell membrane; Peripheral membrane protein; Cytoplasmic side']",133,254
+O43521,BCL2L11,90.9,198,['Endomembrane system; Peripheral membrane protein'],157,68
+O43776,NARS1,0.0,548,['Cytoplasm'],11,101
+O43791,SPOP,15.5,374,"['Nucleus', 'Nucleus speckle', 'Cytoplasm']",85,238
+O60239,SH3BP5,52.5,455,"['Cytoplasmic vesicle membrane; Peripheral membrane protein', 'Mitochondrion']",23,28
+O60486,PLXNC1,8.9,1568,['Membrane; Single-pass type I membrane protein'],18,12
+O60493,SNX3,14.8,162,"['Early endosome', 'Cytoplasmic vesicle, phagosome']",51,159
+O60508,CDC40,29.0,579,"['Nucleus', 'Nucleus speckle']",18,92
+O60568,PLOD3,4.5,738,"['Rough endoplasmic reticulum', 'Endoplasmic reticulum lumen', 'Endoplasmic reticulum membrane; Peripheral membrane protein; Lumenal side', 'Secreted', 'Secreted, extracellular space']",33,150
+O60825,PFKFB2,16.0,505,None,54,43
+O60880,SH2D1A,22.7,128,['Cytoplasm'],38,38
+O60934,NBN,55.2,754,"['Nucleus', 'Chromosome', 'Nucleus, PML body', 'Chromosome, telomere']",101,142
+O75056,SDC3,96.6,442,['Cell membrane; Single-pass type I membrane protein'],40,36
+O75151,PHF2,60.9,1096,"['Nucleus, nucleolus', 'Chromosome, centromere, kinetochore']",5,42
+O75223,GGCT,3.7,188,None,30,34
+O75475,PSIP1,62.1,530,['Nucleus'],55,133
+O75936,BBOX1,0.0,387,['Cytoplasm'],14,22
+O75970,MPDZ,36.7,2070,"['Cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Apical cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Postsynaptic density', 'Cell projection, dendrite', 'Cell junction, tight junction', 'Synapse', 'Synapse, synaptosome']",21,80
+O94829,IPO13,2.9,963,"['Cytoplasm', 'Nucleus']",22,74
+O94925,GLS,24.8,669,"['[Glutaminase kidney isoform, mitochondrial 68 kDa chain]: Mitochondrion matrix', '[Glutaminase kidney isoform, mitochondrial 65 kDa chain]: Mitochondrion matrix']",59,190
+O95147,DUSP14,14.1,198,None,31,159
+O95155,UBE4B,25.9,1302,"['Cytoplasm', 'Nucleus']",92,97
+O95197,RTN3,84.5,1032,"['Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Golgi apparatus membrane; Multi-pass membrane protein']",73,127
+O95391,SLU7,47.1,586,"['Nucleus', 'Nucleus speckle', 'Cytoplasm']",30,105
+O95696,BRD1,32.9,1058,"['Nucleus', 'Chromosome']",9,353
+O95822,MLYCD,6.3,493,"['Cytoplasm', 'Mitochondrion matrix', 'Peroxisome', 'Peroxisome matrix']",14,29
+O95835,LATS1,55.5,1130,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, spindle', 'Midbody', 'Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body']",95,209
+O95843,GUCA1C,19.6,209,None,1,3
+O96018,APBA3,37.9,575,"['Cytoplasm, perinuclear region']",32,63
+O96019,ACTL6A,4.9,429,['Nucleus'],54,190
+O96028,NSD2,41.5,1365,"['Nucleus', 'Chromosome']",9,320
+P00439,PAH,5.5,452,None,18,5
+P00488,F13A1,2.2,732,"['Cytoplasm', 'Secreted']",73,14
+P00492,HPRT1,0.5,218,['Cytoplasm'],17,89
+P00734,F2,14.0,622,"['Secreted, extracellular space']",31,35
+P00740,F9,20.4,461,['Secreted'],26,37
+P00742,F10,25.4,488,['Secreted'],34,25
+P00749,PLAU,8.8,431,['Secreted'],83,43
+P01009,SERPINA1,10.3,418,"['Secreted', 'Endoplasmic reticulum', '[Short peptide from AAT]: Secreted, extracellular space, extracellular matrix']",118,121
+P01019,AGT,8.2,476,['Secreted'],34,18
+P01023,A2M,4.8,1474,['Secreted'],71,149
+P01034,CST3,27.4,146,['Secreted'],76,23
+P01111,NRAS,9.5,189,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Golgi apparatus membrane; Lipid-anchor']",104,615
+P01116,KRAS,9.0,189,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Endomembrane system', 'Cytoplasm, cytosol']",198,1063
+P01127,PDGFB,58.5,241,['Secreted'],73,82
+P01215,CGA,31.0,116,['Secreted'],38,25
+P01732,CD8A,48.1,235,None,52,15
+P02760,AMBP,21.6,352,"['[Alpha-1-microglobulin]: Secreted', 'Endoplasmic reticulum', 'Cytoplasm, cytosol', 'Cell membrane; Peripheral membrane protein', 'Nucleus membrane; Peripheral membrane protein', 'Mitochondrion inner membrane; Peripheral membrane protein', 'Secreted, extracellular space, extracellular matrix', '[Inter-alpha-trypsin inhibitor light chain]: Secreted']",52,16
+P02774,GC,4.9,474,['Secreted'],58,51
+P03956,MMP1,5.1,469,"['Secreted, extracellular space, extracellular matrix']",136,11
+P04004,VTN,32.6,478,"['Secreted, extracellular space', 'Parasitophorous vacuole']",50,171
+P04035,HMGCR,20.9,888,"['Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Peroxisome membrane; Multi-pass membrane protein']",58,82
+P04554,PRM2,100.0,102,"['Nucleus', 'Chromosome']",13,37
+P05019,IGF1,73.8,195,['Secreted'],171,9
+P05231,IL6,22.2,212,['Secreted'],211,9
+P05451,REG1A,21.7,166,['Secreted'],27,5
+P05452,CLEC3B,26.7,202,['Secreted'],47,17
+P05546,SERPIND1,20.4,499,None,44,13
+P06734,FCER2,32.4,321,"['Cell membrane; Single-pass type II membrane protein', 'Cell membrane; Lipid-anchor', 'Secreted']",51,5
+P06756,ITGAV,11.6,1048,"['Cell membrane; Single-pass type I membrane protein', 'Cell junction, focal adhesion']",133,125
+P07197,NEFM,71.7,916,"['Cytoplasm, cytoskeleton', 'Cell projection, axon']",13,117
+P07355,ANXA2,6.5,339,"['Secreted, extracellular space, extracellular matrix, basement membrane', 'Melanosome']",136,313
+P07550,ADRB2,30.5,413,"['Cell membrane; Multi-pass membrane protein', 'Early endosome', 'Golgi apparatus']",138,303
+P07814,EPRS1,10.4,1512,"['Cytoplasm, cytosol', 'Membrane; Peripheral membrane protein']",46,252
+P07902,GALT,10.6,379,None,2,18
+P08253,MMP2,5.6,660,None,175,53
+P08294,SOD3,20.0,240,"['Secreted, extracellular space', 'Golgi apparatus, trans-Golgi network']",68,10
+P08572,COL4A2,87.0,1712,"['Secreted, extracellular space, extracellular matrix, basement membrane']",37,52
+P08581,MET,13.6,1390,['Membrane; Single-pass type I membrane protein'],199,182
+P08670,VIM,43.3,466,"['Cytoplasm', 'Cytoplasm, cytoskeleton', 'Nucleus matrix', 'Cell membrane']",158,641
+P09237,MMP7,10.9,267,"['Secreted, extracellular space, extracellular matrix']",118,21
+P09919,CSF3,17.9,207,['Secreted'],68,10
+P0DJI8,SAA1,11.5,122,['Secreted'],93,0
+P10619,CTSA,5.2,480,['Lysosome'],17,96
+P10997,IAPP,98.9,89,['Secreted'],55,8
+P11166,SLC2A1,3.7,492,"['Cell membrane; Multi-pass membrane protein', 'Melanosome', 'Photoreceptor inner segment']",179,201
+P11274,BCR,34.6,1271,"['Postsynaptic density', 'Cell projection, dendritic spine', 'Cell projection, axon', 'Synapse']",49,133
+P11686,SFTPC,60.9,197,"['Secreted, extracellular space, surface film']",42,207
+P11926,ODC1,10.8,461,None,41,23
+P11940,PABPC1,27.7,636,"['Cytoplasm', 'Cytoplasm, Stress granule', 'Nucleus', 'Cell projection, lamellipodium']",75,483
+P13674,P4HA1,6.9,534,['Endoplasmic reticulum lumen'],59,219
+P13797,PLS3,4.1,630,['Cytoplasm'],38,116
+P14678,SNRPB,64.6,240,"['Cytoplasm, cytosol', 'Nucleus']",63,265
+P14868,DARS1,6.4,501,"['Cytoplasm, cytosol']",7,160
+P15056,BRAF,37.9,766,"['Nucleus', 'Cytoplasm', 'Cell membrane']",130,152
+P15374,UCHL3,0.0,230,['Cytoplasm'],49,158
+P15498,VAV1,5.2,845,None,77,186
+P16035,TIMP2,10.0,220,['Secreted'],112,40
+P16278,GLB1,10.3,677,None,21,77
+P17947,SPI1,65.6,270,['Nucleus'],94,49
+P18065,IGFBP2,51.4,325,['Secreted'],88,8
+P18075,BMP7,22.3,431,['Secreted'],107,66
+P18615,NELFE,71.8,380,"['Nucleus', 'Chromosome']",15,61
+P18827,SDC1,95.2,310,"['Membrane; Single-pass type I membrane protein', 'Secreted', 'Secreted, extracellular exosome']",114,77
+P19525,EIF2AK2,21.6,551,"['Cytoplasm', 'Nucleus', 'Cytoplasm, perinuclear region']",113,305
+P19827,ITIH1,6.0,911,['Secreted'],11,16
+P19957,PI3,70.1,117,['Secreted'],32,6
+P20061,TCN1,7.6,433,['Secreted'],10,7
+P20340,RAB6A,17.8,208,"['Golgi apparatus membrane; Lipid- anchor', 'Cytoplasmic vesicle, secretory vesicle, acrosome membrane; Peripheral membrane protein']",51,100
+P20592,MX2,16.1,715,"['Cytoplasm', 'Nucleus', 'Nucleus, nuclear pore complex']",6,14
+P20807,CAPN3,13.5,821,"['Cytoplasm', 'Nucleus, nucleolus']",10,40
+P20849,COL9A1,77.1,921,"['Secreted, extracellular space, extracellular matrix']",19,9
+P21397,MAOA,4.4,527,['Mitochondrion outer membrane; Single-pass type IV membrane protein; Cytoplasmic side'],55,11
+P21580,TNFAIP3,36.7,790,"['Cytoplasm', 'Nucleus', 'Lysosome', '[A20p50]: Cytoplasm']",130,147
+P21675,TAF1,53.2,1893,['Nucleus'],40,206
+P22033,MMUT,5.1,750,"['Mitochondrion matrix', 'Mitochondrion', 'Cytoplasm']",3,35
+P22234,PAICS,1.9,425,None,4,178
+P23280,CA6,10.4,308,['Secreted'],3,62
+P23588,EIF4B,85.6,611,None,71,230
+P23677,ITPKA,40.1,461,"['Cytoplasm, cytoskeleton']",38,6
+P23771,GATA3,81.3,443,['Nucleus'],103,161
+P24588,AKAP5,98.1,427,['Postsynaptic recycling endosome membrane; Lipid- anchor'],12,61
+P25024,CXCR1,14.3,350,['Cell membrane; Multi-pass membrane protein'],65,15
+P26196,DDX6,18.0,483,"['Cytoplasm, P-body', 'Cytoplasm', 'Nucleus']",44,282
+P26368,U2AF2,26.7,475,['Nucleus'],36,478
+P26447,S100A4,14.9,101,"['Secreted', 'Nucleus', 'Cytoplasm']",103,131
+P27469,G0S2,89.3,103,['Mitochondrion'],34,17
+P27635,RPL10,2.3,214,['Cytoplasm'],28,581
+P28325,CST5,24.6,142,['Secreted'],20,34
+P28482,MAPK1,3.9,360,"['Cytoplasm, cytoskeleton, spindle', 'Nucleus', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm', 'Membrane, caveola', 'Cell junction, focal adhesion']",223,349
+P29317,EPHA2,8.2,976,"['Cell membrane; Single-pass type I membrane protein', 'Cell projection, ruffle membrane; Single-pass type I membrane protein', 'Cell projection, lamellipodium membrane; Single-pass type I membrane protein', 'Cell junction, focal adhesion']",131,238
+P29590,PML,32.0,882,"['Nucleus', 'Nucleus, nucleoplasm', 'Cytoplasm', 'Nucleus, PML body', 'Nucleus, nucleolus', 'Endoplasmic reticulum membrane; Peripheral membrane protein; Cytoplasmic side', 'Early endosome membrane; Peripheral membrane protein; Cytoplasmic side']",105,283
+P30518,AVPR2,23.7,371,['Cell membrane; Multi-pass membrane protein'],24,118
+P30542,ADORA1,7.4,326,['Cell membrane; Multi-pass membrane protein'],44,22
+P30793,GCH1,22.4,250,"['Cytoplasm', 'Nucleus']",58,58
+P31153,MAT2A,2.5,395,None,43,105
+P31327,CPS1,2.9,1500,"['Mitochondrion', 'Nucleus, nucleolus', 'Cell membrane; Peripheral membrane protein; Extracellular side']",13,113
+P31749,AKT1,12.3,480,"['Cytoplasm', 'Nucleus', 'Cell membrane']",261,437
+P33897,ABCD1,16.1,745,"['Peroxisome membrane; Multi-pass membrane protein', 'Mitochondrion membrane; Multi-pass membrane protein', 'Lysosome membrane; Multi-pass membrane protein', 'Endoplasmic reticulum membrane; Multi- pass membrane protein']",11,64
+P34741,SDC2,92.5,201,['Membrane; Single-pass type I membrane protein'],54,129
+P35052,GPC1,22.4,558,"['Cell membrane; Lipid-anchor, GPI-anchor; Extracellular side', 'Endosome', '[Secreted glypican-1]: Secreted, extracellular space']",51,164
+P35269,GTF2F1,63.8,517,['Nucleus'],6,148
+P35475,IDUA,6.1,653,['Lysosome'],5,49
+P35680,HNF1B,67.5,557,['Nucleus'],10,162
+P35813,PPM1A,3.4,382,"['Nucleus', 'Cytoplasm, cytosol', 'Membrane; Lipid- anchor']",78,115
+P36776,LONP1,18.2,959,['Mitochondrion matrix'],15,376
+P36871,PGM1,0.0,562,None,20,76
+P36888,FLT3,19.6,993,"['Membrane; Single-pass type I membrane protein', 'Endoplasmic reticulum lumen']",71,35
+P36952,SERPINB5,0.0,375,"['Secreted, extracellular space']",94,136
+P36955,SERPINF1,9.8,418,"['Secreted', 'Melanosome']",59,27
+P37268,FDFT1,3.4,417,['Endoplasmic reticulum membrane; Multi-pass membrane protein'],36,109
+P40692,MLH1,22.2,756,"['Nucleus', 'Chromosome']",6,229
+P40763,STAT3,13.5,770,"['Cytoplasm', 'Nucleus']",229,369
+P40818,USP8,36.5,1118,"['Cytoplasm', 'Nucleus', 'Endosome membrane; Peripheral membrane protein', 'Cell membrane; Peripheral membrane protein']",125,96
+P40939,HADHA,4.6,763,"['Mitochondrion', 'Mitochondrion inner membrane']",48,399
+P41214,EIF2D,17.0,584,['Cytoplasm'],6,32
+P41227,NAA10,28.9,235,"['Cytoplasm', 'Nucleus']",37,122
+P42166,TMPO,59.8,694,"['Nucleus', 'Chromosome']",41,608
+P42574,CASP3,18.1,277,['Cytoplasm'],216,117
+P42658,DPP6,15.5,865,['Cell membrane; Single-pass type II membrane protein'],45,15
+P42898,MTHFR,6.9,656,None,96,42
+P43026,GDF5,37.9,501,"['Secreted', 'Cell membrane']",35,35
+P43034,PAFAH1B1,3.4,410,"['Cytoplasm, cytoskeleton', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, spindle', 'Nucleus membrane']",58,108
+P43250,GRK6,6.8,576,['Membrane; Lipid-anchor'],48,45
+P45379,TNNT2,69.5,298,None,31,13
+P46379,BAG6,54.0,1132,"['Cytoplasm, cytosol', 'Nucleus', 'Secreted, extracellular exosome']",28,369
+P47897,QARS1,4.9,775,"['Cytoplasm, cytosol', 'Cytoplasm']",4,257
+P47992,XCL1,52.6,114,['Secreted'],20,8
+P48443,RXRG,32.4,463,"['Nucleus', 'Cytoplasm']",42,37
+P49023,PXN,58.5,591,"['Cytoplasm, cytoskeleton', 'Cell junction, focal adhesion', 'Cytoplasm, cell cortex']",104,279
+P49189,ALDH9A1,1.8,494,"['Cytoplasm, cytosol', 'Cytoplasm']",5,48
+P49257,LMAN1,29.6,510,"['Endoplasmic reticulum-Golgi intermediate compartment membrane; Single-pass type I membrane protein', 'Golgi apparatus membrane; Single-pass membrane protein', 'Endoplasmic reticulum membrane; Single-pass type I membrane protein']",42,393
+P49327,FASN,1.4,2511,"['Cytoplasm', 'Melanosome']",115,276
+P49366,DHPS,11.4,369,None,35,81
+P49753,ACOT2,14.5,483,['Mitochondrion'],1,89
+P49789,FHIT,0.0,147,"['Cytoplasm', 'Mitochondrion', 'Nucleus']",64,24
+P49902,NT5C2,18.9,561,"['Cytoplasm, cytosol']",30,59
+P49915,GMPS,2.9,693,"['Cytoplasm, cytosol']",11,115
+P50148,GNAQ,4.2,359,"['Cell membrane; Lipid-anchor', 'Golgi apparatus', 'Nucleus', 'Nucleus membrane']",38,106
+P50579,METAP2,23.8,478,['Cytoplasm'],11,86
+P51513,NOVA1,45.2,507,['Nucleus'],55,14
+P51787,KCNQ1,44.5,676,"['Cell membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle membrane', 'Early endosome', 'Membrane raft', 'Endoplasmic reticulum', 'Basolateral cell membrane', 'Apical cell membrane; Multi-pass membrane protein']",18,18
+P52732,KIF11,17.4,1056,"['Cytoplasm', 'Cytoplasm, cytoskeleton, spindle pole']",98,207
+P52848,NDST1,8.5,882,None,12,27
+P53420,COL4A4,86.9,1690,"['Secreted, extracellular space, extracellular matrix, basement membrane']",5,5
+P53778,MAPK12,6.3,367,"['Cytoplasm', 'Nucleus', 'Mitochondrion']",98,32
+P53816,PLAAT3,20.4,162,"['Cell membrane; Single-pass membrane protein', 'Cytoplasm', 'Cytoplasm, cytosol', 'Cytoplasm, perinuclear region', 'Peroxisome membrane; Single-pass membrane protein', 'Mitochondrion membrane; Single-pass membrane protein', 'Nucleus envelope', 'Lysosome membrane; Single-pass membrane protein', 'Endoplasmic reticulum membrane; Single-pass membrane protein']",13,0
+P54132,BLM,53.1,1417,['Nucleus'],63,163
+P54368,OAZ1,40.8,228,None,71,37
+P54578,USP14,11.7,494,"['Cytoplasm', 'Cell membrane; Peripheral membrane protein']",120,422
+P54687,BCAT1,6.7,386,['Cytoplasm'],67,54
+P55011,SLC12A2,25.9,1212,['Basolateral cell membrane; Multi-pass membrane protein'],43,161
+P55145,MANF,13.2,182,"['Secreted', 'Endoplasmic reticulum lumen', 'Sarcoplasmic reticulum lumen']",49,54
+P55197,MLLT10,80.8,1068,['Nucleus'],7,43
+P55210,CASP7,24.4,303,"['Cytoplasm, cytosol', 'Nucleus', 'Secreted, extracellular space']",78,59
+P55211,CASP9,16.3,416,None,108,56
+P55265,ADAR,36.6,1226,None,63,152
+P55285,CDH6,30.5,790,['Cell membrane; Single-pass type I membrane protein'],44,4
+P55789,GFER,45.4,205,None,73,65
+P56211,ARPP19,100.0,112,['Cytoplasm'],44,9
+P56524,HDAC4,57.4,1084,"['Nucleus', 'Cytoplasm']",112,361
+P58004,SESN2,14.6,480,['Cytoplasm'],100,26
+P60484,PTEN,16.1,403,"['Cytoplasm', 'Nucleus', 'Nucleus, PML body', 'Cell projection, dendritic spine', 'Postsynaptic density']",227,356
+P60709,ACTB,0.0,375,"['Cytoplasm, cytoskeleton', 'Nucleus']",94,708
+P61587,RND3,24.2,244,['Golgi apparatus membrane; Peripheral membrane protein'],68,253
+P61956,SUMO2,18.9,95,"['Nucleus', 'Nucleus, PML body']",76,1622
+P62330,ARF6,2.9,175,"['Cytoplasm, cytosol', 'Cell membrane; Lipid-anchor', 'Endosome membrane; Lipid-anchor', 'Recycling endosome membrane; Lipid-anchor', 'Cell projection, filopodium membrane; Lipid- anchor', 'Cell projection, ruffle', 'Cleavage furrow', 'Midbody, Midbody ring', 'Early endosome membrane; Lipid-anchor', 'Golgi apparatus, trans-Golgi network membrane; Lipid-anchor']",108,576
+P63000,RAC1,6.2,192,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Melanosome', 'Cytoplasm', 'Cell projection, lamellipodium', 'Cell projection, dendrite', 'Synapse', 'Nucleus']",95,914
+P63104,YWHAZ,4.9,245,"['Cytoplasm', 'Melanosome']",192,933
+P78352,DLG4,22.1,724,"['Cell membrane; Lipid-anchor; Cytoplasmic side', 'Postsynaptic density', 'Synapse', 'Cytoplasm', 'Cell projection, axon', 'Cell projection, dendritic spine', 'Cell projection, dendrite', 'Presynapse']",43,142
+P78563,ADARB1,29.0,741,"['Nucleus', 'Nucleus, nucleolus']",30,213
+P80303,NUCB2,18.3,420,"['Golgi apparatus', 'Membrane; Peripheral membrane protein', 'Cytoplasm', 'Secreted', 'Endoplasmic reticulum', 'Nucleus envelope', '[Nesfatin-1]: Secreted']",53,72
+P81274,GPSM2,41.5,684,"['Cytoplasm', 'Cytoplasm, cell cortex', 'Cytoplasm, cytoskeleton, spindle pole', 'Lateral cell membrane']",30,28
+P81605,DCD,100.0,110,"['Secreted', '[Survival-promoting peptide]: Secreted', '[DCD-1]: Secreted', 'Membrane; Peripheral membrane protein', 'Membrane; Single-pass membrane protein']",31,173
+P83110,HTRA3,7.3,453,['Secreted'],39,22
+P83916,CBX1,47.6,185,['Nucleus'],20,177
+P84243,H3-3A,40.4,136,"['Nucleus', 'Chromosome']",64,203
+P98066,TNFAIP6,17.0,277,['Secreted'],32,47
+Q00266,MAT1A,3.0,395,None,18,16
+Q00534,CDK6,6.4,326,"['Cytoplasm', 'Nucleus', 'Cell projection, ruffle', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",142,177
+Q00653,NFKB2,28.1,900,"['Nucleus', 'Cytoplasm']",83,192
+Q01968,OCRL,12.9,901,"['Cytoplasmic vesicle, phagosome membrane', 'Early endosome membrane', 'Membrane, clathrin-coated pit', 'Cell projection, cilium, photoreceptor outer segment', 'Cell projection, cilium', 'Cytoplasmic vesicle', 'Endosome', 'Golgi apparatus, trans-Golgi network', 'Lysosome']",22,255
+Q02297,NRG1,78.9,640,"['[Pro-neuregulin-1, membrane-bound isoform]: Cell membrane; Single-pass type I membrane protein', '[Neuregulin-1]: Secreted']",108,95
+Q02363,ID2,67.2,134,"['Cytoplasm', 'Nucleus']",124,87
+Q03692,COL10A1,79.9,680,"['Secreted, extracellular space, extracellular matrix']",44,35
+Q05193,DNM1,16.1,864,"['Cell membrane', 'Membrane, clathrin-coated pit', 'Cytoplasmic vesicle', 'Presynapse', 'Cytoplasmic vesicle, secretory vesicle, chromaffin granule']",76,91
+Q05397,PTK2,26.3,1052,"['Cell junction, focal adhesion', 'Cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasm, perinuclear region', 'Cytoplasm, cell cortex', 'Cytoplasm, cytoskeleton', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Nucleus', 'Cytoplasm, cytoskeleton, cilium basal body', 'Cytoplasm']",185,216
+Q06141,REG3A,23.4,175,['Secreted'],75,15
+Q07157,TJP1,62.2,1748,"['Cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Cell junction, tight junction', 'Cell junction', 'Cell junction, gap junction', 'Cell projection, podosome']",82,214
+Q07820,MCL1,52.6,350,"['Membrane; Single-pass membrane protein', 'Cytoplasm', 'Mitochondrion', 'Nucleus, nucleoplasm']",198,107
+Q08188,TGM3,2.2,693,['Cytoplasm'],68,122
+Q09428,ABCC8,8.0,1581,['Cell membrane; Multi-pass membrane protein'],20,10
+Q10589,BST2,79.4,180,"['Golgi apparatus, trans-Golgi network', 'Cell membrane; Single-pass type II membrane protein', 'Cell membrane; Lipid-anchor, GPI-anchor', 'Membrane raft', 'Cytoplasm', 'Apical cell membrane', 'Golgi apparatus, trans-Golgi network', 'Late endosome']",127,47
+Q12888,TP53BP1,80.0,1972,"['Nucleus', 'Chromosome', 'Chromosome, centromere, kinetochore']",88,433
+Q12962,TAF10,65.1,218,['Nucleus'],15,88
+Q13043,STK4,29.8,487,"['Cytoplasm', 'Nucleus']",138,315
+Q13153,PAK1,35.2,545,"['Cytoplasm', 'Cell junction, focal adhesion', 'Cell projection, lamellipodium', 'Cell membrane', 'Cell projection, ruffle membrane', 'Cell projection, invadopodium', 'Nucleus, nucleoplasm', 'Chromosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",139,207
+Q13162,PRDX4,29.2,271,"['Cytoplasm', 'Endoplasmic reticulum']",28,153
+Q13164,MAPK7,49.9,816,"['Cytoplasm', 'Nucleus', 'Nucleus, PML body']",93,120
+Q13177,PAK2,33.4,524,"['[Serine/threonine-protein kinase PAK 2]: Cytoplasm', 'Nucleus', '[PAK-2p34]: Nucleus', 'Cytoplasm, perinuclear region', 'Membrane; Lipid-anchor']",107,174
+Q13224,GRIN2B,46.1,1484,"['Cell membrane; Multi-pass membrane protein', 'Postsynaptic cell membrane; Multi-pass membrane protein', 'Late endosome', 'Lysosome', 'Cytoplasm, cytoskeleton']",57,48
+Q13316,DMP1,100.0,513,"['Nucleus', 'Cytoplasm', 'Secreted, extracellular space, extracellular matrix']",35,3
+Q13363,CTBP1,23.0,440,"['Cytoplasm', 'Nucleus']",81,610
+Q13480,GAB1,82.7,694,None,105,135
+Q13526,PIN1,6.1,163,"['Nucleus', 'Nucleus speckle', 'Cytoplasm']",127,348
+Q13563,PKD2,33.2,968,"['Cell projection, cilium membrane; Multi-pass membrane protein', 'Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Cell membrane; Multi-pass membrane protein', 'Basolateral cell membrane', 'Cytoplasmic vesicle membrane', 'Golgi apparatus', 'Vesicle', 'Secreted, extracellular exosome']",74,73
+Q13586,STIM1,41.8,685,"['Cell membrane; Single-pass type I membrane protein', 'Endoplasmic reticulum membrane; Single-pass type I membrane protein', 'Cytoplasm, cytoskeleton', 'Sarcoplasmic reticulum']",99,316
+Q13617,CUL2,1.1,745,['Nucleus'],48,488
+Q13627,DYRK1A,51.0,763,"['Nucleus', 'Nucleus speckle']",45,387
+Q13635,PTCH1,27.2,1447,['Cell membrane; Multi-pass membrane protein'],82,250
+Q13838,DDX39B,10.5,428,"['Nucleus', 'Nucleus speckle', 'Cytoplasm']",51,381
+Q14011,CIRBP,54.1,172,"['Nucleus, nucleoplasm', 'Cytoplasm']",30,138
+Q14019,COTL1,7.7,142,"['Cytoplasm', 'Cytoplasm, cytoskeleton', 'Nucleus']",51,30
+Q14118,DAG1,47.6,895,"['[Alpha-dystroglycan]: Secreted, extracellular space', '[Beta-dystroglycan]: Cell membrane; Single-pass type I membrane protein', 'Cytoplasm, cytoskeleton', 'Nucleus, nucleoplasm', 'Cell membrane, sarcolemma', 'Postsynaptic cell membrane']",40,140
+Q14181,POLA2,11.5,598,['Nucleus'],20,80
+Q14258,TRIM25,19.7,630,"['Cytoplasm', 'Cytoplasm, Stress granule', 'Nucleus']",86,2102
+Q14318,FKBP8,35.2,412,"['Mitochondrion', 'Mitochondrion membrane; Single-pass membrane protein; Cytoplasmic side']",80,435
+Q14444,CAPRIN1,71.5,709,"['Cytoplasm, Cytoplasmic ribonucleoprotein granule', 'Cytoplasm, cytosol', 'Cell projection, dendrite', 'Cell projection, lamellipodium', 'Cytoplasm, cytosol']",60,215
+Q14565,DMC1,6.5,340,"['Nucleus', 'Chromosome']",3,25
+Q14691,GINS1,0.0,196,"['Nucleus', 'Chromosome']",23,23
+Q14766,LTBP1,41.2,1721,"['Secreted', 'Secreted, extracellular space, extracellular matrix']",57,68
+Q14849,STARD3,20.0,445,['Late endosome membrane; Multi-pass membrane protein'],36,63
+Q14995,NR1D2,44.0,579,"['Nucleus', 'Cytoplasm']",16,57
+Q15013,MAD2L1BP,24.5,274,"['Nucleus', 'Cytoplasm, cytoskeleton, spindle']",24,54
+Q15059,BRD3,59.1,726,"['Nucleus', 'Chromosome']",52,445
+Q15233,NONO,44.6,471,"['Nucleus', 'Nucleus, nucleolus', 'Nucleus speckle', 'Chromosome']",63,364
+Q15276,RABEP1,39.4,862,"['Cytoplasm', 'Early endosome', 'Recycling endosome', 'Cytoplasmic vesicle']",51,145
+Q15542,TAF5,28.7,800,['Nucleus'],4,74
+Q15582,TGFBI,10.1,683,"['Secreted', 'Secreted, extracellular space, extracellular matrix']",82,14
+Q15631,TSN,5.7,228,"['Cytoplasm', 'Nucleus']",4,61
+Q15858,SCN9A,26.3,1988,"['Cell membrane; Multi-pass membrane protein', 'Cell projection, neuron projection']",8,3
+Q16620,NTRK2,20.2,822,"['Cell membrane; Single-pass type I membrane protein', 'Endosome membrane; Single-pass type I membrane protein', 'Early endosome membrane', 'Cell projection, axon', 'Cell projection, dendrite', 'Cytoplasm, perinuclear region', 'Postsynaptic density']",88,42
+Q16625,OCLN,42.7,522,"['Cell membrane; Multi-pass membrane protein', 'Cell junction, tight junction']",92,43
+Q16629,SRSF7,61.3,238,"['Nucleus', 'Cytoplasm']",9,322
+Q16630,CPSF6,68.4,551,"['Nucleus', 'Nucleus, nucleoplasm', 'Nucleus speckle', 'Cytoplasm']",11,203
+Q16667,CDKN3,13.7,212,"['Cytoplasm, perinuclear region']",44,49
+Q16740,CLPP,32.5,277,['Mitochondrion matrix'],45,309
+Q16821,PPP1R3A,87.0,1122,['Membrane; Single-pass membrane protein'],9,48
+Q16831,UPP1,6.8,310,None,0,64
+Q17RS7,GEN1,49.4,908,['Nucleus'],4,19
+Q2M1P5,KIF7,37.6,1343,"['Cell projection, cilium', 'Cytoplasm, cytoskeleton, cilium basal body']",47,128
+Q2MKA7,RSPO1,44.5,263,"['Secreted', 'Nucleus']",2,14
+Q4LE39,ARID4B,67.5,1312,"['Nucleus', 'Cytoplasm']",26,152
+Q53FT3,HIKESHI,7.6,197,"['Cytoplasm', 'Cytoplasm, cytosol', 'Nucleus']",1,14
+Q53TN4,CYBRD1,17.1,286,"['Cell membrane; Multi-pass membrane protein', 'Apical cell membrane; Multi-pass membrane protein']",2,43
+Q58F21,BRDT,63.5,947,['Nucleus'],10,75
+Q5D1E8,ZC3H12A,51.9,599,"['Nucleus', 'Cytoplasm', 'Cytoplasm, P-body', 'Rough endoplasmic reticulum membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasmic granule']",62,31
+Q5FWF5,ESCO1,72.7,840,"['Nucleus', 'Chromosome']",12,19
+Q5JRX3,PITRM1,3.5,1037,"['Mitochondrion', 'Mitochondrion matrix']",0,101
+Q5T1C6,THEM4,18.3,240,"['Cell membrane', 'Cell projection, ruffle membrane', 'Cytoplasm', 'Mitochondrion', 'Mitochondrion inner membrane; Peripheral membrane protein', 'Mitochondrion intermembrane space']",13,76
+Q5U651,RASIP1,25.2,963,"['Cytoplasm, perinuclear region', 'Golgi apparatus, Golgi stack']",5,18
+Q658P3,STEAP3,12.7,488,['Endosome membrane; Multi-pass membrane protein'],29,119
+Q68D10,SPTY2D1,98.8,685,"['Nucleus, nucleolus']",1,73
+Q68J44,DUSP29,21.4,220,"['Cytoplasm', 'Nucleus']",2,0
+Q6DD88,ATL3,7.4,541,['Endoplasmic reticulum membrane; Multi-pass membrane protein'],42,137
+Q6GQQ9,OTUD7B,45.9,843,"['Cytoplasm', 'Nucleus']",101,55
+Q6P1M3,LLGL2,13.5,1020,['Cytoplasm'],33,106
+Q6P1X5,TAF2,18.5,1199,['Nucleus'],9,106
+Q6P4R8,NFRKB,66.6,1299,['Nucleus'],2,87
+Q6PI48,DARS2,9.6,645,"['Mitochondrion matrix', 'Mitochondrion membrane']",17,110
+Q6R327,RICTOR,35.2,1708,None,88,223
+Q6V1X1,DPP8,5.7,898,['Cytoplasm'],41,42
+Q6ZMT4,KDM7A,52.5,941,['Nucleus'],24,1
+Q6ZNA4,RNF111,91.9,994,"['Nucleus', 'Cytoplasm', 'Nucleus, PML body']",29,89
+Q6ZVN8,HJV,26.8,426,"['Cell membrane; Lipid-anchor, GPI- anchor']",7,4
+Q7KZF4,SND1,5.3,910,"['Cytoplasm', 'Nucleus', 'Melanosome']",68,233
+Q7L2J0,MEPCE,62.7,689,['Nucleus'],2,795
+Q7RTN6,STRADA,22.0,431,"['Nucleus', 'Cytoplasm']",40,11
+Q86TV6,TTC7B,8.3,843,"['Cytoplasm, cytosol', 'Cell membrane']",12,17
+Q86XI6,PPP1R3B,51.2,285,None,1,19
+Q86Y38,XYLT1,24.7,959,"['Golgi apparatus membrane; Single-pass type II membrane protein', 'Secreted']",29,13
+Q8IVH4,MMAA,17.0,418,"['Mitochondrion', 'Cytoplasm']",1,5
+Q8IVH8,MAP4K3,27.4,894,None,77,69
+Q8IW75,SERPINA12,7.7,414,['Secreted'],22,86
+Q8IWJ2,GCC2,41.0,1684,"['Cytoplasm', 'Golgi apparatus, trans-Golgi network membrane; Peripheral membrane protein']",27,90
+Q8IY63,AMOTL1,74.6,956,"['Cell junction, tight junction']",24,77
+Q8IYB8,SUPV3L1,18.3,786,"['Nucleus', 'Mitochondrion matrix', 'Mitochondrion matrix, mitochondrion nucleoid']",34,111
+Q8IYV9,IZUMO1,31.7,350,"['Cell membrane; Single-pass type I membrane protein', 'Cytoplasmic vesicle, secretory vesicle, acrosome membrane; Single-pass type I membrane protein']",1,26
+Q8N1Q8,THEM5,13.0,247,['Mitochondrion matrix'],1,0
+Q8N300,SVBP,83.3,66,"['Cytoplasm', 'Secreted', 'Cytoplasm, cytoskeleton']",8,1
+Q8N3V7,SYNPO,98.9,929,"['Cytoplasm, cytoskeleton', 'Cell junction, tight junction', 'Perikaryon', 'Cell projection, dendritic spine', 'Postsynaptic density', 'Synapse', 'Cytoplasm, cytosol']",9,176
+Q8N5H7,SH2D3C,47.2,860,"['Cytoplasm', 'Cell membrane; Peripheral membrane protein', 'Cell projection, axon', 'Cell projection, ruffle membrane']",18,157
+Q8N660,NBPF15,80.9,670,['Cytoplasm'],0,7
+Q8N807,PDILT,18.8,584,['Endoplasmic reticulum'],1,3
+Q8N884,CGAS,30.5,522,"['Nucleus', 'Chromosome', 'Cell membrane; Peripheral membrane protein', 'Cytoplasm, cytosol']",61,252
+Q8NBI3,DRAXIN,77.9,349,['Secreted'],4,1
+Q8NBZ7,UXS1,16.2,420,"['Golgi apparatus, Golgi stack membrane; Single-pass type II membrane protein']",0,75
+Q8NC51,SERBP1,100.0,408,"['Cytoplasm', 'Nucleus', 'Cytoplasm, perinuclear region']",42,0
+Q8NER1,TRPV1,26.1,839,"['Postsynaptic cell membrane; Multi-pass membrane protein', 'Cell projection, dendritic spine membrane; Multi-pass membrane protein', 'Cell membrane; Multi-pass membrane protein']",91,9
+Q8NET8,TRPV3,20.9,790,['Membrane; Multi-pass membrane protein'],29,5
+Q8TDP1,RNASEH2C,48.2,164,['Nucleus'],3,17
+Q8TEQ6,GEMIN5,16.3,1508,"['Nucleus, nucleoplasm', 'Nucleus, gem', 'Cytoplasm']",11,136
+Q8WUN7,UBTD2,29.1,234,['Cytoplasm'],6,25
+Q8WVM7,STAG1,21.9,1258,"['Nucleus', 'Chromosome', 'Chromosome, centromere']",30,78
+Q8WVQ1,CANT1,22.4,401,"['Endoplasmic reticulum membrane; Single-pass type II membrane protein', 'Golgi apparatus, Golgi stack membrane; Single-pass type II membrane protein', 'Cell membrane']",18,63
+Q92499,DDX1,7.0,740,"['Nucleus', 'Cytoplasm', 'Cytoplasmic granule', 'Cytoplasm, cytosol', 'Mitochondrion', 'Cytoplasm']",34,278
+Q92574,TSC1,60.5,1164,"['Lysosome membrane; Peripheral membrane protein', 'Cytoplasm, cytosol']",62,237
+Q92608,DOCK2,12.3,1830,"['Endomembrane system; Peripheral membrane protein', 'Cytoplasm, cytoskeleton']",22,58
+Q92743,HTRA1,9.2,480,"['Cell membrane', 'Secreted', 'Cytoplasm, cytosol']",72,55
+Q92785,DPF2,54.0,391,"['Nucleus', 'Cytoplasm']",27,304
+Q92847,GHSR,14.8,366,['Cell membrane; Multi-pass membrane protein'],66,7
+Q92854,SEMA4D,25.4,862,['Cell membrane; Single-pass type I membrane protein'],63,27
+Q92871,PMM1,3.1,262,['Cytoplasm'],27,19
+Q96AE4,FUBP1,50.5,644,['Nucleus'],78,159
+Q96C86,DCPS,17.2,337,"['Cytoplasm', 'Nucleus']",0,372
+Q96E14,RMI2,10.9,147,['Nucleus'],1,19
+Q96EP1,CHFR,38.9,664,"['Nucleus, PML body']",40,65
+Q96EQ8,RNF125,24.6,232,['Golgi apparatus membrane; Lipid-anchor'],37,36
+Q96FQ6,S100A16,14.6,103,"['Nucleus, nucleolus', 'Cytoplasm']",43,54
+Q96GX5,MASTL,61.1,879,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Nucleus', 'Cleavage furrow']",11,31
+Q96MS0,ROBO3,42.4,1386,['Membrane; Single- pass type I membrane protein'],32,12
+Q96PU8,QKI,44.0,341,"['Nucleus', 'Cytoplasm']",104,155
+Q96Q11,TRNT1,6.2,434,"['Mitochondrion', 'Cytoplasm', 'Nucleus']",9,38
+Q96QZ7,MAGI1,50.8,1491,"['Cell junction, tight junction', 'Cell membrane; Peripheral membrane protein']",62,159
+Q96RD7,PANX1,20.2,426,"['Cell membrane; Multi-pass membrane protein', 'Endoplasmic reticulum membrane; Multi-pass membrane protein']",53,260
+Q96RJ3,TNFRSF13C,100.0,184,['Membrane; Single-pass type III membrane protein'],19,12
+Q96ST2,IWS1,80.3,819,['Nucleus'],4,70
+Q99250,SCN2A,28.5,2005,['Cell membrane; Multi-pass membrane protein'],17,6
+Q99598,TSNAX,23.8,290,"['Cytoplasm, perinuclear region', 'Golgi apparatus', 'Nucleus']",11,129
+Q99714,HSD17B10,0.0,261,"['Mitochondrion', 'Mitochondrion matrix, mitochondrion nucleoid']",12,369
+Q99835,SMO,29.0,787,"['Cell membrane; Multi-pass membrane protein', 'Cell projection, cilium']",91,44
+Q99986,VRK1,18.9,396,"['Nucleus', 'Cytoplasm', 'Nucleus, Cajal body']",62,249
+Q9BPZ7,MAPKAP1,32.6,522,"['Cell membrane; Peripheral membrane protein', 'Cytoplasmic vesicle', 'Nucleus']",71,104
+Q9BQ50,TREX2,0.0,236,['Nucleus'],0,48
+Q9BRT9,GINS4,9.4,223,"['Nucleus', 'Chromosome', 'Cytoplasm']",58,60
+Q9BRX5,GINS3,15.3,216,"['Nucleus', 'Chromosome']",42,59
+Q9BRZ2,TRIM56,20.1,755,['Cytoplasm'],42,107
+Q9BSQ5,CCM2,43.2,444,['Cytoplasm'],13,36
+Q9BU02,THTPA,7.8,230,['Cytoplasm'],0,53
+Q9BV68,RNF126,67.8,311,"['Cytoplasm', 'Nucleus']",13,128
+Q9BXJ9,NAA15,9.6,866,"['Cytoplasm', 'Nucleus']",9,90
+Q9BY41,HDAC8,3.2,377,"['Nucleus', 'Chromosome', 'Cytoplasm']",87,38
+Q9BYC5,FUT8,17.9,575,"['Golgi apparatus, Golgi stack membrane; Single-pass type II membrane protein']",4,101
+Q9BYF1,ACE2,9.2,805,"['[Processed angiotensin-converting enzyme 2]: Secreted', 'Cell membrane; Single-pass type I membrane protein', 'Cytoplasm', 'Cell projection, cilium', 'Apical cell membrane']",59,240
+Q9BYG3,NIFK,49.5,293,"['Nucleus, nucleolus', 'Chromosome']",22,371
+Q9BYI3,HYCC1,44.9,521,"['Cytoplasm, cytosol', 'Cell membrane']",11,29
+Q9BZE9,ASPSCR1,42.5,553,"['Endomembrane system; Peripheral membrane protein', 'Endoplasmic reticulum-Golgi intermediate compartment membrane; Peripheral membrane protein', 'Cytoplasm', 'Nucleus']",18,61
+Q9GZN7,ROGDI,3.5,287,"['Nucleus envelope', 'Presynapse', 'Cell projection, axon', 'Perikaryon', 'Cell projection, dendrite', 'Cytoplasmic vesicle, secretory vesicle, synaptic vesicle']",0,22
+Q9H3L0,MMADHC,37.2,296,"['Cytoplasm', 'Mitochondrion']",0,29
+Q9H3M7,TXNIP,22.5,391,['Cytoplasm'],106,167
+Q9H3P2,NELFA,60.0,528,['Nucleus'],29,59
+Q9H4L7,SMARCAD1,28.7,1026,"['Nucleus', 'Chromosome']",11,168
+Q9H5I1,SUV39H2,10.5,410,"['Nucleus', 'Chromosome, centromere']",30,76
+Q9H875,PRKRIP1,71.2,184,"['Nucleus', 'Nucleus, nucleolus']",0,20
+Q9H9E3,COG4,10.8,785,"['Cytoplasm, cytosol', 'Golgi apparatus membrane; Peripheral membrane protein; Cytoplasmic side']",4,86
+Q9H9R9,DBNDD1,100.0,158,None,4,3
+Q9HAV4,XPO5,6.5,1204,"['Nucleus', 'Cytoplasm']",38,174
+Q9HBA0,TRPV4,27.6,871,"['Cell membrane', 'Apical cell membrane; Multi-pass membrane protein', 'Cell junction, adherens junction', 'Cell projection, cilium']",73,15
+Q9HC35,EML4,31.1,981,"['Cytoplasm, cytoskeleton', 'Cytoplasm', 'Cytoplasm, cytoskeleton, spindle', 'Cytoplasm, cytoskeleton, microtubule organizing center', 'Midbody']",16,52
+Q9HC77,CENPJ,75.8,1338,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriole']",33,0
+Q9HCB6,SPON1,20.4,807,"['Secreted, extracellular space, extracellular matrix']",32,18
+Q9HD36,BCL2L10,17.6,204,"['Mitochondrion', 'Nucleus membrane', 'Endoplasmic reticulum', 'Cytoplasm, cytoskeleton, spindle']",96,24
+Q9NP98,MYOZ1,87.3,299,"['Nucleus', 'Cell projection, pseudopodium']",10,42
+Q9NPF0,CD320,70.6,282,['Cell membrane; Single-pass type I membrane protein'],2,53
+Q9NPI8,FANCF,8.0,374,['Nucleus'],23,23
+Q9NQC7,CYLD,23.0,956,"['Cytoplasm', 'Cytoplasm, perinuclear region', 'Cytoplasm, cytoskeleton', 'Cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton, spindle', 'Cytoplasm, cytoskeleton, cilium basal body']",127,799
+Q9NQX3,GPHN,19.0,736,"['Postsynaptic cell membrane; Lipid- anchor; Cytoplasmic side', 'Cell membrane; Lipid-anchor; Cytoplasmic side', 'Cytoplasm, cytosol', 'Cytoplasm, cytoskeleton', 'Cell projection, dendrite', 'Postsynaptic density']",40,56
+Q9NRI5,DISC1,53.4,854,"['Cytoplasm', 'Cytoplasm, cytoskeleton', 'Mitochondrion', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Postsynaptic density']",24,825
+Q9NRN7,AASDHPPT,8.7,309,"['Cytoplasm, cytosol']",1,59
+Q9NV23,OLAH,4.5,265,"['Cytoplasm, cytosol']",7,1
+Q9NWW9,PLAAT2,22.2,162,"['Cytoplasm', 'Membrane; Single-pass membrane protein']",0,0
+Q9NXV2,KCTD5,30.3,234,"['Cytoplasm, cytosol', 'Cytoplasm', 'Nucleus']",15,67
+Q9NYV4,CDK12,74.0,1490,"['Nucleus', 'Nucleus speckle']",38,121
+Q9NZD4,AHSP,11.8,102,['Cytoplasm'],6,15
+Q9UBK8,MTRR,12.0,698,None,44,11
+Q9UBP0,SPAST,38.0,616,"['Membrane; Peripheral membrane protein', 'Endoplasmic reticulum', 'Midbody', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasm, cytoskeleton', 'Cytoplasm, perinuclear region', 'Nucleus', 'Cytoplasm, cytoskeleton, spindle', 'Cytoplasm', 'Cell projection, axon']",46,34
+Q9UBR1,UPB1,3.9,384,['Cytoplasm'],1,0
+Q9UBT3,DKK4,46.9,224,['Secreted'],69,8
+Q9UBU7,DBF4,79.5,674,['Nucleus'],17,29
+Q9UBW5,BIN2,60.0,565,"['Cytoplasm', 'Cell projection, podosome membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasm, cell cortex', 'Cell projection, phagocytic cup']",3,8
+Q9UDY8,MALT1,18.8,824,"['Cytoplasm, perinuclear region', 'Nucleus']",57,64
+Q9UHK0,NUFIP1,78.4,495,['Nucleus'],8,127
+Q9UIF9,BAZ2A,58.0,1905,"['Nucleus, nucleolus']",47,55
+Q9UII6,DUSP13B,12.6,198,None,2,0
+Q9UK55,SERPINA10,13.3,444,['Secreted'],6,17
+Q9UKK9,NUDT5,14.6,219,['Nucleus'],26,48
+Q9UKY0,PRND,38.1,176,"['Cell membrane; Lipid-anchor, GPI-anchor']",16,8
+Q9UL18,AGO1,4.3,857,"['Cytoplasm, P-body']",115,267
+Q9UMD9,COL17A1,92.7,1497,"['Cell junction, hemidesmosome', 'Membrane; Single- pass type II membrane protein', '[120 kDa linear IgA disease antigen]: Secreted, extracellular space, extracellular matrix, basement membrane', '[97 kDa linear IgA disease antigen]: Secreted, extracellular space, extracellular matrix, basement membrane']",6,21
+Q9UPP1,PHF8,58.5,1060,"['Nucleus', 'Nucleus, nucleolus']",51,154
+Q9UPY3,DICER1,26.0,1922,"['Cytoplasm', 'Cytoplasm, perinuclear region']",130,211
+Q9UQ80,PA2G4,8.9,394,None,81,215
+Q9Y2Z0,SUGT1,24.9,365,"['Cytoplasm', 'Nucleus']",71,186
+Q9Y4D1,DAAM1,25.5,1078,"['Cytoplasm', 'Cytoplasm, cytoskeleton, cilium basal body']",19,54
+Q9Y4F1,FARP1,25.7,1045,"['Cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Synapse', 'Synapse, synaptosome', 'Cytoplasm, cytosol', 'Cell projection, filopodium', 'Cell projection, dendrite', 'Cell projection, dendritic spine']",4,102
+Q9Y4K0,LOXL2,7.5,774,"['Secreted, extracellular space, extracellular matrix, basement membrane', 'Nucleus', 'Chromosome', 'Endoplasmic reticulum']",93,86
+Q9Y4U1,MMACHC,17.4,282,"['Cytoplasm, cytosol']",7,14
+Q9Y5C1,ANGPTL3,35.0,460,"['Secreted', 'Cell projection, lamellipodium']",24,8
+Q9Y5P4,CERT1,26.6,624,"['Cytoplasm', 'Golgi apparatus', 'Endoplasmic reticulum']",14,0
+Q9Y5S1,TRPV2,19.6,764,"['Cell membrane; Multi-pass membrane protein', 'Cytoplasm', 'Melanosome']",34,25
+Q9Y5S9,RBM8A,46.6,174,"['Nucleus', 'Nucleus speckle', 'Cytoplasm']",93,169
+Q9Y696,CLIC4,4.7,253,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cytoplasmic vesicle membrane; Single-pass membrane protein', 'Nucleus', 'Cell membrane; Single-pass membrane protein', 'Mitochondrion', 'Cell junction']",76,101
+Q9Y6I3,EPN1,69.8,576,"['Cytoplasm', 'Cell membrane; Peripheral membrane protein', 'Nucleus', 'Membrane, clathrin-coated pit']",32,93
+Q9Y6K1,DNMT3A,34.8,912,"['Nucleus', 'Chromosome', 'Cytoplasm']",123,74
+A8MTZ0,BBIP1,89.1,92,"['Cell projection, cilium', 'Cytoplasm']",1,9
+O00418,EEF2K,27.3,725,None,61,157
+O00499,BIN1,44.2,593,None,81,127
+O00584,RNASET2,10.9,256,"['Secreted', 'Lysosome lumen', 'Endoplasmic reticulum lumen', 'Mitochondrion intermembrane space']",50,16
+O14497,ARID1A,75.4,2285,['Nucleus'],40,150
+O14746,TERT,15.3,1132,"['Nucleus, nucleolus', 'Nucleus, nucleoplasm', 'Nucleus', 'Chromosome, telomere', 'Cytoplasm', 'Nucleus, PML body']",31,101
+O14775,GNB5,6.6,395,['Membrane'],34,0
+O15431,SLC31A1,45.8,190,"['Cell membrane; Multi-pass membrane protein', 'Early endosome membrane; Multi-pass membrane protein', 'Recycling endosome membrane; Multi-pass membrane protein', 'Apical cell membrane; Multi-pass membrane protein', 'Late endosome membrane; Multi-pass membrane protein', 'Basolateral cell membrane; Multi-pass membrane protein']",39,169
+O43665,RGS10,26.0,181,['Nucleus'],17,13
+O43747,AP1G1,14.8,822,"['Golgi apparatus', 'Cytoplasmic vesicle, clathrin-coated vesicle membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasm', 'Cytoplasm, perinuclear region', 'Cytoplasmic vesicle, clathrin-coated vesicle', 'Membrane, clathrin-coated pit']",69,91
+O60232,ZNRD2,37.7,199,None,2,0
+O94885,SASH1,71.7,1247,['Cytoplasm'],67,45
+O95433,AHSA1,16.0,338,"['Cytoplasm, cytosol', 'Endoplasmic reticulum']",21,216
+O95470,SGPL1,12.3,568,['Endoplasmic reticulum membrane; Single-pass type III membrane protein; Cytoplasmic side'],51,151
+O95831,AIFM1,21.0,613,"['Mitochondrion intermembrane space', 'Mitochondrion inner membrane', 'Cytoplasm', 'Nucleus', 'Cytoplasm, perinuclear region']",5,543
+P02647,APOA1,98.9,267,['Secreted'],135,141
+P02649,APOE,37.5,317,"['Secreted', 'Secreted, extracellular space', 'Secreted, extracellular space, extracellular matrix', 'Extracellular vesicle', 'Endosome, multivesicular body']",161,157
+P05114,HMGN1,100.0,100,"['Nucleus', 'Cytoplasm']",9,115
+P07196,NEFL,52.1,543,"['Cell projection, axon', 'Cytoplasm, cytoskeleton']",77,126
+P14867,GABRA1,26.1,456,"['Postsynaptic cell membrane; Multi-pass membrane protein', 'Cell membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle membrane; Multi-pass membrane protein']",8,13
+P18507,GABRG2,29.8,475,"['Postsynaptic cell membrane; Multi-pass membrane protein', 'Cell membrane; Multi-pass membrane protein', 'Cell projection, dendrite', 'Cytoplasmic vesicle membrane']",47,21
+P21579,SYT1,28.2,422,"['Cytoplasmic vesicle, secretory vesicle membrane; Single-pass membrane protein', 'Cytoplasmic vesicle, secretory vesicle, synaptic vesicle membrane; Single-pass membrane protein', 'Cytoplasmic vesicle, secretory vesicle, chromaffin granule membrane; Single-pass membrane protein', 'Cytoplasm']",33,73
+P28472,GABRB3,26.8,473,"['Postsynaptic cell membrane; Multi-pass membrane protein', 'Cell membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle membrane']",29,15
+P28749,RBL1,28.9,1068,['Nucleus'],16,99
+P29372,MPG,26.8,298,"['Cytoplasm', 'Mitochondrion matrix, mitochondrion nucleoid', 'Nucleus']",14,104
+P30038,ALDH4A1,7.1,563,['Mitochondrion matrix'],1,79
+P30519,HMOX2,26.9,316,"['Microsome membrane; Single-pass type IV membrane protein; Cytoplasmic side', 'Endoplasmic reticulum membrane; Single-pass type IV membrane protein; Cytoplasmic side']",42,248
+P30531,SLC6A1,10.0,599,"['Cell membrane; Multi-pass membrane protein', 'Presynapse']",24,19
+P30566,ADSL,2.3,484,None,1,131
+P35219,CA8,11.7,290,None,18,37
+P35790,CHKA,17.7,457,"['Cytoplasm, cytosol']",57,3
+P37837,TALDO1,2.7,337,None,37,105
+P40205,MYCNOS,100.0,109,"['Cytoplasm', 'Nucleus']",24,0
+P41743,PRKCI,13.3,596,"['Cytoplasm', 'Membrane', 'Endosome', 'Nucleus']",106,219
+P45973,CBX5,44.5,191,"['Nucleus', 'Chromosome', 'Chromosome, centromere']",61,279
+P47895,ALDH1A3,4.9,512,['Cytoplasm'],1,46
+P49419,ALDH7A1,8.2,539,None,45,81
+P49748,ACADVL,11.5,655,['Mitochondrion inner membrane; Peripheral membrane protein'],16,96
+P49758,RGS6,19.5,472,"['Cytoplasm', 'Cytoplasm, cytosol', 'Membrane; Peripheral membrane protein', 'Nucleus', 'Cell membrane']",47,14
+P49802,RGS7,23.6,495,"['Cytoplasm, cytosol', 'Cytoplasm', 'Cell membrane', 'Membrane; Peripheral membrane protein; Cytoplasmic side']",7,11
+P51788,CLCN2,27.5,898,['Cell membrane; Multi-pass membrane protein'],32,39
+P53355,DAPK1,6.5,1430,None,175,140
+P54577,YARS1,2.8,528,"['Cytoplasm', 'Nucleus']",12,109
+P55263,ADK,4.7,362,None,20,21
+Q01433,AMPD2,22.5,825,None,4,68
+Q10567,AP1B1,13.9,949,"['Golgi apparatus', 'Cytoplasmic vesicle, clathrin- coated vesicle membrane; Peripheral membrane protein; Cytoplasmic side']",24,172
+Q13613,MTMR1,15.2,665,"['Cell membrane; Peripheral membrane protein; Cytoplasmic side', 'Cytoplasm']",7,84
+Q15326,ZMYND11,27.9,602,"['Nucleus', 'Chromosome']",20,69
+Q3SYG4,BBS9,12.2,887,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cell projection, cilium membrane', 'Cytoplasm', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriolar satellite']",7,22
+Q5HYA8,TMEM67,4.3,995,"['Cell membrane; Multi-pass membrane protein', 'Endoplasmic reticulum membrane; Multi-pass membrane protein', 'Cell projection, cilium', 'Cytoplasm, cytoskeleton, cilium basal body']",11,109
+Q5T848,GPR158,51.5,1215,"['Cell membrane; Multi-pass membrane protein', 'Postsynaptic cell membrane; Multi-pass membrane protein', 'Presynaptic cell membrane; Multi-pass membrane protein', 'Nucleus']",11,0
+Q5TDH0,DDI2,20.6,399,"['Cytoplasm, cytosol', 'Chromosome']",9,48
+Q6BDI9,REP15,12.3,236,['Early endosome membrane'],12,12
+Q6ZT98,TTLL7,29.8,887,"['Cell projection, cilium', 'Cytoplasm, cytoskeleton, cilium basal body', 'Cell projection, dendrite', 'Perikaryon']",0,12
+Q86WX3,RPS19BP1,87.5,136,"['Nucleus, nucleolus']",24,81
+Q8N3I7,BBS5,15.0,341,"['Cell projection, cilium membrane', 'Cytoplasm', 'Cytoplasm, cytoskeleton, cilium basal body', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriolar satellite']",2,20
+Q8N6T7,SIRT6,19.4,355,"['Nucleus', 'Chromosome', 'Chromosome, telomere', 'Endoplasmic reticulum']",123,596
+Q8NFJ9,BBS1,8.6,593,"['Cell projection, cilium membrane', 'Cytoplasm', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriolar satellite']",30,113
+Q92597,NDRG1,27.2,394,"['Cytoplasm, cytosol', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Nucleus', 'Cell membrane']",98,189
+Q92800,EZH1,32.5,747,['Nucleus'],29,73
+Q96B97,SH3KBP1,69.3,665,"['Cytoplasm', 'Cytoplasm, cytoskeleton', 'Cytoplasmic vesicle membrane; Peripheral membrane protein', 'Synapse, synaptosome', 'Cell junction, focal adhesion']",54,279
+Q96BT7,ALKBH8,13.9,664,"['Cytoplasm', 'Nucleus']",1,13
+Q96C36,PYCR2,12.2,320,"['Cytoplasm', 'Mitochondrion']",23,161
+Q96E09,PABIR1,100.0,287,"['Nucleus', 'Cytoplasm']",9,0
+Q96F81,DISP1,38.1,1524,['Membrane; Multi-pass membrane protein'],3,12
+Q96NI6,LRFN5,36.6,719,['Membrane; Single-pass type I membrane protein'],2,1
+Q96RK4,BBS4,16.0,519,"['Cytoplasm, cytoskeleton, microtubule organizing center, centrosome', 'Cell projection, cilium membrane', 'Cytoplasm', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriolar satellite', 'Cell projection, cilium, flagellum', 'Cell projection, cilium']",42,49
+Q99453,PHOX2B,83.1,314,['Nucleus'],31,2
+Q9BPU6,DPYSL5,15.1,564,['Cytoplasm'],29,42
+Q9BUR4,WRAP53,33.6,548,"['Nucleus, Cajal body', 'Chromosome, telomere', 'Chromosome']",51,0
+Q9BX66,SORBS1,84.1,1292,"['Cell junction, adherens junction', 'Cell membrane', 'Cytoplasm, cytoskeleton', 'Cell junction, focal adhesion', 'Nucleus', 'Nucleus matrix']",60,74
+Q9H078,CLPB,28.6,707,['Mitochondrion intermembrane space'],4,174
+Q9H0W8,SMG9,38.3,520,None,2,57
+Q9H1A4,ANAPC1,15.9,1944,None,23,109
+Q9H4H8,FAM83D,56.4,585,"['Cytoplasm', 'Cytoplasm, cytoskeleton, spindle', 'Cytoplasm, cytoskeleton, spindle pole']",54,68
+Q9NRA2,SLC17A5,9.5,495,"['Basolateral cell membrane; Multi-pass membrane protein', 'Cytoplasmic vesicle, secretory vesicle, synaptic vesicle membrane; Multi-pass membrane protein', 'Lysosome membrane; Multi-pass membrane protein']",0,5
+Q9NW15,ANO10,4.5,660,['Cell membrane; Multi-pass membrane protein'],8,23
+Q9NX46,ADPRS,3.9,363,"['Nucleus', 'Cytoplasm', 'Chromosome', 'Mitochondrion matrix']",5,0
+Q9NXG6,P4HTM,21.9,502,['Endoplasmic reticulum membrane; Single-pass type II membrane protein'],10,27
+Q9NZC2,TREM2,49.6,230,None,72,8
+Q9UIW2,PLXNA1,6.1,1896,['Cell membrane; Single-pass type I membrane protein'],27,98
+Q9UJY1,HSPB8,61.2,196,"['Cytoplasm', 'Nucleus']",85,121
+Q9ULK4,MED23,2.5,1368,['Nucleus'],32,180
+Q9UN86,G3BP2,53.3,482,"['Cytoplasm', 'Cytoplasm, Stress granule']",39,205
+Q9UQ13,SHOC2,14.3,582,"['Cytoplasm', 'Nucleus']",54,55
+Q9Y2M5,KLHL20,8.7,609,"['Cytoplasm, perinuclear region', 'Nucleus', 'Golgi apparatus, trans-Golgi network', 'Cell projection, axon', 'Cell projection, dendrite']",87,166
+Q9Y4B6,DCAF1,25.2,1507,"['Cytoplasm', 'Nucleus']",34,0
+Q9Y653,ADGRG1,7.2,693,"['Cell membrane; Multi-pass membrane protein', '[ADGRG1 N-terminal fragment]: Secreted', '[ADGRG1 C-terminal fragment]: Membrane raft']",63,0
+Q9Y6X9,MORC2,27.9,1032,"['Nucleus', 'Cytoplasm, cytosol', 'Chromosome', 'Nucleus matrix']",47,47
