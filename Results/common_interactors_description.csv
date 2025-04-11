@@ -1,0 +1,914 @@
+,UniProt Accession,Gene Name,Protein Name,AlphaFold Disordered,Protein Counts HIPPIE,Protein Counts MultiUniReD
+0,P42338,PIK3CB,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",4.6,73.0,570.0
+1,P61073,CXCR4,C-X-C chemokine receptor type 4,17.6,235.0,206.0
+2,P62820,RAB1A,Ras-related protein Rab-1A,12.2,267.0,534.0
+3,P61956,SUMO2,Small ubiquitin-related modifier 2,18.9,1622.0,76.0
+4,P04637,TP53,Cellular tumor antigen p53,48.3,1772.0,1299.0
+5,Q07666,KHDRBS1,"KH domain-containing, RNA-binding, signal transduction-associated protein 1",64.6,259.0,91.0
+6,P07900,HSP90AA1,Heat shock protein HSP 90-alpha,14.3,983.0,766.0
+7,O14746,TERT,Telomerase reverse transcriptase,15.3,101.0,31.0
+8,Q14694,USP10,Ubiquitin carboxyl-terminal hydrolase 10,53.1,209.0,478.0
+9,P12956,XRCC6,X-ray repair cross-complementing protein 6,18.2,700.0,69.0
+10,P05109,S100A8,Protein S100-A8,3.2,167.0,535.0
+11,P01116,KRAS,GTPase KRas,9.0,1063.0,198.0
+12,P13473,LAMP2,Lysosome-associated membrane glycoprotein 2,21.5,534.0,409.0
+13,Q15717,ELAVL1,ELAV-like protein 1,23.0,1828.0,146.0
+14,Q9H444,CHMP4B,Charged multivesicular body protein 4b,54.9,649.0,226.0
+15,P02545,LMNA,Prelamin-A/C,40.2,967.0,109.0
+16,Q9H4P4,RNF41,E3 ubiquitin-protein ligase NRDP1,0.0,136.0,317.0
+17,P40818,USP8,Ubiquitin carboxyl-terminal hydrolase 8,36.5,96.0,125.0
+18,Q92783,STAM,Signal transducing adapter molecule 1,53.7,106.0,134.0
+19,O95630,STAMBP,STAM-binding protein,19.3,77.0,84.0
+20,O43791,SPOP,Speckle-type POZ protein,15.5,238.0,85.0
+21,Q8IXJ6,SIRT2,NAD-dependent protein deacetylase sirtuin-2,21.3,115.0,599.0
+22,P11142,HSPA8,Heat shock cognate 71 kDa protein,5.4,1229.0,455.0
+23,P26368,U2AF2,Splicing factor U2AF 65 kDa subunit,26.7,478.0,36.0
+24,O14964,HGS,Hepatocyte growth factor-regulated tyrosine kinase substrate,53.7,448.0,225.0
+25,O43474,KLF4,Krueppel-like factor 4,82.5,144.0,157.0
+26,Q9NYV4,CDK12,Cyclin-dependent kinase 12,74.0,121.0,38.0
+27,Q96HY6,DDRGK1,DDRGK domain-containing protein 1,60.8,1163.0,207.0
+28,P00519,ABL1,Tyrosine-protein kinase ABL1,49.9,331.0,754.0
+29,P21333,FLNA,Filamin-A,4.0,459.0,110.0
+30,P10415,BCL2,Apoptosis regulator Bcl-2,27.6,135.0,1078.0
+31,Q13501,SQSTM1,Sequestosome-1,51.1,890.0,883.0
+32,P04049,RAF1,RAF proto-oncogene serine/threonine-protein kinase,36.9,296.0,135.0
+33,P49327,FASN,Fatty acid synthase,1.4,276.0,115.0
+34,P54578,USP14,Ubiquitin carboxyl-terminal hydrolase 14,11.7,422.0,120.0
+35,Q9HCE7,SMURF1,E3 ubiquitin-protein ligase SMURF1,25.1,272.0,404.0
+36,Q07955,SRSF1,Serine/arginine-rich splicing factor 1,38.3,438.0,80.0
+37,Q92995,USP13,Ubiquitin carboxyl-terminal hydrolase 13,16.2,88.0,319.0
+38,P35222,CTNNB1,Catenin beta-1,23.3,838.0,235.0
+39,P08253,MMP2,72 kDa type IV collagenase,5.6,53.0,175.0
+40,P12109,COL6A1,Collagen alpha-1(VI) chain,36.3,88.0,295.0
+41,O15294,OGT,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit,4.0,192.0,183.0
+42,P98170,XIAP,E3 ubiquitin-protein ligase XIAP,22.7,189.0,164.0
+43,Q66K74,MAP1S,Microtubule-associated protein 1S,45.7,79.0,226.0
+44,Q9BZV1,UBXN6,UBX domain-containing protein 6,31.7,291.0,122.0
+45,Q13573,SNW1,SNW domain-containing protein 1,87.3,774.0,55.0
+46,P42345,MTOR,Serine/threonine-protein kinase mTOR,8.3,245.0,1180.0
+47,P06730,EIF4E,Eukaryotic translation initiation factor 4E,15.7,115.0,112.0
+48,Q92905,COPS5,COP9 signalosome complex subunit 5,12.3,981.0,109.0
+49,Q9HC29,NOD2,Nucleotide-binding oligomerization domain-containing protein 2,4.5,92.0,389.0
+50,Q9C000,NLRP1,"NACHT, LRR and PYD domains-containing protein 1",21.7,30.0,68.0
+51,Q9Y4P1,ATG4B,Cysteine protease ATG4B,11.2,45.0,326.0
+52,Q13188,STK3,Serine/threonine-protein kinase 3,28.1,186.0,63.0
+53,Q9H0E2,TOLLIP,Toll-interacting protein,29.2,317.0,294.0
+54,Q96PU5,NEDD4L,E3 ubiquitin-protein ligase NEDD4-like,34.1,170.0,125.0
+55,P07948,LYN,Tyrosine-protein kinase Lyn,12.5,631.0,575.0
+56,P05556,ITGB1,Integrin beta-1,11.5,275.0,28.0
+57,Q00610,CLTC,Clathrin heavy chain 1,3.7,492.0,357.0
+58,Q9Y6I3,EPN1,Epsin-1,69.8,93.0,32.0
+59,P05198,EIF2S1,Eukaryotic translation initiation factor 2 subunit 1,7.9,164.0,430.0
+60,P19525,EIF2AK2,"Interferon-induced, double-stranded RNA-activated protein kinase",21.6,305.0,113.0
+61,Q8NEB9,PIK3C3,Phosphatidylinositol 3-kinase catalytic subunit type 3,10.9,82.0,582.0
+62,Q92731,ESR2,Estrogen receptor beta,41.1,2353.0,55.0
+63,Q9UHD2,TBK1,Serine/threonine-protein kinase TBK1,9.3,279.0,475.0
+64,Q9UBN7,HDAC6,Histone deacetylase 6,30.5,402.0,539.0
+65,P49736,MCM2,DNA replication licensing factor MCM2,21.6,927.0,85.0
+66,Q9NSV4,DIAPH3,Protein diaphanous homolog 3,30.5,94.0,199.0
+67,P15311,EZR,Ezrin,7.0,458.0,129.0
+68,P55072,VCP,Transitional endoplasmic reticulum ATPase,9.6,1003.0,671.0
+69,Q14258,TRIM25,E3 ubiquitin/ISG15 ligase TRIM25,19.7,2102.0,86.0
+70,P17480,UBTF,Nucleolar transcription factor 1,26.3,169.0,47.0
+71,P27361,MAPK3,Mitogen-activated protein kinase 3,8.4,279.0,1023.0
+72,P37840,SNCA,Alpha-synuclein,86.4,220.0,154.0
+73,O95140,MFN2,Mitofusin-2,12.0,125.0,454.0
+74,P03372,ESR1,Estrogen receptor,47.1,2332.0,207.0
+75,Q9UMX0,UBQLN1,Ubiquilin-1,50.3,359.0,414.0
+76,Q9Y4K3,TRAF6,TNF receptor-associated factor 6,17.8,605.0,698.0
+77,P07305,H1-0,Histone H1.0,63.9,135.0,10.0
+78,P49841,GSK3B,Glycogen synthase kinase-3 beta,14.8,625.0,232.0
+79,Q8TDY2,RB1CC1,RB1-inducible coiled-coil protein 1,34.2,315.0,500.0
+80,Q07820,MCL1,Induced myeloid leukemia cell differentiation protein Mcl-1,52.6,107.0,198.0
+81,Q5VVQ6,YOD1,Ubiquitin thioesterase OTU1,20.1,60.0,102.0
+82,Q9BXM7,PINK1,"Serine/threonine-protein kinase PINK1, mitochondrial",16.5,650.0,556.0
+83,O00571,DDX3X,ATP-dependent RNA helicase DDX3X,33.7,473.0,60.0
+84,Q7KZI7,MARK2,Serine/threonine-protein kinase MARK2,45.8,189.0,248.0
+85,P16070,CD44,CD44 antigen,78.8,203.0,188.0
+86,Q05397,PTK2,Focal adhesion kinase 1,26.3,216.0,185.0
+87,Q01968,OCRL,Inositol polyphosphate 5-phosphatase OCRL,12.9,255.0,22.0
+88,Q92973,TNPO1,Transportin-1,3.0,159.0,40.0
+89,P07339,CTSD,Cathepsin D,7.8,103.0,529.0
+90,Q9NRI5,DISC1,Disrupted in schizophrenia 1 protein,53.4,825.0,24.0
+91,P54252,ATXN3,Ataxin-3,42.7,402.0,32.0
+92,Q5S007,LRRK2,Leucine-rich repeat serine/threonine-protein kinase 2,6.1,1463.0,34.0
+93,P28482,MAPK1,Mitogen-activated protein kinase 1,3.9,349.0,223.0
+94,Q13315,ATM,Serine-protein kinase ATM,,,
+95,O96017,CHEK2,Serine/threonine-protein kinase Chk2,23.9,165.0,127.0
+96,P09601,HMOX1,Heme oxygenase 1,24.7,100.0,727.0
+97,Q03518,TAP1,Antigen peptide transporter 1,14.0,112.0,68.0
+98,P01111,NRAS,GTPase NRas,9.5,615.0,104.0
+99,P0DMV9,HSPA1B,Heat shock 70 kDa protein 1B,5.0,785.0,140.0
+100,Q9H492,MAP1LC3A,Microtubule-associated protein 1 light chain 3 alpha,0.0,475.0,547.0
+101,P63241,EIF5A,Eukaryotic translation initiation factor 5A-1,10.4,148.0,88.0
+102,O75385,ULK1,Serine/threonine-protein kinase ULK1,54.2,105.0,545.0
+103,Q13451,FKBP5,Peptidyl-prolyl cis-trans isomerase FKBP5,12.3,177.0,109.0
+104,Q07912,TNK2,Activated CDC42 kinase 1,49.6,98.0,104.0
+105,O00214,LGALS8,Galectin-8,2.8,160.0,315.0
+106,Q9UDY8,MALT1,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,18.8,64.0,57.0
+107,Q08050,FOXM1,Forkhead box protein M1,82.4,93.0,134.0
+108,Q16186,ADRM1,Proteasomal ubiquitin receptor ADRM1,54.3,115.0,56.0
+109,P31749,AKT1,RAC-alpha serine/threonine-protein kinase,12.3,437.0,261.0
+110,Q12778,FOXO1,Forkhead box protein O1,87.5,78.0,142.0
+111,P51946,CCNH,Cyclin-H,10.5,80.0,41.0
+112,Q6GQQ9,OTUD7B,OTU domain-containing protein 7B,45.9,55.0,101.0
+113,Q99497,PARK7,Parkinson disease protein 7,0.0,293.0,591.0
+114,P40939,HADHA,"Trifunctional enzyme subunit alpha, mitochondrial",4.6,399.0,48.0
+115,Q12983,BNIP3,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,100.0,91.0,530.0
+116,Q13547,HDAC1,Histone deacetylase 1,18.3,696.0,157.0
+117,Q13153,PAK1,Serine/threonine-protein kinase PAK 1,35.2,207.0,139.0
+118,Q9H1Y0,ATG5,Autophagy protein 5,0.0,169.0,586.0
+119,Q14457,BECN1,Beclin-1,26.2,211.0,942.0
+120,Q9Y371,SH3GLB1,Endophilin-B1,19.2,129.0,292.0
+121,P54274,TERF1,Telomeric repeat-binding factor 1,43.7,325.0,52.0
+122,P09429,HMGB1,High mobility group protein B1,33.0,357.0,949.0
+123,Q8IYT8,ULK2,Serine/threonine-protein kinase ULK2,51.6,57.0,263.0
+124,Q13043,STK4,Serine/threonine-protein kinase 4,29.8,315.0,138.0
+125,Q9GZQ8,MAP1LC3B,Microtubule-associated protein 1 light chain 3 beta,0.0,664.0,602.0
+126,O43464,HTRA2,"Serine protease HTRA2, mitochondrial",31.4,220.0,91.0
+127,O75886,STAM2,Signal transducing adapter molecule 2,52.8,96.0,103.0
+128,P01023,A2M,Alpha-2-macroglobulin,4.8,149.0,71.0
+129,Q9H0R8,GABARAPL1,Gamma-aminobutyric acid receptor-associated protein-like 1,0.0,533.0,288.0
+130,P27797,CALR,Calreticulin,15.8,305.0,155.0
+131,P46937,YAP1,Transcriptional coactivator YAP1,85.7,683.0,186.0
+132,P00441,SOD1,Superoxide dismutase [Cu-Zn],0.0,384.0,122.0
+133,Q04206,RELA,Transcription factor p65,48.1,418.0,194.0
+134,Q06609,RAD51,DNA repair protein RAD51 homolog 1,5.9,173.0,88.0
+135,P49768,PSEN1,Presenilin-1,29.3,212.0,341.0
+136,Q9NQB0,TCF7L2,Transcription factor 7-like 2,85.9,232.0,113.0
+137,P42858,HTT,Huntingtin,,,
+138,Q13148,TARDBP,TAR DNA-binding protein 43,43.0,434.0,108.0
+139,P51149,RAB7A,Ras-related protein Rab-7a,11.1,349.0,336.0
+140,Q99623,PHB2,Prohibitin-2,14.0,459.0,479.0
+141,P30793,GCH1,GTP cyclohydrolase 1,22.4,58.0,58.0
+142,Q16666,IFI16,Gamma-interferon-inducible protein 16,39.9,666.0,434.0
+143,P11387,TOP1,DNA topoisomerase 1,26.9,284.0,85.0
+144,Q96BY2,MOAP1,Modulator of apoptosis 1,9.7,38.0,267.0
+145,P46531,NOTCH1,Neurogenic locus notch homolog protein 1,24.7,311.0,203.0
+146,Q9UHD9,UBQLN2,Ubiquilin-2,53.4,716.0,289.0
+147,Q13526,PIN1,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,6.1,348.0,127.0
+148,Q8IZQ1,WDFY3,WD repeat and FYVE domain-containing protein 3,,,
+149,Q9BXW4,MAP1LC3C,Microtubule-associated protein 1 light chain 3 gamma,21.1,52.0,202.0
+150,O75928,PIAS2,E3 SUMO-protein ligase PIAS2,43.8,155.0,47.0
+151,P11940,PABPC1,Polyadenylate-binding protein 1,27.7,483.0,75.0
+152,Q15831,STK11,Serine/threonine-protein kinase STK11,29.1,229.0,662.0
+153,P08581,MET,Hepatocyte growth factor receptor,13.6,182.0,199.0
+154,Q676U5,ATG16L1,Autophagy-related protein 16-1,29.8,735.0,529.0
+155,Q12905,ILF2,Interleukin enhancer-binding factor 2,18.7,467.0,89.0
+156,Q15004,PCLAF,PCNA-associated factor,100.0,813.0,124.0
+157,P36776,LONP1,"Lon protease homolog, mitochondrial",18.2,376.0,15.0
+158,P55011,SLC12A2,Solute carrier family 12 member 2,25.9,161.0,43.0
+159,O43353,RIPK2,Receptor-interacting serine/threonine-protein kinase 2,27.0,94.0,320.0
+160,P08670,VIM,Vimentin,43.3,641.0,158.0
+161,O75970,MPDZ,Multiple PDZ domain protein,36.7,80.0,21.0
+162,Q8WUM4,PDCD6IP,Programmed cell death 6-interacting protein,18.2,182.0,78.0
+163,P09651,HNRNPA1,Heterogeneous nuclear ribonucleoprotein A1,51.1,715.0,123.0
+164,P38919,EIF4A3,Eukaryotic initiation factor 4A-III,6.6,427.0,51.0
+165,P27695,APEX1,DNA repair nuclease/redox regulator APEX1,15.1,1173.0,91.0
+166,P06401,PGR,Progesterone receptor,65.4,131.0,76.0
+167,Q9P1W9,PIM2,Serine/threonine-protein kinase pim-2,13.8,24.0,281.0
+168,Q9NYB9,ABI2,Abl interactor 2,66.5,256.0,121.0
+169,P10275,AR,Androgen receptor,62.0,822.0,185.0
+170,Q9UNZ2,NSFL1C,NSFL1 cofactor p47,35.4,128.0,49.0
+171,P63104,YWHAZ,14-3-3 protein zeta/delta,4.9,933.0,192.0
+172,O95352,ATG7,Ubiquitin-like modifier-activating enzyme ATG7,6.0,157.0,498.0
+173,Q08209,PPP3CA,Protein phosphatase 3 catalytic subunit alpha,13.4,104.0,91.0
+174,P63165,SUMO1,Small ubiquitin-related modifier 1,28.7,1035.0,168.0
+175,P12931,SRC,Proto-oncogene tyrosine-protein kinase Src,14.9,576.0,997.0
+176,Q9Y6K9,IKBKG,NF-kappa-B essential modulator,42.0,483.0,113.0
+177,P06748,NPM1,Nucleophosmin,46.3,887.0,135.0
+178,P42704,LRPPRC,"Leucine-rich PPR motif-containing protein, mitochondrial",8.2,563.0,245.0
+179,P37231,PPARG,Peroxisome proliferator-activated receptor gamma,26.7,260.0,179.0
+180,Q16543,CDC37,Hsp90 co-chaperone Cdc37,20.6,490.0,69.0
+181,Q13049,TRIM32,E3 ubiquitin-protein ligase TRIM32,14.7,154.0,350.0
+182,P02686,MBP,Myelin basic protein,100.0,52.0,34.0
+183,P34741,SDC2,Syndecan-2,92.5,129.0,54.0
+184,P50570,DNM2,Dynamin-2,17.4,224.0,556.0
+185,Q7Z3C6,ATG9A,Autophagy-related protein 9A,25.5,147.0,469.0
+186,P49023,PXN,Paxillin,58.5,279.0,104.0
+187,P01009,SERPINA1,Alpha-1-antitrypsin,10.3,121.0,118.0
+188,P06702,S100A9,Protein S100-A9,17.5,266.0,643.0
+189,Q15691,MAPRE1,Microtubule-associated protein RP/EB family member 1,35.1,283.0,80.0
+190,P42898,MTHFR,Methylenetetrahydrofolate reductase (NADPH),6.9,42.0,96.0
+191,O00750,PIK3C2B,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta,19.3,38.0,133.0
+192,P04626,ERBB2,Receptor tyrosine-protein kinase erbB-2,23.2,475.0,204.0
+193,Q9NQC7,CYLD,Ubiquitin carboxyl-terminal hydrolase CYLD,23.0,799.0,127.0
+194,P42226,STAT6,Signal transducer and activator of transcription 6,25.7,72.0,104.0
+195,P61960,UFM1,Ubiquitin-fold modifier 1,0.0,91.0,148.0
+196,O15169,AXIN1,Axin-1,73.9,155.0,100.0
+197,P14678,SNRPB,Small nuclear ribonucleoprotein-associated proteins B and B',64.6,265.0,63.0
+198,Q2TAZ0,ATG2A,Autophagy-related protein 2 homolog A,26.9,107.0,131.0
+199,P11274,BCR,Breakpoint cluster region protein,34.6,133.0,49.0
+200,Q6ZNE5,ATG14,Beclin 1-associated autophagy-related key regulator,36.4,57.0,146.0
+201,P55061,TMBIM6,Bax inhibitor 1,5.5,110.0,293.0
+202,P09038,FGF2,Fibroblast growth factor 2,51.7,40.0,138.0
+203,P54646,PRKAA2,5'-AMP-activated protein kinase catalytic subunit alpha-2,25.5,180.0,422.0
+204,Q9UBK2,PPARGC1A,Peroxisome proliferator-activated receptor gamma coactivator 1-alpha,85.6,64.0,130.0
+205,O14733,MAP2K7,Dual specificity mitogen-activated protein kinase kinase 7,21.5,95.0,68.0
+206,P49757,NUMB,Protein numb homolog,74.0,162.0,137.0
+207,P27708,CAD,Multifunctional protein CAD,4.7,309.0,5.0
+208,Q9NRR5,UBQLN4,Ubiquilin-4,49.4,222.0,167.0
+209,P60709,ACTB,"Actin, cytoplasmic 1",0.0,708.0,94.0
+210,P49848,TAF6,Transcription initiation factor TFIID subunit 6,52.4,104.0,21.0
+211,P14416,DRD2,D(2) dopamine receptor,38.8,98.0,499.0
+212,Q96IZ0,PAWR,PRKC apoptosis WT1 regulator protein,84.4,77.0,121.0
+213,Q14901,MYC,,,,
+214,P30518,AVPR2,Vasopressin V2 receptor,23.7,118.0,24.0
+215,O15350,TP73,Tumor protein p73,56.3,147.0,114.0
+216,P61019,RAB2A,Ras-related protein Rab-2A,9.4,469.0,270.0
+217,P00533,EGFR,Epidermal growth factor receptor,22.2,1369.0,260.0
+218,Q96CV9,OPTN,Optineurin,65.7,386.0,404.0
+219,P61006,RAB8A,Ras-related protein Rab-8A,14.5,179.0,361.0
+220,Q16236,NFE2L2,Nuclear factor erythroid 2-related factor 2,72.1,131.0,192.0
+221,P52564,MAP2K6,Dual specificity mitogen-activated protein kinase kinase 6,10.5,45.0,37.0
+222,Q9H4L7,SMARCAD1,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1,28.7,168.0,11.0
+223,Q8TF45,ZNF418,Zinc finger protein 418,30.2,22.0,135.0
+224,O60493,SNX3,Sorting nexin-3,14.8,159.0,51.0
+225,Q96AC1,FERMT2,Fermitin family homolog 2,13.4,147.0,121.0
+226,P35052,GPC1,Glypican-1,22.4,164.0,51.0
+227,Q15382,RHEB,GTP-binding protein Rheb,4.3,74.0,68.0
+228,P56962,STX17,Syntaxin-17,48.3,248.0,171.0
+229,Q96JC1,VPS39,Vam6/Vps39-like protein,0.9,42.0,87.0
+230,Q16635,TAFAZZIN,Tafazzin,7.2,166.0,4.0
+231,O95835,LATS1,Serine/threonine-protein kinase LATS1,55.5,209.0,95.0
+232,P49790,NUP153,Nuclear pore complex protein Nup153,94.2,156.0,39.0
+233,P16615,ATP2A2,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,2.2,270.0,67.0
+234,P05067,APP,Amyloid-beta precursor protein,44.3,885.0,188.0
+235,Q7KZF4,SND1,Staphylococcal nuclease domain-containing protein 1,5.3,233.0,68.0
+236,Q13131,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,26.1,335.0,669.0
+237,Q99570,PIK3R4,Phosphoinositide 3-kinase regulatory subunit 4,14.7,66.0,111.0
+238,Q9UJY5,GGA1,ADP-ribosylation factor-binding protein GGA1,35.5,87.0,60.0
+239,Q9BZE9,ASPSCR1,Tether containing UBX domain for GLUT4,42.5,61.0,18.0
+240,P08476,INHBA,Inhibin beta A chain,22.3,17.0,602.0
+241,P58004,SESN2,Sestrin-2,14.6,26.0,100.0
+242,Q13625,TP53BP2,Apoptosis-stimulating of p53 protein 2,71.9,210.0,124.0
+243,P40337,VHL,von Hippel-Lindau disease tumor suppressor,28.6,520.0,85.0
+244,Q9UQN3,CHMP2B,Charged multivesicular body protein 2b,56.3,52.0,90.0
+245,O14974,PPP1R12A,Protein phosphatase 1 regulatory subunit 12A,71.8,200.0,59.0
+246,P25963,NFKBIA,NF-kappa-B inhibitor alpha,33.1,191.0,118.0
+247,P84243,H3-3B,Histone H3.3,40.4,203.0,64.0
+248,P29317,EPHA2,Ephrin type-A receptor 2,8.2,238.0,131.0
+249,Q49AN0,CRY2,Cryptochrome-2,17.0,183.0,43.0
+250,P25054,APC,Adenomatous polyposis coli protein,,,
+251,Q13586,STIM1,Stromal interaction molecule 1,41.8,316.0,99.0
+252,P62826,RAN,GTP-binding nuclear protein Ran,18.5,250.0,111.0
+253,O00499,BIN1,Myc box-dependent-interacting protein 1,44.2,127.0,81.0
+254,Q96GF1,RNF185,E3 ubiquitin-protein ligase RNF185,69.3,153.0,95.0
+255,P13569,CFTR,Cystic fibrosis transmembrane conductance regulator,17.1,987.0,105.0
+256,P02533,KRT14,"Keratin, type I cytoskeletal 14",57.0,132.0,36.0
+257,P62805,H4C9,Histone H4,35.0,1665.0,76.0
+258,Q96AX1,VPS33A,Vacuolar protein sorting-associated protein 33A,2.2,209.0,93.0
+259,Q00987,MDM2,E3 ubiquitin-protein ligase Mdm2,65.4,856.0,83.0
+260,P04908,H2AC8,Histone H2A type 1-B/E,37.7,507.0,21.0
+261,O60885,BRD4,Bromodomain-containing protein 4,78.4,1452.0,138.0
+262,Q96HS1,PGAM5,"Serine/threonine-protein phosphatase PGAM5, mitochondrial",21.1,213.0,189.0
+263,P23443,RPS6KB1,Ribosomal protein S6 kinase beta-1,34.3,77.0,129.0
+264,O75143,ATG13,Autophagy-related protein 13,62.3,38.0,172.0
+265,P40763,STAT3,Signal transducer and activator of transcription 3,13.5,369.0,229.0
+266,Q9UM07,PADI4,Protein-arginine deiminase type-4,0.0,28.0,91.0
+267,P35637,FUS,RNA-binding protein FUS,78.5,578.0,41.0
+268,Q9BXS4,TMEM59,Transmembrane protein 59,66.9,169.0,109.0
+269,O95197,RTN3,Reticulon-3,84.5,127.0,73.0
+270,Q15642,TRIP10,Cdc42-interacting protein 4,31.8,91.0,75.0
+271,P23588,EIF4B,Eukaryotic translation initiation factor 4B,85.6,230.0,71.0
+272,Q8N488,RYBP,RING1 and YY1-binding protein,89.9,607.0,64.0
+273,P46527,CDKN1B,Cyclin-dependent kinase inhibitor 1B,87.4,100.0,150.0
+274,Q13740,ALCAM,CD166 antigen,17.2,60.0,76.0
+275,P55211,CASP9,Caspase-9,16.3,56.0,108.0
+276,Q9H078,CLPB,Mitochondrial disaggregase,28.6,174.0,4.0
+277,Q9BY43,CHMP4A,Charged multivesicular body protein 4a,52.3,61.0,35.0
+278,Q9Y3E7,CHMP3,Charged multivesicular body protein 3,30.2,54.0,156.0
+279,P15941,MUC1,Mucin-1,27.1,145.0,50.0
+280,O00308,WWP2,NEDD4-like E3 ubiquitin-protein ligase WWP2,20.1,748.0,54.0
+281,Q6R327,RICTOR,Rapamycin-insensitive companion of mTOR,35.2,223.0,88.0
+282,P04150,NR3C1,Glucocorticoid receptor,59.5,899.0,129.0
+283,P11166,SLC2A1,"Solute carrier family 2, facilitated glucose transporter member 1",3.7,201.0,179.0
+284,O75056,SDC3,Syndecan-3,96.6,36.0,40.0
+285,P16144,ITGB4,Integrin beta-4,21.5,97.0,518.0
+286,P07355,ANXA2,Annexin A2,6.5,313.0,136.0
+287,P53355,DAPK1,Death-associated protein kinase 1,6.5,140.0,175.0
+288,O75683,SURF6,Surfeit locus protein 6,69.8,351.0,55.0
+289,P04083,ANXA1,Annexin A1,0.0,199.0,121.0
+290,P55735,SEC13,Protein SEC13 homolog,5.9,146.0,52.0
+291,Q13485,SMAD4,Mothers against decapentaplegic homolog 4,37.3,418.0,146.0
+292,Q9UQC2,GAB2,GRB2-associated-binding protein 2,82.2,117.0,95.0
+293,Q9HAD4,WDR41,WD repeat-containing protein 41,19.0,114.0,148.0
+294,Q9Y3D6,FIS1,Mitochondrial fission 1 protein,19.1,196.0,91.0
+295,Q9UER7,DAXX,Death domain-associated protein 6,62.2,306.0,88.0
+296,Q13137,CALCOCO2,Calcium-binding and coiled-coil domain-containing protein 2,35.7,448.0,311.0
+297,Q14318,FKBP8,Peptidyl-prolyl cis-trans isomerase FKBP8,35.2,435.0,80.0
+298,Q96A56,TP53INP1,Tumor protein p53-inducible nuclear protein 1,100.0,20.0,426.0
+299,Q9NT62,ATG3,Ubiquitin-like-conjugating enzyme ATG3,24.8,63.0,384.0
+300,Q09472,EP300,Histone acetyltransferase p300,60.0,1195.0,158.0
+301,P07237,P4HB,Protein disulfide-isomerase,9.8,334.0,109.0
+302,Q9H3M7,TXNIP,Thioredoxin-interacting protein,22.5,167.0,106.0
+303,P37173,TGFBR2,TGF-beta receptor type-2,23.5,177.0,110.0
+304,O96013,PAK4,Serine/threonine-protein kinase PAK 4,46.7,317.0,12.0
+305,P60520,GABARAPL2,Gamma-aminobutyric acid receptor-associated protein-like 2,0.0,560.0,254.0
+306,Q96CF2,CHMP4C,Charged multivesicular body protein 4c,51.5,663.0,242.0
+307,O15151,MDM4,Protein Mdm4,64.1,95.0,101.0
+308,P63000,RAC1,Ras-related C3 botulinum toxin substrate 1,6.2,914.0,95.0
+309,P07550,ADRB2,Beta-2 adrenergic receptor,30.5,303.0,138.0
+310,Q99816,TSG101,Tumor susceptibility gene 101 protein,41.5,263.0,387.0
+311,Q9UKV8,AGO2,Protein argonaute-2,4.7,426.0,141.0
+312,P45973,CBX5,Chromobox protein homolog 5,44.5,279.0,61.0
+313,P22626,HNRNPA2B1,Heterogeneous nuclear ribonucleoproteins A2/B1,48.4,394.0,90.0
+314,P46108,CRK,Adapter molecule crk,25.0,405.0,69.0
+315,Q15637,SF1,Splicing factor 1,67.6,315.0,31.0
+316,P56524,HDAC4,Histone deacetylase 4,57.4,361.0,112.0
+317,Q9BRG1,VPS25,Vacuolar protein-sorting-associated protein 25,0.6,53.0,76.0
+318,P55957,BID,BH3-interacting domain death agonist,20.5,75.0,57.0
+319,Q9NZZ3,CHMP5,Charged multivesicular body protein 5,58.4,67.0,73.0
+320,P31751,AKT2,RAC-beta serine/threonine-protein kinase,10.4,133.0,127.0
+321,Q9Y239,NOD1,Nucleotide-binding oligomerization domain-containing protein 1,4.8,29.0,333.0
+322,Q9H8Y8,GORASP2,Golgi reassembly-stacking protein 2,56.2,274.0,87.0
+323,O94874,UFL1,E3 UFM1-protein ligase 1,17.4,963.0,99.0
+324,O95166,GABARAP,Gamma-aminobutyric acid receptor-associated protein,0.0,484.0,226.0
+325,P18507,GABRG2,Gamma-aminobutyric acid receptor subunit gamma-2,29.8,21.0,47.0
+326,P80303,NUCB2,Nucleobindin-2,18.3,72.0,53.0
+327,P10909,CLU,Clusterin,14.5,249.0,683.0
+328,Q6ZNA4,RNF111,E3 ubiquitin-protein ligase Arkadia,91.9,89.0,29.0
+329,P13693,TPT1,Translationally-controlled tumor protein,12.8,292.0,143.0
+330,O95429,BAG4,BAG family molecular chaperone regulator 4,82.3,199.0,50.0
+331,Q12834,CDC20,Cell division cycle protein 20 homolog,36.7,187.0,117.0
+332,P24522,GADD45A,Growth arrest and DNA damage-inducible protein GADD45 alpha,6.1,94.0,115.0
+333,Q9Y296,TRAPPC4,Trafficking protein particle complex subunit 4,1.8,62.0,225.0
+334,Q01484,ANK2,Ankyrin-2,,,
+335,P36578,RPL4,Large ribosomal subunit protein uL4,27.2,579.0,22.0
+336,P11309,PIM1,Serine/threonine-protein kinase pim-1,10.9,56.0,107.0
+337,P08235,NR3C2,Mineralocorticoid receptor,66.9,36.0,75.0
+338,P07814,EPRS1,Bifunctional glutamate/proline--tRNA ligase,10.4,252.0,46.0
+339,Q9C035,TRIM5,Tripartite motif-containing protein 5,4.1,62.0,216.0
+340,P50553,ASCL1,Achaete-scute homolog 1,76.7,34.0,40.0
+341,P06239,LCK,Tyrosine-protein kinase Lck,11.6,389.0,92.0
+342,Q96RL7,VPS13A,Intermembrane lipid transfer protein VPS13A,,,
+343,P05114,HMGN1,Non-histone chromosomal protein HMG-14,100.0,115.0,9.0
+344,P55036,PSMD4,26S proteasome non-ATPase regulatory subunit 4,39.3,257.0,25.0
+345,Q96B97,SH3KBP1,SH3 domain-containing kinase-binding protein 1,69.3,279.0,54.0
+346,O43318,MAP3K7,Mitogen-activated protein kinase kinase kinase 7,43.9,254.0,133.0
+347,P15927,RPA2,Replication protein A 32 kDa subunit,26.3,546.0,52.0
+348,P25490,YY1,Transcriptional repressor protein YY1,71.5,393.0,150.0
+349,O94817,ATG12,Ubiquitin-like protein ATG12,37.9,103.0,268.0
+350,Q9NQI0,DDX4,Probable ATP-dependent RNA helicase DDX4,40.7,19.0,25.0
+351,P16220,CREB1,Cyclic AMP-responsive element-binding protein 1,80.7,190.0,159.0
+352,Q16665,HIF1A,Hypoxia-inducible factor 1-alpha,58.0,375.0,231.0
+353,Q9BXK5,BCL2L13,Bcl-2-like protein 13,59.2,96.0,164.0
+354,O00418,EEF2K,Eukaryotic elongation factor 2 kinase,27.3,157.0,61.0
+355,P51617,IRAK1,Interleukin-1 receptor-associated kinase 1,40.3,183.0,98.0
+356,Q07817,BCL2L1,Bcl-2-like protein 1,27.5,182.0,182.0
+357,P60484,PTEN,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",16.1,356.0,227.0
+358,P52732,KIF11,Kinesin-like protein KIF11,17.4,207.0,98.0
+359,Q9H0U4,RAB1B,Ras-related protein Rab-1B,12.4,140.0,253.0
+360,Q9Y2Z0,SUGT1,Protein SGT1 homolog,24.9,186.0,71.0
+361,Q15185,PTGES3,Prostaglandin E synthase 3,28.7,325.0,90.0
+362,P47897,QARS1,Glutamine--tRNA ligase,4.9,257.0,4.0
+363,P05106,ITGB3,Integrin beta-3,11.8,53.0,140.0
+364,O95391,SLU7,Pre-mRNA-splicing factor SLU7,47.1,105.0,30.0
+365,Q15046,KARS1,Lysine--tRNA ligase,15.7,201.0,36.0
+366,Q13627,DYRK1A,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,51.0,387.0,45.0
+367,P54725,RAD23A,UV excision repair protein RAD23 homolog A,44.9,197.0,39.0
+368,Q9P253,VPS18,Vacuolar protein sorting-associated protein 18 homolog,10.4,92.0,194.0
+369,Q9Y3I1,FBXO7,F-box only protein 7,39.7,227.0,237.0
+370,Q14194,CRMP1,Dihydropyrimidinase-related protein 1,17.3,123.0,65.0
+371,Q9C0C7,AMBRA1,Activating molecule in BECN1-regulated autophagy protein 1,68.0,221.0,381.0
+372,O14519,CDK2AP1,Cyclin-dependent kinase 2-associated protein 1,62.6,111.0,50.0
+373,O95433,AHSA1,Activator of 90 kDa heat shock protein ATPase homolog 1,16.0,216.0,21.0
+374,O75323,NIPSNAP2,Protein NipSnap homolog 2,21.0,146.0,206.0
+375,P50750,CDK9,Cyclin-dependent kinase 9,12.6,629.0,76.0
+376,Q00534,CDK6,Cyclin-dependent kinase 6,6.4,177.0,142.0
+377,Q92574,TSC1,Hamartin,60.5,237.0,62.0
+378,Q13635,PTCH1,Protein patched homolog 1,27.2,250.0,82.0
+379,P41743,PRKCI,Protein kinase C iota type,13.3,219.0,106.0
+380,Q96AE4,FUBP1,Far upstream element-binding protein 1,50.5,159.0,78.0
+381,Q8NFJ9,BBS1,BBSome complex member BBS1,8.6,113.0,30.0
+382,Q9BY41,HDAC8,Histone deacetylase 8,3.2,38.0,87.0
+383,P52597,HNRNPF,Heterogeneous nuclear ribonucleoprotein F,34.0,371.0,16.0
+384,Q9UN86,G3BP2,Ras GTPase-activating protein-binding protein 2,53.3,205.0,39.0
+385,Q8N5K1,CISD2,CDGSH iron-sulfur domain-containing protein 2,37.8,177.0,466.0
+386,Q96H20,SNF8,Vacuolar-sorting protein SNF8,16.7,54.0,158.0
+387,Q9Y5B0,CTDP1,RNA polymerase II subunit A C-terminal domain phosphatase,51.6,147.0,13.0
+388,P38936,CDKN1A,Cyclin-dependent kinase inhibitor 1,84.1,310.0,183.0
+389,Q9UPP1,PHF8,Histone lysine demethylase PHF8,58.5,154.0,51.0
+390,Q9Y2R2,PTPN22,Tyrosine-protein phosphatase non-receptor type 22,62.6,56.0,411.0
+391,P20963,CD247,T-cell surface glycoprotein CD3 zeta chain,100.0,40.0,60.0
+392,P05455,SSB,Lupus La protein,22.8,218.0,87.0
+393,P31153,MAT2A,S-adenosylmethionine synthase isoform type-2,2.5,105.0,43.0
+394,Q96GC9,VMP1,Vacuole membrane protein 1,10.1,163.0,342.0
+395,Q07157,TJP1,Tight junction protein 1,62.2,214.0,82.0
+396,Q15843,NEDD8,Ubiquitin-like protein NEDD8,16.0,780.0,102.0
+397,Q9BYF1,ACE2,Angiotensin-converting enzyme 2,9.2,240.0,59.0
+398,Q96AG3,SLC25A46,Mitochondrial outer membrane protein SLC25A46,22.2,255.0,55.0
+399,Q07812,BAX,Apoptosis regulator BAX,6.2,112.0,77.0
+400,Q96LT7,C9orf72,Guanine nucleotide exchange factor C9orf72,2.7,105.0,203.0
+401,Q9BPZ7,MAPKAP1,Target of rapamycin complex 2 subunit MAPKAP1,32.6,104.0,71.0
+402,P48426,PIP4K2A,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,15.5,169.0,239.0
+403,P78356,PIP4K2B,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta,16.8,67.0,81.0
+404,P11473,VDR,Vitamin D3 receptor,18.7,123.0,142.0
+405,P38398,BRCA1,Breast cancer type 1 susceptibility protein,82.3,1072.0,73.0
+406,P02649,APOE,Apolipoprotein E,37.5,157.0,161.0
+407,Q9UH77,KLHL3,Kelch-like protein 3,6.3,29.0,98.0
+408,P20073,ANXA7,Annexin A7,36.3,152.0,365.0
+409,P24864,CCNE1,G1/S-specific cyclin-E1,28.0,90.0,33.0
+410,P13010,XRCC5,X-ray repair cross-complementing protein 5,20.2,396.0,82.0
+411,Q96F24,NRBF2,Nuclear receptor-binding factor 2,60.6,52.0,83.0
+412,Q13464,ROCK1,Rho-associated protein kinase 1,43.0,107.0,179.0
+413,Q9BSB4,ATG101,Autophagy-related protein 101,6.0,71.0,80.0
+414,P46379,BAG6,Large proline-rich protein BAG6,54.0,369.0,28.0
+415,Q9UBP0,SPAST,Spastin,38.0,34.0,46.0
+416,Q9NP79,VTA1,Vacuolar protein sorting-associated protein VTA1 homolog,33.2,69.0,48.0
+417,O43663,PRC1,Protein regulator of cytokinesis 1,28.4,908.0,29.0
+418,O60784,TOM1,Target of Myb1 membrane trafficking protein,46.3,64.0,93.0
+419,O15118,NPC1,NPC intracellular cholesterol transporter 1,4.2,323.0,291.0
+420,Q14849,STARD3,StAR-related lipid transfer protein 3,20.0,63.0,36.0
+421,Q9H4H8,FAM83D,Protein FAM83D,56.4,68.0,54.0
+422,P19793,RXRA,Retinoic acid receptor RXR-alpha,33.1,138.0,115.0
+423,Q9Y5S9,RBM8A,RNA-binding protein 8A,46.6,169.0,93.0
+424,O14965,AURKA,Aurora kinase A,32.5,379.0,137.0
+425,Q01831,XPC,DNA repair protein complementing XP-C cells,49.3,121.0,22.0
+426,P19634,SLC9A1,Sodium/hydrogen exchanger 1,38.8,103.0,94.0
+427,O95295,SNAPIN,SNARE-associated protein Snapin,77.9,151.0,144.0
+428,Q07866,KLC1,Kinesin light chain 1,27.7,115.0,50.0
+429,P02647,APOA1,Apolipoprotein A-I,98.9,141.0,135.0
+430,Q70CQ3,USP30,Ubiquitin carboxyl-terminal hydrolase 30,31.7,91.0,80.0
+431,O60568,PLOD3,Multifunctional procollagen lysine hydroxylase and glycosyltransferase LH3,4.5,150.0,33.0
+432,Q12888,TP53BP1,TP53-binding protein 1,80.0,433.0,88.0
+433,P08047,SP1,Transcription factor Sp1,80.0,292.0,187.0
+434,A1A4Y4,IRGM,Immunity-related GTPase family M protein,0.0,17.0,259.0
+435,Q92558,WASF1,Actin-binding protein WASF1,75.8,65.0,50.0
+436,O43313,ATMIN,ATM interactor,83.8,12.0,30.0
+437,B3EWF7,EPM2A,"Laforin, isoform 9",,,
+438,P51587,BRCA2,Breast cancer type 2 susceptibility protein,,,
+439,Q8N6T7,SIRT6,NAD-dependent protein deacylase sirtuin-6,19.4,596.0,123.0
+440,Q9H269,VPS16,Vacuolar protein sorting-associated protein 16 homolog,0.0,91.0,155.0
+441,Q00653,NFKB2,Nuclear factor NF-kappa-B p100 subunit,28.1,192.0,83.0
+442,Q9Y3M2,CBY1,Protein chibby homolog 1,48.4,166.0,46.0
+443,Q9UQ80,PA2G4,Proliferation-associated protein 2G4,8.9,215.0,81.0
+444,Q8WYP5,AHCTF1,Protein ELYS,54.8,107.0,11.0
+445,Q13469,NFATC2,"Nuclear factor of activated T-cells, cytoplasmic 2",69.3,190.0,90.0
+446,P08631,HCK,Tyrosine-protein kinase HCK,15.2,149.0,75.0
+447,P20849,COL9A1,Collagen alpha-1(IX) chain,77.1,9.0,19.0
+448,O60502,OGA,Protein O-GlcNAcase,25.4,64.0,45.0
+449,P21675,TAF1,Transcription initiation factor TFIID subunit 1,53.2,206.0,40.0
+450,Q9BTX3,TMEM208,Transmembrane protein 208,24.9,47.0,77.0
+451,Q96GD4,AURKB,Aurora kinase B,21.2,601.0,156.0
+452,Q86Y82,STX12,Syntaxin-12,31.9,184.0,93.0
+453,P60880,SNAP25,Synaptosomal-associated protein 25,31.6,73.0,73.0
+454,Q8WZ42,TTN,Titin,,,
+455,Q96RF0,SNX18,Sorting nexin-18,33.8,73.0,44.0
+456,P16333,NCK1,SH2/SH3 adapter protein NCK1,25.7,306.0,55.0
+457,Q9H6U6,BCAS3,BCAS3 microtubule associated cell migration factor,41.2,59.0,89.0
+458,Q07889,SOS1,Son of sevenless homolog 1,24.0,73.0,44.0
+459,P84022,SMAD3,Mothers against decapentaplegic homolog 3,23.5,355.0,164.0
+460,P50402,EMD,Emerin,81.9,668.0,21.0
+461,Q5D1E8,ZC3H12A,Endoribonuclease ZC3H12A,51.9,31.0,62.0
+462,P07196,NEFL,Neurofilament light polypeptide,52.1,126.0,77.0
+463,P02730,SLC4A1,Band 3 anion transport protein,7.5,46.0,44.0
+464,Q86VP1,TAX1BP1,Tax1-binding protein 1,50.8,300.0,124.0
+465,P35611,ADD1,Alpha-adducin,58.3,109.0,43.0
+466,Q15796,SMAD2,Mothers against decapentaplegic homolog 2,33.2,286.0,125.0
+467,O95292,VAPB,Vesicle-associated membrane protein-associated protein B/C,46.1,349.0,69.0
+468,O75351,VPS4B,Vacuolar protein sorting-associated protein 4B,8.1,64.0,217.0
+469,Q04656,ATP7A,Copper-transporting ATPase 1,16.0,82.0,52.0
+470,Q68DK2,ZFYVE26,Zinc finger FYVE domain-containing protein 26,20.7,45.0,93.0
+471,Q9HBF4,ZFYVE1,Zinc finger FYVE domain-containing protein 1,9.1,53.0,103.0
+472,O00411,POLRMT,"DNA-directed RNA polymerase, mitochondrial",13.5,174.0,26.0
+473,Q14118,DAG1,Dystroglycan 1,47.6,140.0,40.0
+474,O14681,EI24,Etoposide-induced protein 2.4 homolog,8.8,64.0,54.0
+475,Q14596,NBR1,Next to BRCA1 gene 1 protein,66.1,332.0,131.0
+476,P78352,DLG4,Disks large homolog 4,22.1,142.0,43.0
+477,P08621,SNRNP70,U1 small nuclear ribonucleoprotein 70 kDa,64.8,884.0,36.0
+478,P42224,STAT1,Signal transducer and activator of transcription 1-alpha/beta,10.8,258.0,177.0
+479,Q9Y4P8,WIPI2,WD repeat domain phosphoinositide-interacting protein 2,22.5,80.0,300.0
+480,Q9ULC3,RAB23,Ras-related protein Rab-23,24.1,43.0,379.0
+481,Q9HC35,EML4,Echinoderm microtubule-associated protein-like 4,31.1,52.0,16.0
+482,Q14444,CAPRIN1,Caprin-1,71.5,215.0,60.0
+483,Q6UWE0,LRSAM1,E3 ubiquitin-protein ligase LRSAM1,25.9,82.0,131.0
+484,O43521,BCL2L11,Bcl-2-like protein 11,90.9,68.0,157.0
+485,P42574,CASP3,Caspase-3,18.1,117.0,216.0
+486,Q86WV6,STING1,Stimulator of interferon genes protein,20.6,121.0,551.0
+487,Q8N884,CGAS,Cyclic GMP-AMP synthase,30.5,252.0,61.0
+488,Q13177,PAK2,Serine/threonine-protein kinase PAK 2,33.4,174.0,107.0
+489,Q13363,CTBP1,C-terminal-binding protein 1,23.0,610.0,81.0
+490,P49257,LMAN1,Protein ERGIC-53,29.6,393.0,42.0
+491,Q93009,USP7,Ubiquitin carboxyl-terminal hydrolase 7,6.7,470.0,112.0
+492,Q9NR28,DIABLO,Diablo IAP-binding mitochondrial protein,31.0,215.0,48.0
+493,Q04637,EIF4G1,Eukaryotic translation initiation factor 4 gamma 1,60.7,229.0,69.0
+494,Q9GZZ9,UBA5,Ubiquitin-like modifier-activating enzyme 5,31.9,99.0,100.0
+495,P55210,CASP7,Caspase-7,24.4,59.0,78.0
+496,Q9BPW8,NIPSNAP1,Protein NipSnap homolog 1,20.8,212.0,121.0
+497,Q92945,KHSRP,Far upstream element-binding protein 2,57.8,195.0,63.0
+498,Q9Y679,AUP1,Lipid droplet-regulating VLDL assembly factor AUP1,19.8,200.0,121.0
+499,P62330,ARF6,ADP-ribosylation factor 6,2.9,576.0,108.0
+500,P10721,KIT,Mast/stem cell growth factor receptor Kit,18.5,100.0,130.0
+501,O14925,TIMM23,Mitochondrial import inner membrane translocase subunit Tim23,43.5,61.0,114.0
+502,P02788,LTF,Lactotransferrin,2.5,115.0,63.0
+503,O95071,UBR5,E3 ubiquitin-protein ligase UBR5,,,
+504,P29590,PML,Protein PML,32.0,283.0,105.0
+505,P05107,ITGB2,Integrin beta-2,12.0,52.0,80.0
+506,Q9UMS4,PRPF19,Pre-mRNA-processing factor 19,13.3,310.0,48.0
+507,P11233,RALA,Ras-related protein Ral-A,12.6,101.0,81.0
+508,Q9UIB8,CD84,SLAM family member 5,41.4,5.0,174.0
+509,O60880,SH2D1A,SH2 domain-containing protein 1A,22.7,38.0,38.0
+510,Q99835,SMO,Protein smoothened,29.0,44.0,91.0
+511,Q9BS75,KLHL20,Kelch-like protein 20,,,
+512,O75469,NR1I2,Nuclear receptor subfamily 1 group I member 2,17.5,42.0,88.0
+513,Q13838,DDX39B,Spliceosome RNA helicase DDX39B,10.5,381.0,51.0
+514,P15498,VAV1,Proto-oncogene vav,5.2,186.0,77.0
+515,P53365,ARFIP2,Arfaptin-2,29.6,89.0,70.0
+516,P36952,SERPINB5,Serpin B5,0.0,136.0,94.0
+517,Q03164,KMT2A,Histone-lysine N-methyltransferase 2A,,,
+518,Q14191,WRN,Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN,32.5,81.0,50.0
+519,Q9H270,VPS11,Vacuolar protein sorting-associated protein 11 homolog,8.8,72.0,114.0
+520,P78362,SRPK2,SRSF protein kinase 2,39.8,385.0,68.0
+521,P50542,PEX5,Peroxisomal targeting signal 1 receptor,40.5,142.0,132.0
+522,Q9BWH2,FUNDC2,FUN14 domain-containing protein 2,65.1,93.0,72.0
+523,P55789,GFER,FAD-linked sulfhydryl oxidase ALR,45.4,65.0,73.0
+524,P30281,CCND3,G1/S-specific cyclin-D3,18.2,75.0,60.0
+525,Q9NQS7,INCENP,Inner centromere protein,85.5,57.0,37.0
+526,P68363,TUBA1B,Tubulin alpha-1B chain,2.9,315.0,48.0
+527,P42768,WAS,Actin nucleation-promoting factor WAS,59.6,86.0,36.0
+528,O00410,IPO5,Importin-5,0.0,231.0,71.0
+529,P30260,CDC27,Cell division cycle protein 27 homolog,39.1,191.0,59.0
+530,P13647,KRT5,"Keratin, type II cytoskeletal 5",63.4,120.0,45.0
+531,P05121,SERPINE1,Plasminogen activator inhibitor 1,5.7,34.0,49.0
+532,Q6P1M3,LLGL2,LLGL scribble cell polarity complex component 2,13.5,106.0,33.0
+533,P01137,TGFB1,Transforming growth factor beta-1 proprotein,10.8,297.0,215.0
+534,P31431,SDC4,Syndecan-4,92.9,70.0,61.0
+535,Q7RTP6,MICAL3,[F-actin]-monooxygenase MICAL3,56.1,55.0,24.0
+536,P35568,IRS1,Insulin receptor substrate 1,82.4,95.0,152.0
+537,Q15910,EZH2,Histone-lysine N-methyltransferase EZH2,29.6,705.0,158.0
+538,Q02363,ID2,DNA-binding protein inhibitor ID-2,67.2,87.0,124.0
+539,Q9BRR0,ZKSCAN3,Zinc finger protein with KRAB and SCAN domains 3,48.0,26.0,157.0
+540,Q10589,BST2,Bone marrow stromal antigen 2,79.4,47.0,127.0
+541,P62877,RBX1,E3 ubiquitin-protein ligase RBX1,35.2,456.0,131.0
+542,P21580,TNFAIP3,Tumor necrosis factor alpha-induced protein 3,36.7,147.0,130.0
+543,Q92597,NDRG1,Protein NDRG1,27.2,189.0,98.0
+544,Q86VN1,VPS36,Vacuolar protein-sorting-associated protein 36,12.2,46.0,118.0
+545,O95155,UBE4B,Ubiquitin conjugation factor E4 B,25.9,97.0,92.0
+546,O00189,AP4M1,AP-4 complex subunit mu-1,6.8,46.0,167.0
+547,P53350,PLK1,Serine/threonine-protein kinase PLK1,12.8,393.0,146.0
+548,P53779,MAPK10,Mitogen-activated protein kinase 10,20.5,44.0,44.0
+549,P09012,SNRPA,U1 small nuclear ribonucleoprotein A,36.5,207.0,18.0
+550,Q15059,BRD3,Bromodomain-containing protein 3,59.1,445.0,52.0
+551,Q9H2M9,RAB3GAP2,Rab3 GTPase-activating protein non-catalytic subunit,10.8,81.0,54.0
+552,Q5T8D3,ACBD5,Acyl-CoA-binding domain-containing protein 5,78.7,182.0,59.0
+553,Q96NW4,ANKRD27,Ankyrin repeat domain-containing protein 27,25.0,29.0,43.0
+554,Q16611,BAK1,Bcl-2 homologous antagonist/killer,4.3,40.0,148.0
+555,Q3MII6,TBC1D25,TBC1 domain family member 25,39.7,54.0,19.0
+556,Q8TEQ6,GEMIN5,Gem-associated protein 5,16.3,136.0,11.0
+557,P18065,IGFBP2,Insulin-like growth factor-binding protein 2,51.4,8.0,88.0
+558,O14727,APAF1,Apoptotic protease-activating factor 1,0.8,71.0,88.0
+559,P06400,RB1,Retinoblastoma-associated protein,26.0,268.0,188.0
+560,P43250,GRK6,G protein-coupled receptor kinase 6,6.8,45.0,48.0
+561,Q16576,RBBP7,Histone-binding protein RBBP7,5.6,267.0,37.0
+562,Q5MNZ9,WIPI1,WD repeat domain phosphoinositide-interacting protein 1,28.5,45.0,170.0
+563,Q9NRR4,DROSHA,Ribonuclease 3,32.1,72.0,84.0
+564,Q9HD42,CHMP1A,Charged multivesicular body protein 1a,18.9,85.0,321.0
+565,Q13541,EIF4EBP1,Eukaryotic translation initiation factor 4E-binding protein 1,70.3,68.0,114.0
+566,P51449,RORC,Nuclear receptor ROR-gamma,32.4,45.0,51.0
+567,Q9UN37,VPS4A,Vacuolar protein sorting-associated protein 4A,6.9,62.0,232.0
+568,P01100,FOS,Protein c-Fos,93.4,235.0,156.0
+569,P01112,HRAS,GTPase HRas,9.5,591.0,156.0
+570,P04035,HMGCR,3-hydroxy-3-methylglutaryl-coenzyme A reductase,20.9,82.0,58.0
+571,O15273,TCAP,Telethonin,61.1,52.0,37.0
+572,P02511,CRYAB,Alpha-crystallin B chain,34.9,142.0,132.0
+573,P35869,AHR,Aryl hydrocarbon receptor,61.0,110.0,81.0
+574,Q16625,OCLN,Occludin,42.7,43.0,92.0
+575,Q9UBU9,NXF1,Nuclear RNA export factor 1,25.5,1248.0,45.0
+576,P05386,RPLP1,Large ribosomal subunit protein P1,49.1,239.0,24.0
+577,Q9BVI0,PHF20,PHD finger protein 20,67.6,39.0,29.0
+578,Q99714,HSD17B10,3-hydroxyacyl-CoA dehydrogenase type-2,0.0,369.0,12.0
+579,Q15233,NONO,Non-POU domain-containing octamer-binding protein,44.6,364.0,63.0
+580,O60934,NBN,Nibrin,55.2,142.0,101.0
+581,O60829,PAGE4,P antigen family member 4,100.0,246.0,14.0
+582,P14921,ETS1,Protein C-ets-1,48.1,100.0,121.0
+583,Q14653,IRF3,Interferon regulatory factor 3,17.6,122.0,142.0
+584,Q9UL18,AGO1,Protein argonaute-1,4.3,267.0,115.0
+585,P20340,RAB6A,Ras-related protein Rab-6A,17.8,100.0,51.0
+586,Q99801,NKX3-1,Homeobox protein Nkx-3.1,78.6,49.0,36.0
+587,P10619,CTSA,Lysosomal protective protein,5.2,96.0,17.0
+588,P27694,RPA1,Replication protein A 70 kDa DNA-binding subunit,13.3,567.0,51.0
+589,P98177,FOXO4,Forkhead box protein O4,84.2,27.0,102.0
+590,Q02556,IRF8,Interferon regulatory factor 8,28.2,52.0,425.0
+591,Q8WV28,BLNK,B-cell linker protein,73.0,41.0,27.0
+592,Q9UEU0,VTI1B,Vesicle transport through interaction with t-SNAREs homolog 1B,39.2,161.0,29.0
+593,Q96EY5,MVB12A,Multivesicular body subunit 12A,44.7,39.0,44.0
+594,Q92622,RUBCN,Run domain Beclin-1-interacting and cysteine-rich domain-containing protein,48.0,38.0,168.0
+595,Q13164,MAPK7,Mitogen-activated protein kinase 7,49.9,120.0,93.0
+596,P04271,S100B,Protein S100-B,0.0,159.0,77.0
+597,Q9UBB5,MBD2,Methyl-CpG-binding domain protein 2,60.8,101.0,63.0
+598,P02808,STATH,Statherin,100.0,44.0,12.0
+599,P26447,S100A4,Protein S100-A4,14.9,131.0,103.0
+600,P54132,BLM,RecQ-like DNA helicase BLM,53.1,163.0,63.0
+601,Q16620,NTRK2,BDNF/NT-3 growth factors receptor,20.2,42.0,88.0
+602,O75807,PPP1R15A,Protein phosphatase 1 regulatory subunit 15A,95.4,128.0,49.0
+603,Q9GZU1,MCOLN1,Mucolipin-1,14.5,15.0,45.0
+604,Q14061,COX17,Cytochrome c oxidase copper chaperone,38.1,59.0,24.0
+605,O43715,TRIAP1,TP53-regulated inhibitor of apoptosis 1,28.9,47.0,25.0
+606,P43034,PAFAH1B1,Platelet-activating factor acetylhydrolase IB subunit beta,3.4,108.0,58.0
+607,Q96NL1,TMEM74,Transmembrane protein 74,79.7,117.0,195.0
+608,Q92793,CREBBP,CREB-binding protein,61.5,443.0,122.0
+609,P26196,DDX6,Probable ATP-dependent RNA helicase DDX6,18.0,282.0,44.0
+610,Q06787,FMR1,Fragile X messenger ribonucleoprotein 1,42.6,457.0,76.0
+611,P24928,POLR2A,DNA-directed RNA polymerase II subunit RPB1,23.4,391.0,89.0
+612,Q9Y696,CLIC4,Chloride intracellular channel protein 4,4.7,101.0,76.0
+613,Q02297,NRG1,"Pro-neuregulin-1, membrane-bound isoform",78.9,95.0,108.0
+614,Q6DD88,ATL3,Atlastin-3,7.4,137.0,42.0
+615,Q9UMD9,COL17A1,Collagen alpha-1(XVII) chain,92.7,21.0,6.0
+616,P30531,SLC6A1,Sodium- and chloride-dependent GABA transporter 1,10.0,19.0,24.0
+617,Q9Y263,PLAA,Phospholipase A-2-activating protein,10.1,71.0,74.0
+618,P27635,RPL10,Large ribosomal subunit protein uL16,2.3,581.0,28.0
+619,O60508,CDC40,Pre-mRNA-processing factor 17,29.0,92.0,18.0
+620,Q10567,AP1B1,AP-1 complex subunit beta-1,13.9,172.0,24.0
+621,Q9Y577,TRIM17,E3 ubiquitin-protein ligase TRIM17,5.7,28.0,81.0
+622,Q96B02,UBE2W,Ubiquitin-conjugating enzyme E2 W,6.6,87.0,28.0
+623,Q86VP3,PACS2,Phosphofurin acidic cluster sorting protein 2,46.0,16.0,159.0
+624,P14868,DARS1,"Aspartate--tRNA ligase, cytoplasmic",6.4,160.0,7.0
+625,P14598,NCF1,Neutrophil cytosol factor 1,17.2,86.0,52.0
+626,Q9NQX3,GPHN,Gephyrin,19.0,56.0,40.0
+627,P50148,GNAQ,Guanine nucleotide-binding protein G(q) subunit alpha,4.2,106.0,38.0
+628,O75506,HSBP1,Heat shock factor-binding protein 1,60.5,48.0,35.0
+629,Q15276,RABEP1,Rab GTPase-binding effector protein 1,39.4,145.0,51.0
+630,Q9H082,RAB33B,Ras-related protein Rab-33B,22.3,31.0,53.0
+631,Q86WG5,SBF2,Myotubularin-related protein 13,18.3,35.0,89.0
+632,Q13613,MTMR1,Phosphatidylinositol-3-phosphate phosphatase MTMR1,15.2,84.0,7.0
+633,P20823,HNF1A,Hepatocyte nuclear factor 1-alpha,71.8,62.0,97.0
+634,Q0JRZ9,FCHO2,F-BAR domain only protein 2,35.3,63.0,2.0
+635,P08514,ITGA2B,Integrin alpha-IIb,11.6,15.0,34.0
+636,P27986,PIK3R1,Phosphatidylinositol 3-kinase regulatory subunit alpha,9.5,415.0,149.0
+637,O75817,POP7,Ribonuclease P protein subunit p20,17.1,53.0,4.0
+638,Q6ZNE9,RUFY4,RUN and FYVE domain-containing protein 4,40.6,14.0,6.0
+639,P43403,ZAP70,Tyrosine-protein kinase ZAP-70,7.4,59.0,53.0
+640,P52799,EFNB2,Ephrin-B2,51.4,119.0,53.0
+641,Q16790,CA9,Carbonic anhydrase 9,44.2,199.0,79.0
+642,P05387,RPLP2,Large ribosomal subunit protein P2,53.0,310.0,6.0
+643,P81605,DCD,Dermcidin,100.0,173.0,31.0
+644,Q9BX66,SORBS1,Sorbin and SH3 domain-containing protein 1,84.1,74.0,60.0
+645,Q96BY7,ATG2B,Autophagy-related protein 2 homolog B,29.9,60.0,278.0
+646,P23025,XPA,DNA repair protein complementing XP-A cells,48.4,72.0,44.0
+647,P24385,CCND1,G1/S-specific cyclin-D1,14.2,232.0,173.0
+648,Q96PU8,QKI,KH domain-containing RNA-binding protein QKI,44.0,155.0,104.0
+649,O15431,SLC31A1,High affinity copper uptake protein 1,45.8,169.0,39.0
+650,O43633,CHMP2A,Charged multivesicular body protein 2a,53.2,67.0,81.0
+651,O15392,BIRC5,Baculoviral IAP repeat-containing protein 5,12.0,76.0,194.0
+652,Q8WVM7,STAG1,Cohesin subunit SA-1,21.9,78.0,30.0
+653,P05452,CLEC3B,Tetranectin,26.7,17.0,47.0
+654,Q7RTN6,STRADA,STE20-related kinase adapter protein alpha,22.0,11.0,40.0
+655,Q16740,CLPP,"ATP-dependent Clp protease proteolytic subunit, mitochondrial",32.5,309.0,45.0
+656,Q9NUM4,TMEM106B,Transmembrane protein 106B,42.7,276.0,30.0
+657,P15056,BRAF,Serine/threonine-protein kinase B-raf,37.9,152.0,130.0
+658,P80192,MAP3K9,Mitogen-activated protein kinase kinase kinase 9,64.3,9.0,50.0
+659,Q15013,MAD2L1BP,MAD2L1-binding protein,24.5,54.0,24.0
+660,Q9BRZ2,TRIM56,E3 ubiquitin-protein ligase TRIM56,20.1,107.0,42.0
+661,Q5T0N5,FNBP1L,Formin-binding protein 1-like,33.2,42.0,94.0
+662,Q99986,VRK1,Serine/threonine-protein kinase VRK1,18.9,249.0,62.0
+663,Q15797,SMAD1,Mothers against decapentaplegic homolog 1,24.5,186.0,77.0
+664,P10451,SPP1,Osteopontin,100.0,99.0,162.0
+665,P49366,DHPS,Deoxyhypusine synthase,11.4,81.0,35.0
+666,Q08188,TGM3,Protein-glutamine gamma-glutamyltransferase E,2.2,122.0,68.0
+667,Q8TEV9,SMCR8,Guanine nucleotide exchange protein SMCR8,44.2,118.0,125.0
+668,P42167,TMPO,"Lamina-associated polypeptide 2, isoforms beta/gamma",,,
+669,P35916,FLT4,Vascular endothelial growth factor receptor 3,23.8,33.0,87.0
+670,O60356,NUPR1,Nuclear protein 1,97.6,656.0,83.0
+671,Q9Y6Q9,NCOA3,Nuclear receptor coactivator 3,79.1,150.0,111.0
+672,Q9UJX6,ANAPC2,Anaphase-promoting complex subunit 2,4.9,208.0,25.0
+673,P52948,NUP98,Nuclear pore complex protein Nup98-Nup96,53.7,265.0,37.0
+674,P40692,MLH1,DNA mismatch repair protein Mlh1,22.2,229.0,6.0
+675,O96028,NSD2,Histone-lysine N-methyltransferase NSD2,41.5,320.0,9.0
+676,O14497,ARID1A,AT-rich interactive domain-containing protein 1A,75.4,150.0,40.0
+677,P52272,HNRNPM,Heterogeneous nuclear ribonucleoprotein M,63.0,483.0,43.0
+678,Q9UPY3,DICER1,Endoribonuclease Dicer,26.0,211.0,130.0
+679,Q562E7,WDR81,WD repeat-containing protein 81,26.4,30.0,51.0
+680,P32004,L1CAM,Neural cell adhesion molecule L1,13.7,43.0,100.0
+681,O00299,CLIC1,Chloride intracellular channel protein 1,0.0,133.0,49.0
+682,Q9BV40,VAMP8,Vesicle-associated membrane protein 8,67.0,81.0,156.0
+683,Q96SD1,DCLRE1C,Protein artemis,47.7,38.0,28.0
+684,P15374,UCHL3,Ubiquitin carboxyl-terminal hydrolase isozyme L3,0.0,158.0,49.0
+685,Q15542,TAF5,Transcription initiation factor TFIID subunit 5,28.7,74.0,4.0
+686,O14776,TCERG1,Transcription elongation regulator 1,44.9,132.0,25.0
+687,Q9UNL4,ING4,Inhibitor of growth protein 4,30.1,74.0,8.0
+688,O14672,ADAM10,Disintegrin and metalloproteinase domain-containing protein 10,13.2,140.0,102.0
+689,P20810,CAST,Calpastatin,100.0,66.0,5.0
+690,Q13488,TCIRG1,V-type proton ATPase 116 kDa subunit a 3,9.0,68.0,285.0
+691,Q99523,SORT1,Sortilin,21.4,187.0,87.0
+692,Q8IZD2,KMT2E,Inactive histone-lysine N-methyltransferase 2E,85.5,46.0,22.0
+693,Q14978,NOLC1,Nucleolar and coiled-body phosphoprotein 1,87.8,225.0,27.0
+694,P39748,FEN1,Flap endonuclease 1,10.8,133.0,74.0
+695,O75962,TRIO,Triple functional domain protein,,,
+696,P35813,PPM1A,Protein phosphatase 1A,3.4,115.0,78.0
+697,Q8N1G2,CMTR1,Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1,13.1,183.0,9.0
+698,P49427,CDC34,Ubiquitin-conjugating enzyme E2 R1,21.6,282.0,45.0
+699,P01730,CD4,T-cell surface glycoprotein CD4,21.4,93.0,53.0
+700,Q96DA2,RAB39B,Ras-related protein Rab-39B,10.3,49.0,165.0
+701,Q9HA65,TBC1D17,TBC1 domain family member 17,22.7,45.0,37.0
+702,P11686,SFTPC,Surfactant protein C,60.9,207.0,42.0
+703,P04198,MYCN,N-myc proto-oncogene protein,86.0,52.0,75.0
+704,P30307,CDC25C,M-phase inducer phosphatase 3,60.0,131.0,74.0
+705,P24588,AKAP5,A-kinase anchor protein 5,98.1,61.0,12.0
+706,Q7Z6L1,TECPR1,Tectonin beta-propeller repeat-containing protein 1,18.5,15.0,14.0
+707,P10253,GAA,Lysosomal alpha-glucosidase,8.4,107.0,71.0
+708,Q15418,RPS6KA1,Ribosomal protein S6 kinase alpha-1,12.5,275.0,84.0
+709,Q53TN4,CYBRD1,Plasma membrane ascorbate-dependent reductase CYBRD1,17.1,43.0,2.0
+710,Q9NQ88,TIGAR,"Fructose-2,6-bisphosphatase TIGAR",0.0,40.0,347.0
+711,Q14088,RAB33A,Ras-related protein Rab-33A,23.6,37.0,22.0
+712,Q14CS0,UBXN2B,UBX domain-containing protein 2B,47.7,35.0,3.0
+713,P15391,CD19,B-lymphocyte antigen CD19,54.1,25.0,34.0
+714,Q9H8M9,EVA1A,Protein eva-1 homolog A,78.3,10.0,324.0
+715,P14635,CCNB1,G2/mitotic-specific cyclin-B1,35.1,165.0,129.0
+716,O15550,KDM6A,Lysine-specific demethylase 6A,36.8,131.0,79.0
+717,Q02078,MEF2A,Myocyte-specific enhancer factor 2A,89.3,71.0,43.0
+718,Q13480,GAB1,GRB2-associated-binding protein 1,82.7,135.0,105.0
+719,Q13569,TDG,G/T mismatch-specific thymine DNA glycosylase,46.6,53.0,5.0
+720,P36894,BMPR1A,Bone morphogenetic protein receptor type-1A,17.5,183.0,32.0
+721,P17861,XBP1,X-box-binding protein 1,83.9,43.0,552.0
+722,P36888,FLT3,Receptor-type tyrosine-protein kinase FLT3,19.6,35.0,71.0
+723,O00268,TAF4,Transcription initiation factor TFIID subunit 4,77.7,107.0,13.0
+724,P40259,CD79B,B-cell antigen receptor complex-associated protein beta chain,44.1,105.0,22.0
+725,P55265,ADAR,Double-stranded RNA-specific adenosine deaminase,36.6,152.0,63.0
+726,P51608,MECP2,Methyl-CpG-binding protein 2,85.4,223.0,113.0
+727,Q13415,ORC1,Origin recognition complex subunit 1,38.4,81.0,19.0
+728,Q13224,GRIN2B,"Glutamate receptor ionotropic, NMDA 2B",46.1,48.0,57.0
+729,Q8NEM7,SUPT20H,Transcription factor SPT20 homolog,62.9,68.0,92.0
+730,P40855,PEX19,Peroxisomal biogenesis factor 19,45.5,175.0,25.0
+731,Q674R7,ATG9B,Autophagy-related protein 9B,31.8,13.0,207.0
+732,P02774,GC,Vitamin D-binding protein,4.9,51.0,58.0
+733,P04004,VTN,Vitronectin,32.6,171.0,50.0
+734,P19484,TFEB,Transcription factor EB,81.3,34.0,293.0
+735,Q9Y484,WDR45,WD repeat domain phosphoinositide-interacting protein 4,0.0,41.0,24.0
+736,Q13029,PRDM2,PR domain zinc finger protein 2,80.0,26.0,45.0
+737,Q13617,CUL2,Cullin-2,1.1,488.0,48.0
+738,P22059,OSBP,Oxysterol-binding protein 1,27.9,74.0,48.0
+739,O95721,SNAP29,Synaptosomal-associated protein 29,38.4,205.0,68.0
+740,Q01081,U2AF1,Splicing factor U2AF 35 kDa subunit,24.6,190.0,26.0
+741,Q15326,ZMYND11,Zinc finger MYND domain-containing protein 11,27.9,69.0,20.0
+742,Q13568,IRF5,Interferon regulatory factor 5,38.2,49.0,81.0
+743,Q92900,UPF1,Regulator of nonsense transcripts 1,26.4,396.0,74.0
+744,O95718,ESRRB,Steroid hormone receptor ERR2,30.9,96.0,61.0
+745,Q13286,CLN3,Battenin,17.8,109.0,245.0
+746,P06756,ITGAV,Integrin alpha-V,11.6,125.0,133.0
+747,Q96FZ7,CHMP6,Charged multivesicular body protein 6,41.8,25.0,54.0
+748,P43351,RAD52,DNA repair protein RAD52 homolog,65.1,61.0,4.0
+749,Q53GG5,PDLIM3,PDZ and LIM domain protein 3,51.6,22.0,10.0
+750,Q92871,PMM1,Phosphomannomutase 1,3.1,19.0,27.0
+751,Q92785,DPF2,Zinc finger protein ubi-d4,54.0,304.0,27.0
+752,P08294,SOD3,Extracellular superoxide dismutase [Cu-Zn],20.0,10.0,68.0
+753,Q8N5H7,SH2D3C,SH2 domain-containing protein 3C,47.2,157.0,18.0
+754,O95210,STBD1,Starch-binding domain-containing protein 1,72.3,105.0,37.0
+755,Q7LBR1,CHMP1B,Charged multivesicular body protein 1b,35.7,40.0,117.0
+756,Q96EQ8,RNF125,E3 ubiquitin-protein ligase RNF125,24.6,36.0,37.0
+757,O95644,NFATC1,"Nuclear factor of activated T-cells, cytoplasmic 1",70.0,151.0,97.0
+758,P15516,HTN3,Histatin-3,100.0,27.0,17.0
+759,P83731,RPL24,Large ribosomal subunit protein eL24,54.8,302.0,5.0
+760,P54368,OAZ1,Ornithine decarboxylase antizyme 1,40.8,37.0,71.0
+761,P54257,HAP1,Huntingtin-associated protein 1,72.6,109.0,156.0
+762,P36871,PGM1,Phosphoglucomutase-1,0.0,76.0,20.0
+763,P60604,UBE2G2,Ubiquitin-conjugating enzyme E2 G2,0.0,66.0,17.0
+764,Q96A37,RNF166,E3 ubiquitin-protein ligase RNF166,25.7,100.0,49.0
+765,Q9UKA2,FBXL4,F-box/LRR-repeat protein 4,14.2,55.0,65.0
+766,Q9UKX7,NUP50,Nuclear pore complex protein Nup50,66.0,260.0,15.0
+767,O75629,CREG1,Protein CREG1,20.0,22.0,88.0
+768,Q6VVB1,NHLRC1,E3 ubiquitin-protein ligase NHLRC1,8.4,19.0,30.0
+769,P17405,SMPD1,Sphingomyelin phosphodiesterase,10.1,30.0,60.0
+770,Q8IYB8,SUPV3L1,"ATP-dependent RNA helicase SUPV3L1, mitochondrial",18.3,111.0,34.0
+771,Q8NCE2,MTMR14,"Phosphatidylinositol-3,5-bisphosphate 3-phosphatase MTMR14",40.0,97.0,81.0
+772,Q6VMQ6,ATF7IP,Activating transcription factor 7-interacting protein 1,88.3,117.0,23.0
+773,P02549,SPTA1,"Spectrin alpha chain, erythrocytic 1",2.4,84.0,11.0
+774,P41208,CETN2,Centrin-2,15.7,84.0,42.0
+775,Q58F21,BRDT,Bromodomain testis-specific protein,63.5,75.0,10.0
+776,P62318,SNRPD3,Small nuclear ribonucleoprotein Sm D3,34.9,242.0,8.0
+777,P17931,LGALS3,Galectin-3,46.0,308.0,53.0
+778,P14061,HSD17B1,17-beta-hydroxysteroid dehydrogenase type 1,13.4,17.0,46.0
+779,P53999,SUB1,Activated RNA polymerase II transcriptional coactivator p15,50.4,136.0,35.0
+780,P07766,CD3E,T-cell surface glycoprotein CD3 epsilon chain,47.3,57.0,37.0
+781,P52926,HMGA2,High mobility group protein HMGI-C,100.0,57.0,6.0
+782,O14745,NHERF1,Na(+)/H(+) exchange regulatory cofactor NHE-RF1,45.0,155.0,119.0
+783,P33763,S100A5,Protein S100-A5,5.4,9.0,11.0
+784,Q92800,EZH1,Histone-lysine N-methyltransferase EZH1,32.5,73.0,29.0
+785,P49918,CDKN1C,Cyclin-dependent kinase inhibitor 1C,83.9,33.0,94.0
+786,P11912,CD79A,B-cell antigen receptor complex-associated protein alpha chain,50.4,219.0,15.0
+787,Q15751,HERC1,Probable E3 ubiquitin-protein ligase HERC1,,,
+788,Q92499,DDX1,ATP-dependent RNA helicase DDX1,7.0,278.0,34.0
+789,Q9BV68,RNF126,E3 ubiquitin-protein ligase RNF126,67.8,128.0,13.0
+790,Q9P2Y5,UVRAG,UV radiation resistance-associated gene protein,49.6,75.0,320.0
+791,Q9HD36,BCL2L10,Bcl-2-like protein 10,17.6,24.0,96.0
+792,P04183,TK1,"Thymidine kinase, cytosolic",22.2,198.0,59.0
+793,P28328,PEX2,Peroxisome biogenesis factor 2,22.0,14.0,95.0
+794,O75496,GMNN,Geminin,73.2,97.0,40.0
+795,P23771,GATA3,Trans-acting T-cell-specific transcription factor GATA-3,81.3,161.0,103.0
+796,Q9UBE0,SAE1,SUMO-activating enzyme subunit 1,11.0,91.0,14.0
+797,Q8IWJ2,GCC2,GRIP and coiled-coil domain-containing protein 2,41.0,90.0,27.0
+798,P01019,AGT,Angiotensinogen,8.2,18.0,34.0
+799,Q8IYW5,RNF168,E3 ubiquitin-protein ligase RNF168,72.0,75.0,66.0
+800,Q9BYG3,NIFK,MKI67 FHA domain-interacting nucleolar phosphoprotein,49.5,371.0,22.0
+801,P63027,VAMP2,Vesicle-associated membrane protein 2,88.8,160.0,65.0
+802,P14859,POU2F1,"POU domain, class 2, transcription factor 1",83.0,139.0,100.0
+803,O60566,BUB1B,Mitotic checkpoint serine/threonine-protein kinase BUB1 beta,42.9,124.0,73.0
+804,O43747,AP1G1,AP-1 complex subunit gamma-1,14.8,91.0,69.0
+805,Q9UK41,VPS28,Vacuolar protein sorting-associated protein 28 homolog,13.1,97.0,113.0
+806,Q9BUQ8,DDX23,Probable ATP-dependent RNA helicase DDX23,37.0,364.0,23.0
+807,O15321,TM9SF1,Transmembrane 9 superfamily member 1,5.1,37.0,123.0
+808,Q96T88,UHRF1,E3 ubiquitin-protein ligase UHRF1,17.3,132.0,85.0
+809,Q96FQ6,S100A16,Protein S100-A16,14.6,54.0,43.0
+810,Q9Y3C8,UFC1,Ubiquitin-fold modifier-conjugating enzyme 1,0.6,52.0,99.0
+811,P18827,SDC1,Syndecan-1,95.2,77.0,114.0
+812,Q02413,DSG1,Desmoglein-1,46.1,131.0,25.0
+813,Q13162,PRDX4,Peroxiredoxin-4,29.2,153.0,28.0
+814,A8MW95,BECN2,Beclin-2,24.1,6.0,139.0
+815,Q8WUH2,TGFBRAP1,Transforming growth factor-beta receptor-associated protein 1,4.4,43.0,94.0
+816,Q05193,DNM1,Dynamin-1,16.1,91.0,76.0
+817,P28749,RBL1,Retinoblastoma-like protein 1,28.9,99.0,16.0
+818,Q969S8,HDAC10,Polyamine deacetylase HDAC10,5.2,42.0,240.0
+819,P49754,VPS41,Vacuolar protein sorting-associated protein 41 homolog,8.8,42.0,52.0
+820,P29536,LMOD1,Leiomodin-1,71.7,5.0,37.0
+821,Q92609,TBC1D5,TBC1 domain family member 5,42.3,52.0,53.0
+822,O95831,AIFM1,"Apoptosis-inducing factor 1, mitochondrial",21.0,543.0,5.0
+823,Q9Y4K0,LOXL2,Lysyl oxidase homolog 2,7.5,86.0,93.0
+824,O43312,MTSS1,Protein MTSS 1,68.5,17.0,105.0
+825,P35236,PTPN7,Tyrosine-protein phosphatase non-receptor type 7,19.2,61.0,3.0
+826,O95997,PTTG1,Securin,100.0,40.0,113.0
+827,Q9H0Y0,ATG10,Ubiquitin-like-conjugating enzyme ATG10,18.6,17.0,164.0
+828,Q9UIF9,BAZ2A,Bromodomain adjacent to zinc finger domain protein 2A,58.0,55.0,47.0
+829,Q9NX55,HYPK,Huntingtin-interacting protein K,55.8,93.0,23.0
+830,P13861,PRKAR2A,cAMP-dependent protein kinase type II-alpha regulatory subunit,22.8,126.0,22.0
+831,Q9UIW2,PLXNA1,Plexin-A1,6.1,98.0,27.0
+832,P35638,DDIT3,DNA damage-inducible transcript 3 protein,83.4,116.0,127.0
+833,Q9UKT5,FBXO4,F-box only protein 4,12.4,27.0,31.0
+834,Q9Y4D1,DAAM1,Disheveled-associated activator of morphogenesis 1,25.5,54.0,19.0
+835,P06899,H2BC11,Histone H2B type 1-J,43.7,94.0,28.0
+836,Q15726,KISS1,Metastasis-suppressor KiSS-1,100.0,9.0,86.0
+837,Q7L2J0,MEPCE,7SK snRNA methylphosphate capping enzyme,62.7,795.0,2.0
+838,P30291,WEE1,Wee1-like protein kinase,52.8,63.0,89.0
+839,Q9UQ13,SHOC2,Leucine-rich repeat protein SHOC-2,14.3,55.0,54.0
+840,Q9HBA0,TRPV4,Transient receptor potential cation channel subfamily V member 4,27.6,15.0,73.0
+841,P30519,HMOX2,Heme oxygenase 2,26.9,248.0,42.0
+842,O96019,ACTL6A,Actin-like protein 6A,4.9,190.0,54.0
+843,Q9UNA1,ARHGAP26,Rho GTPase-activating protein 26,24.7,53.0,133.0
+844,Q9UBT2,UBA2,SUMO-activating enzyme subunit 2,17.3,109.0,59.0
+845,P78330,PSPH,Phosphoserine phosphatase,0.0,25.0,32.0
+846,Q9HCE0,EPG5,Ectopic P granules protein 5 homolog,14.3,9.0,281.0
+847,Q09161,NCBP1,Nuclear cap-binding protein subunit 1,2.9,217.0,17.0
+848,P51965,UBE2E1,Ubiquitin-conjugating enzyme E2 E1,21.8,125.0,32.0
+849,P49902,NT5C2,Cytosolic purine 5'-nucleotidase,18.9,59.0,30.0
+850,P41567,EIF1,Eukaryotic translation initiation factor 1,27.4,21.0,31.0
+851,Q96PM5,RCHY1,RING finger and CHY zinc finger domain-containing protein 1,7.3,309.0,31.0
+852,P17947,SPI1,Transcription factor PU.1,65.6,49.0,94.0
+853,Q9UPR3,SMG5,Nonsense-mediated mRNA decay factor SMG5,24.1,68.0,4.0
+854,Q15583,TGIF1,Homeobox protein TGIF1,84.0,29.0,65.0
+855,Q9NZC2,TREM2,Triggering receptor expressed on myeloid cells 2,49.6,8.0,72.0
+856,P17096,HMGA1,High mobility group protein HMG-I/HMG-Y,100.0,216.0,17.0
+857,P52630,STAT2,Signal transducer and activator of transcription 2,22.2,61.0,104.0
+858,Q86WX3,RPS19BP1,Active regulator of SIRT1,87.5,81.0,24.0
+859,P62328,TMSB4X,Thymosin beta-4,100.0,49.0,63.0
+860,O14832,PHYH,"Phytanoyl-CoA dioxygenase, peroxisomal",12.7,23.0,1.0
+861,P50579,METAP2,Methionine aminopeptidase 2,23.8,86.0,11.0
+862,Q01094,E2F1,Transcription factor E2F1,64.3,145.0,166.0
+863,P21246,PTN,Pleiotrophin,50.6,99.0,80.0
+864,Q92928,RAB1C,Putative Ras-related protein Rab-1C,13.4,10.0,8.0
+865,O75533,SF3B1,Splicing factor 3B subunit 1,33.3,338.0,14.0
+866,Q92540,SMG7,Nonsense-mediated mRNA decay factor SMG7,55.3,278.0,1.0
+867,Q96RI1,NR1H4,Bile acid receptor,36.4,25.0,94.0
+868,Q96S15,WDR24,GATOR2 complex protein WDR24,27.1,30.0,85.0
+869,Q8IU57,IFNLR1,Interferon lambda receptor 1,59.6,33.0,27.0
+870,O76070,SNCG,Gamma-synuclein,65.4,35.0,80.0
+871,Q9BQ15,NABP2,SOSS complex subunit B1,54.5,59.0,4.0
+872,O75223,GGCT,Gamma-glutamylcyclotransferase,3.7,34.0,30.0
+873,P13674,P4HA1,Prolyl 4-hydroxylase subunit alpha-1,6.9,219.0,59.0
+874,O43236,SEPTIN4,Septin-4,40.0,32.0,32.0
+875,P18075,BMP7,Bone morphogenetic protein 7,22.3,66.0,107.0
+876,Q03519,TAP2,Antigen peptide transporter 2,0.0,66.0,30.0
+877,Q6P5W5,SLC39A4,Zinc transporter ZIP4,19.6,158.0,78.0
+878,P00488,F13A1,Coagulation factor XIII A chain,2.2,14.0,73.0
+879,O94986,CEP152,Centrosomal protein of 152 kDa,59.9,155.0,19.0
+880,P63098,PPP3R1,Calcineurin subunit B type 1,5.9,59.0,46.0
+881,P37837,TALDO1,Transaldolase,2.7,105.0,37.0
+882,Q96G97,BSCL2,Seipin,42.5,171.0,13.0
+883,Q12962,TAF10,Transcription initiation factor TFIID subunit 10,65.1,88.0,15.0
+884,Q96RD7,PANX1,Pannexin-1,20.2,260.0,53.0
+885,P58753,TIRAP,Toll/interleukin-1 receptor domain-containing adapter protein,34.8,47.0,16.0
+886,Q15109,AGER,Advanced glycosylation end product-specific receptor,28.0,34.0,139.0
+887,P07197,NEFM,Neurofilament medium polypeptide,71.7,117.0,13.0
+888,Q14964,RAB39A,Ras-related protein Rab-39A,10.1,27.0,135.0
+889,A5D8V6,VPS37C,Vacuolar protein sorting-associated protein 37C,61.7,125.0,24.0
+890,O95696,BRD1,Bromodomain-containing protein 1,32.9,353.0,9.0
+891,Q5TDH0,DDI2,Protein DDI1 homolog 2,20.6,48.0,9.0
+892,Q8WYN0,ATG4A,Cysteine protease ATG4A,19.8,29.0,101.0
+893,P49915,GMPS,GMP synthase [glutamine-hydrolyzing],2.9,115.0,11.0
+894,Q6IQ22,RAB12,Ras-related protein Rab-12,25.4,22.0,134.0
+895,Q2KHT3,CLEC16A,Protein CLEC16A,32.9,13.0,216.0
+896,Q8IUQ4,SIAH1,E3 ubiquitin-protein ligase SIAH1,11.7,186.0,101.0
+897,P26599,PTBP1,Polypyrimidine tract-binding protein 1,24.3,271.0,13.0
+898,Q15596,NCOA2,Nuclear receptor coactivator 2,79.4,105.0,65.0
+899,Q9NQ11,ATP13A2,Polyamine-transporting ATPase 13A2,8.4,90.0,45.0
+900,Q9BSQ5,CCM2,Cerebral cavernous malformations 2 protein,43.2,36.0,13.0
+901,P29274,ADORA2A,Adenosine receptor A2a,25.7,30.0,94.0
+902,Q8IVG9,MT-RNR2,Humanin,100.0,9.0,3.0
+903,Q9NVJ2,ARL8B,ADP-ribosylation factor-like protein 8B,5.4,89.0,38.0
+904,O14686,KMT2D,Histone-lysine N-methyltransferase 2D,,,
+905,Q14011,CIRBP,Cold-inducible RNA-binding protein,54.1,138.0,30.0
+906,Q9H5I1,SUV39H2,Histone-lysine N-methyltransferase SUV39H2,10.5,76.0,30.0
+907,Q13496,MTM1,Myotubularin,10.6,60.0,65.0
+908,P07199,CENPB,Major centromere autoantigen B,34.2,100.0,9.0
+909,P49802,RGS7,Regulator of G-protein signaling 7,23.6,11.0,7.0
+910,P01160,NPPA,Natriuretic peptides A,100.0,53.0,52.0
+911,P24071,FCAR,Immunoglobulin alpha Fc receptor,26.8,10.0,8.0
+912,Q8TC71,SPATA18,Mitochondria-eating protein,38.5,21.0,43.0
