@@ -1,0 +1,16 @@
+Interactor A,Interactor B,Protein Name A,Protein Name B
+TMSB4X,ACTA1,Thymosin beta-4,"Actin, alpha skeletal muscle"
+BCAR1,HTT,Breast cancer anti-estrogen resistance protein 1,Huntingtin
+EEF1A1,LRRK2,Elongation factor 1-alpha 1,Leucine-rich repeat serine/threonine-protein kinase 2
+TP53,HTT,Cellular tumor antigen p53,Huntingtin
+TP53,LRRK2,Cellular tumor antigen p53,Leucine-rich repeat serine/threonine-protein kinase 2
+PCNA,LRRK2,Proliferating cell nuclear antigen,Leucine-rich repeat serine/threonine-protein kinase 2
+ACTG1,LRRK2,"Actin, cytoplasmic 2",Leucine-rich repeat serine/threonine-protein kinase 2
+ACTG1,HTT,"Actin, cytoplasmic 2",Huntingtin
+BMI1,CHMP1B,Polycomb complex protein BMI-1,Charged multivesicular body protein 1b
+ACTA1,CHMP1B,"Actin, alpha skeletal muscle",Charged multivesicular body protein 1b
+ACTA1,LRRK2,"Actin, alpha skeletal muscle",Leucine-rich repeat serine/threonine-protein kinase 2
+ACTA1,HTT,"Actin, alpha skeletal muscle",Huntingtin
+TRIM27,LRRK2,Zinc finger protein RFP,Leucine-rich repeat serine/threonine-protein kinase 2
+RIF1,LRRK2,Telomere-associated protein RIF1,Leucine-rich repeat serine/threonine-protein kinase 2
+TK1,LRRK2,"Thymidine kinase, cytosolic",Leucine-rich repeat serine/threonine-protein kinase 2

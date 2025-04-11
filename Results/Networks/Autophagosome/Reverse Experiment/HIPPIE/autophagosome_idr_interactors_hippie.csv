@@ -1,0 +1,46 @@
+Interactor A,Interactor B,Protein Name A,Protein Name B
+TAX1BP1,HMGA1,Tax1-binding protein 1,High mobility group protein HMG-I/HMG-Y
+TAX1BP1,PCLAF,Tax1-binding protein 1,PCNA-associated factor
+LRRK2,DCD,Leucine-rich repeat serine/threonine-protein kinase 2,Dermcidin
+LRRK2,MBP,Leucine-rich repeat serine/threonine-protein kinase 2,Myelin basic protein
+LRRK2,WIPF1,Leucine-rich repeat serine/threonine-protein kinase 2,WAS/WASL-interacting protein family member 1
+HTT,HMGA1,Huntingtin,High mobility group protein HMG-I/HMG-Y
+HTT,BASP1,Huntingtin,Brain acid soluble protein 1
+CALCOCO2,DCD,Calcium-binding and coiled-coil domain-containing protein 2,Dermcidin
+CALCOCO2,BASP1,Calcium-binding and coiled-coil domain-containing protein 2,Brain acid soluble protein 1
+RB1CC1,PAGE4,RB1-inducible coiled-coil protein 1,P antigen family member 4
+STX17,CAST,Syntaxin-17,Calpastatin
+MAP1LC3C,TP53INP1,Microtubule-associated protein 1 light chain 3 gamma,Tumor protein p53-inducible nuclear protein 1
+ATG16L1,HMGA1,Autophagy-related protein 16-1,High mobility group protein HMG-I/HMG-Y
+ATG16L1,HMGN1,Autophagy-related protein 16-1,Non-histone chromosomal protein HMG-14
+SQSTM1,BNIP3,Sequestosome-1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+SQSTM1,TP53INP1,Sequestosome-1,Tumor protein p53-inducible nuclear protein 1
+SQSTM1,PCLAF,Sequestosome-1,PCNA-associated factor
+MAP1LC3B,BNIP3,Microtubule-associated protein 1 light chain 3 beta,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+GABARAPL2,TP53INP1,Gamma-aminobutyric acid receptor-associated protein-like 2,Tumor protein p53-inducible nuclear protein 1
+GABARAPL2,TP53INP2,Gamma-aminobutyric acid receptor-associated protein-like 2,Tumor protein p53-inducible nuclear protein 2
+GABARAPL1,DCD,Gamma-aminobutyric acid receptor-associated protein-like 1,Dermcidin
+GABARAPL1,TP53INP1,Gamma-aminobutyric acid receptor-associated protein-like 1,Tumor protein p53-inducible nuclear protein 1
+TRIM21,PAGE4,E3 ubiquitin-protein ligase TRIM21,P antigen family member 4
+TRIM21,PTMA,E3 ubiquitin-protein ligase TRIM21,Prothymosin alpha
+ATP6AP2,BASP1,Renin receptor,Brain acid soluble protein 1
+GABARAP,TP53INP1,Gamma-aminobutyric acid receptor-associated protein,Tumor protein p53-inducible nuclear protein 1
+UBQLN1,NPPA,Ubiquilin-1,Natriuretic peptides A
+MAP1LC3A,BNIP3,Microtubule-associated protein 1 light chain 3 alpha,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+MAP1LC3A,TP53INP1,Microtubule-associated protein 1 light chain 3 alpha,Tumor protein p53-inducible nuclear protein 1
+MAP1LC3A,TP53INP2,Microtubule-associated protein 1 light chain 3 alpha,Tumor protein p53-inducible nuclear protein 2
+RAB2A,BASP1,Ras-related protein Rab-2A,Brain acid soluble protein 1
+UBQLN2,KISS1,Ubiquilin-2,Metastasis-suppressor KiSS-1
+UBQLN2,AMBN,Ubiquilin-2,Ameloblastin
+UBQLN2,NPPA,Ubiquilin-2,Natriuretic peptides A
+PIP4K2A,SPRR2E,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,Small proline-rich protein 2E
+FTH1,SPP1,Ferritin heavy chain,Osteopontin
+LAMP1,BASP1,Lysosome-associated membrane glycoprotein 1,Brain acid soluble protein 1
+CHMP4B,BASP1,Charged multivesicular body protein 4b,Brain acid soluble protein 1
+CHMP4B,HMGA1,Charged multivesicular body protein 4b,High mobility group protein HMG-I/HMG-Y
+LAMP2,BASP1,Lysosome-associated membrane glycoprotein 2,Brain acid soluble protein 1
+CHMP4C,BASP1,Charged multivesicular body protein 4c,Brain acid soluble protein 1
+UBQLN4,SPP1,Ubiquilin-4,Osteopontin
+UBQLN4,NPPA,Ubiquilin-4,Natriuretic peptides A
+VMP1,BASP1,Vacuole membrane protein 1,Brain acid soluble protein 1
+ATG9B,PCLAF,Autophagy-related protein 9B,PCNA-associated factor

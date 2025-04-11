@@ -1,0 +1,119 @@
+Entry	Entry Name	Protein names	Gene Names	Organism	Length
+A1A4Y4	IRGM_HUMAN	Immunity-related GTPase family M protein (EC 3.6.5.-) (Immunity-related GTPase family M protein 1) (Interferon-inducible protein 1) (LPS-stimulated RAW 264.7 macrophage protein 47 homolog) (LRG-47)	IRGM IFI1 IRGM1 LRG47	Homo sapiens (Human)	181
+A8K0Z3	WASH1_HUMAN	WASH complex subunit 1 (CXYorf1-like protein on chromosome 9) (Protein FAM39E) (WAS protein family homolog 1)	WASHC1 FAM39E WASH1	Homo sapiens (Human)	465
+C4AMC7	WASH3_HUMAN	Putative WAS protein family homolog 3 (Protein FAM39DP)	WASH3P FAM39DP	Homo sapiens (Human)	463
+O15553	MEFV_HUMAN	Pyrin (Marenostrin)	MEFV MEF TRIM20	Homo sapiens (Human)	781
+O43633	CHM2A_HUMAN	Charged multivesicular body protein 2a (Chromatin-modifying protein 2a) (CHMP2a) (Putative breast adenocarcinoma marker BC-2) (Vacuolar protein sorting-associated protein 2-1) (Vps2-1) (hVps2-1)	CHMP2A BC2 CHMP2	Homo sapiens (Human)	222
+O75143	ATG13_HUMAN	Autophagy-related protein 13	ATG13 KIAA0652	Homo sapiens (Human)	517
+O75385	ULK1_HUMAN	Serine/threonine-protein kinase ULK1 (EC 2.7.11.1) (Autophagy-related protein 1 homolog) (ATG1) (hATG1) (Unc-51-like kinase 1)	ULK1 KIAA0722	Homo sapiens (Human)	1050
+O75787	RENR_HUMAN	Renin receptor (ATPase H(+)-transporting lysosomal accessory protein 2) (ATPase H(+)-transporting lysosomal-interacting protein 2) (ER-localized type I transmembrane adapter) (Embryonic liver differentiation factor 10) (N14F) (Renin/prorenin receptor) (Vacuolar ATP synthase membrane sector-associated protein M8-9) (ATP6M8-9) (V-ATPase M8.9 subunit) [Cleaved into: Renin receptor N-terminal fragment; Renin receptor C-terminal fragment]	ATP6AP2 ATP6IP2 CAPER ELDF10 HT028 MSTP009 PSEC0072	Homo sapiens (Human)	350
+O94817	ATG12_HUMAN	Ubiquitin-like protein ATG12 (Autophagy-related protein 12) (APG12-like)	ATG12 APG12 APG12L	Homo sapiens (Human)	140
+O95166	GBRAP_HUMAN	Gamma-aminobutyric acid receptor-associated protein (GABA(A) receptor-associated protein) (MM46)	GABARAP FLC3B HT004	Homo sapiens (Human)	117
+O95721	SNP29_HUMAN	Synaptosomal-associated protein 29 (SNAP-29) (Soluble 29 kDa NSF attachment protein) (Vesicle-membrane fusion protein SNAP-29)	SNAP29	Homo sapiens (Human)	258
+P02792	FRIL_HUMAN	Ferritin light chain (Ferritin L subunit)	FTL	Homo sapiens (Human)	175
+P02794	FRIH_HUMAN	Ferritin heavy chain (Ferritin H subunit) (EC 1.16.3.1) (Cell proliferation-inducing gene 15 protein) [Cleaved into: Ferritin heavy chain, N-terminally processed]	FTH1 FTH FTHL6 OK/SW-cl.84 PIG15	Homo sapiens (Human)	183
+P11279	LAMP1_HUMAN	Lysosome-associated membrane glycoprotein 1 (LAMP-1) (Lysosome-associated membrane protein 1) (CD107 antigen-like family member A) (CD antigen CD107a)	LAMP1	Homo sapiens (Human)	417
+P13473	LAMP2_HUMAN	Lysosome-associated membrane glycoprotein 2 (LAMP-2) (Lysosome-associated membrane protein 2) (CD107 antigen-like family member B) (LGP-96) (CD antigen CD107b)	LAMP2	Homo sapiens (Human)	410
+P19474	RO52_HUMAN	E3 ubiquitin-protein ligase TRIM21 (EC 2.3.2.27) (52 kDa Ro protein) (52 kDa ribonucleoprotein autoantigen Ro/SS-A) (RING finger protein 81) (Ro(SS-A)) (Sjoegren syndrome type A antigen) (SS-A) (Tripartite motif-containing protein 21)	TRIM21 RNF81 RO52 SSA1	Homo sapiens (Human)	475
+P42858	HD_HUMAN	Huntingtin (Huntington disease protein) (HD protein) [Cleaved into: Huntingtin, myristoylated N-terminal fragment]	HTT HD IT15	Homo sapiens (Human)	3142
+P48426	PI42A_HUMAN	Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha (EC 2.7.1.149) (1-phosphatidylinositol 5-phosphate 4-kinase 2-alpha) (Diphosphoinositide kinase 2-alpha) (PIP5KIII) (Phosphatidylinositol 5-Phosphate 4-Kinase) (PI5P4Kalpha) (Phosphatidylinositol 5-phosphate 4-kinase type II alpha) (PI(5)P 4-kinase type II alpha) (PIP4KII-alpha) (PtdIns(4)P-5-kinase B isoform) (PtdIns(4)P-5-kinase C isoform) (PtdIns(5)P-4-kinase isoform 2-alpha)	PIP4K2A PI5P4KA PIP5K2 PIP5K2A	Homo sapiens (Human)	406
+P51149	RAB7A_HUMAN	Ras-related protein Rab-7a (EC 3.6.5.2)	RAB7A RAB7	Homo sapiens (Human)	207
+P54257	HAP1_HUMAN	Huntingtin-associated protein 1 (HAP-1) (Neuroan 1)	HAP1 HAP2 HLP1	Homo sapiens (Human)	671
+P56962	STX17_HUMAN	Syntaxin-17	STX17	Homo sapiens (Human)	302
+P60520	GBRL2_HUMAN	Gamma-aminobutyric acid receptor-associated protein-like 2 (GABA(A) receptor-associated protein-like 2) (Ganglioside expression factor 2) (GEF-2) (General protein transport factor p16) (Golgi-associated ATPase enhancer of 16 kDa) (GATE-16) (MAP1 light chain 3-related protein)	GABARAPL2 FLC3A GEF2	Homo sapiens (Human)	117
+P61019	RAB2A_HUMAN	Ras-related protein Rab-2A (EC 3.6.5.2)	RAB2A RAB2	Homo sapiens (Human)	212
+P78356	PI42B_HUMAN	Phosphatidylinositol 5-phosphate 4-kinase type-2 beta (EC 2.7.1.149) (1-phosphatidylinositol 5-phosphate 4-kinase 2-beta) (Diphosphoinositide kinase 2-beta) (Phosphatidylinositol 5-phosphate 4-kinase type II beta) (PI(5)P 4-kinase type II beta) (PIP4KII-beta) (PtdIns(5)P-4-kinase isoform 2-beta)	PIP4K2B PIP5K2B	Homo sapiens (Human)	416
+P78539	SRPX_HUMAN	Sushi repeat-containing protein SRPX	SRPX ETX1	Homo sapiens (Human)	464
+Q13049	TRI32_HUMAN	E3 ubiquitin-protein ligase TRIM32 (EC 2.3.2.27) (72 kDa Tat-interacting protein) (RING-type E3 ubiquitin transferase TRIM32) (Tripartite motif-containing protein 32) (Zinc finger protein HT2A)	TRIM32 HT2A	Homo sapiens (Human)	653
+Q13137	CACO2_HUMAN	Calcium-binding and coiled-coil domain-containing protein 2 (Antigen nuclear dot 52 kDa protein) (Nuclear domain 10 protein NDP52) (Nuclear domain 10 protein 52) (Nuclear dot protein 52)	CALCOCO2 NDP52	Homo sapiens (Human)	446
+Q13286	CLN3_HUMAN	Battenin (Batten disease protein) (Protein CLN3)	CLN3 BTS	Homo sapiens (Human)	438
+Q13501	SQSTM_HUMAN	Sequestosome-1 (EBI3-associated protein of 60 kDa) (EBIAP) (p60) (Phosphotyrosine-independent ligand for the Lck SH2 domain of 62 kDa) (Ubiquitin-binding protein p62) (p62)	SQSTM1 ORCA OSIL	Homo sapiens (Human)	440
+Q13772	NCOA4_HUMAN	Nuclear receptor coactivator 4 (NCoA-4) (Androgen receptor coactivator 70 kDa protein) (70 kDa AR-activator) (70 kDa androgen receptor coactivator) (Androgen receptor-associated protein of 70 kDa) (Ferritin cargo receptor NCOA4) (Ret-activating protein ELE1)	NCOA4 ARA70 ELE1 RFG	Homo sapiens (Human)	614
+Q14457	BECN1_HUMAN	Beclin-1 (Coiled-coil myosin-like BCL2-interacting protein) (Protein GT197) [Cleaved into: Beclin-1-C 35 kDa; Beclin-1-C 37 kDa]	BECN1 GT197	Homo sapiens (Human)	450
+Q14596	NBR1_HUMAN	Next to BRCA1 gene 1 protein (Cell migration-inducing gene 19 protein) (Membrane component chromosome 17 surface marker 2) (Neighbor of BRCA1 gene 1 protein) (Protein 1A1-3B)	NBR1 1A13B KIAA0049 M17S2 MIG19	Homo sapiens (Human)	966
+Q15139	KPCD1_HUMAN	Serine/threonine-protein kinase D1 (EC 2.7.11.13) (Protein kinase C mu type) (Protein kinase D) (nPKC-D1) (nPKC-mu)	PRKD1 PKD PKD1 PRKCM	Homo sapiens (Human)	912
+Q3MII6	TBC25_HUMAN	TBC1 domain family member 25	TBC1D25 OATL1	Homo sapiens (Human)	688
+Q562E7	WDR81_HUMAN	WD repeat-containing protein 81	WDR81	Homo sapiens (Human)	1941
+Q5MNZ9	WIPI1_HUMAN	WD repeat domain phosphoinositide-interacting protein 1 (WIPI-1) (Atg18 protein homolog) (WD40 repeat protein interacting with phosphoinositides of 49 kDa) (WIPI 49 kDa)	WIPI1 WIPI49	Homo sapiens (Human)	446
+Q5S007	LRRK2_HUMAN	Leucine-rich repeat serine/threonine-protein kinase 2 (EC 2.7.11.1) (EC 3.6.5.-) (Dardarin)	LRRK2 PARK8	Homo sapiens (Human)	2527
+Q674R7	ATG9B_HUMAN	Autophagy-related protein 9B (APG9-like 2) (Nitric oxide synthase 3-overlapping antisense gene protein) (Protein sONE)	ATG9B APG9L2 NOS3AS	Homo sapiens (Human)	924
+Q676U5	A16L1_HUMAN	Autophagy-related protein 16-1 (APG16-like 1)	ATG16L1 APG16L UNQ9393/PRO34307	Homo sapiens (Human)	607
+Q6IQ22	RAB12_HUMAN	Ras-related protein Rab-12	RAB12	Homo sapiens (Human)	244
+Q6PHR2	ULK3_HUMAN	Serine/threonine-protein kinase ULK3 (EC 2.7.11.1) (Unc-51-like kinase 3)	ULK3	Homo sapiens (Human)	472
+Q6VEQ5	WASH2_HUMAN	WAS protein family homolog 2 (CXYorf1-like protein on chromosome 2) (Protein FAM39B)	WASH2P FAM39B	Homo sapiens (Human)	465
+Q6ZNE5	BAKOR_HUMAN	Beclin 1-associated autophagy-related key regulator (Barkor) (Autophagy-related protein 14-like protein) (Atg14L)	ATG14 ATG14L KIAA0831	Homo sapiens (Human)	492
+Q6ZNE9	RUFY4_HUMAN	RUN and FYVE domain-containing protein 4	RUFY4	Homo sapiens (Human)	571
+Q7LBR1	CHM1B_HUMAN	Charged multivesicular body protein 1b (CHMP1.5) (Chromatin-modifying protein 1b) (CHMP1b) (Vacuolar protein sorting-associated protein 46-2) (Vps46-2) (hVps46-2)	CHMP1B C18orf2	Homo sapiens (Human)	199
+Q7Z3C6	ATG9A_HUMAN	Autophagy-related protein 9A (APG9-like 1) (mATG9)	ATG9A APG9L1	Homo sapiens (Human)	839
+Q7Z6L1	TCPR1_HUMAN	Tectonin beta-propeller repeat-containing protein 1	TECPR1 KIAA1358	Homo sapiens (Human)	1165
+Q86VP1	TAXB1_HUMAN	Tax1-binding protein 1 (TRAF6-binding protein)	TAX1BP1 T6BP PRO0105	Homo sapiens (Human)	789
+Q86WV6	STING_HUMAN	Stimulator of interferon genes protein (hSTING) (Endoplasmic reticulum interferon stimulator) (ERIS) (Mediator of IRF3 activation) (hMITA) (Transmembrane protein 173)	STING1 ERIS MITA STING TMEM173	Homo sapiens (Human)	379
+Q8IUC6	TCAM1_HUMAN	TIR domain-containing adapter molecule 1 (TICAM-1) (Proline-rich, vinculin and TIR domain-containing protein B) (Putative NF-kappa-B-activating protein 502H) (Toll-interleukin-1 receptor domain-containing adapter protein inducing interferon beta) (MyD88-3) (TIR domain-containing adapter protein inducing IFN-beta)	TICAM1 PRVTIRB TRIF	Homo sapiens (Human)	712
+Q8IXH6	T53I2_HUMAN	Tumor protein p53-inducible nuclear protein 2 (Diabetes and obesity-regulated gene) (p53-inducible protein U) (PIG-U)	TP53INP2 C20orf110 DOR PINH	Homo sapiens (Human)	220
+Q8IYT8	ULK2_HUMAN	Serine/threonine-protein kinase ULK2 (EC 2.7.11.1) (Unc-51-like kinase 2)	ULK2 KIAA0623	Homo sapiens (Human)	1036
+Q8IZQ1	WDFY3_HUMAN	WD repeat and FYVE domain-containing protein 3 (Autophagy-linked FYVE protein) (Alfy)	WDFY3 KIAA0993	Homo sapiens (Human)	3526
+Q8N9B5	JMY_HUMAN	Junction-mediating and -regulatory protein	JMY	Homo sapiens (Human)	988
+Q8NEB9	PK3C3_HUMAN	Phosphatidylinositol 3-kinase catalytic subunit type 3 (PI3-kinase type 3) (PI3K type 3) (PtdIns-3-kinase type 3) (EC 2.7.1.137) (Phosphatidylinositol 3-kinase p100 subunit) (Phosphoinositide-3-kinase class 3) (hVps34)	PIK3C3 VPS34	Homo sapiens (Human)	887
+Q8TBX8	PI42C_HUMAN	Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma (EC 2.7.1.149) (Phosphatidylinositol 5-phosphate 4-kinase type II gamma) (PI(5)P 4-kinase type II gamma) (PIP4KII-gamma)	PIP4K2C PIP5K2C	Homo sapiens (Human)	421
+Q8TD08	MK15_HUMAN	Mitogen-activated protein kinase 15 (MAP kinase 15) (MAPK 15) (EC 2.7.11.24) (Extracellular signal-regulated kinase 7) (ERK-7) (Extracellular signal-regulated kinase 8) (ERK-8)	MAPK15 ERK7 ERK8	Homo sapiens (Human)	544
+Q8TDD5	MCLN3_HUMAN	Mucolipin-3 (Transient receptor potential channel mucolipin 3) (TRPML3)	MCOLN3	Homo sapiens (Human)	553
+Q8TDY2	RBCC1_HUMAN	RB1-inducible coiled-coil protein 1 (FAK family kinase-interacting protein of 200 kDa) (FIP200)	RB1CC1 KIAA0203 RBICC	Homo sapiens (Human)	1594
+Q8WUD1	RAB2B_HUMAN	Ras-related protein Rab-2B (EC 3.6.5.2)	RAB2B	Homo sapiens (Human)	216
+Q8WUX9	CHMP7_HUMAN	Charged multivesicular body protein 7 (Chromatin-modifying protein 7)	CHMP7	Homo sapiens (Human)	453
+Q92609	TBCD5_HUMAN	TBC1 domain family member 5	TBC1D5 KIAA0210	Homo sapiens (Human)	795
+Q969Q5	RAB24_HUMAN	Ras-related protein Rab-24	RAB24	Homo sapiens (Human)	203
+Q96A56	T53I1_HUMAN	Tumor protein p53-inducible nuclear protein 1 (Stress-induced protein) (p53-dependent damage-inducible nuclear protein 1) (p53DINP1)	TP53INP1 P53DINP1 SIP	Homo sapiens (Human)	240
+Q96A57	TM230_HUMAN	Transmembrane protein 230	TMEM230 C20orf30 HSPC274 UNQ2432/PRO4992	Homo sapiens (Human)	120
+Q96AJ9	VTI1A_HUMAN	Vesicle transport through interaction with t-SNAREs homolog 1A (Vesicle transport v-SNARE protein Vti1-like 2) (Vti1-rp2)	VTI1A	Homo sapiens (Human)	217
+Q96AX1	VP33A_HUMAN	Vacuolar protein sorting-associated protein 33A (hVPS33A)	VPS33A	Homo sapiens (Human)	596
+Q96CF2	CHM4C_HUMAN	Charged multivesicular body protein 4c (Chromatin-modifying protein 4c) (CHMP4c) (SNF7 homolog associated with Alix 3) (SNF7-3) (hSnf7-3) (Vacuolar protein sorting-associated protein 32-3) (Vps32-3) (hVps32-3)	CHMP4C SHAX3	Homo sapiens (Human)	233
+Q96CP6	ASTRA_HUMAN	Protein Aster-A (GRAM domain-containing protein 1A)	GRAMD1A KIAA1533	Homo sapiens (Human)	724
+Q96CV9	OPTN_HUMAN	Optineurin (E3-14.7K-interacting protein) (FIP-2) (Huntingtin yeast partner L) (Huntingtin-interacting protein 7) (HIP-7) (Huntingtin-interacting protein L) (NEMO-related protein) (Optic neuropathy-inducing protein) (Transcription factor IIIA-interacting protein) (TFIIIA-IntP)	OPTN FIP2 GLC1E HIP7 HYPL NRP	Homo sapiens (Human)	577
+Q96F24	NRBF2_HUMAN	Nuclear receptor-binding factor 2 (NRBF-2) (Comodulator of PPAR and RXR)	NRBF2 COPR	Homo sapiens (Human)	287
+Q96FZ7	CHMP6_HUMAN	Charged multivesicular body protein 6 (Chromatin-modifying protein 6) (Vacuolar protein sorting-associated protein 20) (Vps20) (hVps20)	CHMP6 VPS20	Homo sapiens (Human)	201
+Q96GC9	VMP1_HUMAN	Vacuole membrane protein 1 (Transmembrane protein 49)	VMP1 TDC1 TMEM49 HSPC292	Homo sapiens (Human)	406
+Q96LT7	CI072_HUMAN	Guanine nucleotide exchange factor C9orf72	C9orf72 DENND9 DENNL72	Homo sapiens (Human)	481
+Q99570	PI3R4_HUMAN	Phosphoinositide 3-kinase regulatory subunit 4 (PI3-kinase regulatory subunit 4) (EC 2.7.11.1) (PI3-kinase p150 subunit) (Phosphoinositide 3-kinase adaptor protein)	PIK3R4 VPS15	Homo sapiens (Human)	1358
+Q9BQS8	FYCO1_HUMAN	FYVE and coiled-coil domain-containing protein 1 (Zinc finger FYVE domain-containing protein 7)	FYCO1 ZFYVE7	Homo sapiens (Human)	1478
+Q9BXW4	MLP3C_HUMAN	Microtubule-associated protein 1 light chain 3 gamma (Autophagy-related protein LC3 C) (Autophagy-related ubiquitin-like modifier LC3 C) (MAP1 light chain 3-like protein 3) (Microtubule-associated proteins 1A/1B light chain 3C) (MAP1A/MAP1B LC3 C) (MAP1A/MAP1B light chain 3 C)	MAP1LC3C	Homo sapiens (Human)	147
+Q9BY43	CHM4A_HUMAN	Charged multivesicular body protein 4a (Chromatin-modifying protein 4a) (CHMP4a) (SNF7 homolog associated with Alix-2) (SNF7-1) (hSnf-1) (Vacuolar protein sorting-associated protein 32-1) (Vps32-1) (hVps32-1)	CHMP4A C14orf123 SHAX2 CDA04 HSPC134	Homo sapiens (Human)	222
+Q9BZF2	OSBL7_HUMAN	Oxysterol-binding protein-related protein 7 (ORP-7) (OSBP-related protein 7)	OSBPL7 ORP7	Homo sapiens (Human)	842
+Q9C0C7	AMRA1_HUMAN	Activating molecule in BECN1-regulated autophagy protein 1 (DDB1- and CUL4-associated factor 3)	AMBRA1 DCAF3 KIAA1736	Homo sapiens (Human)	1298
+Q9GZQ8	MLP3B_HUMAN	Microtubule-associated protein 1 light chain 3 beta (Autophagy-related protein LC3 B) (Autophagy-related ubiquitin-like modifier LC3 B) (MAP1 light chain 3-like protein 2) (Microtubule-associated proteins 1A/1B light chain 3B) (MAP1A/MAP1B LC3 B) (MAP1A/MAP1B light chain 3 B)	MAP1LC3B MAP1ALC3	Homo sapiens (Human)	125
+Q9GZU2	PEG3_HUMAN	Paternally-expressed gene 3 protein (Zinc finger and SCAN domain-containing protein 24)	PEG3 KIAA0287 ZSCAN24	Homo sapiens (Human)	1588
+Q9H0R8	GBRL1_HUMAN	Gamma-aminobutyric acid receptor-associated protein-like 1 (Early estrogen-regulated protein) (GABA(A) receptor-associated protein-like 1) (Glandular epithelial cell protein 1) (GEC-1)	GABARAPL1 GEC1	Homo sapiens (Human)	117
+Q9H1Y0	ATG5_HUMAN	Autophagy protein 5 (APG5-like) (Apoptosis-specific protein)	ATG5 APG5L ASP	Homo sapiens (Human)	275
+Q9H269	VPS16_HUMAN	Vacuolar protein sorting-associated protein 16 homolog (hVPS16)	VPS16	Homo sapiens (Human)	839
+Q9H270	VPS11_HUMAN	Vacuolar protein sorting-associated protein 11 homolog (hVPS11) (RING finger protein 108)	VPS11 RNF108 PP3476	Homo sapiens (Human)	941
+Q9H2M9	RBGPR_HUMAN	Rab3 GTPase-activating protein non-catalytic subunit (RGAP-iso) (Rab3 GTPase-activating protein 150 kDa subunit) (Rab3-GAP p150) (Rab3-GAP150) (Rab3-GAP regulatory subunit)	RAB3GAP2 KIAA0839	Homo sapiens (Human)	1393
+Q9H444	CHM4B_HUMAN	Charged multivesicular body protein 4b (Chromatin-modifying protein 4b) (CHMP4b) (SNF7 homolog associated with Alix 1) (SNF7-2) (hSnf7-2) (Vacuolar protein sorting-associated protein 32-2) (Vps32-2) (hVps32-2)	CHMP4B C20orf178 SHAX1	Homo sapiens (Human)	224
+Q9H492	MLP3A_HUMAN	Microtubule-associated protein 1 light chain 3 alpha (Autophagy-related protein LC3 A) (Autophagy-related ubiquitin-like modifier LC3 A) (MAP1 light chain 3-like protein 1) (Microtubule-associated proteins 1A/1B light chain 3A) (MAP1A/MAP1B LC3 A) (MAP1A/MAP1B light chain 3 A)	MAP1LC3A	Homo sapiens (Human)	121
+Q9H714	PACER_HUMAN	Protein associated with UVRAG as autophagy enhancer (Pacer) (Protein Rubicon-like)	RUBCNL C13orf18 KIAA0226L	Homo sapiens (Human)	662
+Q9HA65	TBC17_HUMAN	TBC1 domain family member 17	TBC1D17	Homo sapiens (Human)	648
+Q9HBF4	ZFYV1_HUMAN	Zinc finger FYVE domain-containing protein 1 (Double FYVE-containing protein 1) (SR3) (Tandem FYVE fingers-1)	ZFYVE1 DFCP1 KIAA1589 TAFF1 ZNFN2A1 PP10436	Homo sapiens (Human)	777
+Q9HD42	CHM1A_HUMAN	Charged multivesicular body protein 1a (Chromatin-modifying protein 1a) (CHMP1a) (Vacuolar protein sorting-associated protein 46-1) (Vps46-1) (hVps46-1)	CHMP1A CHMP1 KIAA0047 PCOLN3 PRSM1	Homo sapiens (Human)	196
+Q9NQ11	AT132_HUMAN	Polyamine-transporting ATPase 13A2 (EC 7.6.2.-)	ATP13A2 PARK9	Homo sapiens (Human)	1180
+Q9NRR5	UBQL4_HUMAN	Ubiquilin-4 (Ataxin-1 interacting ubiquitin-like protein) (A1Up) (Ataxin-1 ubiquitin-like-interacting protein A1U) (Connexin43-interacting protein of 75 kDa) (CIP75)	UBQLN4 C1orf6 CIP75 UBIN	Homo sapiens (Human)	601
+Q9NZZ3	CHMP5_HUMAN	Charged multivesicular body protein 5 (Chromatin-modifying protein 5) (SNF7 domain-containing protein 2) (Vacuolar protein sorting-associated protein 60) (Vps60) (hVps60)	CHMP5 C9orf83 SNF7DC2 CGI-34 HSPC177 PNAS-114 PNAS-2	Homo sapiens (Human)	219
+Q9P253	VPS18_HUMAN	Vacuolar protein sorting-associated protein 18 homolog (hVPS18)	VPS18 KIAA1475	Homo sapiens (Human)	973
+Q9P2M4	TBC14_HUMAN	TBC1 domain family member 14	TBC1D14 KIAA1322	Homo sapiens (Human)	693
+Q9P2Y5	UVRAG_HUMAN	UV radiation resistance-associated gene protein (p63)	UVRAG	Homo sapiens (Human)	699
+Q9UHD9	UBQL2_HUMAN	Ubiquilin-2 (Chap1) (DSK2 homolog) (Protein linking IAP with cytoskeleton 2) (PLIC-2) (hPLIC-2) (Ubiquitin-like product Chap1/Dsk2)	UBQLN2 N4BP4 PLIC2 HRIHFB2157	Homo sapiens (Human)	624
+Q9UIK4	DAPK2_HUMAN	Death-associated protein kinase 2 (DAP kinase 2) (EC 2.7.11.1) (DAP-kinase-related protein 1) (DRP-1)	DAPK2	Homo sapiens (Human)	370
+Q9ULC3	RAB23_HUMAN	Ras-related protein Rab-23	RAB23 HSPC137	Homo sapiens (Human)	237
+Q9UM54	MYO6_HUMAN	Unconventional myosin-VI (Unconventional myosin-6)	MYO6 KIAA0389	Homo sapiens (Human)	1294
+Q9UMX0	UBQL1_HUMAN	Ubiquilin-1 (Protein linking IAP with cytoskeleton 1) (PLIC-1) (hPLIC-1)	UBQLN1 DA41 PLIC1	Homo sapiens (Human)	589
+Q9UQN3	CHM2B_HUMAN	Charged multivesicular body protein 2b (CHMP2.5) (Chromatin-modifying protein 2b) (CHMP2b) (Vacuolar protein sorting-associated protein 2-2) (Vps2-2) (hVps2-2)	CHMP2B CGI-84	Homo sapiens (Human)	213
+Q9Y227	ENTP4_HUMAN	Ectonucleoside triphosphate diphosphohydrolase 4 (NTPDase 4) (EC 3.6.1.15) (EC 3.6.1.6) (Golgi UDPase) (Lysosomal apyrase-like protein of 70 kDa) (Uridine-diphosphatase) (UDPase) (EC 3.6.1.42)	ENTPD4 KIAA0392 LALP70 LYSAL1	Homo sapiens (Human)	616
+Q9Y371	SHLB1_HUMAN	Endophilin-B1 (Bax-interacting factor 1) (Bif-1) (SH3 domain-containing GRB2-like protein B1)	SH3GLB1 KIAA0491 CGI-61	Homo sapiens (Human)	365
+Q9Y3E7	CHMP3_HUMAN	Charged multivesicular body protein 3 (Chromatin-modifying protein 3) (Neuroendocrine differentiation factor) (Vacuolar protein sorting-associated protein 24) (hVps24)	CHMP3 CGI149 NEDF VPS24 CGI-149	Homo sapiens (Human)	222
+Q9Y4P1	ATG4B_HUMAN	Cysteine protease ATG4B (EC 3.4.22.-) (AUT-like 1 cysteine endopeptidase) (Autophagy-related cysteine endopeptidase 1) (Autophagin-1) (Autophagy-related protein 4 homolog B) (HsAPG4B) (hAPG4B)	ATG4B APG4B AUTL1 KIAA0943	Homo sapiens (Human)	393
+Q9Y679	AUP1_HUMAN	Lipid droplet-regulating VLDL assembly factor AUP1 (Ancient ubiquitous protein 1)	AUP1	Homo sapiens (Human)	410
+Q9Y6I9	TX264_HUMAN	Testis-expressed protein 264 (Putative secreted protein Zsig11)	TEX264 ZSIG11 UNQ337/PRO536	Homo sapiens (Human)	313
+A6NC51	T150B_HUMAN	Modulator of macroautophagy TMEM150B (Protein DRAM-3) (Transmembrane protein 150B) (Transmembrane protein 224)	TMEM150B TMEM224	Homo sapiens (Human)	233
+A6NCE7	MP3B2_HUMAN	Microtubule-associated protein 1 light chain 3 beta 2 (Microtubule-associated proteins 1A/1B light chain 3 beta 2) (Microtubule-associated proteins 1A/1B light chain 3B-like) (MAP1A/MAP1B LC3 B-like) (MAP1A/MAP1B light chain 3 B-like)	MAP1LC3B2	Homo sapiens (Human)	125
+O15321	TM9S1_HUMAN	Transmembrane 9 superfamily member 1 (MP70 protein family member) (hMP70)	TM9SF1	Homo sapiens (Human)	606
+P59074	CHM4P_HUMAN	Putative charged multivesicular body protein 4B-like protein CHMP4BP1 (Charged multivesicular body protein 4B pseudogene 1)	CHMP4BP1 CGI-301	Homo sapiens (Human)	171
+Q96NL1	TMM74_HUMAN	Transmembrane protein 74	TMEM74	Homo sapiens (Human)	305
+O60347	TBC12_HUMAN	TBC1 domain family member 12	TBC1D12 KIAA0608	Homo sapiens (Human)	775
+Q9BY60	GBRL3_HUMAN	Gamma-aminobutyric acid receptor-associated protein-like 3 (GABA(A) receptor-associated protein-like 3)	GABARAPL3	Homo sapiens (Human)	117

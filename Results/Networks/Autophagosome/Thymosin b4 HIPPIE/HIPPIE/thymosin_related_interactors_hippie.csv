@@ -1,0 +1,193 @@
+Interactor A,Interactor B,Protein Name A,Protein Name B
+TMSB4X,TP53,Thymosin beta-4,Cellular tumor antigen p53
+TMSB4X,ANXA7,Thymosin beta-4,Annexin A7
+TMSB4X,CDKN1A,Thymosin beta-4,Cyclin-dependent kinase inhibitor 1
+TMSB4X,ACTG1,Thymosin beta-4,"Actin, cytoplasmic 2"
+TMSB4X,MLH1,Thymosin beta-4,DNA mismatch repair protein Mlh1
+TMSB4X,ACTA1,Thymosin beta-4,"Actin, alpha skeletal muscle"
+TMSB4X,KRT31,Thymosin beta-4,"Keratin, type I cuticular Ha1"
+TMSB4X,MYH6,Thymosin beta-4,Myosin-6
+TMSB4X,ZNF526,Thymosin beta-4,Zinc finger protein 526
+TMSB4X,HSF2,Thymosin beta-4,Heat shock factor protein 2
+TMSB4X,CAV1,Thymosin beta-4,Caveolin-1
+TMSB4X,PCNA,Thymosin beta-4,Proliferating cell nuclear antigen
+TMSB4X,PPP4C,Thymosin beta-4,Serine/threonine-protein phosphatase 4 catalytic subunit
+TMSB4X,APLP1,Thymosin beta-4,Amyloid beta precursor like protein 1
+TMSB4X,HSF2BP,Thymosin beta-4,Heat shock factor 2-binding protein
+TMSB4X,RAD21,Thymosin beta-4,Double-strand-break repair protein rad21 homolog
+TMSB4X,UNC119,Thymosin beta-4,Protein unc-119 homolog A
+TMSB4X,AKAP8L,Thymosin beta-4,A-kinase anchor protein 8-like
+TMSB4X,EEF1A1,Thymosin beta-4,Elongation factor 1-alpha 1
+TMSB4X,BMI1,Thymosin beta-4,Polycomb complex protein BMI-1
+TMSB4X,KRT13,Thymosin beta-4,"Keratin, type I cytoskeletal 13"
+TMSB4X,RIF1,Thymosin beta-4,Telomere-associated protein RIF1
+TMSB4X,FHL3,Thymosin beta-4,Four and a half LIM domains protein 3
+TMSB4X,ALAS1,Thymosin beta-4,"5-aminolevulinate synthase, non-specific, mitochondrial"
+TMSB4X,TLE1,Thymosin beta-4,Transducin-like enhancer protein 1
+TMSB4X,KRTAP8-1,Thymosin beta-4,Keratin-associated protein 8-1
+TMSB4X,STAB2,Thymosin beta-4,Stabilin-2
+TMSB4X,AGRN,Thymosin beta-4,Agrin
+TMSB4X,TRIM23,Thymosin beta-4,E3 ubiquitin-protein ligase TRIM23
+TMSB4X,KRT36,Thymosin beta-4,"Keratin, type I cuticular Ha6"
+TMSB4X,GRB7,Thymosin beta-4,Growth factor receptor-bound protein 7
+TMSB4X,HNRNPH1,Thymosin beta-4,Heterogeneous nuclear ribonucleoprotein H
+TMSB4X,KRT15,Thymosin beta-4,"Keratin, type I cytoskeletal 15"
+TMSB4X,RBPMS,Thymosin beta-4,RNA-binding protein with multiple splicing
+TMSB4X,FAM118B,Thymosin beta-4,Protein FAM118B
+TMSB4X,NLRP7,Thymosin beta-4,"NACHT, LRR and PYD domains-containing protein 7"
+TMSB4X,TRIM27,Thymosin beta-4,Zinc finger protein RFP
+TMSB4X,KRT40,Thymosin beta-4,"Keratin, type I cytoskeletal 40"
+TMSB4X,UHMK1,Thymosin beta-4,Serine/threonine-protein kinase Kist
+TMSB4X,TAF1D,Thymosin beta-4,TATA box-binding protein-associated factor RNA polymerase I subunit D
+TMSB4X,PNMA1,Thymosin beta-4,Paraneoplastic antigen Ma1
+TMSB4X,KRT34,Thymosin beta-4,"Keratin, type I cuticular Ha4"
+TMSB4X,TK1,Thymosin beta-4,"Thymidine kinase, cytosolic"
+TMSB4X,IGSF21,Thymosin beta-4,Immunoglobulin superfamily member 21
+TMSB4X,TRIP6,Thymosin beta-4,Thyroid receptor-interacting protein 6
+TMSB4X,COG6,Thymosin beta-4,Conserved oligomeric Golgi complex subunit 6
+TMSB4X,GOLGA6L9,Thymosin beta-4,Golgin subfamily A member 6-like protein 9
+TMSB4X,SMN2,Thymosin beta-4,Survival motor neuron protein
+TMSB4X,BCAR1,Thymosin beta-4,Breast cancer anti-estrogen resistance protein 1
+BCAR1,UVRAG,Breast cancer anti-estrogen resistance protein 1,UV radiation resistance-associated gene protein
+BCAR1,CHMP1A,Breast cancer anti-estrogen resistance protein 1,Charged multivesicular body protein 1a
+BCAR1,VPS11,Breast cancer anti-estrogen resistance protein 1,Vacuolar protein sorting-associated protein 11 homolog
+BCAR1,TEX264,Breast cancer anti-estrogen resistance protein 1,Testis-expressed protein 264
+BCAR1,HTT,Breast cancer anti-estrogen resistance protein 1,Huntingtin
+CAV1,CALCOCO2,Caveolin-1,Calcium-binding and coiled-coil domain-containing protein 2
+CAV1,RAB7A,Caveolin-1,Ras-related protein Rab-7a
+CAV1,SQSTM1,Caveolin-1,Sequestosome-1
+CAV1,RAB2A,Caveolin-1,Ras-related protein Rab-2A
+CAV1,ATG12,Caveolin-1,Ubiquitin-like protein ATG12
+CAV1,LAMP2,Caveolin-1,Lysosome-associated membrane glycoprotein 2
+CAV1,SNAP29,Caveolin-1,Synaptosomal-associated protein 29
+CAV1,NBR1,Caveolin-1,Next to BRCA1 gene 1 protein
+CAV1,CHMP7,Caveolin-1,Charged multivesicular body protein 7
+CAV1,RAB23,Caveolin-1,Ras-related protein Rab-23
+CAV1,MAP1LC3B2,Caveolin-1,Microtubule-associated protein 1 light chain 3 beta 2
+CAV1,MAP1LC3B,Caveolin-1,Microtubule-associated protein 1 light chain 3 beta
+CAV1,CHMP4B,Caveolin-1,Charged multivesicular body protein 4b
+CAV1,ATG5,Caveolin-1,Autophagy protein 5
+EEF1A1,RAB7A,Elongation factor 1-alpha 1,Ras-related protein Rab-7a
+EEF1A1,VTI1A,Elongation factor 1-alpha 1,Vesicle transport through interaction with t-SNAREs homolog 1A
+EEF1A1,LRRK2,Elongation factor 1-alpha 1,Leucine-rich repeat serine/threonine-protein kinase 2
+EEF1A1,RAB2A,Elongation factor 1-alpha 1,Ras-related protein Rab-2A
+EEF1A1,GABARAP,Elongation factor 1-alpha 1,Gamma-aminobutyric acid receptor-associated protein
+EEF1A1,GABARAPL2,Elongation factor 1-alpha 1,Gamma-aminobutyric acid receptor-associated protein-like 2
+EEF1A1,TAX1BP1,Elongation factor 1-alpha 1,Tax1-binding protein 1
+EEF1A1,UBQLN4,Elongation factor 1-alpha 1,Ubiquilin-4
+EEF1A1,MAP1LC3B,Elongation factor 1-alpha 1,Microtubule-associated protein 1 light chain 3 beta
+EEF1A1,MAP1LC3A,Elongation factor 1-alpha 1,Microtubule-associated protein 1 light chain 3 alpha
+EEF1A1,GABARAPL1,Elongation factor 1-alpha 1,Gamma-aminobutyric acid receptor-associated protein-like 1
+TP53,RB1CC1,Cellular tumor antigen p53,RB1-inducible coiled-coil protein 1
+TP53,PIK3C3,Cellular tumor antigen p53,Phosphatidylinositol 3-kinase catalytic subunit type 3
+TP53,TP53INP1,Cellular tumor antigen p53,Tumor protein p53-inducible nuclear protein 1
+TP53,HTT,Cellular tumor antigen p53,Huntingtin
+TP53,LRRK2,Cellular tumor antigen p53,Leucine-rich repeat serine/threonine-protein kinase 2
+TP53,SQSTM1,Cellular tumor antigen p53,Sequestosome-1
+TP53,LAMP2,Cellular tumor antigen p53,Lysosome-associated membrane glycoprotein 2
+TP53,BECN1,Cellular tumor antigen p53,Beclin-1
+TP53,MYO6,Cellular tumor antigen p53,Unconventional myosin-VI
+TP53,FTH1,Cellular tumor antigen p53,Ferritin heavy chain
+TP53,VPS16,Cellular tumor antigen p53,Vacuolar protein sorting-associated protein 16 homolog
+TP53,GABARAPL2,Cellular tumor antigen p53,Gamma-aminobutyric acid receptor-associated protein-like 2
+TP53,LAMP1,Cellular tumor antigen p53,Lysosome-associated membrane glycoprotein 1
+TP53,RAB7A,Cellular tumor antigen p53,Ras-related protein Rab-7a
+TP53,TRIM32,Cellular tumor antigen p53,E3 ubiquitin-protein ligase TRIM32
+TP53,MAP1LC3B,Cellular tumor antigen p53,Microtubule-associated protein 1 light chain 3 beta
+TP53,JMY,Cellular tumor antigen p53,Junction-mediating and -regulatory protein
+TP53,STING1,Cellular tumor antigen p53,Stimulator of interferon genes protein
+TP53,NBR1,Cellular tumor antigen p53,Next to BRCA1 gene 1 protein
+TP53,CHMP4B,Cellular tumor antigen p53,Charged multivesicular body protein 4b
+TP53,ULK1,Cellular tumor antigen p53,Serine/threonine-protein kinase ULK1
+RAD21,CHMP4C,Double-strand-break repair protein rad21 homolog,Charged multivesicular body protein 4c
+PCNA,LRRK2,Proliferating cell nuclear antigen,Leucine-rich repeat serine/threonine-protein kinase 2
+PCNA,RAB7A,Proliferating cell nuclear antigen,Ras-related protein Rab-7a
+PCNA,LAMP2,Proliferating cell nuclear antigen,Lysosome-associated membrane glycoprotein 2
+PCNA,CHMP3,Proliferating cell nuclear antigen,Charged multivesicular body protein 3
+PCNA,SH3GLB1,Proliferating cell nuclear antigen,Endophilin-B1
+PCNA,MAP1LC3B,Proliferating cell nuclear antigen,Microtubule-associated protein 1 light chain 3 beta
+PCNA,MAP1LC3A,Proliferating cell nuclear antigen,Microtubule-associated protein 1 light chain 3 alpha
+TRIP6,SQSTM1,Thyroid receptor-interacting protein 6,Sequestosome-1
+TRIP6,ZFYVE1,Thyroid receptor-interacting protein 6,Zinc finger FYVE domain-containing protein 1
+TRIP6,UBQLN2,Thyroid receptor-interacting protein 6,Ubiquilin-2
+CDKN1A,OPTN,Cyclin-dependent kinase inhibitor 1,Optineurin
+CDKN1A,TRIM21,Cyclin-dependent kinase inhibitor 1,E3 ubiquitin-protein ligase TRIM21
+PNMA1,UBQLN1,Paraneoplastic antigen Ma1,Ubiquilin-1
+PNMA1,CHMP2B,Paraneoplastic antigen Ma1,Charged multivesicular body protein 2b
+PNMA1,UBQLN4,Paraneoplastic antigen Ma1,Ubiquilin-4
+HNRNPH1,PIP4K2B,Heterogeneous nuclear ribonucleoprotein H,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+HNRNPH1,GABARAP,Heterogeneous nuclear ribonucleoprotein H,Gamma-aminobutyric acid receptor-associated protein
+HNRNPH1,CHMP4C,Heterogeneous nuclear ribonucleoprotein H,Charged multivesicular body protein 4c
+HNRNPH1,GABARAPL2,Heterogeneous nuclear ribonucleoprotein H,Gamma-aminobutyric acid receptor-associated protein-like 2
+HNRNPH1,MAP1LC3A,Heterogeneous nuclear ribonucleoprotein H,Microtubule-associated protein 1 light chain 3 alpha
+HNRNPH1,GABARAPL1,Heterogeneous nuclear ribonucleoprotein H,Gamma-aminobutyric acid receptor-associated protein-like 1
+HNRNPH1,UBQLN1,Heterogeneous nuclear ribonucleoprotein H,Ubiquilin-1
+HNRNPH1,CHMP4B,Heterogeneous nuclear ribonucleoprotein H,Charged multivesicular body protein 4b
+HNRNPH1,MAP1LC3B,Heterogeneous nuclear ribonucleoprotein H,Microtubule-associated protein 1 light chain 3 beta
+HNRNPH1,UBQLN2,Heterogeneous nuclear ribonucleoprotein H,Ubiquilin-2
+ACTG1,OPTN,"Actin, cytoplasmic 2",Optineurin
+ACTG1,LRRK2,"Actin, cytoplasmic 2",Leucine-rich repeat serine/threonine-protein kinase 2
+ACTG1,SQSTM1,"Actin, cytoplasmic 2",Sequestosome-1
+ACTG1,NBR1,"Actin, cytoplasmic 2",Next to BRCA1 gene 1 protein
+ACTG1,MAP1LC3B,"Actin, cytoplasmic 2",Microtubule-associated protein 1 light chain 3 beta
+ACTG1,HTT,"Actin, cytoplasmic 2",Huntingtin
+COG6,SNAP29,Conserved oligomeric Golgi complex subunit 6,Synaptosomal-associated protein 29
+BMI1,RAB7A,Polycomb complex protein BMI-1,Ras-related protein Rab-7a
+BMI1,CHMP1B,Polycomb complex protein BMI-1,Charged multivesicular body protein 1b
+BMI1,VPS11,Polycomb complex protein BMI-1,Vacuolar protein sorting-associated protein 11 homolog
+BMI1,CHMP3,Polycomb complex protein BMI-1,Charged multivesicular body protein 3
+BMI1,CHMP1A,Polycomb complex protein BMI-1,Charged multivesicular body protein 1a
+BMI1,CHMP2B,Polycomb complex protein BMI-1,Charged multivesicular body protein 2b
+BMI1,CHMP5,Polycomb complex protein BMI-1,Charged multivesicular body protein 5
+BMI1,CHMP4B,Polycomb complex protein BMI-1,Charged multivesicular body protein 4b
+TRIM23,TRIM32,E3 ubiquitin-protein ligase TRIM23,E3 ubiquitin-protein ligase TRIM32
+TRIM23,SQSTM1,E3 ubiquitin-protein ligase TRIM23,Sequestosome-1
+TRIM23,UBQLN1,E3 ubiquitin-protein ligase TRIM23,Ubiquilin-1
+TAF1D,HAP1,TATA box-binding protein-associated factor RNA polymerase I subunit D,Huntingtin-associated protein 1
+ACTA1,CHMP1B,"Actin, alpha skeletal muscle",Charged multivesicular body protein 1b
+ACTA1,LRRK2,"Actin, alpha skeletal muscle",Leucine-rich repeat serine/threonine-protein kinase 2
+ACTA1,HTT,"Actin, alpha skeletal muscle",Huntingtin
+SMN2,SQSTM1,Survival motor neuron protein,Sequestosome-1
+SMN2,CHMP4C,Survival motor neuron protein,Charged multivesicular body protein 4c
+SMN2,CHMP4B,Survival motor neuron protein,Charged multivesicular body protein 4b
+KRT31,ATG9A,"Keratin, type I cuticular Ha1",Autophagy-related protein 9A
+KRT31,ATG12,"Keratin, type I cuticular Ha1",Ubiquitin-like protein ATG12
+KRT31,RAB24,"Keratin, type I cuticular Ha1",Ras-related protein Rab-24
+KRT31,GABARAPL2,"Keratin, type I cuticular Ha1",Gamma-aminobutyric acid receptor-associated protein-like 2
+TRIM27,RB1CC1,Zinc finger protein RFP,RB1-inducible coiled-coil protein 1
+TRIM27,TRIM32,Zinc finger protein RFP,E3 ubiquitin-protein ligase TRIM32
+TRIM27,LRRK2,Zinc finger protein RFP,Leucine-rich repeat serine/threonine-protein kinase 2
+TRIM27,CHMP4C,Zinc finger protein RFP,Charged multivesicular body protein 4c
+TRIM27,ATG16L1,Zinc finger protein RFP,Autophagy-related protein 16-1
+TRIM27,CHMP4B,Zinc finger protein RFP,Charged multivesicular body protein 4b
+MLH1,STX17,DNA mismatch repair protein Mlh1,Syntaxin-17
+MLH1,PIP4K2B,DNA mismatch repair protein Mlh1,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+MLH1,GABARAP,DNA mismatch repair protein Mlh1,Gamma-aminobutyric acid receptor-associated protein
+MLH1,SQSTM1,DNA mismatch repair protein Mlh1,Sequestosome-1
+RIF1,LRRK2,Telomere-associated protein RIF1,Leucine-rich repeat serine/threonine-protein kinase 2
+RIF1,CLN3,Telomere-associated protein RIF1,Battenin
+RIF1,HAP1,Telomere-associated protein RIF1,Huntingtin-associated protein 1
+MYH6,OPTN,Myosin-6,Optineurin
+TK1,LRRK2,"Thymidine kinase, cytosolic",Leucine-rich repeat serine/threonine-protein kinase 2
+TK1,UBQLN2,"Thymidine kinase, cytosolic",Ubiquilin-2
+TK1,PRKD1,"Thymidine kinase, cytosolic",Serine/threonine-protein kinase D1
+ANXA7,GABARAPL1,Annexin A7,Gamma-aminobutyric acid receptor-associated protein-like 1
+ANXA7,UBQLN2,Annexin A7,Ubiquilin-2
+ANXA7,MAP1LC3B,Annexin A7,Microtubule-associated protein 1 light chain 3 beta
+UNC119,TP53INP1,Protein unc-119 homolog A,Tumor protein p53-inducible nuclear protein 1
+UNC119,UBQLN4,Protein unc-119 homolog A,Ubiquilin-4
+KRT34,ATG9A,"Keratin, type I cuticular Ha4",Autophagy-related protein 9A
+KRT36,RAB24,"Keratin, type I cuticular Ha6",Ras-related protein Rab-24
+AKAP8L,AMBRA1,A-kinase anchor protein 8-like,Activating molecule in BECN1-regulated autophagy protein 1
+PPP4C,WDR81,Serine/threonine-protein phosphatase 4 catalytic subunit,WD repeat-containing protein 81
+PPP4C,AMBRA1,Serine/threonine-protein phosphatase 4 catalytic subunit,Activating molecule in BECN1-regulated autophagy protein 1
+KRT15,RAB7A,"Keratin, type I cytoskeletal 15",Ras-related protein Rab-7a
+FAM118B,LAMP2,Protein FAM118B,Lysosome-associated membrane glycoprotein 2
+HSF2BP,OPTN,Heat shock factor 2-binding protein,Optineurin
+KRT13,GABARAP,"Keratin, type I cytoskeletal 13",Gamma-aminobutyric acid receptor-associated protein
+KRT13,GABARAPL2,"Keratin, type I cytoskeletal 13",Gamma-aminobutyric acid receptor-associated protein-like 2
+KRT13,MAP1LC3B,"Keratin, type I cytoskeletal 13",Microtubule-associated protein 1 light chain 3 beta
+KRT13,GABARAPL1,"Keratin, type I cytoskeletal 13",Gamma-aminobutyric acid receptor-associated protein-like 1
+KRT13,MAP1LC3A,"Keratin, type I cytoskeletal 13",Microtubule-associated protein 1 light chain 3 alpha
+APLP1,HAP1,Amyloid beta precursor like protein 1,Huntingtin-associated protein 1
+KRTAP8-1,ATG9A,Keratin-associated protein 8-1,Autophagy-related protein 9A

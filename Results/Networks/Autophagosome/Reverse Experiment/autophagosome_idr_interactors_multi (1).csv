@@ -1,0 +1,403 @@
+Interactor A,Interactor B,Protein Name A,Protein Name B
+ATG16L1,KISS1,Autophagy-related protein 16-1,Metastasis-suppressor KiSS-1
+ATG16L1,PTTG1,Autophagy-related protein 16-1,Securin
+ATG16L1,NPPB,Autophagy-related protein 16-1,Natriuretic peptides B
+ATG16L1,BNIP3,Autophagy-related protein 16-1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ATG16L1,AMBN,Autophagy-related protein 16-1,Ameloblastin
+ATG16L1,SPP1,Autophagy-related protein 16-1,Osteopontin
+ATG16L1,DMP1,Autophagy-related protein 16-1,Dentin matrix acidic phosphoprotein 1
+ATG16L1,CD247,Autophagy-related protein 16-1,T-cell surface glycoprotein CD3 zeta chain
+ATG16L1,PCLAF,Autophagy-related protein 16-1,PCNA-associated factor
+ATG16L1,NPPA,Autophagy-related protein 16-1,Natriuretic peptides A
+ATG16L1,PTMA,Autophagy-related protein 16-1,Prothymosin alpha
+ATG16L1,TP53INP1,Autophagy-related protein 16-1,Tumor protein p53-inducible nuclear protein 1
+ATG16L1,TP53INP2,Autophagy-related protein 16-1,Tumor protein p53-inducible nuclear protein 2
+BECN1,KISS1,Beclin-1,Metastasis-suppressor KiSS-1
+BECN1,PTTG1,Beclin-1,Securin
+BECN1,NPPB,Beclin-1,Natriuretic peptides B
+BECN1,SERBP1,Beclin-1,SERPINE1 mRNA-binding protein 1
+BECN1,BNIP3,Beclin-1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+BECN1,PRM2,Beclin-1,Protamine-2
+BECN1,BASP1,Beclin-1,Brain acid soluble protein 1
+BECN1,CITED2,Beclin-1,Cbp/p300-interacting transactivator 2
+BECN1,TMSB4X,Beclin-1,Thymosin beta-4
+BECN1,AMBN,Beclin-1,Ameloblastin
+BECN1,DCD,Beclin-1,Dermcidin
+BECN1,SPP1,Beclin-1,Osteopontin
+BECN1,CD247,Beclin-1,T-cell surface glycoprotein CD3 zeta chain
+BECN1,ARPP19,Beclin-1,cAMP-regulated phosphoprotein 19
+BECN1,WIPF1,Beclin-1,WAS/WASL-interacting protein family member 1
+BECN1,PCLAF,Beclin-1,PCNA-associated factor
+BECN1,NPPA,Beclin-1,Natriuretic peptides A
+BECN1,PTMA,Beclin-1,Prothymosin alpha
+BECN1,MYCNOS,Beclin-1,N-cym protein
+BECN1,TP53INP1,Beclin-1,Tumor protein p53-inducible nuclear protein 1
+HTT,BNIP3,Huntingtin,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+HTT,TP53INP1,Huntingtin,Tumor protein p53-inducible nuclear protein 1
+HTT,TP53INP2,Huntingtin,Tumor protein p53-inducible nuclear protein 2
+ATG9A,BNIP3,Autophagy-related protein 9A,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ATG9A,TP53INP1,Autophagy-related protein 9A,Tumor protein p53-inducible nuclear protein 1
+ATG9A,KISS1,Autophagy-related protein 9A,Metastasis-suppressor KiSS-1
+ATG9A,PTTG1,Autophagy-related protein 9A,Securin
+ATG9A,SPP1,Autophagy-related protein 9A,Osteopontin
+ATG9A,CD247,Autophagy-related protein 9A,T-cell surface glycoprotein CD3 zeta chain
+ATG9A,PCLAF,Autophagy-related protein 9A,PCNA-associated factor
+ATG9A,TP53INP2,Autophagy-related protein 9A,Tumor protein p53-inducible nuclear protein 2
+PIK3C3,HMGA1,Phosphatidylinositol 3-kinase catalytic subunit type 3,High mobility group protein HMG-I/HMG-Y
+PIK3C3,BNIP3,Phosphatidylinositol 3-kinase catalytic subunit type 3,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+PIK3C3,MBP,Phosphatidylinositol 3-kinase catalytic subunit type 3,Myelin basic protein
+PIK3C3,DCD,Phosphatidylinositol 3-kinase catalytic subunit type 3,Dermcidin
+PIK3C3,SPP1,Phosphatidylinositol 3-kinase catalytic subunit type 3,Osteopontin
+PIK3C3,CD247,Phosphatidylinositol 3-kinase catalytic subunit type 3,T-cell surface glycoprotein CD3 zeta chain
+PIK3C3,PCLAF,Phosphatidylinositol 3-kinase catalytic subunit type 3,PCNA-associated factor
+PIK3C3,TP53INP1,Phosphatidylinositol 3-kinase catalytic subunit type 3,Tumor protein p53-inducible nuclear protein 1
+ATG4B,BNIP3,Cysteine protease ATG4B,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ATG4B,TP53INP1,Cysteine protease ATG4B,Tumor protein p53-inducible nuclear protein 1
+ATG4B,SPP1,Cysteine protease ATG4B,Osteopontin
+ATG4B,PCLAF,Cysteine protease ATG4B,PCNA-associated factor
+ATG4B,TP53INP2,Cysteine protease ATG4B,Tumor protein p53-inducible nuclear protein 2
+SQSTM1,KISS1,Sequestosome-1,Metastasis-suppressor KiSS-1
+SQSTM1,SNCB,Sequestosome-1,Beta-synuclein
+SQSTM1,PTTG1,Sequestosome-1,Securin
+SQSTM1,NPPB,Sequestosome-1,Natriuretic peptides B
+SQSTM1,PAGE4,Sequestosome-1,P antigen family member 4
+SQSTM1,BNIP3,Sequestosome-1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+SQSTM1,IBSP,Sequestosome-1,Integrin-binding sialoprotein
+SQSTM1,DBNDD1,Sequestosome-1,Dysbindin domain-containing protein 1
+SQSTM1,CITED2,Sequestosome-1,Cbp/p300-interacting transactivator 2
+SQSTM1,TMSB4X,Sequestosome-1,Thymosin beta-4
+SQSTM1,MBP,Sequestosome-1,Myelin basic protein
+SQSTM1,AMBN,Sequestosome-1,Ameloblastin
+SQSTM1,SPP1,Sequestosome-1,Osteopontin
+SQSTM1,DMP1,Sequestosome-1,Dentin matrix acidic phosphoprotein 1
+SQSTM1,CD247,Sequestosome-1,T-cell surface glycoprotein CD3 zeta chain
+SQSTM1,ARPP19,Sequestosome-1,cAMP-regulated phosphoprotein 19
+SQSTM1,PCLAF,Sequestosome-1,PCNA-associated factor
+SQSTM1,NPPA,Sequestosome-1,Natriuretic peptides A
+SQSTM1,PTMA,Sequestosome-1,Prothymosin alpha
+SQSTM1,MYCNOS,Sequestosome-1,N-cym protein
+SQSTM1,PKIA,Sequestosome-1,cAMP-dependent protein kinase inhibitor alpha
+SQSTM1,TP53INP1,Sequestosome-1,Tumor protein p53-inducible nuclear protein 1
+SQSTM1,TP53INP2,Sequestosome-1,Tumor protein p53-inducible nuclear protein 2
+AMBRA1,BNIP3,Activating molecule in BECN1-regulated autophagy protein 1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+AMBRA1,KISS1,Activating molecule in BECN1-regulated autophagy protein 1,Metastasis-suppressor KiSS-1
+AMBRA1,SNCB,Activating molecule in BECN1-regulated autophagy protein 1,Beta-synuclein
+AMBRA1,PTTG1,Activating molecule in BECN1-regulated autophagy protein 1,Securin
+AMBRA1,HMGA1,Activating molecule in BECN1-regulated autophagy protein 1,High mobility group protein HMG-I/HMG-Y
+AMBRA1,SPP1,Activating molecule in BECN1-regulated autophagy protein 1,Osteopontin
+AMBRA1,CD247,Activating molecule in BECN1-regulated autophagy protein 1,T-cell surface glycoprotein CD3 zeta chain
+AMBRA1,WIPF1,Activating molecule in BECN1-regulated autophagy protein 1,WAS/WASL-interacting protein family member 1
+AMBRA1,PCLAF,Activating molecule in BECN1-regulated autophagy protein 1,PCNA-associated factor
+ULK2,BNIP3,Serine/threonine-protein kinase ULK2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ULK2,WIPF1,Serine/threonine-protein kinase ULK2,WAS/WASL-interacting protein family member 1
+MAP1LC3C,BNIP3,Microtubule-associated protein 1 light chain 3 gamma,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+MAP1LC3C,TP53INP1,Microtubule-associated protein 1 light chain 3 gamma,Tumor protein p53-inducible nuclear protein 1
+MAP1LC3C,PCLAF,Microtubule-associated protein 1 light chain 3 gamma,PCNA-associated factor
+MAP1LC3C,TP53INP2,Microtubule-associated protein 1 light chain 3 gamma,Tumor protein p53-inducible nuclear protein 2
+UBQLN2,BNIP3,Ubiquilin-2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+UBQLN2,TP53INP1,Ubiquilin-2,Tumor protein p53-inducible nuclear protein 1
+UBQLN2,KISS1,Ubiquilin-2,Metastasis-suppressor KiSS-1
+UBQLN2,SEM1,Ubiquilin-2,26S proteasome complex subunit SEM1
+UBQLN2,SPP1,Ubiquilin-2,Osteopontin
+UBQLN2,PCLAF,Ubiquilin-2,PCNA-associated factor
+UBQLN2,TP53INP2,Ubiquilin-2,Tumor protein p53-inducible nuclear protein 2
+OPTN,BNIP3,Optineurin,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+OPTN,SNCB,Optineurin,Beta-synuclein
+OPTN,NPPB,Optineurin,Natriuretic peptides B
+OPTN,AMBN,Optineurin,Ameloblastin
+OPTN,SPP1,Optineurin,Osteopontin
+OPTN,NPPA,Optineurin,Natriuretic peptides A
+OPTN,PTMA,Optineurin,Prothymosin alpha
+OPTN,TP53INP1,Optineurin,Tumor protein p53-inducible nuclear protein 1
+OPTN,TP53INP2,Optineurin,Tumor protein p53-inducible nuclear protein 2
+CHMP3,PTTG1,Charged multivesicular body protein 3,Securin
+CALCOCO2,BNIP3,Calcium-binding and coiled-coil domain-containing protein 2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+CALCOCO2,TP53INP1,Calcium-binding and coiled-coil domain-containing protein 2,Tumor protein p53-inducible nuclear protein 1
+CALCOCO2,TP53INP2,Calcium-binding and coiled-coil domain-containing protein 2,Tumor protein p53-inducible nuclear protein 2
+CALCOCO2,PCLAF,Calcium-binding and coiled-coil domain-containing protein 2,PCNA-associated factor
+CALCOCO2,NPPA,Calcium-binding and coiled-coil domain-containing protein 2,Natriuretic peptides A
+STX17,BNIP3,Syntaxin-17,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+STX17,CDKN2A,Syntaxin-17,Tumor suppressor ARF
+STING1,KISS1,Stimulator of interferon genes protein,Metastasis-suppressor KiSS-1
+STING1,PTTG1,Stimulator of interferon genes protein,Securin
+STING1,NPPB,Stimulator of interferon genes protein,Natriuretic peptides B
+STING1,BNIP3,Stimulator of interferon genes protein,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+STING1,MBP,Stimulator of interferon genes protein,Myelin basic protein
+STING1,AMBN,Stimulator of interferon genes protein,Ameloblastin
+STING1,SPP1,Stimulator of interferon genes protein,Osteopontin
+STING1,TNFRSF13C,Stimulator of interferon genes protein,Tumor necrosis factor receptor superfamily member 13C
+STING1,CD247,Stimulator of interferon genes protein,T-cell surface glycoprotein CD3 zeta chain
+STING1,PCLAF,Stimulator of interferon genes protein,PCNA-associated factor
+STING1,NPPA,Stimulator of interferon genes protein,Natriuretic peptides A
+STING1,CDKN2A,Stimulator of interferon genes protein,Tumor suppressor ARF
+RB1CC1,KISS1,RB1-inducible coiled-coil protein 1,Metastasis-suppressor KiSS-1
+RB1CC1,PTTG1,RB1-inducible coiled-coil protein 1,Securin
+RB1CC1,BNIP3,RB1-inducible coiled-coil protein 1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+RB1CC1,AMBN,RB1-inducible coiled-coil protein 1,Ameloblastin
+RB1CC1,SPP1,RB1-inducible coiled-coil protein 1,Osteopontin
+RB1CC1,PPP1R11,RB1-inducible coiled-coil protein 1,E3 ubiquitin-protein ligase PPP1R11
+RB1CC1,PCLAF,RB1-inducible coiled-coil protein 1,PCNA-associated factor
+RB1CC1,TP53INP1,RB1-inducible coiled-coil protein 1,Tumor protein p53-inducible nuclear protein 1
+RB1CC1,TP53INP2,RB1-inducible coiled-coil protein 1,Tumor protein p53-inducible nuclear protein 2
+ATG5,KISS1,Autophagy protein 5,Metastasis-suppressor KiSS-1
+ATG5,SNCB,Autophagy protein 5,Beta-synuclein
+ATG5,PTTG1,Autophagy protein 5,Securin
+ATG5,SERBP1,Autophagy protein 5,SERPINE1 mRNA-binding protein 1
+ATG5,HMGA1,Autophagy protein 5,High mobility group protein HMG-I/HMG-Y
+ATG5,BNIP3,Autophagy protein 5,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ATG5,PRM2,Autophagy protein 5,Protamine-2
+ATG5,TMSB4X,Autophagy protein 5,Thymosin beta-4
+ATG5,MBP,Autophagy protein 5,Myelin basic protein
+ATG5,SPP1,Autophagy protein 5,Osteopontin
+ATG5,CD247,Autophagy protein 5,T-cell surface glycoprotein CD3 zeta chain
+ATG5,ARPP19,Autophagy protein 5,cAMP-regulated phosphoprotein 19
+ATG5,WIPF1,Autophagy protein 5,WAS/WASL-interacting protein family member 1
+ATG5,PCLAF,Autophagy protein 5,PCNA-associated factor
+ATG5,NPPA,Autophagy protein 5,Natriuretic peptides A
+ATG5,MYCNOS,Autophagy protein 5,N-cym protein
+TRIM32,PTTG1,E3 ubiquitin-protein ligase TRIM32,Securin
+TRIM32,DBNDD1,E3 ubiquitin-protein ligase TRIM32,Dysbindin domain-containing protein 1
+TRIM32,TMSB4X,E3 ubiquitin-protein ligase TRIM32,Thymosin beta-4
+TRIM32,SPP1,E3 ubiquitin-protein ligase TRIM32,Osteopontin
+TRIM32,DMP1,E3 ubiquitin-protein ligase TRIM32,Dentin matrix acidic phosphoprotein 1
+TRIM32,PCLAF,E3 ubiquitin-protein ligase TRIM32,PCNA-associated factor
+TRIM32,MYCNOS,E3 ubiquitin-protein ligase TRIM32,N-cym protein
+MAP1LC3A,KISS1,Microtubule-associated protein 1 light chain 3 alpha,Metastasis-suppressor KiSS-1
+MAP1LC3A,SNCB,Microtubule-associated protein 1 light chain 3 alpha,Beta-synuclein
+MAP1LC3A,PTTG1,Microtubule-associated protein 1 light chain 3 alpha,Securin
+MAP1LC3A,NPPB,Microtubule-associated protein 1 light chain 3 alpha,Natriuretic peptides B
+MAP1LC3A,SERBP1,Microtubule-associated protein 1 light chain 3 alpha,SERPINE1 mRNA-binding protein 1
+MAP1LC3A,BNIP3,Microtubule-associated protein 1 light chain 3 alpha,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+MAP1LC3A,AMBN,Microtubule-associated protein 1 light chain 3 alpha,Ameloblastin
+MAP1LC3A,DCD,Microtubule-associated protein 1 light chain 3 alpha,Dermcidin
+MAP1LC3A,SPP1,Microtubule-associated protein 1 light chain 3 alpha,Osteopontin
+MAP1LC3A,DMP1,Microtubule-associated protein 1 light chain 3 alpha,Dentin matrix acidic phosphoprotein 1
+MAP1LC3A,CD247,Microtubule-associated protein 1 light chain 3 alpha,T-cell surface glycoprotein CD3 zeta chain
+MAP1LC3A,PCLAF,Microtubule-associated protein 1 light chain 3 alpha,PCNA-associated factor
+MAP1LC3A,NPPA,Microtubule-associated protein 1 light chain 3 alpha,Natriuretic peptides A
+MAP1LC3B,KISS1,Microtubule-associated protein 1 light chain 3 beta,Metastasis-suppressor KiSS-1
+MAP1LC3B,PTTG1,Microtubule-associated protein 1 light chain 3 beta,Securin
+MAP1LC3B,NPPB,Microtubule-associated protein 1 light chain 3 beta,Natriuretic peptides B
+MAP1LC3B,SERBP1,Microtubule-associated protein 1 light chain 3 beta,SERPINE1 mRNA-binding protein 1
+MAP1LC3B,HMGA1,Microtubule-associated protein 1 light chain 3 beta,High mobility group protein HMG-I/HMG-Y
+MAP1LC3B,BNIP3,Microtubule-associated protein 1 light chain 3 beta,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+MAP1LC3B,TMSB4X,Microtubule-associated protein 1 light chain 3 beta,Thymosin beta-4
+MAP1LC3B,MBP,Microtubule-associated protein 1 light chain 3 beta,Myelin basic protein
+MAP1LC3B,AMBN,Microtubule-associated protein 1 light chain 3 beta,Ameloblastin
+MAP1LC3B,DCD,Microtubule-associated protein 1 light chain 3 beta,Dermcidin
+MAP1LC3B,SPP1,Microtubule-associated protein 1 light chain 3 beta,Osteopontin
+MAP1LC3B,DMP1,Microtubule-associated protein 1 light chain 3 beta,Dentin matrix acidic phosphoprotein 1
+MAP1LC3B,CD247,Microtubule-associated protein 1 light chain 3 beta,T-cell surface glycoprotein CD3 zeta chain
+MAP1LC3B,WIPF1,Microtubule-associated protein 1 light chain 3 beta,WAS/WASL-interacting protein family member 1
+MAP1LC3B,PCLAF,Microtubule-associated protein 1 light chain 3 beta,PCNA-associated factor
+MAP1LC3B,NPPA,Microtubule-associated protein 1 light chain 3 beta,Natriuretic peptides A
+MAP1LC3B,PTMA,Microtubule-associated protein 1 light chain 3 beta,Prothymosin alpha
+RAB23,KISS1,Ras-related protein Rab-23,Metastasis-suppressor KiSS-1
+RAB23,PTTG1,Ras-related protein Rab-23,Securin
+RAB23,SERBP1,Ras-related protein Rab-23,SERPINE1 mRNA-binding protein 1
+RAB23,SPP1,Ras-related protein Rab-23,Osteopontin
+RAB23,ARPP19,Ras-related protein Rab-23,cAMP-regulated phosphoprotein 19
+RAB23,WIPF1,Ras-related protein Rab-23,WAS/WASL-interacting protein family member 1
+RAB23,DAP,Ras-related protein Rab-23,Death-associated protein 1
+RAB7A,KISS1,Ras-related protein Rab-7a,Metastasis-suppressor KiSS-1
+RAB7A,BNIP3,Ras-related protein Rab-7a,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+RAB7A,PRB4,Ras-related protein Rab-7a,Basic salivary proline-rich protein 4
+RAB7A,TMSB4X,Ras-related protein Rab-7a,Thymosin beta-4
+RAB7A,SPP1,Ras-related protein Rab-7a,Osteopontin
+RAB7A,DMP1,Ras-related protein Rab-7a,Dentin matrix acidic phosphoprotein 1
+RAB7A,PCLAF,Ras-related protein Rab-7a,PCNA-associated factor
+ULK1,KISS1,Serine/threonine-protein kinase ULK1,Metastasis-suppressor KiSS-1
+ULK1,PTTG1,Serine/threonine-protein kinase ULK1,Securin
+ULK1,BNIP3,Serine/threonine-protein kinase ULK1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ULK1,IBSP,Serine/threonine-protein kinase ULK1,Integrin-binding sialoprotein
+ULK1,TMSB4X,Serine/threonine-protein kinase ULK1,Thymosin beta-4
+ULK1,SPP1,Serine/threonine-protein kinase ULK1,Osteopontin
+ULK1,WIPF1,Serine/threonine-protein kinase ULK1,WAS/WASL-interacting protein family member 1
+ULK1,PCLAF,Serine/threonine-protein kinase ULK1,PCNA-associated factor
+ULK1,PTMA,Serine/threonine-protein kinase ULK1,Prothymosin alpha
+ULK1,ANAPC15,Serine/threonine-protein kinase ULK1,Anaphase-promoting complex subunit 15
+RAB2A,KISS1,Ras-related protein Rab-2A,Metastasis-suppressor KiSS-1
+RAB2A,SNCB,Ras-related protein Rab-2A,Beta-synuclein
+RAB2A,PTTG1,Ras-related protein Rab-2A,Securin
+RAB2A,BNIP3,Ras-related protein Rab-2A,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+RAB2A,PRM2,Ras-related protein Rab-2A,Protamine-2
+RAB2A,SPP1,Ras-related protein Rab-2A,Osteopontin
+RAB2A,PCLAF,Ras-related protein Rab-2A,PCNA-associated factor
+UVRAG,BNIP3,UV radiation resistance-associated gene protein,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+UVRAG,AMBN,UV radiation resistance-associated gene protein,Ameloblastin
+UVRAG,PPP1R11,UV radiation resistance-associated gene protein,E3 ubiquitin-protein ligase PPP1R11
+UVRAG,PCLAF,UV radiation resistance-associated gene protein,PCNA-associated factor
+LAMP2,SNCB,Lysosome-associated membrane glycoprotein 2,Beta-synuclein
+LAMP2,PTTG1,Lysosome-associated membrane glycoprotein 2,Securin
+LAMP2,NPPB,Lysosome-associated membrane glycoprotein 2,Natriuretic peptides B
+LAMP2,SERBP1,Lysosome-associated membrane glycoprotein 2,SERPINE1 mRNA-binding protein 1
+LAMP2,BNIP3,Lysosome-associated membrane glycoprotein 2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+LAMP2,IBSP,Lysosome-associated membrane glycoprotein 2,Integrin-binding sialoprotein
+LAMP2,MBP,Lysosome-associated membrane glycoprotein 2,Myelin basic protein
+LAMP2,SPP1,Lysosome-associated membrane glycoprotein 2,Osteopontin
+LAMP2,ARPP19,Lysosome-associated membrane glycoprotein 2,cAMP-regulated phosphoprotein 19
+LAMP2,NPPA,Lysosome-associated membrane glycoprotein 2,Natriuretic peptides A
+SH3GLB1,KISS1,Endophilin-B1,Metastasis-suppressor KiSS-1
+SH3GLB1,BNIP3,Endophilin-B1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+SH3GLB1,SPP1,Endophilin-B1,Osteopontin
+SH3GLB1,WIPF1,Endophilin-B1,WAS/WASL-interacting protein family member 1
+SH3GLB1,PCLAF,Endophilin-B1,PCNA-associated factor
+GABARAPL1,SNCB,Gamma-aminobutyric acid receptor-associated protein-like 1,Beta-synuclein
+GABARAPL1,PTTG1,Gamma-aminobutyric acid receptor-associated protein-like 1,Securin
+GABARAPL1,BNIP3,Gamma-aminobutyric acid receptor-associated protein-like 1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+GABARAPL1,AMBN,Gamma-aminobutyric acid receptor-associated protein-like 1,Ameloblastin
+GABARAPL1,SPP1,Gamma-aminobutyric acid receptor-associated protein-like 1,Osteopontin
+GABARAPL1,PPP1R11,Gamma-aminobutyric acid receptor-associated protein-like 1,E3 ubiquitin-protein ligase PPP1R11
+GABARAPL1,PCLAF,Gamma-aminobutyric acid receptor-associated protein-like 1,PCNA-associated factor
+GABARAPL2,SNCB,Gamma-aminobutyric acid receptor-associated protein-like 2,Beta-synuclein
+GABARAPL2,BNIP3,Gamma-aminobutyric acid receptor-associated protein-like 2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+GABARAPL2,AMBN,Gamma-aminobutyric acid receptor-associated protein-like 2,Ameloblastin
+GABARAPL2,PPP1R11,Gamma-aminobutyric acid receptor-associated protein-like 2,E3 ubiquitin-protein ligase PPP1R11
+GABARAPL2,DMP1,Gamma-aminobutyric acid receptor-associated protein-like 2,Dentin matrix acidic phosphoprotein 1
+GABARAPL2,PCLAF,Gamma-aminobutyric acid receptor-associated protein-like 2,PCNA-associated factor
+ATG12,KISS1,Ubiquitin-like protein ATG12,Metastasis-suppressor KiSS-1
+ATG12,BNIP3,Ubiquitin-like protein ATG12,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ATG12,SPP1,Ubiquitin-like protein ATG12,Osteopontin
+ATG12,ARPP19,Ubiquitin-like protein ATG12,cAMP-regulated phosphoprotein 19
+ATG12,PCLAF,Ubiquitin-like protein ATG12,PCNA-associated factor
+ATG12,NPPA,Ubiquitin-like protein ATG12,Natriuretic peptides A
+GABARAP,KISS1,Gamma-aminobutyric acid receptor-associated protein,Metastasis-suppressor KiSS-1
+GABARAP,PTTG1,Gamma-aminobutyric acid receptor-associated protein,Securin
+GABARAP,BNIP3,Gamma-aminobutyric acid receptor-associated protein,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+GABARAP,SPP1,Gamma-aminobutyric acid receptor-associated protein,Osteopontin
+GABARAP,PCLAF,Gamma-aminobutyric acid receptor-associated protein,PCNA-associated factor
+GABARAP,PTMA,Gamma-aminobutyric acid receptor-associated protein,Prothymosin alpha
+ATG14,KISS1,Beclin 1-associated autophagy-related key regulator,Metastasis-suppressor KiSS-1
+ATG14,BNIP3,Beclin 1-associated autophagy-related key regulator,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ATG14,PCLAF,Beclin 1-associated autophagy-related key regulator,PCNA-associated factor
+UBQLN1,BNIP3,Ubiquilin-1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+UBQLN1,SEM1,Ubiquilin-1,26S proteasome complex subunit SEM1
+UBQLN1,AMBN,Ubiquilin-1,Ameloblastin
+UBQLN1,SPP1,Ubiquilin-1,Osteopontin
+UBQLN1,PPP1R11,Ubiquilin-1,E3 ubiquitin-protein ligase PPP1R11
+UBQLN1,PCLAF,Ubiquilin-1,PCNA-associated factor
+UBQLN1,PTMA,Ubiquilin-1,Prothymosin alpha
+PIK3R4,BNIP3,Phosphoinositide 3-kinase regulatory subunit 4,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+PIK3R4,DCD,Phosphoinositide 3-kinase regulatory subunit 4,Dermcidin
+PIK3R4,PCLAF,Phosphoinositide 3-kinase regulatory subunit 4,PCNA-associated factor
+TP53INP1,KISS1,Tumor protein p53-inducible nuclear protein 1,Metastasis-suppressor KiSS-1
+TP53INP1,PTTG1,Tumor protein p53-inducible nuclear protein 1,Securin
+TP53INP1,HMGA1,Tumor protein p53-inducible nuclear protein 1,High mobility group protein HMG-I/HMG-Y
+TP53INP1,TMSB4X,Tumor protein p53-inducible nuclear protein 1,Thymosin beta-4
+TP53INP1,SPP1,Tumor protein p53-inducible nuclear protein 1,Osteopontin
+TP53INP1,PCLAF,Tumor protein p53-inducible nuclear protein 1,PCNA-associated factor
+TP53INP1,PTMA,Tumor protein p53-inducible nuclear protein 1,Prothymosin alpha
+SRPX,SPP1,Sushi repeat-containing protein SRPX,Osteopontin
+SRPX,PTMA,Sushi repeat-containing protein SRPX,Prothymosin alpha
+CHMP1A,KISS1,Charged multivesicular body protein 1a,Metastasis-suppressor KiSS-1
+CHMP1A,PTTG1,Charged multivesicular body protein 1a,Securin
+CHMP1A,AMBN,Charged multivesicular body protein 1a,Ameloblastin
+CHMP1A,SPP1,Charged multivesicular body protein 1a,Osteopontin
+CHMP1A,PPP1R11,Charged multivesicular body protein 1a,E3 ubiquitin-protein ligase PPP1R11
+CHMP1A,WIPF1,Charged multivesicular body protein 1a,WAS/WASL-interacting protein family member 1
+VMP1,KISS1,Vacuole membrane protein 1,Metastasis-suppressor KiSS-1
+VMP1,PTTG1,Vacuole membrane protein 1,Securin
+VMP1,SERBP1,Vacuole membrane protein 1,SERPINE1 mRNA-binding protein 1
+VMP1,BNIP3,Vacuole membrane protein 1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+VMP1,DCD,Vacuole membrane protein 1,Dermcidin
+VMP1,SPP1,Vacuole membrane protein 1,Osteopontin
+VMP1,WIPF1,Vacuole membrane protein 1,WAS/WASL-interacting protein family member 1
+VMP1,PCLAF,Vacuole membrane protein 1,PCNA-associated factor
+CHMP4C,KISS1,Charged multivesicular body protein 4c,Metastasis-suppressor KiSS-1
+CHMP4C,PTTG1,Charged multivesicular body protein 4c,Securin
+CHMP4C,PCLAF,Charged multivesicular body protein 4c,PCNA-associated factor
+CHMP4C,ANAPC15,Charged multivesicular body protein 4c,Anaphase-promoting complex subunit 15
+ATG13,BNIP3,Autophagy-related protein 13,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ATG13,SPP1,Autophagy-related protein 13,Osteopontin
+ATG13,PCLAF,Autophagy-related protein 13,PCNA-associated factor
+CHMP4B,PTTG1,Charged multivesicular body protein 4b,Securin
+CHMP4B,SPP1,Charged multivesicular body protein 4b,Osteopontin
+CHMP4B,PCLAF,Charged multivesicular body protein 4b,PCNA-associated factor
+ATP13A2,SNCB,Polyamine-transporting ATPase 13A2,Beta-synuclein
+PIP4K2A,DBNDD1,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,Dysbindin domain-containing protein 1
+PIP4K2A,SPP1,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,Osteopontin
+PIP4K2A,PKIA,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,cAMP-dependent protein kinase inhibitor alpha
+IRGM,HTN3,Immunity-related GTPase family M protein,Histatin-3
+IRGM,NPPB,Immunity-related GTPase family M protein,Natriuretic peptides B
+IRGM,BNIP3,Immunity-related GTPase family M protein,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+IRGM,AMBN,Immunity-related GTPase family M protein,Ameloblastin
+IRGM,SPP1,Immunity-related GTPase family M protein,Osteopontin
+IRGM,DMP1,Immunity-related GTPase family M protein,Dentin matrix acidic phosphoprotein 1
+IRGM,NPPA,Immunity-related GTPase family M protein,Natriuretic peptides A
+CHMP5,TMSB4X,Charged multivesicular body protein 5,Thymosin beta-4
+CHMP5,SPP1,Charged multivesicular body protein 5,Osteopontin
+CHMP5,CD247,Charged multivesicular body protein 5,T-cell surface glycoprotein CD3 zeta chain
+CHMP1B,AMBN,Charged multivesicular body protein 1b,Ameloblastin
+CHMP1B,PPP1R11,Charged multivesicular body protein 1b,E3 ubiquitin-protein ligase PPP1R11
+CHMP1B,PKIA,Charged multivesicular body protein 1b,cAMP-dependent protein kinase inhibitor alpha
+CHMP2B,SNCB,Charged multivesicular body protein 2b,Beta-synuclein
+UBQLN4,PTTG1,Ubiquilin-4,Securin
+UBQLN4,NPPB,Ubiquilin-4,Natriuretic peptides B
+UBQLN4,SPP1,Ubiquilin-4,Osteopontin
+CHMP2A,TMSB4X,Charged multivesicular body protein 2a,Thymosin beta-4
+ULK3,SPP1,Serine/threonine-protein kinase ULK3,Osteopontin
+VPS33A,BNIP3,Vacuolar protein sorting-associated protein 33A,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+VPS33A,PCLAF,Vacuolar protein sorting-associated protein 33A,PCNA-associated factor
+ATG9B,PTTG1,Autophagy-related protein 9B,Securin
+ATG9B,BNIP3,Autophagy-related protein 9B,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ATG9B,SPP1,Autophagy-related protein 9B,Osteopontin
+ATG9B,PCLAF,Autophagy-related protein 9B,PCNA-associated factor
+TP53INP2,HMGN1,Tumor protein p53-inducible nuclear protein 2,Non-histone chromosomal protein HMG-14
+TP53INP2,CD247,Tumor protein p53-inducible nuclear protein 2,T-cell surface glycoprotein CD3 zeta chain
+HAP1,HTN3,Huntingtin-associated protein 1,Histatin-3
+HAP1,BNIP3,Huntingtin-associated protein 1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+HAP1,CD247,Huntingtin-associated protein 1,T-cell surface glycoprotein CD3 zeta chain
+HAP1,STATH,Huntingtin-associated protein 1,Statherin
+HAP1,PTMA,Huntingtin-associated protein 1,Prothymosin alpha
+NBR1,BNIP3,Next to BRCA1 gene 1 protein,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+NBR1,SPP1,Next to BRCA1 gene 1 protein,Osteopontin
+WIPI1,PTTG1,WD repeat domain phosphoinositide-interacting protein 1,Securin
+WIPI1,BNIP3,WD repeat domain phosphoinositide-interacting protein 1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+WIPI1,SPP1,WD repeat domain phosphoinositide-interacting protein 1,Osteopontin
+WIPI1,DMP1,WD repeat domain phosphoinositide-interacting protein 1,Dentin matrix acidic phosphoprotein 1
+WIPI1,PCLAF,WD repeat domain phosphoinositide-interacting protein 1,PCNA-associated factor
+CLN3,HTN3,Battenin,Histatin-3
+CLN3,PTTG1,Battenin,Securin
+CLN3,SPP1,Battenin,Osteopontin
+CLN3,CD247,Battenin,T-cell surface glycoprotein CD3 zeta chain
+CLN3,PCLAF,Battenin,PCNA-associated factor
+CLN3,STATH,Battenin,Statherin
+ZFYVE1,BNIP3,Zinc finger FYVE domain-containing protein 1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+ZFYVE1,PCLAF,Zinc finger FYVE domain-containing protein 1,PCNA-associated factor
+VPS18,BNIP3,Vacuolar protein sorting-associated protein 18 homolog,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+VPS18,TMSB4X,Vacuolar protein sorting-associated protein 18 homolog,Thymosin beta-4
+VPS18,AMBN,Vacuolar protein sorting-associated protein 18 homolog,Ameloblastin
+VPS18,PPP1R11,Vacuolar protein sorting-associated protein 18 homolog,E3 ubiquitin-protein ligase PPP1R11
+VPS18,PCLAF,Vacuolar protein sorting-associated protein 18 homolog,PCNA-associated factor
+VPS18,PTMA,Vacuolar protein sorting-associated protein 18 homolog,Prothymosin alpha
+TAX1BP1,KISS1,Tax1-binding protein 1,Metastasis-suppressor KiSS-1
+TAX1BP1,PTTG1,Tax1-binding protein 1,Securin
+TAX1BP1,SPP1,Tax1-binding protein 1,Osteopontin
+VPS16,BNIP3,Vacuolar protein sorting-associated protein 16 homolog,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+VPS16,AMBN,Vacuolar protein sorting-associated protein 16 homolog,Ameloblastin
+VPS16,PPP1R11,Vacuolar protein sorting-associated protein 16 homolog,E3 ubiquitin-protein ligase PPP1R11
+VPS16,PCLAF,Vacuolar protein sorting-associated protein 16 homolog,PCNA-associated factor
+TM9SF1,BNIP3,Transmembrane 9 superfamily member 1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+TM9SF1,AMBN,Transmembrane 9 superfamily member 1,Ameloblastin
+TM9SF1,PPP1R11,Transmembrane 9 superfamily member 1,E3 ubiquitin-protein ligase PPP1R11
+TM9SF1,PCLAF,Transmembrane 9 superfamily member 1,PCNA-associated factor
+C9orf72,BNIP3,Guanine nucleotide exchange factor C9orf72,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+VPS11,AMBN,Vacuolar protein sorting-associated protein 11 homolog,Ameloblastin
+VPS11,PPP1R11,Vacuolar protein sorting-associated protein 11 homolog,E3 ubiquitin-protein ligase PPP1R11
+TMEM74,PTTG1,Transmembrane protein 74,Securin
+TMEM74,BNIP3,Transmembrane protein 74,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+TMEM74,SPP1,Transmembrane protein 74,Osteopontin
+TMEM74,PCLAF,Transmembrane protein 74,PCNA-associated factor
+RUBCNL,KISS1,Protein associated with UVRAG as autophagy enhancer,Metastasis-suppressor KiSS-1
+RUBCNL,BNIP3,Protein associated with UVRAG as autophagy enhancer,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+AUP1,HTN3,Lipid droplet-regulating VLDL assembly factor AUP1,Histatin-3
+AUP1,CD247,Lipid droplet-regulating VLDL assembly factor AUP1,T-cell surface glycoprotein CD3 zeta chain
+AUP1,STATH,Lipid droplet-regulating VLDL assembly factor AUP1,Statherin
+TMEM150B,KISS1,Modulator of macroautophagy TMEM150B,Metastasis-suppressor KiSS-1
+RAB12,BNIP3,Ras-related protein Rab-12,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+NRBF2,BNIP3,Nuclear receptor-binding factor 2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+NRBF2,PCLAF,Nuclear receptor-binding factor 2,PCNA-associated factor
+GABARAPL3,AMBN,Gamma-aminobutyric acid receptor-associated protein-like 3,Ameloblastin
+GABARAPL3,PPP1R11,Gamma-aminobutyric acid receptor-associated protein-like 3,E3 ubiquitin-protein ligase PPP1R11
+RAB3GAP2,KISS1,Rab3 GTPase-activating protein non-catalytic subunit,Metastasis-suppressor KiSS-1
+TEX264,PABIR1,Testis-expressed protein 264,PPP2R1A-PPP2R2A-interacting phosphatase regulator 1

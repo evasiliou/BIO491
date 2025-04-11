@@ -1,0 +1,35 @@
+Interactor A,Interactor B,Protein Name A,Protein Name B
+BCAR1,HTT,Breast cancer anti-estrogen resistance protein 1,Huntingtin
+CAV1,SQSTM1,Caveolin-1,Sequestosome-1
+CAV1,NBR1,Caveolin-1,Next to BRCA1 gene 1 protein
+CAV1,MAP1LC3B,Caveolin-1,Microtubule-associated protein 1 light chain 3 beta
+EEF1A1,LRRK2,Elongation factor 1-alpha 1,Leucine-rich repeat serine/threonine-protein kinase 2
+EEF1A1,MAP1LC3B,Elongation factor 1-alpha 1,Microtubule-associated protein 1 light chain 3 beta
+TP53,HTT,Cellular tumor antigen p53,Huntingtin
+TP53,LRRK2,Cellular tumor antigen p53,Leucine-rich repeat serine/threonine-protein kinase 2
+TP53,SQSTM1,Cellular tumor antigen p53,Sequestosome-1
+TP53,MAP1LC3B,Cellular tumor antigen p53,Microtubule-associated protein 1 light chain 3 beta
+TP53,NBR1,Cellular tumor antigen p53,Next to BRCA1 gene 1 protein
+PCNA,LRRK2,Proliferating cell nuclear antigen,Leucine-rich repeat serine/threonine-protein kinase 2
+PCNA,MAP1LC3B,Proliferating cell nuclear antigen,Microtubule-associated protein 1 light chain 3 beta
+TRIP6,SQSTM1,Thyroid receptor-interacting protein 6,Sequestosome-1
+CDKN1A,OPTN,Cyclin-dependent kinase inhibitor 1,Optineurin
+HNRNPH1,MAP1LC3B,Heterogeneous nuclear ribonucleoprotein H,Microtubule-associated protein 1 light chain 3 beta
+ACTG1,OPTN,"Actin, cytoplasmic 2",Optineurin
+ACTG1,LRRK2,"Actin, cytoplasmic 2",Leucine-rich repeat serine/threonine-protein kinase 2
+ACTG1,SQSTM1,"Actin, cytoplasmic 2",Sequestosome-1
+ACTG1,NBR1,"Actin, cytoplasmic 2",Next to BRCA1 gene 1 protein
+ACTG1,MAP1LC3B,"Actin, cytoplasmic 2",Microtubule-associated protein 1 light chain 3 beta
+ACTG1,HTT,"Actin, cytoplasmic 2",Huntingtin
+TRIM23,SQSTM1,E3 ubiquitin-protein ligase TRIM23,Sequestosome-1
+ACTA1,LRRK2,"Actin, alpha skeletal muscle",Leucine-rich repeat serine/threonine-protein kinase 2
+ACTA1,HTT,"Actin, alpha skeletal muscle",Huntingtin
+SMN2,SQSTM1,Survival motor neuron protein,Sequestosome-1
+TRIM27,LRRK2,Zinc finger protein RFP,Leucine-rich repeat serine/threonine-protein kinase 2
+MLH1,SQSTM1,DNA mismatch repair protein Mlh1,Sequestosome-1
+RIF1,LRRK2,Telomere-associated protein RIF1,Leucine-rich repeat serine/threonine-protein kinase 2
+MYH6,OPTN,Myosin-6,Optineurin
+TK1,LRRK2,"Thymidine kinase, cytosolic",Leucine-rich repeat serine/threonine-protein kinase 2
+ANXA7,MAP1LC3B,Annexin A7,Microtubule-associated protein 1 light chain 3 beta
+HSF2BP,OPTN,Heat shock factor 2-binding protein,Optineurin
+KRT13,MAP1LC3B,"Keratin, type I cytoskeletal 13",Microtubule-associated protein 1 light chain 3 beta

@@ -1,0 +1,10 @@
+Interactor A,Interactor B,Protein Name A,Protein Name B
+SQSTM1,TP53INP1,Sequestosome-1,Tumor protein p53-inducible nuclear protein 1
+SQSTM1,PCLAF,Sequestosome-1,PCNA-associated factor
+SQSTM1,BNIP3,Sequestosome-1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+MAP1LC3A,BNIP3,Microtubule-associated protein 1 light chain 3 alpha,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+MAP1LC3B,BNIP3,Microtubule-associated protein 1 light chain 3 beta,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+UBQLN2,KISS1,Ubiquilin-2,Metastasis-suppressor KiSS-1
+MAP1LC3C,TP53INP1,Microtubule-associated protein 1 light chain 3 gamma,Tumor protein p53-inducible nuclear protein 1
+UBQLN4,SPP1,Ubiquilin-4,Osteopontin
+ATG9B,PCLAF,Autophagy-related protein 9B,PCNA-associated factor

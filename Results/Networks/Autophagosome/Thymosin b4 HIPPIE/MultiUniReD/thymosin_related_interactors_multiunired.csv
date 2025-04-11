@@ -1,0 +1,1329 @@
+Interactor A,Interactor B,Protein Name A,Protein Name B
+TMSB4X,BECN1,Thymosin beta-4,Beclin-1
+TMSB4X,SQSTM1,Thymosin beta-4,Sequestosome-1
+TMSB4X,ATG5,Thymosin beta-4,Autophagy protein 5
+TMSB4X,TRIM32,Thymosin beta-4,E3 ubiquitin-protein ligase TRIM32
+TMSB4X,MAP1LC3B,Thymosin beta-4,Microtubule-associated protein 1 light chain 3 beta
+TMSB4X,RAB7A,Thymosin beta-4,Ras-related protein Rab-7a
+TMSB4X,ULK1,Thymosin beta-4,Serine/threonine-protein kinase ULK1
+TMSB4X,TP53INP1,Thymosin beta-4,Tumor protein p53-inducible nuclear protein 1
+TMSB4X,CHMP5,Thymosin beta-4,Charged multivesicular body protein 5
+TMSB4X,CHMP2A,Thymosin beta-4,Charged multivesicular body protein 2a
+TMSB4X,VPS18,Thymosin beta-4,Vacuolar protein sorting-associated protein 18 homolog
+TP53,ATG16L1,Cellular tumor antigen p53,Autophagy-related protein 16-1
+TP53,BECN1,Cellular tumor antigen p53,Beclin-1
+TP53,HTT,Cellular tumor antigen p53,Huntingtin
+TP53,ATG9A,Cellular tumor antigen p53,Autophagy-related protein 9A
+TP53,PIK3C3,Cellular tumor antigen p53,Phosphatidylinositol 3-kinase catalytic subunit type 3
+TP53,ATG4B,Cellular tumor antigen p53,Cysteine protease ATG4B
+TP53,SQSTM1,Cellular tumor antigen p53,Sequestosome-1
+TP53,AMBRA1,Cellular tumor antigen p53,Activating molecule in BECN1-regulated autophagy protein 1
+TP53,ULK2,Cellular tumor antigen p53,Serine/threonine-protein kinase ULK2
+TP53,MAP1LC3C,Cellular tumor antigen p53,Microtubule-associated protein 1 light chain 3 gamma
+TP53,UBQLN2,Cellular tumor antigen p53,Ubiquilin-2
+TP53,OPTN,Cellular tumor antigen p53,Optineurin
+TP53,CHMP3,Cellular tumor antigen p53,Charged multivesicular body protein 3
+TP53,PIP4K2B,Cellular tumor antigen p53,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+TP53,CALCOCO2,Cellular tumor antigen p53,Calcium-binding and coiled-coil domain-containing protein 2
+TP53,STX17,Cellular tumor antigen p53,Syntaxin-17
+TP53,STING1,Cellular tumor antigen p53,Stimulator of interferon genes protein
+TP53,RB1CC1,Cellular tumor antigen p53,RB1-inducible coiled-coil protein 1
+TP53,ATG5,Cellular tumor antigen p53,Autophagy protein 5
+TP53,TRIM32,Cellular tumor antigen p53,E3 ubiquitin-protein ligase TRIM32
+TP53,MAP1LC3A,Cellular tumor antigen p53,Microtubule-associated protein 1 light chain 3 alpha
+TP53,MAP1LC3B,Cellular tumor antigen p53,Microtubule-associated protein 1 light chain 3 beta
+TP53,RAB23,Cellular tumor antigen p53,Ras-related protein Rab-23
+TP53,RAB7A,Cellular tumor antigen p53,Ras-related protein Rab-7a
+TP53,ULK1,Cellular tumor antigen p53,Serine/threonine-protein kinase ULK1
+TP53,RAB2A,Cellular tumor antigen p53,Ras-related protein Rab-2A
+TP53,UVRAG,Cellular tumor antigen p53,UV radiation resistance-associated gene protein
+TP53,LAMP2,Cellular tumor antigen p53,Lysosome-associated membrane glycoprotein 2
+TP53,SH3GLB1,Cellular tumor antigen p53,Endophilin-B1
+TP53,GABARAPL1,Cellular tumor antigen p53,Gamma-aminobutyric acid receptor-associated protein-like 1
+TP53,GABARAPL2,Cellular tumor antigen p53,Gamma-aminobutyric acid receptor-associated protein-like 2
+TP53,ATG12,Cellular tumor antigen p53,Ubiquitin-like protein ATG12
+TP53,GABARAP,Cellular tumor antigen p53,Gamma-aminobutyric acid receptor-associated protein
+TP53,ATG14,Cellular tumor antigen p53,Beclin 1-associated autophagy-related key regulator
+TP53,UBQLN1,Cellular tumor antigen p53,Ubiquilin-1
+TP53,PIK3R4,Cellular tumor antigen p53,Phosphoinositide 3-kinase regulatory subunit 4
+TP53,TP53INP1,Cellular tumor antigen p53,Tumor protein p53-inducible nuclear protein 1
+TP53,SRPX,Cellular tumor antigen p53,Sushi repeat-containing protein SRPX
+TP53,CHMP1A,Cellular tumor antigen p53,Charged multivesicular body protein 1a
+TP53,VMP1,Cellular tumor antigen p53,Vacuole membrane protein 1
+TP53,WDR81,Cellular tumor antigen p53,WD repeat-containing protein 81
+TP53,CHMP4C,Cellular tumor antigen p53,Charged multivesicular body protein 4c
+TP53,ATG13,Cellular tumor antigen p53,Autophagy-related protein 13
+TP53,CHMP4B,Cellular tumor antigen p53,Charged multivesicular body protein 4b
+TP53,PIP4K2A,Cellular tumor antigen p53,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha
+TP53,IRGM,Cellular tumor antigen p53,Immunity-related GTPase family M protein
+TP53,CHMP5,Cellular tumor antigen p53,Charged multivesicular body protein 5
+TP53,CHMP1B,Cellular tumor antigen p53,Charged multivesicular body protein 1b
+TP53,TBC1D17,Cellular tumor antigen p53,TBC1 domain family member 17
+TP53,TBC1D14,Cellular tumor antigen p53,TBC1 domain family member 14
+TP53,CHMP2B,Cellular tumor antigen p53,Charged multivesicular body protein 2b
+TP53,UBQLN4,Cellular tumor antigen p53,Ubiquilin-4
+TP53,CHMP2A,Cellular tumor antigen p53,Charged multivesicular body protein 2a
+TP53,ULK3,Cellular tumor antigen p53,Serine/threonine-protein kinase ULK3
+TP53,CHMP6,Cellular tumor antigen p53,Charged multivesicular body protein 6
+TP53,VPS33A,Cellular tumor antigen p53,Vacuolar protein sorting-associated protein 33A
+TP53,ATG9B,Cellular tumor antigen p53,Autophagy-related protein 9B
+TP53,TP53INP2,Cellular tumor antigen p53,Tumor protein p53-inducible nuclear protein 2
+TP53,HAP1,Cellular tumor antigen p53,Huntingtin-associated protein 1
+TP53,SNAP29,Cellular tumor antigen p53,Synaptosomal-associated protein 29
+TP53,NBR1,Cellular tumor antigen p53,Next to BRCA1 gene 1 protein
+TP53,WIPI1,Cellular tumor antigen p53,WD repeat domain phosphoinositide-interacting protein 1
+TP53,CLN3,Cellular tumor antigen p53,Battenin
+TP53,ZFYVE1,Cellular tumor antigen p53,Zinc finger FYVE domain-containing protein 1
+TP53,VPS18,Cellular tumor antigen p53,Vacuolar protein sorting-associated protein 18 homolog
+TP53,WDFY3,Cellular tumor antigen p53,WD repeat and FYVE domain-containing protein 3
+TP53,TAX1BP1,Cellular tumor antigen p53,Tax1-binding protein 1
+TP53,VPS16,Cellular tumor antigen p53,Vacuolar protein sorting-associated protein 16 homolog
+TP53,TM9SF1,Cellular tumor antigen p53,Transmembrane 9 superfamily member 1
+TP53,C9orf72,Cellular tumor antigen p53,Guanine nucleotide exchange factor C9orf72
+TP53,VPS11,Cellular tumor antigen p53,Vacuolar protein sorting-associated protein 11 homolog
+TP53,TMEM74,Cellular tumor antigen p53,Transmembrane protein 74
+TP53,RUBCNL,Cellular tumor antigen p53,Protein associated with UVRAG as autophagy enhancer
+TP53,TMEM150B,Cellular tumor antigen p53,Modulator of macroautophagy TMEM150B
+TP53,RAB12,Cellular tumor antigen p53,Ras-related protein Rab-12
+TP53,NRBF2,Cellular tumor antigen p53,Nuclear receptor-binding factor 2
+TP53,GRAMD1A,Cellular tumor antigen p53,Protein Aster-A
+TP53,GABARAPL3,Cellular tumor antigen p53,Gamma-aminobutyric acid receptor-associated protein-like 3
+TP53,RAB3GAP2,Cellular tumor antigen p53,Rab3 GTPase-activating protein non-catalytic subunit
+TP53,TEX264,Cellular tumor antigen p53,Testis-expressed protein 264
+VCP,BECN1,Transitional endoplasmic reticulum ATPase,Beclin-1
+VCP,SQSTM1,Transitional endoplasmic reticulum ATPase,Sequestosome-1
+VCP,ATG5,Transitional endoplasmic reticulum ATPase,Autophagy protein 5
+VCP,PIK3C3,Transitional endoplasmic reticulum ATPase,Phosphatidylinositol 3-kinase catalytic subunit type 3
+VCP,TRIM32,Transitional endoplasmic reticulum ATPase,E3 ubiquitin-protein ligase TRIM32
+VCP,ATG16L1,Transitional endoplasmic reticulum ATPase,Autophagy-related protein 16-1
+VCP,HTT,Transitional endoplasmic reticulum ATPase,Huntingtin
+VCP,ATG9A,Transitional endoplasmic reticulum ATPase,Autophagy-related protein 9A
+VCP,UBQLN2,Transitional endoplasmic reticulum ATPase,Ubiquilin-2
+VCP,OPTN,Transitional endoplasmic reticulum ATPase,Optineurin
+VCP,CALCOCO2,Transitional endoplasmic reticulum ATPase,Calcium-binding and coiled-coil domain-containing protein 2
+VCP,STX17,Transitional endoplasmic reticulum ATPase,Syntaxin-17
+VCP,STING1,Transitional endoplasmic reticulum ATPase,Stimulator of interferon genes protein
+VCP,RB1CC1,Transitional endoplasmic reticulum ATPase,RB1-inducible coiled-coil protein 1
+VCP,MAP1LC3A,Transitional endoplasmic reticulum ATPase,Microtubule-associated protein 1 light chain 3 alpha
+VCP,MAP1LC3B,Transitional endoplasmic reticulum ATPase,Microtubule-associated protein 1 light chain 3 beta
+VCP,RAB23,Transitional endoplasmic reticulum ATPase,Ras-related protein Rab-23
+VCP,RAB7A,Transitional endoplasmic reticulum ATPase,Ras-related protein Rab-7a
+VCP,ULK1,Transitional endoplasmic reticulum ATPase,Serine/threonine-protein kinase ULK1
+VCP,UVRAG,Transitional endoplasmic reticulum ATPase,UV radiation resistance-associated gene protein
+VCP,LAMP2,Transitional endoplasmic reticulum ATPase,Lysosome-associated membrane glycoprotein 2
+VCP,SH3GLB1,Transitional endoplasmic reticulum ATPase,Endophilin-B1
+VCP,GABARAPL1,Transitional endoplasmic reticulum ATPase,Gamma-aminobutyric acid receptor-associated protein-like 1
+VCP,GABARAP,Transitional endoplasmic reticulum ATPase,Gamma-aminobutyric acid receptor-associated protein
+VCP,ATG14,Transitional endoplasmic reticulum ATPase,Beclin 1-associated autophagy-related key regulator
+VCP,UBQLN1,Transitional endoplasmic reticulum ATPase,Ubiquilin-1
+VCP,TP53INP1,Transitional endoplasmic reticulum ATPase,Tumor protein p53-inducible nuclear protein 1
+VCP,VMP1,Transitional endoplasmic reticulum ATPase,Vacuole membrane protein 1
+VCP,ATG13,Transitional endoplasmic reticulum ATPase,Autophagy-related protein 13
+VCP,CHMP4B,Transitional endoplasmic reticulum ATPase,Charged multivesicular body protein 4b
+VCP,ATP13A2,Transitional endoplasmic reticulum ATPase,Polyamine-transporting ATPase 13A2
+VCP,IRGM,Transitional endoplasmic reticulum ATPase,Immunity-related GTPase family M protein
+VCP,TBC1D17,Transitional endoplasmic reticulum ATPase,TBC1 domain family member 17
+VCP,CHMP2B,Transitional endoplasmic reticulum ATPase,Charged multivesicular body protein 2b
+VCP,UBQLN4,Transitional endoplasmic reticulum ATPase,Ubiquilin-4
+VCP,HAP1,Transitional endoplasmic reticulum ATPase,Huntingtin-associated protein 1
+VCP,WIPI1,Transitional endoplasmic reticulum ATPase,WD repeat domain phosphoinositide-interacting protein 1
+VCP,CLN3,Transitional endoplasmic reticulum ATPase,Battenin
+VCP,VPS18,Transitional endoplasmic reticulum ATPase,Vacuolar protein sorting-associated protein 18 homolog
+VCP,WDFY3,Transitional endoplasmic reticulum ATPase,WD repeat and FYVE domain-containing protein 3
+VCP,C9orf72,Transitional endoplasmic reticulum ATPase,Guanine nucleotide exchange factor C9orf72
+VCP,TMEM74,Transitional endoplasmic reticulum ATPase,Transmembrane protein 74
+VCP,AUP1,Transitional endoplasmic reticulum ATPase,Lipid droplet-regulating VLDL assembly factor AUP1
+VCP,TMEM150B,Transitional endoplasmic reticulum ATPase,Modulator of macroautophagy TMEM150B
+VCP,RAB3GAP2,Transitional endoplasmic reticulum ATPase,Rab3 GTPase-activating protein non-catalytic subunit
+VCP,TEX264,Transitional endoplasmic reticulum ATPase,Testis-expressed protein 264
+BECN1,ATG16L1,Beclin-1,Autophagy-related protein 16-1
+BECN1,BECN1,Beclin-1,Beclin-1
+BECN1,HTT,Beclin-1,Huntingtin
+BECN1,ATG9A,Beclin-1,Autophagy-related protein 9A
+BECN1,PIK3C3,Beclin-1,Phosphatidylinositol 3-kinase catalytic subunit type 3
+BECN1,ATG4B,Beclin-1,Cysteine protease ATG4B
+BECN1,SQSTM1,Beclin-1,Sequestosome-1
+BECN1,AMBRA1,Beclin-1,Activating molecule in BECN1-regulated autophagy protein 1
+BECN1,ULK2,Beclin-1,Serine/threonine-protein kinase ULK2
+BECN1,MAP1LC3C,Beclin-1,Microtubule-associated protein 1 light chain 3 gamma
+BECN1,UBQLN2,Beclin-1,Ubiquilin-2
+BECN1,OPTN,Beclin-1,Optineurin
+BECN1,CHMP3,Beclin-1,Charged multivesicular body protein 3
+BECN1,CALCOCO2,Beclin-1,Calcium-binding and coiled-coil domain-containing protein 2
+BECN1,STX17,Beclin-1,Syntaxin-17
+BECN1,STING1,Beclin-1,Stimulator of interferon genes protein
+BECN1,RB1CC1,Beclin-1,RB1-inducible coiled-coil protein 1
+BECN1,ATG5,Beclin-1,Autophagy protein 5
+BECN1,TRIM32,Beclin-1,E3 ubiquitin-protein ligase TRIM32
+BECN1,MAP1LC3A,Beclin-1,Microtubule-associated protein 1 light chain 3 alpha
+BECN1,MAP1LC3B,Beclin-1,Microtubule-associated protein 1 light chain 3 beta
+BECN1,RAB23,Beclin-1,Ras-related protein Rab-23
+BECN1,RAB7A,Beclin-1,Ras-related protein Rab-7a
+BECN1,ULK1,Beclin-1,Serine/threonine-protein kinase ULK1
+BECN1,RAB2A,Beclin-1,Ras-related protein Rab-2A
+BECN1,UVRAG,Beclin-1,UV radiation resistance-associated gene protein
+BECN1,LAMP2,Beclin-1,Lysosome-associated membrane glycoprotein 2
+BECN1,SH3GLB1,Beclin-1,Endophilin-B1
+BECN1,GABARAPL1,Beclin-1,Gamma-aminobutyric acid receptor-associated protein-like 1
+BECN1,GABARAPL2,Beclin-1,Gamma-aminobutyric acid receptor-associated protein-like 2
+BECN1,ATG12,Beclin-1,Ubiquitin-like protein ATG12
+BECN1,RAB2B,Beclin-1,Ras-related protein Rab-2B
+BECN1,GABARAP,Beclin-1,Gamma-aminobutyric acid receptor-associated protein
+BECN1,ATG14,Beclin-1,Beclin 1-associated autophagy-related key regulator
+BECN1,UBQLN1,Beclin-1,Ubiquilin-1
+BECN1,PIK3R4,Beclin-1,Phosphoinositide 3-kinase regulatory subunit 4
+BECN1,TP53INP1,Beclin-1,Tumor protein p53-inducible nuclear protein 1
+BECN1,CHMP1A,Beclin-1,Charged multivesicular body protein 1a
+BECN1,VMP1,Beclin-1,Vacuole membrane protein 1
+BECN1,WDR81,Beclin-1,WD repeat-containing protein 81
+BECN1,CHMP4C,Beclin-1,Charged multivesicular body protein 4c
+BECN1,ATG13,Beclin-1,Autophagy-related protein 13
+BECN1,CHMP4B,Beclin-1,Charged multivesicular body protein 4b
+BECN1,PIP4K2A,Beclin-1,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha
+BECN1,IRGM,Beclin-1,Immunity-related GTPase family M protein
+BECN1,CHMP5,Beclin-1,Charged multivesicular body protein 5
+BECN1,CHMP1B,Beclin-1,Charged multivesicular body protein 1b
+BECN1,TBC1D17,Beclin-1,TBC1 domain family member 17
+BECN1,TBC1D14,Beclin-1,TBC1 domain family member 14
+BECN1,CHMP2B,Beclin-1,Charged multivesicular body protein 2b
+BECN1,UBQLN4,Beclin-1,Ubiquilin-4
+BECN1,CHMP2A,Beclin-1,Charged multivesicular body protein 2a
+BECN1,ULK3,Beclin-1,Serine/threonine-protein kinase ULK3
+BECN1,CHMP6,Beclin-1,Charged multivesicular body protein 6
+BECN1,VPS33A,Beclin-1,Vacuolar protein sorting-associated protein 33A
+BECN1,CHMP4A,Beclin-1,Charged multivesicular body protein 4a
+BECN1,ATG9B,Beclin-1,Autophagy-related protein 9B
+BECN1,CHMP7,Beclin-1,Charged multivesicular body protein 7
+BECN1,HAP1,Beclin-1,Huntingtin-associated protein 1
+BECN1,NBR1,Beclin-1,Next to BRCA1 gene 1 protein
+BECN1,WIPI1,Beclin-1,WD repeat domain phosphoinositide-interacting protein 1
+BECN1,CLN3,Beclin-1,Battenin
+BECN1,ZFYVE1,Beclin-1,Zinc finger FYVE domain-containing protein 1
+BECN1,VPS18,Beclin-1,Vacuolar protein sorting-associated protein 18 homolog
+BECN1,TAX1BP1,Beclin-1,Tax1-binding protein 1
+BECN1,VPS16,Beclin-1,Vacuolar protein sorting-associated protein 16 homolog
+BECN1,TM9SF1,Beclin-1,Transmembrane 9 superfamily member 1
+BECN1,C9orf72,Beclin-1,Guanine nucleotide exchange factor C9orf72
+BECN1,TMEM74,Beclin-1,Transmembrane protein 74
+BECN1,RUBCNL,Beclin-1,Protein associated with UVRAG as autophagy enhancer
+BECN1,AUP1,Beclin-1,Lipid droplet-regulating VLDL assembly factor AUP1
+BECN1,RAB12,Beclin-1,Ras-related protein Rab-12
+BECN1,NRBF2,Beclin-1,Nuclear receptor-binding factor 2
+TOLLIP,BECN1,Toll-interacting protein,Beclin-1
+TOLLIP,SQSTM1,Toll-interacting protein,Sequestosome-1
+TOLLIP,TRIM32,Toll-interacting protein,E3 ubiquitin-protein ligase TRIM32
+TOLLIP,MAP1LC3A,Toll-interacting protein,Microtubule-associated protein 1 light chain 3 alpha
+TOLLIP,MAP1LC3B,Toll-interacting protein,Microtubule-associated protein 1 light chain 3 beta
+TOLLIP,RAB7A,Toll-interacting protein,Ras-related protein Rab-7a
+TOLLIP,ULK1,Toll-interacting protein,Serine/threonine-protein kinase ULK1
+TOLLIP,ATG16L1,Toll-interacting protein,Autophagy-related protein 16-1
+TOLLIP,LAMP2,Toll-interacting protein,Lysosome-associated membrane glycoprotein 2
+TOLLIP,RB1CC1,Toll-interacting protein,RB1-inducible coiled-coil protein 1
+TOLLIP,SH3GLB1,Toll-interacting protein,Endophilin-B1
+TOLLIP,GABARAPL1,Toll-interacting protein,Gamma-aminobutyric acid receptor-associated protein-like 1
+TOLLIP,GABARAPL2,Toll-interacting protein,Gamma-aminobutyric acid receptor-associated protein-like 2
+TOLLIP,GABARAP,Toll-interacting protein,Gamma-aminobutyric acid receptor-associated protein
+TOLLIP,ATG14,Toll-interacting protein,Beclin 1-associated autophagy-related key regulator
+TOLLIP,UBQLN1,Toll-interacting protein,Ubiquilin-1
+TOLLIP,OPTN,Toll-interacting protein,Optineurin
+TOLLIP,TP53INP1,Toll-interacting protein,Tumor protein p53-inducible nuclear protein 1
+TOLLIP,VMP1,Toll-interacting protein,Vacuole membrane protein 1
+TOLLIP,MAP1LC3C,Toll-interacting protein,Microtubule-associated protein 1 light chain 3 gamma
+TOLLIP,ATG13,Toll-interacting protein,Autophagy-related protein 13
+TOLLIP,ATG9A,Toll-interacting protein,Autophagy-related protein 9A
+TOLLIP,UBQLN2,Toll-interacting protein,Ubiquilin-2
+TOLLIP,IRGM,Toll-interacting protein,Immunity-related GTPase family M protein
+TOLLIP,CHMP5,Toll-interacting protein,Charged multivesicular body protein 5
+TOLLIP,TBC1D5,Toll-interacting protein,TBC1 domain family member 5
+TOLLIP,CHMP3,Toll-interacting protein,Charged multivesicular body protein 3
+TOLLIP,TBC1D17,Toll-interacting protein,TBC1 domain family member 17
+TOLLIP,STX17,Toll-interacting protein,Syntaxin-17
+TOLLIP,TBC1D25,Toll-interacting protein,TBC1 domain family member 25
+TOLLIP,UBQLN4,Toll-interacting protein,Ubiquilin-4
+TOLLIP,CHMP2A,Toll-interacting protein,Charged multivesicular body protein 2a
+TOLLIP,ATG4B,Toll-interacting protein,Cysteine protease ATG4B
+TOLLIP,CHMP6,Toll-interacting protein,Charged multivesicular body protein 6
+TOLLIP,TP53INP2,Toll-interacting protein,Tumor protein p53-inducible nuclear protein 2
+TOLLIP,HTT,Toll-interacting protein,Huntingtin
+TOLLIP,CALCOCO2,Toll-interacting protein,Calcium-binding and coiled-coil domain-containing protein 2
+TOLLIP,NBR1,Toll-interacting protein,Next to BRCA1 gene 1 protein
+TOLLIP,VPS18,Toll-interacting protein,Vacuolar protein sorting-associated protein 18 homolog
+TOLLIP,WDFY3,Toll-interacting protein,WD repeat and FYVE domain-containing protein 3
+TOLLIP,TAX1BP1,Toll-interacting protein,Tax1-binding protein 1
+TOLLIP,GABARAPL3,Toll-interacting protein,Gamma-aminobutyric acid receptor-associated protein-like 3
+INHBA,BECN1,Inhibin beta A chain,Beclin-1
+INHBA,SQSTM1,Inhibin beta A chain,Sequestosome-1
+INHBA,ATG16L1,Inhibin beta A chain,Autophagy-related protein 16-1
+INHBA,HTT,Inhibin beta A chain,Huntingtin
+INHBA,ATG9A,Inhibin beta A chain,Autophagy-related protein 9A
+INHBA,PIK3C3,Inhibin beta A chain,Phosphatidylinositol 3-kinase catalytic subunit type 3
+INHBA,AMBRA1,Inhibin beta A chain,Activating molecule in BECN1-regulated autophagy protein 1
+INHBA,OPTN,Inhibin beta A chain,Optineurin
+INHBA,RB1CC1,Inhibin beta A chain,RB1-inducible coiled-coil protein 1
+INHBA,MAP1LC3A,Inhibin beta A chain,Microtubule-associated protein 1 light chain 3 alpha
+INHBA,MAP1LC3B,Inhibin beta A chain,Microtubule-associated protein 1 light chain 3 beta
+INHBA,RAB2A,Inhibin beta A chain,Ras-related protein Rab-2A
+INHBA,SH3GLB1,Inhibin beta A chain,Endophilin-B1
+INHBA,TP53INP1,Inhibin beta A chain,Tumor protein p53-inducible nuclear protein 1
+INHBA,CHMP4C,Inhibin beta A chain,Charged multivesicular body protein 4c
+INHBA,CHMP2B,Inhibin beta A chain,Charged multivesicular body protein 2b
+INHBA,NBR1,Inhibin beta A chain,Next to BRCA1 gene 1 protein
+INHBA,WIPI1,Inhibin beta A chain,WD repeat domain phosphoinositide-interacting protein 1
+INHBA,C9orf72,Inhibin beta A chain,Guanine nucleotide exchange factor C9orf72
+INHBA,TMEM150B,Inhibin beta A chain,Modulator of macroautophagy TMEM150B
+ARSB,SQSTM1,Arylsulfatase B,Sequestosome-1
+ARSB,MAP1LC3B,Arylsulfatase B,Microtubule-associated protein 1 light chain 3 beta
+ARSB,ATG16L1,Arylsulfatase B,Autophagy-related protein 16-1
+ARSB,HTT,Arylsulfatase B,Huntingtin
+MAPK3,ATG16L1,Mitogen-activated protein kinase 3,Autophagy-related protein 16-1
+MAPK3,BECN1,Mitogen-activated protein kinase 3,Beclin-1
+MAPK3,HTT,Mitogen-activated protein kinase 3,Huntingtin
+MAPK3,ATG9A,Mitogen-activated protein kinase 3,Autophagy-related protein 9A
+MAPK3,PIK3C3,Mitogen-activated protein kinase 3,Phosphatidylinositol 3-kinase catalytic subunit type 3
+MAPK3,ATG4B,Mitogen-activated protein kinase 3,Cysteine protease ATG4B
+MAPK3,SQSTM1,Mitogen-activated protein kinase 3,Sequestosome-1
+MAPK3,AMBRA1,Mitogen-activated protein kinase 3,Activating molecule in BECN1-regulated autophagy protein 1
+MAPK3,ULK2,Mitogen-activated protein kinase 3,Serine/threonine-protein kinase ULK2
+MAPK3,MAP1LC3C,Mitogen-activated protein kinase 3,Microtubule-associated protein 1 light chain 3 gamma
+MAPK3,UBQLN2,Mitogen-activated protein kinase 3,Ubiquilin-2
+MAPK3,OPTN,Mitogen-activated protein kinase 3,Optineurin
+MAPK3,CHMP3,Mitogen-activated protein kinase 3,Charged multivesicular body protein 3
+MAPK3,PIP4K2B,Mitogen-activated protein kinase 3,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+MAPK3,CALCOCO2,Mitogen-activated protein kinase 3,Calcium-binding and coiled-coil domain-containing protein 2
+MAPK3,STX17,Mitogen-activated protein kinase 3,Syntaxin-17
+MAPK3,STING1,Mitogen-activated protein kinase 3,Stimulator of interferon genes protein
+MAPK3,RB1CC1,Mitogen-activated protein kinase 3,RB1-inducible coiled-coil protein 1
+MAPK3,ATG5,Mitogen-activated protein kinase 3,Autophagy protein 5
+MAPK3,TRIM32,Mitogen-activated protein kinase 3,E3 ubiquitin-protein ligase TRIM32
+MAPK3,MAP1LC3A,Mitogen-activated protein kinase 3,Microtubule-associated protein 1 light chain 3 alpha
+MAPK3,MAP1LC3B,Mitogen-activated protein kinase 3,Microtubule-associated protein 1 light chain 3 beta
+MAPK3,RAB23,Mitogen-activated protein kinase 3,Ras-related protein Rab-23
+MAPK3,RAB7A,Mitogen-activated protein kinase 3,Ras-related protein Rab-7a
+MAPK3,ULK1,Mitogen-activated protein kinase 3,Serine/threonine-protein kinase ULK1
+MAPK3,RAB2A,Mitogen-activated protein kinase 3,Ras-related protein Rab-2A
+MAPK3,UVRAG,Mitogen-activated protein kinase 3,UV radiation resistance-associated gene protein
+MAPK3,LAMP2,Mitogen-activated protein kinase 3,Lysosome-associated membrane glycoprotein 2
+MAPK3,SH3GLB1,Mitogen-activated protein kinase 3,Endophilin-B1
+MAPK3,GABARAPL1,Mitogen-activated protein kinase 3,Gamma-aminobutyric acid receptor-associated protein-like 1
+MAPK3,LRRK2,Mitogen-activated protein kinase 3,Leucine-rich repeat serine/threonine-protein kinase 2
+MAPK3,GABARAPL2,Mitogen-activated protein kinase 3,Gamma-aminobutyric acid receptor-associated protein-like 2
+MAPK3,ATG12,Mitogen-activated protein kinase 3,Ubiquitin-like protein ATG12
+MAPK3,RAB24,Mitogen-activated protein kinase 3,Ras-related protein Rab-24
+MAPK3,GABARAP,Mitogen-activated protein kinase 3,Gamma-aminobutyric acid receptor-associated protein
+MAPK3,ATG14,Mitogen-activated protein kinase 3,Beclin 1-associated autophagy-related key regulator
+MAPK3,UBQLN1,Mitogen-activated protein kinase 3,Ubiquilin-1
+MAPK3,PIK3R4,Mitogen-activated protein kinase 3,Phosphoinositide 3-kinase regulatory subunit 4
+MAPK3,TP53INP1,Mitogen-activated protein kinase 3,Tumor protein p53-inducible nuclear protein 1
+MAPK3,CHMP1A,Mitogen-activated protein kinase 3,Charged multivesicular body protein 1a
+MAPK3,VMP1,Mitogen-activated protein kinase 3,Vacuole membrane protein 1
+MAPK3,ATG13,Mitogen-activated protein kinase 3,Autophagy-related protein 13
+MAPK3,PIP4K2A,Mitogen-activated protein kinase 3,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha
+MAPK3,IRGM,Mitogen-activated protein kinase 3,Immunity-related GTPase family M protein
+MAPK3,CHMP5,Mitogen-activated protein kinase 3,Charged multivesicular body protein 5
+MAPK3,TBC1D5,Mitogen-activated protein kinase 3,TBC1 domain family member 5
+MAPK3,UBQLN4,Mitogen-activated protein kinase 3,Ubiquilin-4
+MAPK3,CHMP6,Mitogen-activated protein kinase 3,Charged multivesicular body protein 6
+MAPK3,VPS33A,Mitogen-activated protein kinase 3,Vacuolar protein sorting-associated protein 33A
+MAPK3,ATG9B,Mitogen-activated protein kinase 3,Autophagy-related protein 9B
+MAPK3,TP53INP2,Mitogen-activated protein kinase 3,Tumor protein p53-inducible nuclear protein 2
+MAPK3,WIPI1,Mitogen-activated protein kinase 3,WD repeat domain phosphoinositide-interacting protein 1
+MAPK3,ZFYVE1,Mitogen-activated protein kinase 3,Zinc finger FYVE domain-containing protein 1
+MAPK3,VPS18,Mitogen-activated protein kinase 3,Vacuolar protein sorting-associated protein 18 homolog
+MAPK3,VPS16,Mitogen-activated protein kinase 3,Vacuolar protein sorting-associated protein 16 homolog
+MAPK3,TM9SF1,Mitogen-activated protein kinase 3,Transmembrane 9 superfamily member 1
+MAPK3,C9orf72,Mitogen-activated protein kinase 3,Guanine nucleotide exchange factor C9orf72
+MAPK3,TMEM74,Mitogen-activated protein kinase 3,Transmembrane protein 74
+MAPK3,TMEM150B,Mitogen-activated protein kinase 3,Modulator of macroautophagy TMEM150B
+MAPK3,RAB12,Mitogen-activated protein kinase 3,Ras-related protein Rab-12
+MAPK3,NRBF2,Mitogen-activated protein kinase 3,Nuclear receptor-binding factor 2
+MAPK3,GRAMD1A,Mitogen-activated protein kinase 3,Protein Aster-A
+S100A9,BECN1,Protein S100-A9,Beclin-1
+S100A9,SQSTM1,Protein S100-A9,Sequestosome-1
+S100A9,ATG16L1,Protein S100-A9,Autophagy-related protein 16-1
+S100A9,PIK3C3,Protein S100-A9,Phosphatidylinositol 3-kinase catalytic subunit type 3
+S100A9,OPTN,Protein S100-A9,Optineurin
+S100A9,STING1,Protein S100-A9,Stimulator of interferon genes protein
+S100A9,RB1CC1,Protein S100-A9,RB1-inducible coiled-coil protein 1
+S100A9,ATG5,Protein S100-A9,Autophagy protein 5
+S100A9,TRIM32,Protein S100-A9,E3 ubiquitin-protein ligase TRIM32
+S100A9,MAP1LC3A,Protein S100-A9,Microtubule-associated protein 1 light chain 3 alpha
+S100A9,MAP1LC3B,Protein S100-A9,Microtubule-associated protein 1 light chain 3 beta
+S100A9,RAB23,Protein S100-A9,Ras-related protein Rab-23
+S100A9,RAB7A,Protein S100-A9,Ras-related protein Rab-7a
+S100A9,ULK1,Protein S100-A9,Serine/threonine-protein kinase ULK1
+S100A9,UVRAG,Protein S100-A9,UV radiation resistance-associated gene protein
+S100A9,LAMP2,Protein S100-A9,Lysosome-associated membrane glycoprotein 2
+S100A9,SH3GLB1,Protein S100-A9,Endophilin-B1
+S100A9,GABARAPL2,Protein S100-A9,Gamma-aminobutyric acid receptor-associated protein-like 2
+S100A9,ATG12,Protein S100-A9,Ubiquitin-like protein ATG12
+S100A9,UBQLN1,Protein S100-A9,Ubiquilin-1
+S100A9,TP53INP1,Protein S100-A9,Tumor protein p53-inducible nuclear protein 1
+S100A9,VMP1,Protein S100-A9,Vacuole membrane protein 1
+S100A9,IRGM,Protein S100-A9,Immunity-related GTPase family M protein
+S100A9,WIPI1,Protein S100-A9,WD repeat domain phosphoinositide-interacting protein 1
+HMGB1,ATG16L1,High mobility group protein B1,Autophagy-related protein 16-1
+HMGB1,BECN1,High mobility group protein B1,Beclin-1
+HMGB1,HTT,High mobility group protein B1,Huntingtin
+HMGB1,ATG9A,High mobility group protein B1,Autophagy-related protein 9A
+HMGB1,PIK3C3,High mobility group protein B1,Phosphatidylinositol 3-kinase catalytic subunit type 3
+HMGB1,ATG4B,High mobility group protein B1,Cysteine protease ATG4B
+HMGB1,SQSTM1,High mobility group protein B1,Sequestosome-1
+HMGB1,AMBRA1,High mobility group protein B1,Activating molecule in BECN1-regulated autophagy protein 1
+HMGB1,ULK2,High mobility group protein B1,Serine/threonine-protein kinase ULK2
+HMGB1,MAP1LC3C,High mobility group protein B1,Microtubule-associated protein 1 light chain 3 gamma
+HMGB1,UBQLN2,High mobility group protein B1,Ubiquilin-2
+HMGB1,OPTN,High mobility group protein B1,Optineurin
+HMGB1,CHMP3,High mobility group protein B1,Charged multivesicular body protein 3
+HMGB1,CALCOCO2,High mobility group protein B1,Calcium-binding and coiled-coil domain-containing protein 2
+HMGB1,STX17,High mobility group protein B1,Syntaxin-17
+HMGB1,STING1,High mobility group protein B1,Stimulator of interferon genes protein
+HMGB1,RB1CC1,High mobility group protein B1,RB1-inducible coiled-coil protein 1
+HMGB1,ATG5,High mobility group protein B1,Autophagy protein 5
+HMGB1,TRIM32,High mobility group protein B1,E3 ubiquitin-protein ligase TRIM32
+HMGB1,MAP1LC3A,High mobility group protein B1,Microtubule-associated protein 1 light chain 3 alpha
+HMGB1,MAP1LC3B,High mobility group protein B1,Microtubule-associated protein 1 light chain 3 beta
+HMGB1,RAB23,High mobility group protein B1,Ras-related protein Rab-23
+HMGB1,RAB7A,High mobility group protein B1,Ras-related protein Rab-7a
+HMGB1,ULK1,High mobility group protein B1,Serine/threonine-protein kinase ULK1
+HMGB1,RAB2A,High mobility group protein B1,Ras-related protein Rab-2A
+HMGB1,UVRAG,High mobility group protein B1,UV radiation resistance-associated gene protein
+HMGB1,LAMP2,High mobility group protein B1,Lysosome-associated membrane glycoprotein 2
+HMGB1,SH3GLB1,High mobility group protein B1,Endophilin-B1
+HMGB1,GABARAPL1,High mobility group protein B1,Gamma-aminobutyric acid receptor-associated protein-like 1
+HMGB1,GABARAPL2,High mobility group protein B1,Gamma-aminobutyric acid receptor-associated protein-like 2
+HMGB1,ATG12,High mobility group protein B1,Ubiquitin-like protein ATG12
+HMGB1,GABARAP,High mobility group protein B1,Gamma-aminobutyric acid receptor-associated protein
+HMGB1,ATG14,High mobility group protein B1,Beclin 1-associated autophagy-related key regulator
+HMGB1,UBQLN1,High mobility group protein B1,Ubiquilin-1
+HMGB1,PIK3R4,High mobility group protein B1,Phosphoinositide 3-kinase regulatory subunit 4
+HMGB1,TP53INP1,High mobility group protein B1,Tumor protein p53-inducible nuclear protein 1
+HMGB1,CHMP1A,High mobility group protein B1,Charged multivesicular body protein 1a
+HMGB1,VMP1,High mobility group protein B1,Vacuole membrane protein 1
+HMGB1,CHMP4C,High mobility group protein B1,Charged multivesicular body protein 4c
+HMGB1,ATG13,High mobility group protein B1,Autophagy-related protein 13
+HMGB1,CHMP4B,High mobility group protein B1,Charged multivesicular body protein 4b
+HMGB1,IRGM,High mobility group protein B1,Immunity-related GTPase family M protein
+HMGB1,CHMP5,High mobility group protein B1,Charged multivesicular body protein 5
+HMGB1,CHMP2B,High mobility group protein B1,Charged multivesicular body protein 2b
+HMGB1,UBQLN4,High mobility group protein B1,Ubiquilin-4
+HMGB1,CHMP2A,High mobility group protein B1,Charged multivesicular body protein 2a
+HMGB1,CHMP6,High mobility group protein B1,Charged multivesicular body protein 6
+HMGB1,VPS33A,High mobility group protein B1,Vacuolar protein sorting-associated protein 33A
+HMGB1,CHMP4A,High mobility group protein B1,Charged multivesicular body protein 4a
+HMGB1,ATG9B,High mobility group protein B1,Autophagy-related protein 9B
+HMGB1,CHMP7,High mobility group protein B1,Charged multivesicular body protein 7
+HMGB1,HAP1,High mobility group protein B1,Huntingtin-associated protein 1
+HMGB1,WIPI1,High mobility group protein B1,WD repeat domain phosphoinositide-interacting protein 1
+HMGB1,CLN3,High mobility group protein B1,Battenin
+HMGB1,ZFYVE1,High mobility group protein B1,Zinc finger FYVE domain-containing protein 1
+HMGB1,VPS18,High mobility group protein B1,Vacuolar protein sorting-associated protein 18 homolog
+HMGB1,VPS16,High mobility group protein B1,Vacuolar protein sorting-associated protein 16 homolog
+HMGB1,TM9SF1,High mobility group protein B1,Transmembrane 9 superfamily member 1
+HMGB1,TMEM74,High mobility group protein B1,Transmembrane protein 74
+HMGB1,TMEM150B,High mobility group protein B1,Modulator of macroautophagy TMEM150B
+HMGB1,NRBF2,High mobility group protein B1,Nuclear receptor-binding factor 2
+SQSTM1,ATG16L1,Sequestosome-1,Autophagy-related protein 16-1
+SQSTM1,HTT,Sequestosome-1,Huntingtin
+SQSTM1,ATG9A,Sequestosome-1,Autophagy-related protein 9A
+SQSTM1,PIK3C3,Sequestosome-1,Phosphatidylinositol 3-kinase catalytic subunit type 3
+SQSTM1,ATG4B,Sequestosome-1,Cysteine protease ATG4B
+SQSTM1,SQSTM1,Sequestosome-1,Sequestosome-1
+SQSTM1,AMBRA1,Sequestosome-1,Activating molecule in BECN1-regulated autophagy protein 1
+SQSTM1,ULK2,Sequestosome-1,Serine/threonine-protein kinase ULK2
+SQSTM1,MAP1LC3C,Sequestosome-1,Microtubule-associated protein 1 light chain 3 gamma
+SQSTM1,UBQLN2,Sequestosome-1,Ubiquilin-2
+SQSTM1,OPTN,Sequestosome-1,Optineurin
+SQSTM1,CHMP3,Sequestosome-1,Charged multivesicular body protein 3
+SQSTM1,CALCOCO2,Sequestosome-1,Calcium-binding and coiled-coil domain-containing protein 2
+SQSTM1,STX17,Sequestosome-1,Syntaxin-17
+SQSTM1,STING1,Sequestosome-1,Stimulator of interferon genes protein
+SQSTM1,RB1CC1,Sequestosome-1,RB1-inducible coiled-coil protein 1
+SQSTM1,ATG5,Sequestosome-1,Autophagy protein 5
+SQSTM1,TRIM32,Sequestosome-1,E3 ubiquitin-protein ligase TRIM32
+SQSTM1,MAP1LC3A,Sequestosome-1,Microtubule-associated protein 1 light chain 3 alpha
+SQSTM1,MAP1LC3B,Sequestosome-1,Microtubule-associated protein 1 light chain 3 beta
+SQSTM1,RAB23,Sequestosome-1,Ras-related protein Rab-23
+SQSTM1,RAB7A,Sequestosome-1,Ras-related protein Rab-7a
+SQSTM1,ULK1,Sequestosome-1,Serine/threonine-protein kinase ULK1
+SQSTM1,RAB2A,Sequestosome-1,Ras-related protein Rab-2A
+SQSTM1,UVRAG,Sequestosome-1,UV radiation resistance-associated gene protein
+SQSTM1,LAMP2,Sequestosome-1,Lysosome-associated membrane glycoprotein 2
+SQSTM1,SH3GLB1,Sequestosome-1,Endophilin-B1
+SQSTM1,GABARAPL1,Sequestosome-1,Gamma-aminobutyric acid receptor-associated protein-like 1
+SQSTM1,LRRK2,Sequestosome-1,Leucine-rich repeat serine/threonine-protein kinase 2
+SQSTM1,GABARAPL2,Sequestosome-1,Gamma-aminobutyric acid receptor-associated protein-like 2
+SQSTM1,ATG12,Sequestosome-1,Ubiquitin-like protein ATG12
+SQSTM1,GABARAP,Sequestosome-1,Gamma-aminobutyric acid receptor-associated protein
+SQSTM1,ATG14,Sequestosome-1,Beclin 1-associated autophagy-related key regulator
+SQSTM1,UBQLN1,Sequestosome-1,Ubiquilin-1
+SQSTM1,PIK3R4,Sequestosome-1,Phosphoinositide 3-kinase regulatory subunit 4
+SQSTM1,TP53INP1,Sequestosome-1,Tumor protein p53-inducible nuclear protein 1
+SQSTM1,VMP1,Sequestosome-1,Vacuole membrane protein 1
+SQSTM1,WDR81,Sequestosome-1,WD repeat-containing protein 81
+SQSTM1,ATG13,Sequestosome-1,Autophagy-related protein 13
+SQSTM1,IRGM,Sequestosome-1,Immunity-related GTPase family M protein
+SQSTM1,CHMP5,Sequestosome-1,Charged multivesicular body protein 5
+SQSTM1,TBC1D5,Sequestosome-1,TBC1 domain family member 5
+SQSTM1,TBC1D17,Sequestosome-1,TBC1 domain family member 17
+SQSTM1,TBC1D14,Sequestosome-1,TBC1 domain family member 14
+SQSTM1,TBC1D25,Sequestosome-1,TBC1 domain family member 25
+SQSTM1,CHMP2B,Sequestosome-1,Charged multivesicular body protein 2b
+SQSTM1,UBQLN4,Sequestosome-1,Ubiquilin-4
+SQSTM1,CHMP2A,Sequestosome-1,Charged multivesicular body protein 2a
+SQSTM1,CHMP6,Sequestosome-1,Charged multivesicular body protein 6
+SQSTM1,VPS33A,Sequestosome-1,Vacuolar protein sorting-associated protein 33A
+SQSTM1,ATG9B,Sequestosome-1,Autophagy-related protein 9B
+SQSTM1,CHMP7,Sequestosome-1,Charged multivesicular body protein 7
+SQSTM1,TP53INP2,Sequestosome-1,Tumor protein p53-inducible nuclear protein 2
+SQSTM1,HAP1,Sequestosome-1,Huntingtin-associated protein 1
+SQSTM1,SNAP29,Sequestosome-1,Synaptosomal-associated protein 29
+SQSTM1,NBR1,Sequestosome-1,Next to BRCA1 gene 1 protein
+SQSTM1,WIPI1,Sequestosome-1,WD repeat domain phosphoinositide-interacting protein 1
+SQSTM1,ZFYVE1,Sequestosome-1,Zinc finger FYVE domain-containing protein 1
+SQSTM1,VPS18,Sequestosome-1,Vacuolar protein sorting-associated protein 18 homolog
+SQSTM1,WDFY3,Sequestosome-1,WD repeat and FYVE domain-containing protein 3
+SQSTM1,TAX1BP1,Sequestosome-1,Tax1-binding protein 1
+SQSTM1,VPS16,Sequestosome-1,Vacuolar protein sorting-associated protein 16 homolog
+SQSTM1,TM9SF1,Sequestosome-1,Transmembrane 9 superfamily member 1
+SQSTM1,C9orf72,Sequestosome-1,Guanine nucleotide exchange factor C9orf72
+SQSTM1,TMEM74,Sequestosome-1,Transmembrane protein 74
+SQSTM1,RAB12,Sequestosome-1,Ras-related protein Rab-12
+SQSTM1,NRBF2,Sequestosome-1,Nuclear receptor-binding factor 2
+SQSTM1,GABARAPL3,Sequestosome-1,Gamma-aminobutyric acid receptor-associated protein-like 3
+PRKN,BECN1,E3 ubiquitin-protein ligase parkin,Beclin-1
+PRKN,SQSTM1,E3 ubiquitin-protein ligase parkin,Sequestosome-1
+PRKN,ATG16L1,E3 ubiquitin-protein ligase parkin,Autophagy-related protein 16-1
+PRKN,HTT,E3 ubiquitin-protein ligase parkin,Huntingtin
+PRKN,ATG9A,E3 ubiquitin-protein ligase parkin,Autophagy-related protein 9A
+PRKN,PIK3C3,E3 ubiquitin-protein ligase parkin,Phosphatidylinositol 3-kinase catalytic subunit type 3
+PRKN,ATG4B,E3 ubiquitin-protein ligase parkin,Cysteine protease ATG4B
+PRKN,AMBRA1,E3 ubiquitin-protein ligase parkin,Activating molecule in BECN1-regulated autophagy protein 1
+PRKN,ULK2,E3 ubiquitin-protein ligase parkin,Serine/threonine-protein kinase ULK2
+PRKN,MAP1LC3C,E3 ubiquitin-protein ligase parkin,Microtubule-associated protein 1 light chain 3 gamma
+PRKN,UBQLN2,E3 ubiquitin-protein ligase parkin,Ubiquilin-2
+PRKN,OPTN,E3 ubiquitin-protein ligase parkin,Optineurin
+PRKN,CALCOCO2,E3 ubiquitin-protein ligase parkin,Calcium-binding and coiled-coil domain-containing protein 2
+PRKN,STX17,E3 ubiquitin-protein ligase parkin,Syntaxin-17
+PRKN,STING1,E3 ubiquitin-protein ligase parkin,Stimulator of interferon genes protein
+PRKN,RB1CC1,E3 ubiquitin-protein ligase parkin,RB1-inducible coiled-coil protein 1
+PRKN,ATG5,E3 ubiquitin-protein ligase parkin,Autophagy protein 5
+PRKN,TRIM32,E3 ubiquitin-protein ligase parkin,E3 ubiquitin-protein ligase TRIM32
+PRKN,MAP1LC3A,E3 ubiquitin-protein ligase parkin,Microtubule-associated protein 1 light chain 3 alpha
+PRKN,MAP1LC3B,E3 ubiquitin-protein ligase parkin,Microtubule-associated protein 1 light chain 3 beta
+PRKN,RAB7A,E3 ubiquitin-protein ligase parkin,Ras-related protein Rab-7a
+PRKN,ULK1,E3 ubiquitin-protein ligase parkin,Serine/threonine-protein kinase ULK1
+PRKN,RAB2A,E3 ubiquitin-protein ligase parkin,Ras-related protein Rab-2A
+PRKN,UVRAG,E3 ubiquitin-protein ligase parkin,UV radiation resistance-associated gene protein
+PRKN,LAMP2,E3 ubiquitin-protein ligase parkin,Lysosome-associated membrane glycoprotein 2
+PRKN,SH3GLB1,E3 ubiquitin-protein ligase parkin,Endophilin-B1
+PRKN,GABARAPL1,E3 ubiquitin-protein ligase parkin,Gamma-aminobutyric acid receptor-associated protein-like 1
+PRKN,LRRK2,E3 ubiquitin-protein ligase parkin,Leucine-rich repeat serine/threonine-protein kinase 2
+PRKN,GABARAPL2,E3 ubiquitin-protein ligase parkin,Gamma-aminobutyric acid receptor-associated protein-like 2
+PRKN,ATG12,E3 ubiquitin-protein ligase parkin,Ubiquitin-like protein ATG12
+PRKN,GABARAP,E3 ubiquitin-protein ligase parkin,Gamma-aminobutyric acid receptor-associated protein
+PRKN,ATG14,E3 ubiquitin-protein ligase parkin,Beclin 1-associated autophagy-related key regulator
+PRKN,UBQLN1,E3 ubiquitin-protein ligase parkin,Ubiquilin-1
+PRKN,PIK3R4,E3 ubiquitin-protein ligase parkin,Phosphoinositide 3-kinase regulatory subunit 4
+PRKN,TP53INP1,E3 ubiquitin-protein ligase parkin,Tumor protein p53-inducible nuclear protein 1
+PRKN,CHMP1A,E3 ubiquitin-protein ligase parkin,Charged multivesicular body protein 1a
+PRKN,VMP1,E3 ubiquitin-protein ligase parkin,Vacuole membrane protein 1
+PRKN,CHMP4C,E3 ubiquitin-protein ligase parkin,Charged multivesicular body protein 4c
+PRKN,ATG13,E3 ubiquitin-protein ligase parkin,Autophagy-related protein 13
+PRKN,ATP13A2,E3 ubiquitin-protein ligase parkin,Polyamine-transporting ATPase 13A2
+PRKN,IRGM,E3 ubiquitin-protein ligase parkin,Immunity-related GTPase family M protein
+PRKN,TBC1D5,E3 ubiquitin-protein ligase parkin,TBC1 domain family member 5
+PRKN,TBC1D17,E3 ubiquitin-protein ligase parkin,TBC1 domain family member 17
+PRKN,TBC1D25,E3 ubiquitin-protein ligase parkin,TBC1 domain family member 25
+PRKN,CHMP2B,E3 ubiquitin-protein ligase parkin,Charged multivesicular body protein 2b
+PRKN,UBQLN4,E3 ubiquitin-protein ligase parkin,Ubiquilin-4
+PRKN,VPS33A,E3 ubiquitin-protein ligase parkin,Vacuolar protein sorting-associated protein 33A
+PRKN,ATG9B,E3 ubiquitin-protein ligase parkin,Autophagy-related protein 9B
+PRKN,TP53INP2,E3 ubiquitin-protein ligase parkin,Tumor protein p53-inducible nuclear protein 2
+PRKN,HAP1,E3 ubiquitin-protein ligase parkin,Huntingtin-associated protein 1
+PRKN,SNAP29,E3 ubiquitin-protein ligase parkin,Synaptosomal-associated protein 29
+PRKN,NBR1,E3 ubiquitin-protein ligase parkin,Next to BRCA1 gene 1 protein
+PRKN,WIPI1,E3 ubiquitin-protein ligase parkin,WD repeat domain phosphoinositide-interacting protein 1
+PRKN,ZFYVE1,E3 ubiquitin-protein ligase parkin,Zinc finger FYVE domain-containing protein 1
+PRKN,VPS18,E3 ubiquitin-protein ligase parkin,Vacuolar protein sorting-associated protein 18 homolog
+PRKN,WDFY3,E3 ubiquitin-protein ligase parkin,WD repeat and FYVE domain-containing protein 3
+PRKN,TAX1BP1,E3 ubiquitin-protein ligase parkin,Tax1-binding protein 1
+PRKN,VPS16,E3 ubiquitin-protein ligase parkin,Vacuolar protein sorting-associated protein 16 homolog
+PRKN,TM9SF1,E3 ubiquitin-protein ligase parkin,Transmembrane 9 superfamily member 1
+PRKN,C9orf72,E3 ubiquitin-protein ligase parkin,Guanine nucleotide exchange factor C9orf72
+PRKN,TMEM74,E3 ubiquitin-protein ligase parkin,Transmembrane protein 74
+PRKN,RUBCNL,E3 ubiquitin-protein ligase parkin,Protein associated with UVRAG as autophagy enhancer
+PRKN,RAB12,E3 ubiquitin-protein ligase parkin,Ras-related protein Rab-12
+PRKN,NRBF2,E3 ubiquitin-protein ligase parkin,Nuclear receptor-binding factor 2
+PRKN,GABARAPL3,E3 ubiquitin-protein ligase parkin,Gamma-aminobutyric acid receptor-associated protein-like 3
+BCL2,ATG16L1,Apoptosis regulator Bcl-2,Autophagy-related protein 16-1
+BCL2,BECN1,Apoptosis regulator Bcl-2,Beclin-1
+BCL2,HTT,Apoptosis regulator Bcl-2,Huntingtin
+BCL2,ATG9A,Apoptosis regulator Bcl-2,Autophagy-related protein 9A
+BCL2,PIK3C3,Apoptosis regulator Bcl-2,Phosphatidylinositol 3-kinase catalytic subunit type 3
+BCL2,ATG4B,Apoptosis regulator Bcl-2,Cysteine protease ATG4B
+BCL2,SQSTM1,Apoptosis regulator Bcl-2,Sequestosome-1
+BCL2,AMBRA1,Apoptosis regulator Bcl-2,Activating molecule in BECN1-regulated autophagy protein 1
+BCL2,ULK2,Apoptosis regulator Bcl-2,Serine/threonine-protein kinase ULK2
+BCL2,MAP1LC3C,Apoptosis regulator Bcl-2,Microtubule-associated protein 1 light chain 3 gamma
+BCL2,UBQLN2,Apoptosis regulator Bcl-2,Ubiquilin-2
+BCL2,OPTN,Apoptosis regulator Bcl-2,Optineurin
+BCL2,CHMP3,Apoptosis regulator Bcl-2,Charged multivesicular body protein 3
+BCL2,PIP4K2B,Apoptosis regulator Bcl-2,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+BCL2,CALCOCO2,Apoptosis regulator Bcl-2,Calcium-binding and coiled-coil domain-containing protein 2
+BCL2,STX17,Apoptosis regulator Bcl-2,Syntaxin-17
+BCL2,STING1,Apoptosis regulator Bcl-2,Stimulator of interferon genes protein
+BCL2,RB1CC1,Apoptosis regulator Bcl-2,RB1-inducible coiled-coil protein 1
+BCL2,ATG5,Apoptosis regulator Bcl-2,Autophagy protein 5
+BCL2,TRIM32,Apoptosis regulator Bcl-2,E3 ubiquitin-protein ligase TRIM32
+BCL2,MAP1LC3A,Apoptosis regulator Bcl-2,Microtubule-associated protein 1 light chain 3 alpha
+BCL2,MAP1LC3B,Apoptosis regulator Bcl-2,Microtubule-associated protein 1 light chain 3 beta
+BCL2,RAB23,Apoptosis regulator Bcl-2,Ras-related protein Rab-23
+BCL2,RAB7A,Apoptosis regulator Bcl-2,Ras-related protein Rab-7a
+BCL2,ULK1,Apoptosis regulator Bcl-2,Serine/threonine-protein kinase ULK1
+BCL2,RAB2A,Apoptosis regulator Bcl-2,Ras-related protein Rab-2A
+BCL2,UVRAG,Apoptosis regulator Bcl-2,UV radiation resistance-associated gene protein
+BCL2,LAMP2,Apoptosis regulator Bcl-2,Lysosome-associated membrane glycoprotein 2
+BCL2,SH3GLB1,Apoptosis regulator Bcl-2,Endophilin-B1
+BCL2,GABARAPL1,Apoptosis regulator Bcl-2,Gamma-aminobutyric acid receptor-associated protein-like 1
+BCL2,LRRK2,Apoptosis regulator Bcl-2,Leucine-rich repeat serine/threonine-protein kinase 2
+BCL2,GABARAPL2,Apoptosis regulator Bcl-2,Gamma-aminobutyric acid receptor-associated protein-like 2
+BCL2,ATG12,Apoptosis regulator Bcl-2,Ubiquitin-like protein ATG12
+BCL2,GABARAP,Apoptosis regulator Bcl-2,Gamma-aminobutyric acid receptor-associated protein
+BCL2,ATG14,Apoptosis regulator Bcl-2,Beclin 1-associated autophagy-related key regulator
+BCL2,UBQLN1,Apoptosis regulator Bcl-2,Ubiquilin-1
+BCL2,PIK3R4,Apoptosis regulator Bcl-2,Phosphoinositide 3-kinase regulatory subunit 4
+BCL2,TP53INP1,Apoptosis regulator Bcl-2,Tumor protein p53-inducible nuclear protein 1
+BCL2,CHMP1A,Apoptosis regulator Bcl-2,Charged multivesicular body protein 1a
+BCL2,VMP1,Apoptosis regulator Bcl-2,Vacuole membrane protein 1
+BCL2,WDR81,Apoptosis regulator Bcl-2,WD repeat-containing protein 81
+BCL2,CHMP4C,Apoptosis regulator Bcl-2,Charged multivesicular body protein 4c
+BCL2,ATG13,Apoptosis regulator Bcl-2,Autophagy-related protein 13
+BCL2,CHMP4B,Apoptosis regulator Bcl-2,Charged multivesicular body protein 4b
+BCL2,PIP4K2A,Apoptosis regulator Bcl-2,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha
+BCL2,IRGM,Apoptosis regulator Bcl-2,Immunity-related GTPase family M protein
+BCL2,TBC1D5,Apoptosis regulator Bcl-2,TBC1 domain family member 5
+BCL2,TBC1D25,Apoptosis regulator Bcl-2,TBC1 domain family member 25
+BCL2,UBQLN4,Apoptosis regulator Bcl-2,Ubiquilin-4
+BCL2,ULK3,Apoptosis regulator Bcl-2,Serine/threonine-protein kinase ULK3
+BCL2,VPS33A,Apoptosis regulator Bcl-2,Vacuolar protein sorting-associated protein 33A
+BCL2,ATG9B,Apoptosis regulator Bcl-2,Autophagy-related protein 9B
+BCL2,TP53INP2,Apoptosis regulator Bcl-2,Tumor protein p53-inducible nuclear protein 2
+BCL2,NBR1,Apoptosis regulator Bcl-2,Next to BRCA1 gene 1 protein
+BCL2,WIPI1,Apoptosis regulator Bcl-2,WD repeat domain phosphoinositide-interacting protein 1
+BCL2,CLN3,Apoptosis regulator Bcl-2,Battenin
+BCL2,ZFYVE1,Apoptosis regulator Bcl-2,Zinc finger FYVE domain-containing protein 1
+BCL2,VPS18,Apoptosis regulator Bcl-2,Vacuolar protein sorting-associated protein 18 homolog
+BCL2,WDFY3,Apoptosis regulator Bcl-2,WD repeat and FYVE domain-containing protein 3
+BCL2,VPS16,Apoptosis regulator Bcl-2,Vacuolar protein sorting-associated protein 16 homolog
+BCL2,TM9SF1,Apoptosis regulator Bcl-2,Transmembrane 9 superfamily member 1
+BCL2,C9orf72,Apoptosis regulator Bcl-2,Guanine nucleotide exchange factor C9orf72
+BCL2,TMEM74,Apoptosis regulator Bcl-2,Transmembrane protein 74
+BCL2,RUBCNL,Apoptosis regulator Bcl-2,Protein associated with UVRAG as autophagy enhancer
+BCL2,RAB12,Apoptosis regulator Bcl-2,Ras-related protein Rab-12
+BCL2,NRBF2,Apoptosis regulator Bcl-2,Nuclear receptor-binding factor 2
+BCL2,GABARAPL3,Apoptosis regulator Bcl-2,Gamma-aminobutyric acid receptor-associated protein-like 3
+BNIP3,BECN1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Beclin-1
+BNIP3,SQSTM1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Sequestosome-1
+BNIP3,ATG5,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Autophagy protein 5
+BNIP3,PIK3C3,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Phosphatidylinositol 3-kinase catalytic subunit type 3
+BNIP3,MAP1LC3A,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Microtubule-associated protein 1 light chain 3 alpha
+BNIP3,MAP1LC3B,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Microtubule-associated protein 1 light chain 3 beta
+BNIP3,RAB7A,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Ras-related protein Rab-7a
+BNIP3,ULK1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Serine/threonine-protein kinase ULK1
+BNIP3,STING1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Stimulator of interferon genes protein
+BNIP3,RAB2A,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Ras-related protein Rab-2A
+BNIP3,ATG16L1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Autophagy-related protein 16-1
+BNIP3,UVRAG,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,UV radiation resistance-associated gene protein
+BNIP3,LAMP2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Lysosome-associated membrane glycoprotein 2
+BNIP3,RB1CC1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,RB1-inducible coiled-coil protein 1
+BNIP3,SH3GLB1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Endophilin-B1
+BNIP3,GABARAPL1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Gamma-aminobutyric acid receptor-associated protein-like 1
+BNIP3,GABARAPL2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Gamma-aminobutyric acid receptor-associated protein-like 2
+BNIP3,ATG12,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Ubiquitin-like protein ATG12
+BNIP3,HTT,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Huntingtin
+BNIP3,ATG9A,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Autophagy-related protein 9A
+BNIP3,ATG4B,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Cysteine protease ATG4B
+BNIP3,AMBRA1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Activating molecule in BECN1-regulated autophagy protein 1
+BNIP3,ULK2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Serine/threonine-protein kinase ULK2
+BNIP3,MAP1LC3C,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Microtubule-associated protein 1 light chain 3 gamma
+BNIP3,UBQLN2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Ubiquilin-2
+BNIP3,OPTN,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Optineurin
+BNIP3,CALCOCO2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Calcium-binding and coiled-coil domain-containing protein 2
+BNIP3,STX17,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Syntaxin-17
+BNIP3,GABARAP,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Gamma-aminobutyric acid receptor-associated protein
+BNIP3,ATG14,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Beclin 1-associated autophagy-related key regulator
+BNIP3,UBQLN1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Ubiquilin-1
+BNIP3,PIK3R4,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Phosphoinositide 3-kinase regulatory subunit 4
+BNIP3,VMP1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Vacuole membrane protein 1
+BNIP3,ATG13,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Autophagy-related protein 13
+BNIP3,IRGM,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Immunity-related GTPase family M protein
+BNIP3,VPS33A,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Vacuolar protein sorting-associated protein 33A
+BNIP3,ATG9B,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Autophagy-related protein 9B
+BNIP3,HAP1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Huntingtin-associated protein 1
+BNIP3,NBR1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Next to BRCA1 gene 1 protein
+BNIP3,WIPI1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,WD repeat domain phosphoinositide-interacting protein 1
+BNIP3,ZFYVE1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Zinc finger FYVE domain-containing protein 1
+BNIP3,VPS18,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Vacuolar protein sorting-associated protein 18 homolog
+BNIP3,VPS16,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Vacuolar protein sorting-associated protein 16 homolog
+BNIP3,TM9SF1,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Transmembrane 9 superfamily member 1
+BNIP3,C9orf72,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Guanine nucleotide exchange factor C9orf72
+BNIP3,TMEM74,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Transmembrane protein 74
+BNIP3,RUBCNL,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Protein associated with UVRAG as autophagy enhancer
+BNIP3,RAB12,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Ras-related protein Rab-12
+BNIP3,NRBF2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,Nuclear receptor-binding factor 2
+NOD1,BECN1,Nucleotide-binding oligomerization domain-containing protein 1,Beclin-1
+NOD1,SQSTM1,Nucleotide-binding oligomerization domain-containing protein 1,Sequestosome-1
+NOD1,ATG5,Nucleotide-binding oligomerization domain-containing protein 1,Autophagy protein 5
+NOD1,TRIM32,Nucleotide-binding oligomerization domain-containing protein 1,E3 ubiquitin-protein ligase TRIM32
+NOD1,MAP1LC3A,Nucleotide-binding oligomerization domain-containing protein 1,Microtubule-associated protein 1 light chain 3 alpha
+NOD1,MAP1LC3B,Nucleotide-binding oligomerization domain-containing protein 1,Microtubule-associated protein 1 light chain 3 beta
+NOD1,ULK1,Nucleotide-binding oligomerization domain-containing protein 1,Serine/threonine-protein kinase ULK1
+NOD1,STING1,Nucleotide-binding oligomerization domain-containing protein 1,Stimulator of interferon genes protein
+NOD1,ATG16L1,Nucleotide-binding oligomerization domain-containing protein 1,Autophagy-related protein 16-1
+NOD1,HTT,Nucleotide-binding oligomerization domain-containing protein 1,Huntingtin
+NOD1,OPTN,Nucleotide-binding oligomerization domain-containing protein 1,Optineurin
+NOD1,TP53INP1,Nucleotide-binding oligomerization domain-containing protein 1,Tumor protein p53-inducible nuclear protein 1
+NOD1,IRGM,Nucleotide-binding oligomerization domain-containing protein 1,Immunity-related GTPase family M protein
+NOD1,UBQLN4,Nucleotide-binding oligomerization domain-containing protein 1,Ubiquilin-4
+NOD1,TAX1BP1,Nucleotide-binding oligomerization domain-containing protein 1,Tax1-binding protein 1
+SRC,ATG16L1,Proto-oncogene tyrosine-protein kinase Src,Autophagy-related protein 16-1
+SRC,BECN1,Proto-oncogene tyrosine-protein kinase Src,Beclin-1
+SRC,HTT,Proto-oncogene tyrosine-protein kinase Src,Huntingtin
+SRC,ATG9A,Proto-oncogene tyrosine-protein kinase Src,Autophagy-related protein 9A
+SRC,PIK3C3,Proto-oncogene tyrosine-protein kinase Src,Phosphatidylinositol 3-kinase catalytic subunit type 3
+SRC,ATG4B,Proto-oncogene tyrosine-protein kinase Src,Cysteine protease ATG4B
+SRC,SQSTM1,Proto-oncogene tyrosine-protein kinase Src,Sequestosome-1
+SRC,AMBRA1,Proto-oncogene tyrosine-protein kinase Src,Activating molecule in BECN1-regulated autophagy protein 1
+SRC,ULK2,Proto-oncogene tyrosine-protein kinase Src,Serine/threonine-protein kinase ULK2
+SRC,MAP1LC3C,Proto-oncogene tyrosine-protein kinase Src,Microtubule-associated protein 1 light chain 3 gamma
+SRC,UBQLN2,Proto-oncogene tyrosine-protein kinase Src,Ubiquilin-2
+SRC,OPTN,Proto-oncogene tyrosine-protein kinase Src,Optineurin
+SRC,CHMP3,Proto-oncogene tyrosine-protein kinase Src,Charged multivesicular body protein 3
+SRC,PIP4K2B,Proto-oncogene tyrosine-protein kinase Src,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+SRC,CALCOCO2,Proto-oncogene tyrosine-protein kinase Src,Calcium-binding and coiled-coil domain-containing protein 2
+SRC,STX17,Proto-oncogene tyrosine-protein kinase Src,Syntaxin-17
+SRC,STING1,Proto-oncogene tyrosine-protein kinase Src,Stimulator of interferon genes protein
+SRC,RB1CC1,Proto-oncogene tyrosine-protein kinase Src,RB1-inducible coiled-coil protein 1
+SRC,ATG5,Proto-oncogene tyrosine-protein kinase Src,Autophagy protein 5
+SRC,TRIM32,Proto-oncogene tyrosine-protein kinase Src,E3 ubiquitin-protein ligase TRIM32
+SRC,MAP1LC3A,Proto-oncogene tyrosine-protein kinase Src,Microtubule-associated protein 1 light chain 3 alpha
+SRC,MAP1LC3B,Proto-oncogene tyrosine-protein kinase Src,Microtubule-associated protein 1 light chain 3 beta
+SRC,RAB23,Proto-oncogene tyrosine-protein kinase Src,Ras-related protein Rab-23
+SRC,RAB7A,Proto-oncogene tyrosine-protein kinase Src,Ras-related protein Rab-7a
+SRC,ULK1,Proto-oncogene tyrosine-protein kinase Src,Serine/threonine-protein kinase ULK1
+SRC,RAB2A,Proto-oncogene tyrosine-protein kinase Src,Ras-related protein Rab-2A
+SRC,UVRAG,Proto-oncogene tyrosine-protein kinase Src,UV radiation resistance-associated gene protein
+SRC,LAMP2,Proto-oncogene tyrosine-protein kinase Src,Lysosome-associated membrane glycoprotein 2
+SRC,SH3GLB1,Proto-oncogene tyrosine-protein kinase Src,Endophilin-B1
+SRC,GABARAPL1,Proto-oncogene tyrosine-protein kinase Src,Gamma-aminobutyric acid receptor-associated protein-like 1
+SRC,GABARAPL2,Proto-oncogene tyrosine-protein kinase Src,Gamma-aminobutyric acid receptor-associated protein-like 2
+SRC,ATG12,Proto-oncogene tyrosine-protein kinase Src,Ubiquitin-like protein ATG12
+SRC,RAB24,Proto-oncogene tyrosine-protein kinase Src,Ras-related protein Rab-24
+SRC,ATG14,Proto-oncogene tyrosine-protein kinase Src,Beclin 1-associated autophagy-related key regulator
+SRC,UBQLN1,Proto-oncogene tyrosine-protein kinase Src,Ubiquilin-1
+SRC,PIK3R4,Proto-oncogene tyrosine-protein kinase Src,Phosphoinositide 3-kinase regulatory subunit 4
+SRC,TP53INP1,Proto-oncogene tyrosine-protein kinase Src,Tumor protein p53-inducible nuclear protein 1
+SRC,CHMP1A,Proto-oncogene tyrosine-protein kinase Src,Charged multivesicular body protein 1a
+SRC,VMP1,Proto-oncogene tyrosine-protein kinase Src,Vacuole membrane protein 1
+SRC,CHMP4C,Proto-oncogene tyrosine-protein kinase Src,Charged multivesicular body protein 4c
+SRC,ATG13,Proto-oncogene tyrosine-protein kinase Src,Autophagy-related protein 13
+SRC,CHMP4B,Proto-oncogene tyrosine-protein kinase Src,Charged multivesicular body protein 4b
+SRC,PIP4K2A,Proto-oncogene tyrosine-protein kinase Src,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha
+SRC,IRGM,Proto-oncogene tyrosine-protein kinase Src,Immunity-related GTPase family M protein
+SRC,TBC1D5,Proto-oncogene tyrosine-protein kinase Src,TBC1 domain family member 5
+SRC,TBC1D14,Proto-oncogene tyrosine-protein kinase Src,TBC1 domain family member 14
+SRC,CHMP2A,Proto-oncogene tyrosine-protein kinase Src,Charged multivesicular body protein 2a
+SRC,VPS33A,Proto-oncogene tyrosine-protein kinase Src,Vacuolar protein sorting-associated protein 33A
+SRC,CHMP4A,Proto-oncogene tyrosine-protein kinase Src,Charged multivesicular body protein 4a
+SRC,ATG9B,Proto-oncogene tyrosine-protein kinase Src,Autophagy-related protein 9B
+SRC,TP53INP2,Proto-oncogene tyrosine-protein kinase Src,Tumor protein p53-inducible nuclear protein 2
+SRC,NBR1,Proto-oncogene tyrosine-protein kinase Src,Next to BRCA1 gene 1 protein
+SRC,CLN3,Proto-oncogene tyrosine-protein kinase Src,Battenin
+SRC,VPS18,Proto-oncogene tyrosine-protein kinase Src,Vacuolar protein sorting-associated protein 18 homolog
+SRC,VPS16,Proto-oncogene tyrosine-protein kinase Src,Vacuolar protein sorting-associated protein 16 homolog
+SRC,C9orf72,Proto-oncogene tyrosine-protein kinase Src,Guanine nucleotide exchange factor C9orf72
+SRC,VPS11,Proto-oncogene tyrosine-protein kinase Src,Vacuolar protein sorting-associated protein 11 homolog
+SRC,TMEM74,Proto-oncogene tyrosine-protein kinase Src,Transmembrane protein 74
+SRC,NRBF2,Proto-oncogene tyrosine-protein kinase Src,Nuclear receptor-binding factor 2
+SRC,RAB3GAP2,Proto-oncogene tyrosine-protein kinase Src,Rab3 GTPase-activating protein non-catalytic subunit
+ABL1,ATG16L1,Tyrosine-protein kinase ABL1,Autophagy-related protein 16-1
+ABL1,BECN1,Tyrosine-protein kinase ABL1,Beclin-1
+ABL1,HTT,Tyrosine-protein kinase ABL1,Huntingtin
+ABL1,ATG9A,Tyrosine-protein kinase ABL1,Autophagy-related protein 9A
+ABL1,ATG4B,Tyrosine-protein kinase ABL1,Cysteine protease ATG4B
+ABL1,SQSTM1,Tyrosine-protein kinase ABL1,Sequestosome-1
+ABL1,AMBRA1,Tyrosine-protein kinase ABL1,Activating molecule in BECN1-regulated autophagy protein 1
+ABL1,ULK2,Tyrosine-protein kinase ABL1,Serine/threonine-protein kinase ULK2
+ABL1,STX17,Tyrosine-protein kinase ABL1,Syntaxin-17
+ABL1,STING1,Tyrosine-protein kinase ABL1,Stimulator of interferon genes protein
+ABL1,RB1CC1,Tyrosine-protein kinase ABL1,RB1-inducible coiled-coil protein 1
+ABL1,ATG5,Tyrosine-protein kinase ABL1,Autophagy protein 5
+ABL1,MAP1LC3A,Tyrosine-protein kinase ABL1,Microtubule-associated protein 1 light chain 3 alpha
+ABL1,MAP1LC3B,Tyrosine-protein kinase ABL1,Microtubule-associated protein 1 light chain 3 beta
+ABL1,RAB23,Tyrosine-protein kinase ABL1,Ras-related protein Rab-23
+ABL1,RAB7A,Tyrosine-protein kinase ABL1,Ras-related protein Rab-7a
+ABL1,ULK1,Tyrosine-protein kinase ABL1,Serine/threonine-protein kinase ULK1
+ABL1,UVRAG,Tyrosine-protein kinase ABL1,UV radiation resistance-associated gene protein
+ABL1,SH3GLB1,Tyrosine-protein kinase ABL1,Endophilin-B1
+ABL1,GABARAPL1,Tyrosine-protein kinase ABL1,Gamma-aminobutyric acid receptor-associated protein-like 1
+ABL1,GABARAPL2,Tyrosine-protein kinase ABL1,Gamma-aminobutyric acid receptor-associated protein-like 2
+ABL1,ATG12,Tyrosine-protein kinase ABL1,Ubiquitin-like protein ATG12
+ABL1,UBQLN1,Tyrosine-protein kinase ABL1,Ubiquilin-1
+ABL1,TP53INP1,Tyrosine-protein kinase ABL1,Tumor protein p53-inducible nuclear protein 1
+ABL1,CHMP1A,Tyrosine-protein kinase ABL1,Charged multivesicular body protein 1a
+ABL1,PIP4K2A,Tyrosine-protein kinase ABL1,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha
+ABL1,CHMP1B,Tyrosine-protein kinase ABL1,Charged multivesicular body protein 1b
+ABL1,UBQLN4,Tyrosine-protein kinase ABL1,Ubiquilin-4
+ABL1,VPS18,Tyrosine-protein kinase ABL1,Vacuolar protein sorting-associated protein 18 homolog
+ABL1,TAX1BP1,Tyrosine-protein kinase ABL1,Tax1-binding protein 1
+ABL1,VPS16,Tyrosine-protein kinase ABL1,Vacuolar protein sorting-associated protein 16 homolog
+ABL1,TM9SF1,Tyrosine-protein kinase ABL1,Transmembrane 9 superfamily member 1
+ABL1,VPS11,Tyrosine-protein kinase ABL1,Vacuolar protein sorting-associated protein 11 homolog
+ABL1,GABARAPL3,Tyrosine-protein kinase ABL1,Gamma-aminobutyric acid receptor-associated protein-like 3
+ATG3,BECN1,Ubiquitin-like-conjugating enzyme ATG3,Beclin-1
+ATG3,SQSTM1,Ubiquitin-like-conjugating enzyme ATG3,Sequestosome-1
+ATG3,ATG5,Ubiquitin-like-conjugating enzyme ATG3,Autophagy protein 5
+ATG3,PIK3C3,Ubiquitin-like-conjugating enzyme ATG3,Phosphatidylinositol 3-kinase catalytic subunit type 3
+ATG3,MAP1LC3A,Ubiquitin-like-conjugating enzyme ATG3,Microtubule-associated protein 1 light chain 3 alpha
+ATG3,MAP1LC3B,Ubiquitin-like-conjugating enzyme ATG3,Microtubule-associated protein 1 light chain 3 beta
+ATG3,RAB23,Ubiquitin-like-conjugating enzyme ATG3,Ras-related protein Rab-23
+ATG3,RAB7A,Ubiquitin-like-conjugating enzyme ATG3,Ras-related protein Rab-7a
+ATG3,ULK1,Ubiquitin-like-conjugating enzyme ATG3,Serine/threonine-protein kinase ULK1
+ATG3,STING1,Ubiquitin-like-conjugating enzyme ATG3,Stimulator of interferon genes protein
+ATG3,RAB2A,Ubiquitin-like-conjugating enzyme ATG3,Ras-related protein Rab-2A
+ATG3,ATG16L1,Ubiquitin-like-conjugating enzyme ATG3,Autophagy-related protein 16-1
+ATG3,UVRAG,Ubiquitin-like-conjugating enzyme ATG3,UV radiation resistance-associated gene protein
+ATG3,LAMP2,Ubiquitin-like-conjugating enzyme ATG3,Lysosome-associated membrane glycoprotein 2
+ATG3,RB1CC1,Ubiquitin-like-conjugating enzyme ATG3,RB1-inducible coiled-coil protein 1
+ATG3,SH3GLB1,Ubiquitin-like-conjugating enzyme ATG3,Endophilin-B1
+ATG3,GABARAPL1,Ubiquitin-like-conjugating enzyme ATG3,Gamma-aminobutyric acid receptor-associated protein-like 1
+ATG3,GABARAPL2,Ubiquitin-like-conjugating enzyme ATG3,Gamma-aminobutyric acid receptor-associated protein-like 2
+ATG3,ATG12,Ubiquitin-like-conjugating enzyme ATG3,Ubiquitin-like protein ATG12
+ATG3,GABARAP,Ubiquitin-like-conjugating enzyme ATG3,Gamma-aminobutyric acid receptor-associated protein
+ATG3,ATG14,Ubiquitin-like-conjugating enzyme ATG3,Beclin 1-associated autophagy-related key regulator
+ATG3,UBQLN1,Ubiquitin-like-conjugating enzyme ATG3,Ubiquilin-1
+ATG3,PIK3R4,Ubiquitin-like-conjugating enzyme ATG3,Phosphoinositide 3-kinase regulatory subunit 4
+ATG3,OPTN,Ubiquitin-like-conjugating enzyme ATG3,Optineurin
+ATG3,TP53INP1,Ubiquitin-like-conjugating enzyme ATG3,Tumor protein p53-inducible nuclear protein 1
+ATG3,VMP1,Ubiquitin-like-conjugating enzyme ATG3,Vacuole membrane protein 1
+ATG3,WDR81,Ubiquitin-like-conjugating enzyme ATG3,WD repeat-containing protein 81
+ATG3,MAP1LC3C,Ubiquitin-like-conjugating enzyme ATG3,Microtubule-associated protein 1 light chain 3 gamma
+ATG3,ATG13,Ubiquitin-like-conjugating enzyme ATG3,Autophagy-related protein 13
+ATG3,ATG9A,Ubiquitin-like-conjugating enzyme ATG3,Autophagy-related protein 9A
+ATG3,UBQLN2,Ubiquitin-like-conjugating enzyme ATG3,Ubiquilin-2
+ATG3,TBC1D5,Ubiquitin-like-conjugating enzyme ATG3,TBC1 domain family member 5
+ATG3,HTT,Ubiquitin-like-conjugating enzyme ATG3,Huntingtin
+ATG3,ATG4B,Ubiquitin-like-conjugating enzyme ATG3,Cysteine protease ATG4B
+ATG3,AMBRA1,Ubiquitin-like-conjugating enzyme ATG3,Activating molecule in BECN1-regulated autophagy protein 1
+ATG3,CALCOCO2,Ubiquitin-like-conjugating enzyme ATG3,Calcium-binding and coiled-coil domain-containing protein 2
+ATG3,TBC1D25,Ubiquitin-like-conjugating enzyme ATG3,TBC1 domain family member 25
+ATG3,UBQLN4,Ubiquitin-like-conjugating enzyme ATG3,Ubiquilin-4
+ATG3,TECPR1,Ubiquitin-like-conjugating enzyme ATG3,Tectonin beta-propeller repeat-containing protein 1
+ATG3,VPS33A,Ubiquitin-like-conjugating enzyme ATG3,Vacuolar protein sorting-associated protein 33A
+ATG3,ATG9B,Ubiquitin-like-conjugating enzyme ATG3,Autophagy-related protein 9B
+ATG3,TP53INP2,Ubiquitin-like-conjugating enzyme ATG3,Tumor protein p53-inducible nuclear protein 2
+ATG3,HAP1,Ubiquitin-like-conjugating enzyme ATG3,Huntingtin-associated protein 1
+ATG3,NBR1,Ubiquitin-like-conjugating enzyme ATG3,Next to BRCA1 gene 1 protein
+ATG3,WIPI1,Ubiquitin-like-conjugating enzyme ATG3,WD repeat domain phosphoinositide-interacting protein 1
+ATG3,ZFYVE1,Ubiquitin-like-conjugating enzyme ATG3,Zinc finger FYVE domain-containing protein 1
+ATG3,VPS18,Ubiquitin-like-conjugating enzyme ATG3,Vacuolar protein sorting-associated protein 18 homolog
+ATG3,WDFY3,Ubiquitin-like-conjugating enzyme ATG3,WD repeat and FYVE domain-containing protein 3
+ATG3,VPS16,Ubiquitin-like-conjugating enzyme ATG3,Vacuolar protein sorting-associated protein 16 homolog
+ATG3,TM9SF1,Ubiquitin-like-conjugating enzyme ATG3,Transmembrane 9 superfamily member 1
+ATG3,TMEM74,Ubiquitin-like-conjugating enzyme ATG3,Transmembrane protein 74
+ATG3,NRBF2,Ubiquitin-like-conjugating enzyme ATG3,Nuclear receptor-binding factor 2
+ATG3,GABARAPL3,Ubiquitin-like-conjugating enzyme ATG3,Gamma-aminobutyric acid receptor-associated protein-like 3
+MTOR,ATG16L1,Serine/threonine-protein kinase mTOR,Autophagy-related protein 16-1
+MTOR,BECN1,Serine/threonine-protein kinase mTOR,Beclin-1
+MTOR,HTT,Serine/threonine-protein kinase mTOR,Huntingtin
+MTOR,ATG9A,Serine/threonine-protein kinase mTOR,Autophagy-related protein 9A
+MTOR,PIK3C3,Serine/threonine-protein kinase mTOR,Phosphatidylinositol 3-kinase catalytic subunit type 3
+MTOR,ATG4B,Serine/threonine-protein kinase mTOR,Cysteine protease ATG4B
+MTOR,SQSTM1,Serine/threonine-protein kinase mTOR,Sequestosome-1
+MTOR,AMBRA1,Serine/threonine-protein kinase mTOR,Activating molecule in BECN1-regulated autophagy protein 1
+MTOR,ULK2,Serine/threonine-protein kinase mTOR,Serine/threonine-protein kinase ULK2
+MTOR,MAP1LC3C,Serine/threonine-protein kinase mTOR,Microtubule-associated protein 1 light chain 3 gamma
+MTOR,UBQLN2,Serine/threonine-protein kinase mTOR,Ubiquilin-2
+MTOR,OPTN,Serine/threonine-protein kinase mTOR,Optineurin
+MTOR,CHMP3,Serine/threonine-protein kinase mTOR,Charged multivesicular body protein 3
+MTOR,CALCOCO2,Serine/threonine-protein kinase mTOR,Calcium-binding and coiled-coil domain-containing protein 2
+MTOR,STX17,Serine/threonine-protein kinase mTOR,Syntaxin-17
+MTOR,STING1,Serine/threonine-protein kinase mTOR,Stimulator of interferon genes protein
+MTOR,RB1CC1,Serine/threonine-protein kinase mTOR,RB1-inducible coiled-coil protein 1
+MTOR,ATG5,Serine/threonine-protein kinase mTOR,Autophagy protein 5
+MTOR,TRIM32,Serine/threonine-protein kinase mTOR,E3 ubiquitin-protein ligase TRIM32
+MTOR,MAP1LC3A,Serine/threonine-protein kinase mTOR,Microtubule-associated protein 1 light chain 3 alpha
+MTOR,MAP1LC3B,Serine/threonine-protein kinase mTOR,Microtubule-associated protein 1 light chain 3 beta
+MTOR,RAB23,Serine/threonine-protein kinase mTOR,Ras-related protein Rab-23
+MTOR,RAB7A,Serine/threonine-protein kinase mTOR,Ras-related protein Rab-7a
+MTOR,ULK1,Serine/threonine-protein kinase mTOR,Serine/threonine-protein kinase ULK1
+MTOR,RAB2A,Serine/threonine-protein kinase mTOR,Ras-related protein Rab-2A
+MTOR,UVRAG,Serine/threonine-protein kinase mTOR,UV radiation resistance-associated gene protein
+MTOR,LAMP2,Serine/threonine-protein kinase mTOR,Lysosome-associated membrane glycoprotein 2
+MTOR,SH3GLB1,Serine/threonine-protein kinase mTOR,Endophilin-B1
+MTOR,GABARAPL1,Serine/threonine-protein kinase mTOR,Gamma-aminobutyric acid receptor-associated protein-like 1
+MTOR,GABARAPL2,Serine/threonine-protein kinase mTOR,Gamma-aminobutyric acid receptor-associated protein-like 2
+MTOR,ATG12,Serine/threonine-protein kinase mTOR,Ubiquitin-like protein ATG12
+MTOR,RAB24,Serine/threonine-protein kinase mTOR,Ras-related protein Rab-24
+MTOR,GABARAP,Serine/threonine-protein kinase mTOR,Gamma-aminobutyric acid receptor-associated protein
+MTOR,ATG14,Serine/threonine-protein kinase mTOR,Beclin 1-associated autophagy-related key regulator
+MTOR,UBQLN1,Serine/threonine-protein kinase mTOR,Ubiquilin-1
+MTOR,PIK3R4,Serine/threonine-protein kinase mTOR,Phosphoinositide 3-kinase regulatory subunit 4
+MTOR,TP53INP1,Serine/threonine-protein kinase mTOR,Tumor protein p53-inducible nuclear protein 1
+MTOR,SRPX,Serine/threonine-protein kinase mTOR,Sushi repeat-containing protein SRPX
+MTOR,CHMP1A,Serine/threonine-protein kinase mTOR,Charged multivesicular body protein 1a
+MTOR,VMP1,Serine/threonine-protein kinase mTOR,Vacuole membrane protein 1
+MTOR,WDR81,Serine/threonine-protein kinase mTOR,WD repeat-containing protein 81
+MTOR,CHMP4C,Serine/threonine-protein kinase mTOR,Charged multivesicular body protein 4c
+MTOR,ATG13,Serine/threonine-protein kinase mTOR,Autophagy-related protein 13
+MTOR,CHMP4B,Serine/threonine-protein kinase mTOR,Charged multivesicular body protein 4b
+MTOR,ATP13A2,Serine/threonine-protein kinase mTOR,Polyamine-transporting ATPase 13A2
+MTOR,PIP4K2A,Serine/threonine-protein kinase mTOR,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha
+MTOR,IRGM,Serine/threonine-protein kinase mTOR,Immunity-related GTPase family M protein
+MTOR,TBC1D5,Serine/threonine-protein kinase mTOR,TBC1 domain family member 5
+MTOR,CHMP1B,Serine/threonine-protein kinase mTOR,Charged multivesicular body protein 1b
+MTOR,TBC1D17,Serine/threonine-protein kinase mTOR,TBC1 domain family member 17
+MTOR,TBC1D14,Serine/threonine-protein kinase mTOR,TBC1 domain family member 14
+MTOR,TBC1D25,Serine/threonine-protein kinase mTOR,TBC1 domain family member 25
+MTOR,CHMP2B,Serine/threonine-protein kinase mTOR,Charged multivesicular body protein 2b
+MTOR,UBQLN4,Serine/threonine-protein kinase mTOR,Ubiquilin-4
+MTOR,CHMP2A,Serine/threonine-protein kinase mTOR,Charged multivesicular body protein 2a
+MTOR,ULK3,Serine/threonine-protein kinase mTOR,Serine/threonine-protein kinase ULK3
+MTOR,TECPR1,Serine/threonine-protein kinase mTOR,Tectonin beta-propeller repeat-containing protein 1
+MTOR,VPS33A,Serine/threonine-protein kinase mTOR,Vacuolar protein sorting-associated protein 33A
+MTOR,ATG9B,Serine/threonine-protein kinase mTOR,Autophagy-related protein 9B
+MTOR,TP53INP2,Serine/threonine-protein kinase mTOR,Tumor protein p53-inducible nuclear protein 2
+MTOR,SNAP29,Serine/threonine-protein kinase mTOR,Synaptosomal-associated protein 29
+MTOR,NBR1,Serine/threonine-protein kinase mTOR,Next to BRCA1 gene 1 protein
+MTOR,WIPI1,Serine/threonine-protein kinase mTOR,WD repeat domain phosphoinositide-interacting protein 1
+MTOR,CLN3,Serine/threonine-protein kinase mTOR,Battenin
+MTOR,ZFYVE1,Serine/threonine-protein kinase mTOR,Zinc finger FYVE domain-containing protein 1
+MTOR,VPS18,Serine/threonine-protein kinase mTOR,Vacuolar protein sorting-associated protein 18 homolog
+MTOR,WDFY3,Serine/threonine-protein kinase mTOR,WD repeat and FYVE domain-containing protein 3
+MTOR,TAX1BP1,Serine/threonine-protein kinase mTOR,Tax1-binding protein 1
+MTOR,VPS16,Serine/threonine-protein kinase mTOR,Vacuolar protein sorting-associated protein 16 homolog
+MTOR,TM9SF1,Serine/threonine-protein kinase mTOR,Transmembrane 9 superfamily member 1
+MTOR,C9orf72,Serine/threonine-protein kinase mTOR,Guanine nucleotide exchange factor C9orf72
+MTOR,VPS11,Serine/threonine-protein kinase mTOR,Vacuolar protein sorting-associated protein 11 homolog
+MTOR,TMEM74,Serine/threonine-protein kinase mTOR,Transmembrane protein 74
+MTOR,RUBCNL,Serine/threonine-protein kinase mTOR,Protein associated with UVRAG as autophagy enhancer
+MTOR,TMEM150B,Serine/threonine-protein kinase mTOR,Modulator of macroautophagy TMEM150B
+MTOR,RAB12,Serine/threonine-protein kinase mTOR,Ras-related protein Rab-12
+MTOR,NRBF2,Serine/threonine-protein kinase mTOR,Nuclear receptor-binding factor 2
+MTOR,GRAMD1A,Serine/threonine-protein kinase mTOR,Protein Aster-A
+MTOR,GABARAPL3,Serine/threonine-protein kinase mTOR,Gamma-aminobutyric acid receptor-associated protein-like 3
+MTOR,RAB3GAP2,Serine/threonine-protein kinase mTOR,Rab3 GTPase-activating protein non-catalytic subunit
+MTOR,RUFY4,Serine/threonine-protein kinase mTOR,RUN and FYVE domain-containing protein 4
+PRKAA1,ATG16L1,5'-AMP-activated protein kinase catalytic subunit alpha-1,Autophagy-related protein 16-1
+PRKAA1,BECN1,5'-AMP-activated protein kinase catalytic subunit alpha-1,Beclin-1
+PRKAA1,HTT,5'-AMP-activated protein kinase catalytic subunit alpha-1,Huntingtin
+PRKAA1,ATG9A,5'-AMP-activated protein kinase catalytic subunit alpha-1,Autophagy-related protein 9A
+PRKAA1,PIK3C3,5'-AMP-activated protein kinase catalytic subunit alpha-1,Phosphatidylinositol 3-kinase catalytic subunit type 3
+PRKAA1,ATG4B,5'-AMP-activated protein kinase catalytic subunit alpha-1,Cysteine protease ATG4B
+PRKAA1,SQSTM1,5'-AMP-activated protein kinase catalytic subunit alpha-1,Sequestosome-1
+PRKAA1,AMBRA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,Activating molecule in BECN1-regulated autophagy protein 1
+PRKAA1,ULK2,5'-AMP-activated protein kinase catalytic subunit alpha-1,Serine/threonine-protein kinase ULK2
+PRKAA1,MAP1LC3C,5'-AMP-activated protein kinase catalytic subunit alpha-1,Microtubule-associated protein 1 light chain 3 gamma
+PRKAA1,UBQLN2,5'-AMP-activated protein kinase catalytic subunit alpha-1,Ubiquilin-2
+PRKAA1,OPTN,5'-AMP-activated protein kinase catalytic subunit alpha-1,Optineurin
+PRKAA1,CALCOCO2,5'-AMP-activated protein kinase catalytic subunit alpha-1,Calcium-binding and coiled-coil domain-containing protein 2
+PRKAA1,STX17,5'-AMP-activated protein kinase catalytic subunit alpha-1,Syntaxin-17
+PRKAA1,STING1,5'-AMP-activated protein kinase catalytic subunit alpha-1,Stimulator of interferon genes protein
+PRKAA1,RB1CC1,5'-AMP-activated protein kinase catalytic subunit alpha-1,RB1-inducible coiled-coil protein 1
+HSP90AA1,ATG16L1,Heat shock protein HSP 90-alpha,Autophagy-related protein 16-1
+HSP90AA1,BECN1,Heat shock protein HSP 90-alpha,Beclin-1
+HSP90AA1,HTT,Heat shock protein HSP 90-alpha,Huntingtin
+HSP90AA1,ATG9A,Heat shock protein HSP 90-alpha,Autophagy-related protein 9A
+HSP90AA1,PIK3C3,Heat shock protein HSP 90-alpha,Phosphatidylinositol 3-kinase catalytic subunit type 3
+HSP90AA1,ATG4B,Heat shock protein HSP 90-alpha,Cysteine protease ATG4B
+HSP90AA1,SQSTM1,Heat shock protein HSP 90-alpha,Sequestosome-1
+HSP90AA1,AMBRA1,Heat shock protein HSP 90-alpha,Activating molecule in BECN1-regulated autophagy protein 1
+HSP90AA1,UBQLN2,Heat shock protein HSP 90-alpha,Ubiquilin-2
+HSP90AA1,OPTN,Heat shock protein HSP 90-alpha,Optineurin
+HSP90AA1,STING1,Heat shock protein HSP 90-alpha,Stimulator of interferon genes protein
+HSP90AA1,RB1CC1,Heat shock protein HSP 90-alpha,RB1-inducible coiled-coil protein 1
+SIRT2,ATG16L1,NAD-dependent protein deacetylase sirtuin-2,Autophagy-related protein 16-1
+SIRT2,BECN1,NAD-dependent protein deacetylase sirtuin-2,Beclin-1
+SIRT2,HTT,NAD-dependent protein deacetylase sirtuin-2,Huntingtin
+SIRT2,PIK3C3,NAD-dependent protein deacetylase sirtuin-2,Phosphatidylinositol 3-kinase catalytic subunit type 3
+SIRT2,ATG4B,NAD-dependent protein deacetylase sirtuin-2,Cysteine protease ATG4B
+SIRT2,SQSTM1,NAD-dependent protein deacetylase sirtuin-2,Sequestosome-1
+SIRT2,ULK2,NAD-dependent protein deacetylase sirtuin-2,Serine/threonine-protein kinase ULK2
+SIRT2,UBQLN2,NAD-dependent protein deacetylase sirtuin-2,Ubiquilin-2
+SIRT2,STING1,NAD-dependent protein deacetylase sirtuin-2,Stimulator of interferon genes protein
+SIRT2,RB1CC1,NAD-dependent protein deacetylase sirtuin-2,RB1-inducible coiled-coil protein 1
+TRAF6,ATG16L1,TNF receptor-associated factor 6,Autophagy-related protein 16-1
+TRAF6,BECN1,TNF receptor-associated factor 6,Beclin-1
+TRAF6,HTT,TNF receptor-associated factor 6,Huntingtin
+TRAF6,ATG9A,TNF receptor-associated factor 6,Autophagy-related protein 9A
+TRAF6,PIK3C3,TNF receptor-associated factor 6,Phosphatidylinositol 3-kinase catalytic subunit type 3
+TRAF6,ATG4B,TNF receptor-associated factor 6,Cysteine protease ATG4B
+TRAF6,SQSTM1,TNF receptor-associated factor 6,Sequestosome-1
+TRAF6,AMBRA1,TNF receptor-associated factor 6,Activating molecule in BECN1-regulated autophagy protein 1
+TRAF6,ULK2,TNF receptor-associated factor 6,Serine/threonine-protein kinase ULK2
+TRAF6,MAP1LC3C,TNF receptor-associated factor 6,Microtubule-associated protein 1 light chain 3 gamma
+TRAF6,UBQLN2,TNF receptor-associated factor 6,Ubiquilin-2
+TRAF6,OPTN,TNF receptor-associated factor 6,Optineurin
+TRAF6,CHMP3,TNF receptor-associated factor 6,Charged multivesicular body protein 3
+TRAF6,CALCOCO2,TNF receptor-associated factor 6,Calcium-binding and coiled-coil domain-containing protein 2
+TRAF6,STX17,TNF receptor-associated factor 6,Syntaxin-17
+TRAF6,STING1,TNF receptor-associated factor 6,Stimulator of interferon genes protein
+TRAF6,RB1CC1,TNF receptor-associated factor 6,RB1-inducible coiled-coil protein 1
+HMOX1,ATG16L1,Heme oxygenase 1,Autophagy-related protein 16-1
+HMOX1,BECN1,Heme oxygenase 1,Beclin-1
+HMOX1,ATG9A,Heme oxygenase 1,Autophagy-related protein 9A
+HMOX1,PIK3C3,Heme oxygenase 1,Phosphatidylinositol 3-kinase catalytic subunit type 3
+HMOX1,ATG4B,Heme oxygenase 1,Cysteine protease ATG4B
+HMOX1,SQSTM1,Heme oxygenase 1,Sequestosome-1
+HMOX1,AMBRA1,Heme oxygenase 1,Activating molecule in BECN1-regulated autophagy protein 1
+HMOX1,MAP1LC3C,Heme oxygenase 1,Microtubule-associated protein 1 light chain 3 gamma
+HMOX1,UBQLN2,Heme oxygenase 1,Ubiquilin-2
+HMOX1,OPTN,Heme oxygenase 1,Optineurin
+HMOX1,CALCOCO2,Heme oxygenase 1,Calcium-binding and coiled-coil domain-containing protein 2
+HMOX1,STING1,Heme oxygenase 1,Stimulator of interferon genes protein
+HMOX1,RB1CC1,Heme oxygenase 1,RB1-inducible coiled-coil protein 1
+ATM,BECN1,Serine-protein kinase ATM,Beclin-1
+ATM,HTT,Serine-protein kinase ATM,Huntingtin
+ATM,ATG9A,Serine-protein kinase ATM,Autophagy-related protein 9A
+ATM,PIK3C3,Serine-protein kinase ATM,Phosphatidylinositol 3-kinase catalytic subunit type 3
+ATM,ATG4B,Serine-protein kinase ATM,Cysteine protease ATG4B
+ATM,SQSTM1,Serine-protein kinase ATM,Sequestosome-1
+ATM,AMBRA1,Serine-protein kinase ATM,Activating molecule in BECN1-regulated autophagy protein 1
+ATM,ULK2,Serine-protein kinase ATM,Serine/threonine-protein kinase ULK2
+ATM,MAP1LC3C,Serine-protein kinase ATM,Microtubule-associated protein 1 light chain 3 gamma
+ATM,OPTN,Serine-protein kinase ATM,Optineurin
+ATM,CALCOCO2,Serine-protein kinase ATM,Calcium-binding and coiled-coil domain-containing protein 2
+ATM,STX17,Serine-protein kinase ATM,Syntaxin-17
+ATM,STING1,Serine-protein kinase ATM,Stimulator of interferon genes protein
+ATM,RB1CC1,Serine-protein kinase ATM,RB1-inducible coiled-coil protein 1
+CLU,ATG16L1,Clusterin,Autophagy-related protein 16-1
+CLU,BECN1,Clusterin,Beclin-1
+CLU,HTT,Clusterin,Huntingtin
+CLU,ATG9A,Clusterin,Autophagy-related protein 9A
+CLU,PIK3C3,Clusterin,Phosphatidylinositol 3-kinase catalytic subunit type 3
+CLU,SQSTM1,Clusterin,Sequestosome-1
+CLU,AMBRA1,Clusterin,Activating molecule in BECN1-regulated autophagy protein 1
+CLU,OPTN,Clusterin,Optineurin
+CLU,CHMP3,Clusterin,Charged multivesicular body protein 3
+CLU,STING1,Clusterin,Stimulator of interferon genes protein
+CLU,RB1CC1,Clusterin,RB1-inducible coiled-coil protein 1
+S100A8,ATG16L1,Protein S100-A8,Autophagy-related protein 16-1
+S100A8,BECN1,Protein S100-A8,Beclin-1
+S100A8,PIK3C3,Protein S100-A8,Phosphatidylinositol 3-kinase catalytic subunit type 3
+S100A8,SQSTM1,Protein S100-A8,Sequestosome-1
+S100A8,OPTN,Protein S100-A8,Optineurin
+S100A8,STING1,Protein S100-A8,Stimulator of interferon genes protein
+HSPA8,BECN1,Heat shock cognate 71 kDa protein,Beclin-1
+HSPA8,HTT,Heat shock cognate 71 kDa protein,Huntingtin
+HSPA8,ATG9A,Heat shock cognate 71 kDa protein,Autophagy-related protein 9A
+HSPA8,SQSTM1,Heat shock cognate 71 kDa protein,Sequestosome-1
+HSPA8,AMBRA1,Heat shock cognate 71 kDa protein,Activating molecule in BECN1-regulated autophagy protein 1
+HSPA8,UBQLN2,Heat shock cognate 71 kDa protein,Ubiquilin-2
+HSPA8,OPTN,Heat shock cognate 71 kDa protein,Optineurin
+HSPA8,CALCOCO2,Heat shock cognate 71 kDa protein,Calcium-binding and coiled-coil domain-containing protein 2
+HSPA8,STX17,Heat shock cognate 71 kDa protein,Syntaxin-17
+HSPA8,STING1,Heat shock cognate 71 kDa protein,Stimulator of interferon genes protein
+HSPA8,RB1CC1,Heat shock cognate 71 kDa protein,RB1-inducible coiled-coil protein 1
+ITGB4,ATG16L1,Integrin beta-4,Autophagy-related protein 16-1
+ITGB4,BECN1,Integrin beta-4,Beclin-1
+ITGB4,ATG9A,Integrin beta-4,Autophagy-related protein 9A
+ITGB4,PIK3C3,Integrin beta-4,Phosphatidylinositol 3-kinase catalytic subunit type 3
+ITGB4,AMBRA1,Integrin beta-4,Activating molecule in BECN1-regulated autophagy protein 1
+ITGB4,RB1CC1,Integrin beta-4,RB1-inducible coiled-coil protein 1
+ATG5,ATG16L1,Autophagy protein 5,Autophagy-related protein 16-1
+ATG5,HTT,Autophagy protein 5,Huntingtin
+ATG5,ATG9A,Autophagy protein 5,Autophagy-related protein 9A
+ATG5,PIK3C3,Autophagy protein 5,Phosphatidylinositol 3-kinase catalytic subunit type 3
+ATG5,ATG4B,Autophagy protein 5,Cysteine protease ATG4B
+ATG5,AMBRA1,Autophagy protein 5,Activating molecule in BECN1-regulated autophagy protein 1
+ATG5,ULK2,Autophagy protein 5,Serine/threonine-protein kinase ULK2
+ATG5,MAP1LC3C,Autophagy protein 5,Microtubule-associated protein 1 light chain 3 gamma
+ATG5,UBQLN2,Autophagy protein 5,Ubiquilin-2
+ATG5,OPTN,Autophagy protein 5,Optineurin
+ATG5,CALCOCO2,Autophagy protein 5,Calcium-binding and coiled-coil domain-containing protein 2
+ATG5,STING1,Autophagy protein 5,Stimulator of interferon genes protein
+ATG5,RB1CC1,Autophagy protein 5,RB1-inducible coiled-coil protein 1
+PRKAA2,ATG16L1,5'-AMP-activated protein kinase catalytic subunit alpha-2,Autophagy-related protein 16-1
+PRKAA2,BECN1,5'-AMP-activated protein kinase catalytic subunit alpha-2,Beclin-1
+PRKAA2,HTT,5'-AMP-activated protein kinase catalytic subunit alpha-2,Huntingtin
+PRKAA2,ATG9A,5'-AMP-activated protein kinase catalytic subunit alpha-2,Autophagy-related protein 9A
+PRKAA2,PIK3C3,5'-AMP-activated protein kinase catalytic subunit alpha-2,Phosphatidylinositol 3-kinase catalytic subunit type 3
+PRKAA2,SQSTM1,5'-AMP-activated protein kinase catalytic subunit alpha-2,Sequestosome-1
+PRKAA2,AMBRA1,5'-AMP-activated protein kinase catalytic subunit alpha-2,Activating molecule in BECN1-regulated autophagy protein 1
+PRKAA2,ULK2,5'-AMP-activated protein kinase catalytic subunit alpha-2,Serine/threonine-protein kinase ULK2
+PRKAA2,UBQLN2,5'-AMP-activated protein kinase catalytic subunit alpha-2,Ubiquilin-2
+PRKAA2,CALCOCO2,5'-AMP-activated protein kinase catalytic subunit alpha-2,Calcium-binding and coiled-coil domain-containing protein 2
+PRKAA2,STX17,5'-AMP-activated protein kinase catalytic subunit alpha-2,Syntaxin-17
+PRKAA2,STING1,5'-AMP-activated protein kinase catalytic subunit alpha-2,Stimulator of interferon genes protein
+PRKAA2,RB1CC1,5'-AMP-activated protein kinase catalytic subunit alpha-2,RB1-inducible coiled-coil protein 1
+DRD2,ATG16L1,D(2) dopamine receptor,Autophagy-related protein 16-1
+DRD2,BECN1,D(2) dopamine receptor,Beclin-1
+DRD2,HTT,D(2) dopamine receptor,Huntingtin
+DRD2,PIK3C3,D(2) dopamine receptor,Phosphatidylinositol 3-kinase catalytic subunit type 3
+DRD2,SQSTM1,D(2) dopamine receptor,Sequestosome-1
+DRD2,OPTN,D(2) dopamine receptor,Optineurin
+TRIM32,HTT,E3 ubiquitin-protein ligase TRIM32,Huntingtin
+TRIM32,UBQLN2,E3 ubiquitin-protein ligase TRIM32,Ubiquilin-2
+TRIM32,OPTN,E3 ubiquitin-protein ligase TRIM32,Optineurin
+TRIM32,CALCOCO2,E3 ubiquitin-protein ligase TRIM32,Calcium-binding and coiled-coil domain-containing protein 2
+TRIM32,STING1,E3 ubiquitin-protein ligase TRIM32,Stimulator of interferon genes protein
+TRIM32,RB1CC1,E3 ubiquitin-protein ligase TRIM32,RB1-inducible coiled-coil protein 1
+IRF8,BECN1,Interferon regulatory factor 8,Beclin-1
+IRF8,ATG9A,Interferon regulatory factor 8,Autophagy-related protein 9A
+IRF8,PIK3C3,Interferon regulatory factor 8,Phosphatidylinositol 3-kinase catalytic subunit type 3
+IRF8,ATG4B,Interferon regulatory factor 8,Cysteine protease ATG4B
+IRF8,SQSTM1,Interferon regulatory factor 8,Sequestosome-1
+IRF8,UBQLN2,Interferon regulatory factor 8,Ubiquilin-2
+IRF8,OPTN,Interferon regulatory factor 8,Optineurin
+IRF8,STING1,Interferon regulatory factor 8,Stimulator of interferon genes protein
+XBP1,ATG16L1,X-box-binding protein 1,Autophagy-related protein 16-1
+XBP1,BECN1,X-box-binding protein 1,Beclin-1
+XBP1,HTT,X-box-binding protein 1,Huntingtin
+XBP1,ATG9A,X-box-binding protein 1,Autophagy-related protein 9A
+XBP1,PIK3C3,X-box-binding protein 1,Phosphatidylinositol 3-kinase catalytic subunit type 3
+XBP1,ATG4B,X-box-binding protein 1,Cysteine protease ATG4B
+XBP1,SQSTM1,X-box-binding protein 1,Sequestosome-1
+XBP1,MAP1LC3C,X-box-binding protein 1,Microtubule-associated protein 1 light chain 3 gamma
+XBP1,OPTN,X-box-binding protein 1,Optineurin
+XBP1,PIP4K2B,X-box-binding protein 1,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+XBP1,STING1,X-box-binding protein 1,Stimulator of interferon genes protein
+XBP1,RB1CC1,X-box-binding protein 1,RB1-inducible coiled-coil protein 1
+ATG7,ATG16L1,Ubiquitin-like modifier-activating enzyme ATG7,Autophagy-related protein 16-1
+ATG7,BECN1,Ubiquitin-like modifier-activating enzyme ATG7,Beclin-1
+ATG7,HTT,Ubiquitin-like modifier-activating enzyme ATG7,Huntingtin
+ATG7,ATG9A,Ubiquitin-like modifier-activating enzyme ATG7,Autophagy-related protein 9A
+ATG7,PIK3C3,Ubiquitin-like modifier-activating enzyme ATG7,Phosphatidylinositol 3-kinase catalytic subunit type 3
+ATG7,ATG4B,Ubiquitin-like modifier-activating enzyme ATG7,Cysteine protease ATG4B
+ATG7,SQSTM1,Ubiquitin-like modifier-activating enzyme ATG7,Sequestosome-1
+ATG7,AMBRA1,Ubiquitin-like modifier-activating enzyme ATG7,Activating molecule in BECN1-regulated autophagy protein 1
+ATG7,MAP1LC3C,Ubiquitin-like modifier-activating enzyme ATG7,Microtubule-associated protein 1 light chain 3 gamma
+ATG7,UBQLN2,Ubiquitin-like modifier-activating enzyme ATG7,Ubiquilin-2
+ATG7,OPTN,Ubiquitin-like modifier-activating enzyme ATG7,Optineurin
+ATG7,CALCOCO2,Ubiquitin-like modifier-activating enzyme ATG7,Calcium-binding and coiled-coil domain-containing protein 2
+ATG7,STING1,Ubiquitin-like modifier-activating enzyme ATG7,Stimulator of interferon genes protein
+ATG7,RB1CC1,Ubiquitin-like modifier-activating enzyme ATG7,RB1-inducible coiled-coil protein 1
+MAP1LC3B,ATG16L1,Microtubule-associated protein 1 light chain 3 beta,Autophagy-related protein 16-1
+MAP1LC3B,HTT,Microtubule-associated protein 1 light chain 3 beta,Huntingtin
+MAP1LC3B,ATG9A,Microtubule-associated protein 1 light chain 3 beta,Autophagy-related protein 9A
+MAP1LC3B,PIK3C3,Microtubule-associated protein 1 light chain 3 beta,Phosphatidylinositol 3-kinase catalytic subunit type 3
+MAP1LC3B,ATG4B,Microtubule-associated protein 1 light chain 3 beta,Cysteine protease ATG4B
+MAP1LC3B,AMBRA1,Microtubule-associated protein 1 light chain 3 beta,Activating molecule in BECN1-regulated autophagy protein 1
+MAP1LC3B,ULK2,Microtubule-associated protein 1 light chain 3 beta,Serine/threonine-protein kinase ULK2
+MAP1LC3B,MAP1LC3C,Microtubule-associated protein 1 light chain 3 beta,Microtubule-associated protein 1 light chain 3 gamma
+MAP1LC3B,UBQLN2,Microtubule-associated protein 1 light chain 3 beta,Ubiquilin-2
+MAP1LC3B,OPTN,Microtubule-associated protein 1 light chain 3 beta,Optineurin
+MAP1LC3B,CALCOCO2,Microtubule-associated protein 1 light chain 3 beta,Calcium-binding and coiled-coil domain-containing protein 2
+MAP1LC3B,STX17,Microtubule-associated protein 1 light chain 3 beta,Syntaxin-17
+MAP1LC3B,STING1,Microtubule-associated protein 1 light chain 3 beta,Stimulator of interferon genes protein
+MAP1LC3B,RB1CC1,Microtubule-associated protein 1 light chain 3 beta,RB1-inducible coiled-coil protein 1
+RIPK2,ATG16L1,Receptor-interacting serine/threonine-protein kinase 2,Autophagy-related protein 16-1
+RIPK2,BECN1,Receptor-interacting serine/threonine-protein kinase 2,Beclin-1
+RIPK2,PIK3C3,Receptor-interacting serine/threonine-protein kinase 2,Phosphatidylinositol 3-kinase catalytic subunit type 3
+RIPK2,SQSTM1,Receptor-interacting serine/threonine-protein kinase 2,Sequestosome-1
+RIPK2,AMBRA1,Receptor-interacting serine/threonine-protein kinase 2,Activating molecule in BECN1-regulated autophagy protein 1
+RIPK2,ULK2,Receptor-interacting serine/threonine-protein kinase 2,Serine/threonine-protein kinase ULK2
+RIPK2,OPTN,Receptor-interacting serine/threonine-protein kinase 2,Optineurin
+RIPK2,STING1,Receptor-interacting serine/threonine-protein kinase 2,Stimulator of interferon genes protein
+RAB8A,ATG16L1,Ras-related protein Rab-8A,Autophagy-related protein 16-1
+RAB8A,BECN1,Ras-related protein Rab-8A,Beclin-1
+RAB8A,HTT,Ras-related protein Rab-8A,Huntingtin
+RAB8A,ATG9A,Ras-related protein Rab-8A,Autophagy-related protein 9A
+RAB8A,PIK3C3,Ras-related protein Rab-8A,Phosphatidylinositol 3-kinase catalytic subunit type 3
+RAB8A,SQSTM1,Ras-related protein Rab-8A,Sequestosome-1
+RAB8A,UBQLN2,Ras-related protein Rab-8A,Ubiquilin-2
+RAB8A,OPTN,Ras-related protein Rab-8A,Optineurin
+RAB8A,CALCOCO2,Ras-related protein Rab-8A,Calcium-binding and coiled-coil domain-containing protein 2
+RAB8A,STX17,Ras-related protein Rab-8A,Syntaxin-17
+RAB8A,RB1CC1,Ras-related protein Rab-8A,RB1-inducible coiled-coil protein 1
+RAB7A,ATG16L1,Ras-related protein Rab-7a,Autophagy-related protein 16-1
+RAB7A,HTT,Ras-related protein Rab-7a,Huntingtin
+RAB7A,ATG9A,Ras-related protein Rab-7a,Autophagy-related protein 9A
+RAB7A,PIK3C3,Ras-related protein Rab-7a,Phosphatidylinositol 3-kinase catalytic subunit type 3
+RAB7A,ATG4B,Ras-related protein Rab-7a,Cysteine protease ATG4B
+RAB7A,AMBRA1,Ras-related protein Rab-7a,Activating molecule in BECN1-regulated autophagy protein 1
+RAB7A,MAP1LC3C,Ras-related protein Rab-7a,Microtubule-associated protein 1 light chain 3 gamma
+RAB7A,UBQLN2,Ras-related protein Rab-7a,Ubiquilin-2
+RAB7A,OPTN,Ras-related protein Rab-7a,Optineurin
+RAB7A,CALCOCO2,Ras-related protein Rab-7a,Calcium-binding and coiled-coil domain-containing protein 2
+RAB7A,STX17,Ras-related protein Rab-7a,Syntaxin-17
+RAB7A,STING1,Ras-related protein Rab-7a,Stimulator of interferon genes protein
+RAB7A,RB1CC1,Ras-related protein Rab-7a,RB1-inducible coiled-coil protein 1
+PINK1,ATG16L1,"Serine/threonine-protein kinase PINK1, mitochondrial",Autophagy-related protein 16-1
+PINK1,BECN1,"Serine/threonine-protein kinase PINK1, mitochondrial",Beclin-1
+PINK1,HTT,"Serine/threonine-protein kinase PINK1, mitochondrial",Huntingtin
+PINK1,ATG9A,"Serine/threonine-protein kinase PINK1, mitochondrial",Autophagy-related protein 9A
+PINK1,PIK3C3,"Serine/threonine-protein kinase PINK1, mitochondrial",Phosphatidylinositol 3-kinase catalytic subunit type 3
+PINK1,ATG4B,"Serine/threonine-protein kinase PINK1, mitochondrial",Cysteine protease ATG4B
+PINK1,SQSTM1,"Serine/threonine-protein kinase PINK1, mitochondrial",Sequestosome-1
+PINK1,AMBRA1,"Serine/threonine-protein kinase PINK1, mitochondrial",Activating molecule in BECN1-regulated autophagy protein 1
+PINK1,ULK2,"Serine/threonine-protein kinase PINK1, mitochondrial",Serine/threonine-protein kinase ULK2
+PINK1,MAP1LC3C,"Serine/threonine-protein kinase PINK1, mitochondrial",Microtubule-associated protein 1 light chain 3 gamma
+PINK1,UBQLN2,"Serine/threonine-protein kinase PINK1, mitochondrial",Ubiquilin-2
+PINK1,OPTN,"Serine/threonine-protein kinase PINK1, mitochondrial",Optineurin
+PINK1,CALCOCO2,"Serine/threonine-protein kinase PINK1, mitochondrial",Calcium-binding and coiled-coil domain-containing protein 2
+PINK1,STX17,"Serine/threonine-protein kinase PINK1, mitochondrial",Syntaxin-17
+PINK1,STING1,"Serine/threonine-protein kinase PINK1, mitochondrial",Stimulator of interferon genes protein
+PINK1,RB1CC1,"Serine/threonine-protein kinase PINK1, mitochondrial",RB1-inducible coiled-coil protein 1
+CTSD,BECN1,Cathepsin D,Beclin-1
+CTSD,ATG9A,Cathepsin D,Autophagy-related protein 9A
+CTSD,PIK3C3,Cathepsin D,Phosphatidylinositol 3-kinase catalytic subunit type 3
+CTSD,SQSTM1,Cathepsin D,Sequestosome-1
+CTSD,AMBRA1,Cathepsin D,Activating molecule in BECN1-regulated autophagy protein 1
+CTSD,OPTN,Cathepsin D,Optineurin
+ULK1,ATG16L1,Serine/threonine-protein kinase ULK1,Autophagy-related protein 16-1
+ULK1,HTT,Serine/threonine-protein kinase ULK1,Huntingtin
+ULK1,ATG9A,Serine/threonine-protein kinase ULK1,Autophagy-related protein 9A
+ULK1,PIK3C3,Serine/threonine-protein kinase ULK1,Phosphatidylinositol 3-kinase catalytic subunit type 3
+ULK1,ATG4B,Serine/threonine-protein kinase ULK1,Cysteine protease ATG4B
+ULK1,AMBRA1,Serine/threonine-protein kinase ULK1,Activating molecule in BECN1-regulated autophagy protein 1
+ULK1,ULK2,Serine/threonine-protein kinase ULK1,Serine/threonine-protein kinase ULK2
+ULK1,MAP1LC3C,Serine/threonine-protein kinase ULK1,Microtubule-associated protein 1 light chain 3 gamma
+ULK1,UBQLN2,Serine/threonine-protein kinase ULK1,Ubiquilin-2
+ULK1,OPTN,Serine/threonine-protein kinase ULK1,Optineurin
+ULK1,CALCOCO2,Serine/threonine-protein kinase ULK1,Calcium-binding and coiled-coil domain-containing protein 2
+ULK1,STING1,Serine/threonine-protein kinase ULK1,Stimulator of interferon genes protein
+ULK1,RB1CC1,Serine/threonine-protein kinase ULK1,RB1-inducible coiled-coil protein 1
+HDAC10,BECN1,Polyamine deacetylase HDAC10,Beclin-1
+HDAC10,HTT,Polyamine deacetylase HDAC10,Huntingtin
+HDAC10,PIK3C3,Polyamine deacetylase HDAC10,Phosphatidylinositol 3-kinase catalytic subunit type 3
+HDAC10,SQSTM1,Polyamine deacetylase HDAC10,Sequestosome-1
+HDAC10,AMBRA1,Polyamine deacetylase HDAC10,Activating molecule in BECN1-regulated autophagy protein 1
+HDAC10,CALCOCO2,Polyamine deacetylase HDAC10,Calcium-binding and coiled-coil domain-containing protein 2
+CTSK,ATG16L1,Cathepsin K,Autophagy-related protein 16-1
+CTSK,BECN1,Cathepsin K,Beclin-1
+CTSK,HTT,Cathepsin K,Huntingtin
+CTSK,ATG9A,Cathepsin K,Autophagy-related protein 9A
+EIF2S1,ATG16L1,Eukaryotic translation initiation factor 2 subunit 1,Autophagy-related protein 16-1
+EIF2S1,BECN1,Eukaryotic translation initiation factor 2 subunit 1,Beclin-1
+EIF2S1,HTT,Eukaryotic translation initiation factor 2 subunit 1,Huntingtin
+EIF2S1,ATG9A,Eukaryotic translation initiation factor 2 subunit 1,Autophagy-related protein 9A
+EIF2S1,PIK3C3,Eukaryotic translation initiation factor 2 subunit 1,Phosphatidylinositol 3-kinase catalytic subunit type 3
+EIF2S1,ATG4B,Eukaryotic translation initiation factor 2 subunit 1,Cysteine protease ATG4B
+EIF2S1,SQSTM1,Eukaryotic translation initiation factor 2 subunit 1,Sequestosome-1
+EIF2S1,ULK2,Eukaryotic translation initiation factor 2 subunit 1,Serine/threonine-protein kinase ULK2
+EIF2S1,STING1,Eukaryotic translation initiation factor 2 subunit 1,Stimulator of interferon genes protein
+EIF2S1,RB1CC1,Eukaryotic translation initiation factor 2 subunit 1,RB1-inducible coiled-coil protein 1
+SUPT20H,HTT,Transcription factor SPT20 homolog,Huntingtin
+SUPT20H,ATG9A,Transcription factor SPT20 homolog,Autophagy-related protein 9A
+SUPT20H,ATG4B,Transcription factor SPT20 homolog,Cysteine protease ATG4B
+SUPT20H,SQSTM1,Transcription factor SPT20 homolog,Sequestosome-1
+SUPT20H,AMBRA1,Transcription factor SPT20 homolog,Activating molecule in BECN1-regulated autophagy protein 1
+SUPT20H,MAP1LC3C,Transcription factor SPT20 homolog,Microtubule-associated protein 1 light chain 3 gamma
+SUPT20H,CALCOCO2,Transcription factor SPT20 homolog,Calcium-binding and coiled-coil domain-containing protein 2
+SUPT20H,RB1CC1,Transcription factor SPT20 homolog,RB1-inducible coiled-coil protein 1
+TSG101,BECN1,Tumor susceptibility gene 101 protein,Beclin-1
+TSG101,HTT,Tumor susceptibility gene 101 protein,Huntingtin
+TSG101,PIK3C3,Tumor susceptibility gene 101 protein,Phosphatidylinositol 3-kinase catalytic subunit type 3
+TSG101,SQSTM1,Tumor susceptibility gene 101 protein,Sequestosome-1
+TSG101,CHMP3,Tumor susceptibility gene 101 protein,Charged multivesicular body protein 3
+TP53INP1,ATG16L1,Tumor protein p53-inducible nuclear protein 1,Autophagy-related protein 16-1
+TP53INP1,HTT,Tumor protein p53-inducible nuclear protein 1,Huntingtin
+TP53INP1,ATG9A,Tumor protein p53-inducible nuclear protein 1,Autophagy-related protein 9A
+TP53INP1,PIK3C3,Tumor protein p53-inducible nuclear protein 1,Phosphatidylinositol 3-kinase catalytic subunit type 3
+TP53INP1,ATG4B,Tumor protein p53-inducible nuclear protein 1,Cysteine protease ATG4B
+TP53INP1,MAP1LC3C,Tumor protein p53-inducible nuclear protein 1,Microtubule-associated protein 1 light chain 3 gamma
+TP53INP1,UBQLN2,Tumor protein p53-inducible nuclear protein 1,Ubiquilin-2
+TP53INP1,OPTN,Tumor protein p53-inducible nuclear protein 1,Optineurin
+TP53INP1,CALCOCO2,Tumor protein p53-inducible nuclear protein 1,Calcium-binding and coiled-coil domain-containing protein 2
+TP53INP1,RB1CC1,Tumor protein p53-inducible nuclear protein 1,RB1-inducible coiled-coil protein 1
+CLTC,ATG16L1,Clathrin heavy chain 1,Autophagy-related protein 16-1
+CLTC,BECN1,Clathrin heavy chain 1,Beclin-1
+CLTC,HTT,Clathrin heavy chain 1,Huntingtin
+CLTC,ATG9A,Clathrin heavy chain 1,Autophagy-related protein 9A
+CLTC,PIK3C3,Clathrin heavy chain 1,Phosphatidylinositol 3-kinase catalytic subunit type 3
+CLTC,ATG4B,Clathrin heavy chain 1,Cysteine protease ATG4B
+CLTC,SQSTM1,Clathrin heavy chain 1,Sequestosome-1
+CLTC,AMBRA1,Clathrin heavy chain 1,Activating molecule in BECN1-regulated autophagy protein 1
+CLTC,ULK2,Clathrin heavy chain 1,Serine/threonine-protein kinase ULK2
+CLTC,MAP1LC3C,Clathrin heavy chain 1,Microtubule-associated protein 1 light chain 3 gamma
+CLTC,UBQLN2,Clathrin heavy chain 1,Ubiquilin-2
+CLTC,OPTN,Clathrin heavy chain 1,Optineurin
+CLTC,CALCOCO2,Clathrin heavy chain 1,Calcium-binding and coiled-coil domain-containing protein 2
+CLTC,STING1,Clathrin heavy chain 1,Stimulator of interferon genes protein
+CLTC,RB1CC1,Clathrin heavy chain 1,RB1-inducible coiled-coil protein 1
+TIGAR,BECN1,"Fructose-2,6-bisphosphatase TIGAR",Beclin-1
+TIGAR,PIK3C3,"Fructose-2,6-bisphosphatase TIGAR",Phosphatidylinositol 3-kinase catalytic subunit type 3
+TIGAR,SQSTM1,"Fructose-2,6-bisphosphatase TIGAR",Sequestosome-1
+TIGAR,AMBRA1,"Fructose-2,6-bisphosphatase TIGAR",Activating molecule in BECN1-regulated autophagy protein 1
+TIGAR,OPTN,"Fructose-2,6-bisphosphatase TIGAR",Optineurin
+TIGAR,STING1,"Fructose-2,6-bisphosphatase TIGAR",Stimulator of interferon genes protein
+CHMP5,PIK3C3,Charged multivesicular body protein 5,Phosphatidylinositol 3-kinase catalytic subunit type 3
+CHMP5,CHMP3,Charged multivesicular body protein 5,Charged multivesicular body protein 3
+MOAP1,BECN1,Modulator of apoptosis 1,Beclin-1
+MOAP1,AMBRA1,Modulator of apoptosis 1,Activating molecule in BECN1-regulated autophagy protein 1
+MOAP1,CALCOCO2,Modulator of apoptosis 1,Calcium-binding and coiled-coil domain-containing protein 2
+MOAP1,STING1,Modulator of apoptosis 1,Stimulator of interferon genes protein
+HGS,BECN1,Hepatocyte growth factor-regulated tyrosine kinase substrate,Beclin-1
+HGS,HTT,Hepatocyte growth factor-regulated tyrosine kinase substrate,Huntingtin
+HGS,PIK3C3,Hepatocyte growth factor-regulated tyrosine kinase substrate,Phosphatidylinositol 3-kinase catalytic subunit type 3
+HGS,SQSTM1,Hepatocyte growth factor-regulated tyrosine kinase substrate,Sequestosome-1
+HGS,MAP1LC3C,Hepatocyte growth factor-regulated tyrosine kinase substrate,Microtubule-associated protein 1 light chain 3 gamma
+HGS,UBQLN2,Hepatocyte growth factor-regulated tyrosine kinase substrate,Ubiquilin-2
+HGS,OPTN,Hepatocyte growth factor-regulated tyrosine kinase substrate,Optineurin
+HGS,CHMP3,Hepatocyte growth factor-regulated tyrosine kinase substrate,Charged multivesicular body protein 3
+CHMP2A,PIK3C3,Charged multivesicular body protein 2a,Phosphatidylinositol 3-kinase catalytic subunit type 3
+CHMP2A,CHMP3,Charged multivesicular body protein 2a,Charged multivesicular body protein 3
+VPS4B,BECN1,Vacuolar protein sorting-associated protein 4B,Beclin-1
+VPS4B,PIK3C3,Vacuolar protein sorting-associated protein 4B,Phosphatidylinositol 3-kinase catalytic subunit type 3
+VPS4B,CHMP3,Vacuolar protein sorting-associated protein 4B,Charged multivesicular body protein 3
+VPS4B,RB1CC1,Vacuolar protein sorting-associated protein 4B,RB1-inducible coiled-coil protein 1
+EPG5,BECN1,Ectopic P granules protein 5 homolog,Beclin-1
+EPG5,SQSTM1,Ectopic P granules protein 5 homolog,Sequestosome-1
+EPG5,MAP1LC3C,Ectopic P granules protein 5 homolog,Microtubule-associated protein 1 light chain 3 gamma
+EPG5,CALCOCO2,Ectopic P granules protein 5 homolog,Calcium-binding and coiled-coil domain-containing protein 2
+EPG5,STX17,Ectopic P granules protein 5 homolog,Syntaxin-17
+EPG5,RB1CC1,Ectopic P granules protein 5 homolog,RB1-inducible coiled-coil protein 1
+ATG2B,ATG16L1,Autophagy-related protein 2 homolog B,Autophagy-related protein 16-1
+ATG2B,BECN1,Autophagy-related protein 2 homolog B,Beclin-1
+ATG2B,ATG9A,Autophagy-related protein 2 homolog B,Autophagy-related protein 9A
+ATG2B,PIK3C3,Autophagy-related protein 2 homolog B,Phosphatidylinositol 3-kinase catalytic subunit type 3
+ATG2B,ATG4B,Autophagy-related protein 2 homolog B,Cysteine protease ATG4B
+ATG2B,SQSTM1,Autophagy-related protein 2 homolog B,Sequestosome-1
+ATG2B,AMBRA1,Autophagy-related protein 2 homolog B,Activating molecule in BECN1-regulated autophagy protein 1
+ATG2B,MAP1LC3C,Autophagy-related protein 2 homolog B,Microtubule-associated protein 1 light chain 3 gamma
+ATG2B,UBQLN2,Autophagy-related protein 2 homolog B,Ubiquilin-2
+ATG2B,CALCOCO2,Autophagy-related protein 2 homolog B,Calcium-binding and coiled-coil domain-containing protein 2
+ATG2B,STING1,Autophagy-related protein 2 homolog B,Stimulator of interferon genes protein
+ATG2B,RB1CC1,Autophagy-related protein 2 homolog B,RB1-inducible coiled-coil protein 1
+VPS18,ATG16L1,Vacuolar protein sorting-associated protein 18 homolog,Autophagy-related protein 16-1
+VPS18,HTT,Vacuolar protein sorting-associated protein 18 homolog,Huntingtin
+VPS18,ATG9A,Vacuolar protein sorting-associated protein 18 homolog,Autophagy-related protein 9A
+VPS18,PIK3C3,Vacuolar protein sorting-associated protein 18 homolog,Phosphatidylinositol 3-kinase catalytic subunit type 3
+VPS18,ATG4B,Vacuolar protein sorting-associated protein 18 homolog,Cysteine protease ATG4B
+VPS18,AMBRA1,Vacuolar protein sorting-associated protein 18 homolog,Activating molecule in BECN1-regulated autophagy protein 1
+VPS18,MAP1LC3C,Vacuolar protein sorting-associated protein 18 homolog,Microtubule-associated protein 1 light chain 3 gamma
+VPS18,UBQLN2,Vacuolar protein sorting-associated protein 18 homolog,Ubiquilin-2
+VPS18,CALCOCO2,Vacuolar protein sorting-associated protein 18 homolog,Calcium-binding and coiled-coil domain-containing protein 2
+VPS18,STX17,Vacuolar protein sorting-associated protein 18 homolog,Syntaxin-17
+VPS18,STING1,Vacuolar protein sorting-associated protein 18 homolog,Stimulator of interferon genes protein
+VPS18,RB1CC1,Vacuolar protein sorting-associated protein 18 homolog,RB1-inducible coiled-coil protein 1
+TOM1,BECN1,Target of Myb1 membrane trafficking protein,Beclin-1
+TOM1,SQSTM1,Target of Myb1 membrane trafficking protein,Sequestosome-1
+TOM1,MAP1LC3C,Target of Myb1 membrane trafficking protein,Microtubule-associated protein 1 light chain 3 gamma
+TOM1,OPTN,Target of Myb1 membrane trafficking protein,Optineurin
+TOM1,CHMP3,Target of Myb1 membrane trafficking protein,Charged multivesicular body protein 3
+TOM1,CALCOCO2,Target of Myb1 membrane trafficking protein,Calcium-binding and coiled-coil domain-containing protein 2
+TOM1,STX17,Target of Myb1 membrane trafficking protein,Syntaxin-17
+BCL2L13,ATG16L1,Bcl-2-like protein 13,Autophagy-related protein 16-1
+BCL2L13,BECN1,Bcl-2-like protein 13,Beclin-1
+BCL2L13,HTT,Bcl-2-like protein 13,Huntingtin
+BCL2L13,ATG9A,Bcl-2-like protein 13,Autophagy-related protein 9A
+BCL2L13,PIK3C3,Bcl-2-like protein 13,Phosphatidylinositol 3-kinase catalytic subunit type 3
+BCL2L13,ATG4B,Bcl-2-like protein 13,Cysteine protease ATG4B
+BCL2L13,SQSTM1,Bcl-2-like protein 13,Sequestosome-1
+BCL2L13,AMBRA1,Bcl-2-like protein 13,Activating molecule in BECN1-regulated autophagy protein 1
+BCL2L13,ULK2,Bcl-2-like protein 13,Serine/threonine-protein kinase ULK2
+BCL2L13,MAP1LC3C,Bcl-2-like protein 13,Microtubule-associated protein 1 light chain 3 gamma
+BCL2L13,UBQLN2,Bcl-2-like protein 13,Ubiquilin-2
+BCL2L13,OPTN,Bcl-2-like protein 13,Optineurin
+BCL2L13,CALCOCO2,Bcl-2-like protein 13,Calcium-binding and coiled-coil domain-containing protein 2
+BCL2L13,STX17,Bcl-2-like protein 13,Syntaxin-17
+BCL2L13,STING1,Bcl-2-like protein 13,Stimulator of interferon genes protein
+BCL2L13,RB1CC1,Bcl-2-like protein 13,RB1-inducible coiled-coil protein 1
+ARFIP2,ATG16L1,Arfaptin-2,Autophagy-related protein 16-1
+ARFIP2,BECN1,Arfaptin-2,Beclin-1
+ARFIP2,HTT,Arfaptin-2,Huntingtin
+ARFIP2,ATG9A,Arfaptin-2,Autophagy-related protein 9A
+ARFIP2,OPTN,Arfaptin-2,Optineurin
+UFC1,BECN1,Ubiquitin-fold modifier-conjugating enzyme 1,Beclin-1
+TMEM208,BECN1,Transmembrane protein 208,Beclin-1
