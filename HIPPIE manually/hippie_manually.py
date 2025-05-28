@@ -3,7 +3,7 @@ def hippie_query (query_list,confidence_score):
 
     '''
     This function takes as argument a list with the protein of interest as well as a threshold for the confidence score and aims to query the HIPPIE DB manually in case that the database is not available.
-    It also saves the results from hippie in a tsv file 'hippie_results_0.63.tsv' where '0.63' is the confidence score that was used for the analysis.
+    It also saves the results from hippie in a tsv file (i.e. 'hippie_results_0.63.tsv' where '0.63' is the confidence score that was used for the analysis).
     '''
 
 
