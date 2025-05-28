@@ -1,0 +1,5 @@
+These are the files that were used for my thesis.
+
+'disprot.tsv': contains all the human disordered proteins from DisProt as downloaded on 18th of February 2025
+'uniprot.tsv': contains all the human reviewed proteins from UniProt using as keyword the go term '00006914' as downloaded on 18th of February 2025
+'autophagosome_proteins.tsv': contains all the human reviwed proteins that are involved in autophagosome formation from UniProt using as keyword the go term '0005776' as downloaded on 30th of March 2025
