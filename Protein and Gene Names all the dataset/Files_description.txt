@@ -1,2 +1,2 @@
 'Protein and Gene Names.csv': contains the protein and gene names of all the proteins of the dataset (disprot and uniprot) for better analysis during the networks creation 
-'not_found_genes.csv': contains the proteins and 
+'not_found_associated_genes.csv': contains the UniProt ids of the proteins (of the above dataset) that their gene name has not been found 
