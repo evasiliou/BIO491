@@ -202,7 +202,7 @@ def gene_to_protein_conversion(query_list):
 def gene_enrichment(dictionary, filename):
 
     '''
-    The gene_enrichment function takes as arguments a dictionary (describe what this dictionary contains) and the name of the file where
+    The gene_enrichment function takes as arguments a dictionary and the name of the file where
     the results of the gene enrichment analysis will be saved.
     '''
 
@@ -268,7 +268,7 @@ def new_csv_file (column_labels, column_data, filename, index_status):
     '''
     The new_csv_file function aims to create a new csv file using a dictionary which is then converted to a df.
     It takes as arguments, a list with the names of the column in the new file, a list of lists with the data under each column, and the name of the file.
-    The index_status takes True or False boolean values and the user selects if the column index will be included or not at the new file.
+    The index_status takes True or False boolean values and the user selects if the column index will be included or not in the new file.
     '''
     size = len(column_data[0])
     dictionary = {}
@@ -350,9 +350,9 @@ def uniprot_query (entries_list, fields_list):
 def hippie_query_api (query_list,confidence_score, filename):
 
     '''
-    This function takes as argument a file that contains only the enriched genes (previously created). From this file takes the uniprot ids and after making the query
-    in hippie it finds the interactions of these proteins that were found experimentally. Then it prints a URL which when is clicked it downloads a tsv file with the results.
-    It also saves the results from hippie in a tsv file 'hippie_results_0.63.tsv' where '0.63' is the confidence score that was used for the analysis.
+    This function takes as argumenta list with the proteins of interest as well as the confidence score aiming to make a query
+    in HIPPIE (experimentally verified interactions). Then it prints a URL which when is clicked it downloads a tsv file with the results.
+    It also saves the results from hippie in a tsv file with the name given.
 
     query_list: a list with the uniprot accession OR uniprot ids OR gene names
     confidence_score: the confidence score that is used for the analysis; it values from 0 to 1
@@ -729,6 +729,7 @@ def read_multiunired_results (filename, score, output_type, reverse):
   '''
     tsv_file: a table with the results from multiunired
     score: takes float values of 1.0, 0.5 or 0.0 indicating the presence of an association, paralogues, or no interaction
+    output_type: string value 'proteins' or 'genes'
     reverse: boolean value if the matrix with the scores will be reversed or not
   '''
   read_multiunired_results.counter += 1 #track the number of times the function is called
@@ -1133,7 +1134,7 @@ print ('\n Total Hippie pairs: ', len(total_hippie_pairs))
 #below i concatinate all the files with the results from hippie
 files_list = []
 excluded_files = []
-count_files = 8
+# count_files = 8
 for i in range(count_files):
   filename = 'hippie_pairs_' + str(i+1) +'.csv'
   files_list.append(filename)
@@ -1184,19 +1185,6 @@ with open ('list_hippie_pairs.txt', 'w') as txtfile:
 
 !zip 'hippie_results.zip' hippie*.csv
 
-
-
-"""##Method #2"""
-
-!wget https://raw.githubusercontent.com/evasiliou/BIO491/refs/heads/main/Results/list_hippie_pairs.txt
-
-total_hippie_pairs = []
-with open ('list_hippie_pairs.txt', 'r') as file:
-  content = file.read()
-  total_hippie_pairs = literal_eval(content)
-
-print (len(total_hippie_pairs))
-print (total_hippie_pairs)
 
 """#MobiDB
 
@@ -1264,7 +1252,7 @@ print (len(hippie_interactors_dict))
 print (hippie_interactors_dict)
 
 #this is just to append the protein counts in the total mobidb dict
-count_multi = 0
+# count_multi = 0
 for protein in total_mobidb_dict.keys(): #i obtain only the reviewed proteins -so some proteins from the total interactors list are ommited
   if protein in multiunired_interactors_dict.keys():
     total_mobidb_dict[protein]['MultiUniReD Protein Counts'] = len(multiunired_interactors_dict[protein])
@@ -1345,12 +1333,17 @@ def scatter_plot (x_axis, y_axis, x_label, y_label, title, regression_line):
     r_squared = (reg.rvalue)**2 #rvalue is the Pearson correlation coefficient, --> the square of rvalue is the coefficient of determination (R^2)
     # x_text = max(x_axis)
     # y_text = max(y_axis) - min(y_axis)
-    x_text = np.median(x_axis)  # midpoint of x values
-    y_text = reg.slope * x_text + reg.intercept  # corresponding y value
-    y_offset = (max(y_axis) - min(y_axis)) * 0.05
+    # x_text = np.median(x_axis)  # midpoint of x values
+    # y_text = reg.slope * x_text + reg.intercept  # corresponding y value
+    # y_offset = (max(y_axis) - min(y_axis)) * 0.05
 
-    plt.text(x_text, y_text + y_offset, s = f'R\u00B2 = {r_squared:.2f}', fontsize=15, color="black", ha='center', va='baseline', bbox = dict(boxstyle='round', facecolor='purple', alpha=0.7)) #\u00B2 is the unicode for the square (e.g. R^2)
+    # plt.text(x_text, y_text + y_offset, s = f'R\u00B2 = {r_squared:.2f}', fontsize=15, color="black", ha='center', va='baseline', bbox = dict(boxstyle='round', facecolor='purple', alpha=0.7)) #\u00B2 is the unicode for the square (e.g. R^2)
+    # plt.legend(fontsize = 15, loc = 'upper right')
+
+    r_squared_label = f'$R^2$ = {r_squared:.2f}'
+    plt.plot([], [], ' ', label=r_squared_label)
     plt.legend(fontsize = 15, loc = 'upper right')
+   
 
 
   plt.savefig(title + '.png')
@@ -1422,6 +1415,36 @@ def mann_whitney_test (x, y):
 help (plt.text)
 
 """###Venn Diagram"""
+
+"""####Venn Diagram for Nodes"""
+total_hippie_nodes = []
+total_multiunired_nodes = []
+
+for pair in total_hippie_pairs:
+  protein_a = pair[0]
+  protein_b = pair[1]
+
+  if protein_a not in total_hippie_nodes:
+    total_hippie_nodes.append(protein_a)
+  if protein_b not in total_hippie_nodes:
+    total_hippie_nodes.append(protein_b)
+
+for pair in total_multiunired_pairs:
+  protein_a = pair[0]
+  protein_b = pair[1]
+
+  if protein_a not in total_multiunired_nodes:
+    total_multiunired_nodes.append(protein_a)
+  if protein_b not in total_multiunired_nodes:
+    total_multiunired_nodes.append(protein_b)
+
+print ('\n Total proteins in HIPPIE:', len(total_hippie_nodes))
+print (total_hippie_nodes)
+
+print ('\n Total proteins in MULTIUNIRED:', len(total_multiunired_nodes))
+print (total_multiunired_nodes)
+
+"""####Venn Diagram for Pairs"""
 
 hippie_not_multiunired = (set(total_hippie_pairs).difference(set(total_multiunired_pairs)))
 multiunired_not_hippie = (set(total_multiunired_pairs).difference(set(total_hippie_pairs))) #this is a list that contains gene pairs, each pair in a tuple format
@@ -1851,26 +1874,26 @@ y_axis = no_idr_protein_counts_list
 
 scatter_plot (x_axis, y_axis, 'Protein Length (aa)', 'Number of Interactors', 'Length of Non-disordered Proteins vs. Number of Interactors (HIPPIE)', True)
 
-ratio_disordered = []
-ratio_ordered = []
+# ratio_disordered = []
+# ratio_ordered = []
 
-for protein in total_mobidb_dict.keys():
+# for protein in total_mobidb_dict.keys():
 
-  length = (total_mobidb_dict[protein]['Length'])
-  protein_counts = total_mobidb_dict[protein]['HIPPIE Protein Counts']
-  idr_content = total_mobidb_dict[protein]['Alphafold IDR Content']
+#   length = (total_mobidb_dict[protein]['Length'])
+#   protein_counts = total_mobidb_dict[protein]['HIPPIE Protein Counts']
+#   idr_content = total_mobidb_dict[protein]['Alphafold IDR Content']
 
 
-  if idr_content != 0.0:
-    ratio = idr_content/length
-    ratio_disordered.append(float(f'{ratio:.2f}'))
+#   if idr_content != 0.0:
+#     ratio = idr_content/length
+#     ratio_disordered.append(float(f'{ratio:.2f}'))
 
-print (ratio_disordered)
+# print (ratio_disordered)
 
-x_axis = ratio_disordered
-y_axis = idr_protein_counts_list
+# x_axis = ratio_disordered
+# y_axis = idr_protein_counts_list
 
-scatter_plot (x_axis, y_axis, 'Ratio', 'Number of Interactors', 'Number of Interactors vs. Ratio (HIPPIE)', True)
+# scatter_plot (x_axis, y_axis, 'Ratio', 'Number of Interactors', 'Number of Interactors vs. Ratio (HIPPIE)', True)
 
 #Mann Whitney
 
@@ -1908,7 +1931,8 @@ def network_nodes (query_list, interactions_pairs, input_type, filename):
   '''
   The aim of this function is to find the interactions from the protein pairs of the given proteins. In case that the query_list contains genes then they will be converted to their protein accession as all the pairs are recorded with their protein accession. After finding the interactors, they will be converted to their gene names, for readability on networks.
 
-  query_list: a list with the gene names or uniprot acc of which we want ot fine the interactos and create the network interactions_pairs: a list with tuples that represnt the pairs of proteins that interact with each other, ually HIPPIE or MulitUniReD (if both then they have to be merged)
+  query_list: a list with the gene names or uniprot acc of which we want ot find the interactos and create the network 
+  interactions_pairs: a list with tuples that represnt the pairs of proteins that interact with each other, ually HIPPIE or MulitUniReD (if both then they have to be merged)
   input_type: this is a string 'gene' or 'protein'
   filename: the name of the file with the protein pairs in .csv format
   '''
@@ -2484,7 +2508,8 @@ print (acta1_pairs)
 print (len(acta1_interactors))
 print (acta1_interactors)
 
-"""###reverse experiment
+#Please note that the following section(s) were a few more ideas that they were never tested and thus errors during executing these code blocks may occur
+"""###reverse experiment 
 
 ###Autophagosome HIPPIE
 """
