@@ -1,0 +1,4 @@
+Codes description 
+
+'bio491_all.py': contains all the steps followed during the thesis as described in ReadMe file 
+'bio491_filesreader.py': some of the files that were created using the above code are used directly, and is not necessary to repeat the process to create them 
